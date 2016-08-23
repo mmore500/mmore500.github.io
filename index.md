@@ -45,7 +45,7 @@ images_dictionary={
     var html_code = '<img src=\"';
     var randomIndex = Math.floor(Math.random() * image_keys.length);
     html_code += images_dictionary[image_keys[randomIndex]][0];
-    html_code += '\"  style=\"max-width:100%; max-height:65%;\" alt=\"have you tried ~refreshing~?!\"/>';
+    html_code += '\"  style=\"max-width:100vw; max-height:60vh;\" alt=\"have you tried ~refreshing~?!\"/>';
     html_code += "<br /><span align=\"left;\">"
     html_code += images_dictionary[image_keys[randomIndex]][1];
     html_code += "</span>"
