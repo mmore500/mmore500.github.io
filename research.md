@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research and Projects
-permalink: /Research/
+permalink: /research/
 ---
 
 **git-commit-atom**. Matthew Moreno. August 20, 2016. [[repository]](https://github.com/mmore500/git-commit-atom)
