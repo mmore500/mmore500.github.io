@@ -19,14 +19,14 @@ permalink: /
 <script type="text/javascript">
 images_dictionary={
      dogs:["/resources/welcome_dogs.jpg","dogwalker on the waterfront <br /> Hoboken, NJ summer 2016"],
-     ferns1:["/resources/welcome_ferns1.jpg","ferns near Peavey Arboretum <br />  Corvallis, OR spring 2016"],
-     ferns2:["/resources/welcome_ferns2.jpg", "ferns near Peavey Arboretum <br />  Corvallis, OR spring 2016"],
-     flowers:["/resources/welcome_flowers.jpg", "flowers at Chip Ross park <br /> Corvallis, OR summer 2016"],
-     lamppost:["/resources/welcome_lamppost.jpg", "perched crow at NW Mirador Pl<br /> Corvallis, OR summer 2016"],
+     ferns1:["/resources/welcome_ferns1.jpg","<i>Athyrium filix-femina</i> near Peavey Arboretum <br />  Corvallis, OR spring 2016"],
+     ferns2:["/resources/welcome_ferns2.jpg", "<i>Athyrium filix-femina</i> near Peavey Arboretum <br />  Corvallis, OR spring 2016"],
+     flowers:["/resources/welcome_flowers.jpg", "<i>Penstemon strictus</i> at Chip Ross park <br /> Corvallis, OR summer 2016"],
+     lamppost:["/resources/welcome_lamppost.jpg", "sunset at NW Mirador Pl<br /> Corvallis, OR summer 2016"],
      road:["/resources/welcome_road.jpg", "NW Soap Creek Road <br /> Corvallis, OR summer 2016"],
-     strawberries:["/resources/welcome_strawberries.jpg", "early moring strawberries at USDA HCRL<br /> Corvallis, OR summer 2016"],
+     strawberries:["/resources/welcome_strawberries.jpg", "<i>Fragaria × ananassa</i> at USDA ARS HCRL<br /> Corvallis, OR summer 2016"],
      sunrisemoonset:["/resources/welcome_sunrisemoonset.jpg", "moonset at sunrise near Chip Ross park <br /> Corvallis, OR summer 2016"],
-     thistle:["/resources/welcome_thistle.jpg", "thistle at Owens Farm <br />  Corvallis, OR summer 2016"]
+     thistle:["/resources/welcome_thistle.jpg", "<i>Cirsium vulgare</i> at Owens Farm <br />  Corvallis, OR summer 2016"]
 };
 
   var image_keys = [
