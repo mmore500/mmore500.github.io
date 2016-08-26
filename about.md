@@ -4,8 +4,40 @@ title: About Me
 permalink: /about/
 ---
 
-<img src="/resources/personal_photo_1.jpg" alt="Headshot by Hanna McIntosh" style="height: 400px;"/>
-<img src="/resources/personal_photo_2.jpg" alt="Skiing with Nathan" style="height: 400px;"/>
+<style>
+  .img-group{
+  	display:flex;
+    width:100%;
+    margin:auto;
+  }
+
+  .flex-container{
+  	display:flex;
+  }
+
+  .flex-aspect .img-container1{
+	   flex:0.7748;
+  }
+
+  .flex-aspect .img-container2{
+	   flex:0.9282;
+  }
+
+  .padding {
+	padding: 0px 5px 40px 5px;
+}
+
+</style>
+
+<div class="img-group flex-container flex-aspect">
+  <div class = "img-container1 padding">
+    <img src="/resources/personal_photo_1.jpg" alt="Headshot by Hanna McIntosh"/>
+  </div>
+
+  <div class = "img-container2 padding">
+    <img src="/resources/personal_photo_2.jpg" alt="Skiing with Nathan"/>
+  </div>
+</div>
 
 
 I grew up in Corvallis, Oregon then moved to Tacoma, Washington to attend the
