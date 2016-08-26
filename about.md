@@ -24,7 +24,7 @@ permalink: /about/
   }
 
   .padding {
-	padding: 0px 5px 40px 5px;
+	padding: 0px 5px 20px 5px;
 }
 
 </style>
