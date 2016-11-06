@@ -4,7 +4,7 @@ title: Research & Projects
 permalink: /research/
 ---
 
-**Evolvability in Evolving Artificial Neural Networks**. Matthew Moreno. NW Honors Research Symposium; Seattle Pacific University. November 5, 2016. [[presentation]](/resources/november_5_2015.pdf)
+**Evolvability in Evolving Artificial Neural Networks**. Matthew Moreno. NW Honors Research Symposium; Seattle Pacific University. November 5, 2016. [[presentation]](/resources/november_5_2016.pdf)
 
 **git-commit-atom**. Matthew Moreno. August 20, 2016. [[repository]](https://github.com/mmore500/git-commit-atom)
 
