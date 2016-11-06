@@ -4,6 +4,8 @@ title: Research & Projects
 permalink: /research/
 ---
 
+**Evolvability in Evolving Artificial Neural Networks**. Matthew Moreno. NW Honors Research Symposium; Seattle Pacific University. November 5, 2016. [[presentation]](/resources/november_5_2015.pdf)
+
 **git-commit-atom**. Matthew Moreno. August 20, 2016. [[repository]](https://github.com/mmore500/git-commit-atom)
 
 **Modeling the Collective Behavior of Ants on Uneven Terrain**. Matthew Moreno, Jason Graham, and Simon Garnier. Undergraduate Capstone Conference; Mathematical Biosciences Institute at The Ohio State University. August 8, 2016. [[poster]](/resources/august_8_2016_poster.pdf) [[presentation]](/resources/august_8_2016_presentation.pdf)
