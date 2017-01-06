@@ -4,6 +4,8 @@ title: Research & Projects
 permalink: /research/
 ---
 
+**Modeling the Collective Behavior of Ants on Uneven Terrain**. Matthew Moreno, Jason Graham, and Simon Garnier. AMS Contributed Paper Session on Mathematical Biology; Joint Mathematics Meetings in Atlanta, Georgia. January 6, 2017.  [[presentation]](/resources/january_6_2017.pdf)
+
 **Evolvability in Evolving Artificial Neural Networks**. Matthew Moreno. NW Honors Research Symposium; Seattle Pacific University. November 5, 2016. [[presentation]](/resources/november_5_2016.pdf)
 
 **git-commit-atom**. Matthew Moreno. August 20, 2016. [[repository]](https://github.com/mmore500/git-commit-atom)
