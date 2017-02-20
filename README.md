@@ -6,4 +6,4 @@ My personal and academic site. Built with Jekyll.
 
 Matthew Moreno
 
-[matthew.andres.moreno@gmail.com](mailto:matthew.andres.moreno@gmail.com))
+[matthew.andres.moreno@gmail.com](mailto:matthew.andres.moreno@gmail.com)
