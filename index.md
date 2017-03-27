@@ -26,7 +26,17 @@ images_dictionary={
      road:["/resources/welcome_road.jpg", "NW Soap Creek Road <br /> Corvallis, OR summer 2016"],
      strawberries:["/resources/welcome_strawberries.jpg", "<i>Fragaria × ananassa</i> at USDA ARS HCRL<br /> Corvallis, OR summer 2016"],
      sunrisemoonset:["/resources/welcome_sunrisemoonset.jpg", "moonset at sunrise near Chip Ross park <br /> Corvallis, OR summer 2016"],
-     thistle:["/resources/welcome_thistle.jpg", "<i>Cirsium vulgare</i> at Owens Farm <br />  Corvallis, OR summer 2016"]
+     thistle:["/resources/welcome_thistle.jpg", "<i>Cirsium vulgare</i> at Owens Farm <br />  Corvallis, OR summer 2016"],
+     beachsunset:["/resources/welcome_beachsunset.jpg", "an oil rig at sunset <br />  Santa Barbara, CA fall 2016"],
+     grain:["/resources/welcome_grain.jpg", "sunset on Lester Ave <br />  Corvallis, OR summer 2016"],
+     island:["/resources/welcome_island.jpg", "the view from Cook's Look <br />  Lizard Island National Park, AUS winter 2016"],
+     islandfern:["/resources/welcome_islandfern.jpg", "life on the island <br />  Lizard Island National Park, AUS winter 2016"],
+     jungle:["/resources/welcome_jungle.jpg", "life in the jungle <br /> Mount Hypipamee National Park, AUS winter 2016"],
+     nyc:["/resources/welcome_nyc.jpg", "New York City skyline <br />  Hoboken, NJ summer 2016"],
+     peavey:["/resources/welcome_peavey.jpg", "sunrise at Peavey Arboretum <br />  Corvallis, OR spring 2017"],
+     serratedleaves:["/resources/welcome_serratedleaves.jpg", "serrated leaves at Peavey Arboretum <br />  Corvallis, OR summer 2016"],
+     spiderweb:["/resources/welcome_spiderweb.jpg", "spider web at the University of Puget Sound <br />  Tacoma, WA fall 2016"],
+     bee:["/resources/welcome_bee.jpg", "<i>Bombus pennsylvanicus</i> at work <br />  Corvallis, OR summer 2016"]
 };
 
   var image_keys = [
@@ -38,7 +48,17 @@ images_dictionary={
     "road",
     "strawberries",
     "sunrisemoonset",
-    "thistle"
+    "thistle",
+    "beachsunset",
+    "grain",
+    "island",
+    "islandfern",
+    "jungle",
+    "nyc",
+    "peavey",
+    "serratedleaves",
+    "spiderweb",
+    "bee"
   ];
 
   function getImageHTML() {
