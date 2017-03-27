@@ -43,9 +43,9 @@ permalink: /about/
 I grew up in Corvallis, Oregon then moved to Tacoma, Washington to attend the University of Puget Sound.
 I expect to graduate as a Coolidge Otis Chapman Honors Scholar in May 2017 with majors in Mathematics and Computer Science and a minor in Chemistry.
 My current interest is in biologically-inspired approaches
-to computing.
-This semester, I plan to write a thesis on genotypic encodings in evolutionary algorithms.
-In the long term, I hope to work in the field of artificial intelligence.
+to algorithm design.
+This year, I have been working with Professor America Chambers to write a thesis on theoretical aspects of evolvability and to conduct computational experiments probing the relationship between evolvability and plasticity.
+In the long term, I hope to work in industry in the field of artificial intelligence.
 
 In my spare time on campus, I enjoy playing the oboe with the University of Puget Sound Wind Ensemble and tutoring at the Center for Writing, Learning, and Teaching.
 I wrote for the University of Puget Sound Sound Economics Blog, which you can read [here](https://blogs.pugetsound.edu/econ/), for a few years.
