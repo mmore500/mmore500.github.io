@@ -14,6 +14,8 @@ permalink: /research/
 
 **Relieving the Space Jam: Assessment of a Quick-Response Satellite Mission to Neutralize Debris from Orbital Fragmentation Events**. Becky Hanscam and Matthew Moreno. Math/CS Day; University of Puget Sound. April 30, 2016. [[presentation]](/resources/april_30_2016.pdf)
 
+**What Book Has Influenced Your College Career Most, and Why?**. Matthew Moreno. Essay Competition; Puget Sound Association of Phi Beta Kappa. April 24, 2016. [[essay]](/resources/april_24_2016.pdf)
+
 **Relieving the Space Jam: Assessment of a Quick-Response Satellite Mission to Neutralize Debris from Orbital Fragmentation Events**. Becky Hanscam, Matthew Moreno, and Caleb Spring. CoMAP Mathematical Competition in Modeling. February 1, 2016. [[paper]](/resources/february_1_2016.pdf)
 
 **Linear Congruence Generators**. Matthew Moreno. Math 375: Probability Theory and its Applications with James Bernhard; University of Puget Sound. December 2, 2015. [[paper]](/resources/december_2_2015.pdf)
