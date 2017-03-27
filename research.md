@@ -10,6 +10,8 @@ permalink: /research/
 
 **Plasticity and Evolvability, Check In 2**. Matthew Moreno. CSCI 440 Capstone in Computer Science with Brad Richards; University of Puget Sound. March 20, 2017. [[presentation]](/resources/march_20_2017.pdf)
 
+**Silence of the Jams: The Effects of Self-Driving Cars on Traffic Patterns in the Puget Sound Region**. Jordan Fonseca, Jesse Jenks, and Matthew Moreno. CoMAP Mathematical Competition in Modeling. January 23, 2017. [[paper]](/resources/january_23_2017.pdf)
+
 **Modeling the Collective Behavior of Ants on Uneven Terrain**. Matthew Moreno, Jason Graham, and Simon Garnier. AMS Contributed Paper Session on Mathematical Biology; Joint Mathematics Meetings in Atlanta, Georgia. January 6, 2017.  [[presentation]](/resources/january_6_2017.pdf)
 
 **Evolvability in Evolving Artificial Neural Networks**. Matthew Moreno. NW Honors Research Symposium; Seattle Pacific University. November 5, 2016. [[presentation]](/resources/november_5_2016.pdf)
