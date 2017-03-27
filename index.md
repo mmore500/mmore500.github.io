@@ -36,7 +36,11 @@ images_dictionary={
      peavey:["/resources/welcome_peavey.jpg", "sunrise at Peavey Arboretum <br />  Corvallis, OR spring 2017"],
      serratedleaves:["/resources/welcome_serratedleaves.jpg", "serrated leaves at Peavey Arboretum <br />  Corvallis, OR summer 2016"],
      spiderweb:["/resources/welcome_spiderweb.jpg", "spider web at the University of Puget Sound <br />  Tacoma, WA fall 2016"],
-     bee:["/resources/welcome_bee.jpg", "<i>Bombus pennsylvanicus</i> at work <br />  Corvallis, OR summer 2016"]
+     bee:["/resources/welcome_bee.jpg", "<i>Bombus pennsylvanicus</i> at work <br />  Corvallis, OR summer 2016"],
+     moss:["/resources/welcome_moss.jpg", "mosssy branch on Vineyard Mountain <br />  Corvallis, OR spring 2017"],
+     translucent:["/resources/welcome_translucent.jpg", "translucent leaf at sunset <br />  Corvallis, OR winter 2016"],
+     window:["/resources/welcome_window.jpg", "dog in the window <br />  Columbus, OH summer 2016"]
+     
 };
 
   var image_keys = [
@@ -58,7 +62,10 @@ images_dictionary={
     "peavey",
     "serratedleaves",
     "spiderweb",
-    "bee"
+    "bee",
+    "moss",
+    "translucent",
+    "window"
   ];
 
   function getImageHTML() {
