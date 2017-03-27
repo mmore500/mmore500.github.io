@@ -6,6 +6,8 @@ permalink: /research/
 
 **git-edit-atom**. Atom Package. Matthew Moreno. March 26, 2017. [[package listing]](https://atom.io/packages/git-edit-atom)
 
+**Evolvability: What Is It and How Do We Get It?**. Matthew Moreno. Otis C. Chapman Honors Program Thesis Presentation; University of Puget Sound. March 22, 2017. [[presentation]](/resources/march_22_2017_presentation.pdf) [[flyer]](/resources/march_22_2017_flyer.pdf)
+
 **Modeling the Collective Behavior of Ants on Uneven Terrain**. Matthew Moreno, Jason Graham, and Simon Garnier. AMS Contributed Paper Session on Mathematical Biology; Joint Mathematics Meetings in Atlanta, Georgia. January 6, 2017.  [[presentation]](/resources/january_6_2017.pdf)
 
 **Evolvability in Evolving Artificial Neural Networks**. Matthew Moreno. NW Honors Research Symposium; Seattle Pacific University. November 5, 2016. [[presentation]](/resources/november_5_2016.pdf)
