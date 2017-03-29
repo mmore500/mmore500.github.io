@@ -4,6 +4,8 @@ title: Research & Projects
 permalink: /research/
 ---
 
+**Modeling the Collective Behavior of Ants on Uneven Terrain**. Matthew Moreno, Jason Graham, and Simon Garnier. Phi Sigma Undergraduate Research Symposium; University of Puget Sound. April 1, 2017.  [[presentation]](/resources/april_1_2017.pdf)
+
 **git-edit-atom**. Atom Package. Matthew Moreno. March 26, 2017. [[package listing]](https://atom.io/packages/git-edit-atom)
 
 **Evolvability: What Is It and How Do We Get It?**. Matthew Moreno. Otis C. Chapman Honors Program Thesis Presentation; University of Puget Sound. March 22, 2017. [[presentation]](/resources/march_22_2017_presentation.pdf) [[flyer]](/resources/march_22_2017_flyer.pdf)
