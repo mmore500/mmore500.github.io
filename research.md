@@ -4,7 +4,7 @@ title: Research & Projects
 permalink: /research/
 ---
 
-**Investigating Evolvability in a Genetic Regulatory Network Model**. Matthew Moreno. Mathematics & Computer Science Seminar; University of Puget Sound. April 10, 2017. [[flyer]](/resources/april_10_2017_flyer.pdf)
+**Investigating Evolvability in a Genetic Regulatory Network Model**. Matthew Moreno. Mathematics & Computer Science Seminar; University of Puget Sound. April 10, 2017. [[presentation]](/resources/april_10_2017_presentation.pdf) [[flyer]](/resources/april_10_2017_flyer.pdf)
 
 **Modeling the Collective Behavior of Ants on Uneven Terrain**. Matthew Moreno, Jason Graham, and Simon Garnier. Phi Sigma Undergraduate Research Symposium; University of Puget Sound. April 1, 2017.  [[presentation]](/resources/april_1_2017.pdf)
 
