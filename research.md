@@ -4,6 +4,11 @@ title: Research & Projects
 permalink: /research/
 ---
 
+**Investigating the Relationship Between Plasticity and Evolvability in a
+Genetic Regulatory Network Model**. Matthew Moreno. Math/CS Day; University of Puget Sound. April 29, 2017. [[flyer]](/resources/april_29_2017_flyer.pdf)
+
+**MCM: Impact of Autonomous Vehicles on Seattle Traffic**. Jordan Fonseca, Jesse Jenks, and Matthew Moreno. Math/CS Day; University of Puget Sound. April 29, 2017. [[flyer]](/resources/april_29_2017_flyer.pdf)
+
 **Investigating Evolvability in a Genetic Regulatory Network Model**. Matthew Moreno. Mathematics & Computer Science Seminar; University of Puget Sound. April 10, 2017. [[presentation]](/resources/april_10_2017_presentation.pdf) [[flyer]](/resources/april_10_2017_flyer.pdf)
 
 **Modeling the Collective Behavior of Ants on Uneven Terrain**. Matthew Moreno, Jason Graham, and Simon Garnier. Phi Sigma Undergraduate Research Symposium; University of Puget Sound. April 1, 2017.  [[presentation]](/resources/april_1_2017.pdf)
