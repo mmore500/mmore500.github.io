@@ -1,0 +1,65 @@
+\documentclass[letter]{res}
+
+\setlength{\textheight}{9.5in}
+%\usepackage{fontspec}
+\usepackage{geometry}
+\usepackage{xcolor}
+% \usepackage{natbib}
+% \usepackage{bibentry}
+% \nobibliography*
+
+\usepackage[utf8]{inputenc}
+\geometry{
+ a4paper,
+ total={210mm,297mm},
+ left=15mm,
+ right=15mm,
+ top=15mm,
+ bottom=15mm,
+ bindingoffset=0mm
+ }\usepackage{fontenc}
+\usepackage{enumitem}
+\setlist{nolistsep}
+%\setmainfont[Mapping=tex-text]{Linux Libertine O}
+
+
+\begin{document}
+\name{Matthew Andres Moreno}
+\address{\texttt{https://mmore500.github.io}}
+%541.740.6595,
+\address{\texttt{matthew.andres.moreno@gmail.com}} 
+\address{4029 Wheelock Student Center}
+\address{Tacoma, Washington 98416}
+
+
+
+\begin{resume}
+\vspace{-2mm}
+% \section{Personal Statement}
+% My personal statement goes here.
+
+\vspace{-3.5mm}
+\input{tex/education.tex}
+
+\input{tex/coursework.tex}
+
+\input{tex/skills.tex}
+
+\input{tex/academicawards.tex}
+
+\input{tex/projectsresearch.tex}
+  
+\input{tex/employment.tex}
+
+\input{tex/presentations.tex}
+
+\input{tex/community.tex}
+
+\input{tex/extracurricular.tex}
+
+\end{resume}
+
+\end{document}
+
+
+
