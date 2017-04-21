@@ -9,6 +9,8 @@ Genetic Regulatory Network Model**. Matthew Moreno. Math/CS Day; University of P
 
 **MCM: Impact of Autonomous Vehicles on Seattle Traffic**. Jordan Fonseca, Jesse Jenks, and Matthew Moreno. Math/CS Day; University of Puget Sound. April 29, 2017. [[flyer]](/resources/april_29_2017_flyer.pdf)
 
+**COMAP Mathematical Competition in Modeling 2017**. Matthew Moreno. Spring Experiential Learning Symposium; University of Puget Sound. April 27, 2017. [[presentation]](/resources/april_27_2017_presentation.pdf)
+
 **Investigating Evolvability in a Genetic Regulatory Network Model**. Matthew Moreno. Mathematics & Computer Science Seminar; University of Puget Sound. April 10, 2017. [[presentation]](/resources/april_10_2017_presentation.pdf) [[flyer]](/resources/april_10_2017_flyer.pdf)
 
 **Modeling the Collective Behavior of Ants on Uneven Terrain**. Matthew Moreno, Jason Graham, and Simon Garnier. Phi Sigma Undergraduate Research Symposium; University of Puget Sound. April 1, 2017.  [[presentation]](/resources/april_1_2017.pdf)
