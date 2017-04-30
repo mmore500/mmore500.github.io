@@ -5,9 +5,9 @@ permalink: /research/
 ---
 
 **Investigating the Relationship Between Plasticity and Evolvability in a
-Genetic Regulatory Network Model**. Matthew Moreno. Math/CS Day; University of Puget Sound. April 29, 2017. [[flyer]](/resources/april_29_2017_flyer.pdf)
+Genetic Regulatory Network Model**. Matthew Moreno. Math/CS Day; University of Puget Sound. April 29, 2017. [[presentation]](/resources/april_29_2017_presentation_capstone.pdf) [[flyer]](/resources/april_29_2017_flyer.pdf)
 
-**MCM: Impact of Autonomous Vehicles on Seattle Traffic**. Jordan Fonseca, Jesse Jenks, and Matthew Moreno. Math/CS Day; University of Puget Sound. April 29, 2017. [[flyer]](/resources/april_29_2017_flyer.pdf)
+**MCM: Impact of Autonomous Vehicles on Seattle Traffic**. Jordan Fonseca, Jesse Jenks, and Matthew Moreno. Math/CS Day; University of Puget Sound. April 29, 2017. [[presentation]](/resources/april_29_2017_presentation_mcm.pdf) [[flyer]](/resources/april_29_2017_flyer.pdf)
 
 **COMAP Mathematical Competition in Modeling 2017**. Matthew Moreno. Spring Experiential Learning Symposium; University of Puget Sound. April 27, 2017. [[presentation]](/resources/april_27_2017_presentation.pdf) [[flyer]](/resources/april_27_2017_flyer.pdf)
 
