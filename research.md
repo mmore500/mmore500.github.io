@@ -21,8 +21,6 @@ Genetic Regulatory Network Model**. Matthew Moreno. Math/CS Day; University of P
 
 **Evolvability: What Is It and How Do We Get It?**. Matthew Moreno. Otis C. Chapman Honors Program Thesis Presentation; University of Puget Sound. March 22, 2017. [[presentation]](/resources/march_22_2017_presentation.pdf) [[flyer]](/resources/march_22_2017_flyer.pdf)
 
-**Plasticity and Evolvability, Check In 2**. Matthew Moreno. CSCI 440 Capstone in Computer Science with Brad Richards; University of Puget Sound. March 20, 2017. [[presentation]](/resources/march_20_2017.pdf)
-
 **Silence of the Jams: The Effects of Self-Driving Cars on Traffic Patterns in the Puget Sound Region**. Jordan Fonseca, Jesse Jenks, and Matthew Moreno. CoMAP Mathematical Competition in Modeling. January 23, 2017. [[paper]](/resources/january_23_2017.pdf) [[press release]](/resources/january_23_2017_press_release.pdf) [[Seattle Times article]](/resources/january_23_2017_seattle_times.pdf)
 
 
