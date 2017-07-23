@@ -13,6 +13,8 @@ Genetic Regulatory Network Model**. Matthew Moreno. Math/CS Day; University of P
 
 **Active Inclusivity Makes STEM Stronger**. Matthew Moreno. Washington Consortium for the Liberal Arts (WaCLA) College Essay Contest. April 24, 2017. [[essay]](/resources/april_24_2017.pdf)
 
+**Evolvability: What Is It and How Do We Get It?**. Matthew Moreno, America Chambers, and Adam Smith. Coolidge Otis Chapman Honors Thesis. April 17, 2017. [[thesis]](http://soundideas.pugetsound.edu/honors_program_theses/22/)
+
 **Investigating Evolvability in a Genetic Regulatory Network Model**. Matthew Moreno. Mathematics & Computer Science Seminar; University of Puget Sound. April 10, 2017. [[presentation]](/resources/april_10_2017_presentation.pdf) [[flyer]](/resources/april_10_2017_flyer.pdf)
 
 **Modeling the Collective Behavior of Ants on Uneven Terrain**. Matthew Moreno, Jason Graham, and Simon Garnier. Phi Sigma Undergraduate Research Symposium; University of Puget Sound. April 1, 2017.  [[presentation]](/resources/april_1_2017.pdf)
