@@ -41,15 +41,17 @@ permalink: /about/
 
 
 I grew up in Corvallis, Oregon then moved to Tacoma, Washington to attend the [University of Puget Sound](https://www.pugetsound.edu/).
-I expect to graduate as a Coolidge Otis Chapman Honors Scholar in May 2017 with majors in Mathematics and Computer Science and a minor in Chemistry.
+In 2017, I graduated as a Coolidge Otis Chapman Honors Scholar with majors in Mathematics and Computer Science and a minor in Chemistry.
 My current interest is in biologically-inspired approaches
-to algorithm design.
-In 2017, I worked with [Dr. America Chambers](http://mathcs.pugetsound.edu/~alchambers/) to write a thesis on theoretical aspects of evolvability and to conduct computational experiments probing the relationship between evolvability and plasticity.
-After graduating, I will join the Doctoral program at the [Michigan State University](https://msu.edu/) [Department of Computer Science and Engineering](http://www.cse.msu.edu/).
-I plan to work with the [Digital Evolution Lab](http://devolab.msu.edu/), led by [Dr. Charles Ofria](http://www.ofria.com/).
-In the long term, I hope to work in industry in the field of artificial intelligence.
+I completed an undergradute thesis that investigated theoretical aspects of evolvability and a capstone project that probed the relationship between evolvability and plasticity through computational experimentation.
+[Dr. America Chambers](http://mathcs.pugetsound.edu/~alchambers/) served as my thesis advisor.
 
-In my spare time on campus, I enjoy playing the oboe with the University of Puget Sound Wind Ensemble and tutoring at the [Center for Writing, Learning, and Teaching](https://www.pugetsound.edu/cwlt).
-I wrote for the University of Puget Sound Sound Economics Blog, which you can read [here](https://blogs.pugetsound.edu/econ/), for a few years.
-I also like to take pictures--you can look at a few of them [here](http://mmore500.tumblr.com).
-I particularly love the green spaces around Corvallis, which appear frequently in my photographs.
+I am currently a doctoral student at the [Michigan State University](https://msu.edu/) [Department of Computer Science and Engineering](http://www.cse.msu.edu/).
+My research interest is in using digital evolution techniques to investigate scientific questions about evolution.
+I work with the [Digital Evolution Lab](http://devolab.msu.edu/), led by [Dr. Charles Ofria](http://www.ofria.com/).
+Our group is associated with the [BEACON Center for Evolution in Action](http://beacon-center.org/).
+
+In my spare time, I like to take pictures.
+You can look at a few of them [here](http://mmore500.tumblr.com).
+I particularly love the green spaces around Corvallis, which appear frequently in my photographs. As an undergraduate, I played oboe with the University of Puget Sound Wind Ensemble and tutored at the [Center for Writing, Learning, and Teaching](https://www.pugetsound.edu/cwlt).
+I also wrote for the University of Puget Sound Sound Economics Blog, which you can read [here](https://blogs.pugetsound.edu/econ/).
