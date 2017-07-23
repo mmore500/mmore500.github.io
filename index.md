@@ -80,7 +80,123 @@ images_dictionary={
 
      snake:["/resources/welcome_snake.jpg", "snake near Chip Ross Park <br /> Corvallis, OR summer 2016"],
 
-     waterfallleaf:["/resources/welcome_waterfallleaf.jpg", "leaves and waterfall near Waldo Lake <br /> Willamette National Forest, OR summer 2015"]
+    waterfallleaf:["/resources/welcome_waterfallleaf.jpg", "leaves and waterfall near Waldo Lake <br /> Willamette National Forest, OR summer 2015"],
+
+    cloudflower:["/resources/welcome_cloudflower.jpg", "<i>Rhododendron</i> on a cloudy day <br /> Tacoma, WA spring 2017"],
+
+    jungleopp:["/resources/welcome_jungleopp.jpg", "fern near Oppenheimer cafe <br /> Tacoma, WA spring 2017"],
+
+    translucentfern:["/resources/welcome_translucentfern.jpg", "fern at sunset <br /> Tacoma, WA spring 2017"],
+
+    sunsetferns:["/resources/welcome_sunsetferns.jpg", "ferns at sunset <br /> Tacoma, WA spring 2017"],
+
+    unfoldingferns:["/resources/welcome_unfoldingferns.jpg", "unfolding ferns <br /> Tacoma, WA spring 2017"],
+
+    sunsetleaf:["/resources/welcome_sunsetleaf.jpg", "<i>Rhododendron</i> at sunset <br /> Tacoma, WA spring 2017"],
+
+    jones:["/resources/welcome_jones.jpg", "flowers outside Jones Hall <br /> Tacoma, WA spring 2017"],
+
+    needles:["/resources/welcome_needles.jpg", "sunset over the music building <br /> Tacoma, WA spring 2017"],
+
+    purple:["/resources/welcome_purple.jpg", "spring life near theme row <br /> Tacoma, WA spring 2017"],
+
+    pink:["/resources/welcome_pink.jpg", "steps outside Jones Hall <br /> Tacoma, WA spring 2017"],
+
+    crenelations:["/resources/welcome_crenelations.jpg", "crenelations on Thompson Hall <br /> Tacoma, WA summer 2017"],
+
+    mary:["/resources/welcome_mary.jpg", "view from Mary's peak <br /> Siuslaw National Forest, OR summer 2017"],
+
+    lighthouse:["/resources/welcome_lighthouse.jpg", "<i>Coccinellidae</i> near Yaquina Head Lighthouse <br /> Newport, OR summer 2017"],
+
+    beachfoliage:["/resources/welcome_beachfoliage.jpg", "foliage near Yaquina Head Lighthouse <br /> Newport, OR summer 2017"],
+
+    richmond:["/resources/welcome_richmond.jpg", "foliage at Richmond Beach Saltwater Park <br /> Shoreline, WA summer 2017"],
+
+    lester:["/resources/welcome_lester.jpg", "sunset from NW Lester Ave <br /> Corvallis, OR summer 2017"],
+
+    paisley:["/resources/welcome_paisley.jpg", "Paisley at the gate <br /> Corvallis, OR summer 2017"],
+
+    rossroad:["/resources/welcome_rossroad.jpg", "<i>Lupinus</i> near Chip Ross Park <br /> Corvallis, OR summer 2017"],
+
+    rossoak:["/resources/welcome_rossoak.jpg", "<i>Lupinus</i> near Chip Ross Park <br /> Corvallis, OR summer 2017"],
+
+    fittonfern:["/resources/welcome_fittonfern.jpg", "<i>Athyrium filix-femina</i> at Fitton Green <br /> Corvallis, OR summer 2017"],
+
+    death:["/resources/welcome_death.jpg", "<i>Toxicoscordion venenosum</i> and insect at Chip Ross Park <br /> Corvallis, OR summer 2017"],
+
+    valley:["/resources/welcome_valley.jpg", "sunset at Chip Ross Park <br /> Corvallis, OR summer 2017"],
+
+    spiky:["/resources/welcome_spiky.jpg", "<i>Angelica</i> at Oak Creek <br /> Corvallis, OR summer 2017"],
+
+    flowertree:["/resources/welcome_flowertree.jpg", "<i>Styrax japonicus</i> at USDA ARS HCRL <br /> Corvallis, OR summer 2017"],
+
+    hospital:["/resources/welcome_hospital.jpg", "sunset behind Good Samaritan <br /> Corvallis, OR summer 2017"],
+
+    grasshopper:["/resources/welcome_grasshopper.jpg", "<i>Melanoplus</i> near NW Ponderosa Ave <br /> Corvallis, OR summer 2017"],
+
+    meadow:["/resources/welcome_meadow.jpg", "meadow at Martin Luther King, Jr. Park <br /> Corvallis, OR summer 2017"],
+
+    hawk:["/resources/welcome_hawk.jpg", "<i>Buteo</i> near Martin Luther King, Jr. Park <br /> Corvallis, OR summer 2017"],
+
+    pinkflower:["/resources/welcome_pinkflower.jpg", "flower at Martin Luther King, Jr. Park <br /> Corvallis, OR summer 2017"],
+
+    rubusleaf:["/resources/welcome_rubusleaf.jpg", "<i>Rubus</i> leaf near Timberhill <br /> Corvallis, OR summer 2017"],
+
+    fernspine:["/resources/welcome_fernspine.jpg", "<i>Polystichum</i> on Vineyard Mountain <br /> Corvallis, OR summer 2017"],
+
+    dew:["/resources/welcome_dew.jpg", "dewy morning on Vineyard Mountain <br /> Corvallis, OR summer 2017"],
+
+    ladybugsunset:["/resources/welcome_ladybugsunset.jpg", "<i>Coccinellidae</i> behind Good Samaritan <br /> Corvallis, OR summer 2017"],
+
+    blueflower:["/resources/welcome_blueflower.jpg", "blue flower at Martin Luther King, Jr. Park <br /> Corvallis, OR summer 2017"],
+
+    scaleleaf:["/resources/welcome_scaleleaf.jpg", "leaf near Timberhill <br /> Corvallis, OR summer 2017"],
+
+    fairyflower:["/resources/welcome_fairyflower.jpg", "flowers on Old Growth Trail <br /> Corvallis, OR summer 2017"],
+
+    pods:["/resources/welcome_pods.jpg", "<i>Cytisus scoparius</i> near Timberhill <br /> Corvallis, OR summer 2017"],
+
+    horsetail:["/resources/welcome_horsetail.jpg", "<i>Equisetum arvense</i> on Vineyard Mountain <br /> Corvallis, OR summer 2017"],
+
+    cows:["/resources/welcome_cows.jpg", "cows near Bald Hill <br /> Corvallis, OR summer 2017"],
+
+    slug:["/resources/welcome_slug.jpg", "<i>Ariolimax colombianus</i> at Jackson-Frazier Wetland <br /> Corvallis, OR summer 2017"],
+
+    brightflower:["/resources/welcome_brightflower.jpg", "flower on Bald Hill <br /> Corvallis, OR summer 2017"],
+
+    dunnfern:["/resources/welcome_dunnfern.jpg", "<i>Polystichum</i> at Dunn Forest <br /> Corvallis, OR summer 2017"],
+
+    vineyard:["/resources/welcome_vineyard.jpg", "view of Vineyard Mountain from Jackson-Frazier Wetland <br /> Corvallis, OR summer 2017"],
+
+    jackson:["/resources/welcome_jackson.jpg", "boardwalk at Jackson-Frazier Wetland <br /> Corvallis, OR summer 2017"],
+
+    mountainmeadow:["/resources/welcome_mountainmeadow.jpg", "<i>Erythronium montanum</i> near Christine Falls <br /> Mount Rainier National Park, WA summer 2017"],
+
+    lily:["/resources/welcome_lily.jpg", "<i>Veratrum californicum</i> near Christine Falls <br /> Mount Rainier National Park, WA summer 2017"],
+
+    comet:["/resources/welcome_comet.jpg", "buds near Comet Falls <br /> Mount Rainier National Park, WA summer 2017"],
+
+    snow:["/resources/welcome_snow.jpg", "new growth through the snow <br /> Mount Rainier National Park, WA summer 2017"],
+
+    pond:["/resources/welcome_pond.jpg", "<i>Nymphaea</i> near the University of Washington <br /> Seattle, WA summer 2017"],
+
+    bridge:["/resources/welcome_bridge.jpg", "sunset behind Aurora Bridge <br /> Seattle, WA summer 2017"],
+
+    people:["/resources/welcome_people.jpg", "people at Gas Works Park <br /> Seattle, WA summer 2017"],
+
+    sky:["/resources/welcome_sky.jpg", "Mount Rainier from the sky <br /> WA summer 2017"],
+
+    museum:["/resources/welcome_museum.jpg", "Eli and Edythe Broad Art Museum <br /> East Lansing, MI summer 2017"],
+
+    michigan:["/resources/welcome_michigan.jpg", "Lake Michigan from the sky <br /> MI summer 2017"],
+
+    clouds:["/resources/welcome_clouds.jpg", "altocumulus at sunset <br /> East Lansing, MI summer 2017"],
+
+    junglesunset:["/resources/welcome_junglesunset.jpg", "sunset at Chip Ross Park <br /> Corvallis, OR summer 2017"],
+
+    puddle:["/resources/welcome_puddle.jpg", "puddle on Bald Hill <br /> Corvallis, OR summer 2017"],
+
+    baldflowers:["/resources/welcome_baldflowers.jpg", "flowers near Bald Hill <br /> Corvallis, OR summer 2017"]
 
 };
 
@@ -116,7 +232,65 @@ images_dictionary={
     "plantlife",
     "puddles",
     "snake",
-    "waterfallleaf"
+    "waterfallleaf",
+    "cloudflower",
+    "jungleopp",
+    "translucentfern",
+    "sunsetferns",
+    "unfoldingferns",
+    "sunsetleaf",
+    "jones",
+    "needles",
+    "purple",
+    "pink",
+    "crenelations",
+    "mary",
+    "lighthouse",
+    "beachfoliage",
+    "richmond",
+    "lester",
+    "paisley",
+    "rossroad",
+    "rossoak",
+    "fittonfern",
+    "death",
+    "valley",
+    "spiky",
+    "flowertree",
+    "hospital",
+    "grasshopper",
+    "meadow",
+    "hawk",
+    "pinkflower",
+    "rubusleaf",
+    "fernspine",
+    "dew",
+    "ladybugsunset",
+    "blueflower",
+    "scaleleaf",
+    "fairyflower",
+    "pods",
+    "horsetail",
+    "cows",
+    "slug",
+    "brightflower",
+    "dunnfern",
+    "vineyard",
+    "jackson",
+    "mountainmeadow",
+    "lily",
+    "comet",
+    "snow",
+    "pond",
+    "bridge",
+    "people",
+    "sky",
+    "museum",
+    "michigan",
+    "clouds",
+    "junglesunset",
+    "puddle",
+    "baldflowers"
   ];
 
   function getImageHTML() {
