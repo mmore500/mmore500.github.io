@@ -4,7 +4,7 @@ title: Research & Projects
 permalink: /research/
 ---
 
-**Plasticity and Evolvability in a Gene Regulatory Network Model**. Matthew Andres Moreno. BEACON Congress 2017 in East Lansing, MI. August 2, 2017. [[poster]](/resources/august_2_2017.pdf)
+**Plasticity and Evolvability in a Gene Regulatory Network Model**. Matthew Andres Moreno. Poster Session; BEACON Congress in East Lansing, Michigan. August 2, 2017. [[poster]](/resources/august_2_2017.pdf)
 
 **Investigating the Relationship Between Plasticity and Evolvability in a
 Genetic Regulatory Network Model**. Matthew Moreno. Math/CS Day; University of Puget Sound. April 29, 2017. [[presentation]](/resources/april_29_2017_presentation_capstone.pdf) [[flyer]](/resources/april_29_2017_flyer.pdf)
