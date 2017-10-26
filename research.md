@@ -4,7 +4,7 @@ title: Research & Projects
 permalink: /research/
 ---
 
-**Information Theory Through Toy Examples**. Devolab blog post. Matthew Andres Moreno. October 26, 2017. [[pdf]](/resources/october_26_2017.pdf) [[blog post]](http://devosoft.org/1554-2/)
+**Information Theory Through Toy Examples**. Devolab blog post. Matthew Andres Moreno. October 26, 2017. [[pdf]](/resources/october_26_2017.pdf) [[blog post]](http://devosoft.org/information-theory-through-toy-examples/)
 
 **CWLT Sunman**. Sticker Pack via MojiLaLa. Matthew Andres Moreno. August 30, 2017. [[MojiLaLa listing]]( https://mojilala.com/stickers-emojis/packages/1822f266-e798-424c-8bf6-5c386273a939) [[repository]](https://github.com/cwlt/cwlt-sunman)
 
