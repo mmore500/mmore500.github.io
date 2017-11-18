@@ -1,35 +1,38 @@
-- href: "/img/welcome_dogs.jpg"
-  title: "dogwalker on the waterfront"
+- href: "/img/welcome_museum.jpg"
+  title: "Eli and Edythe Broad Art Museum"
+  caption: "East Lansing, MI summer 2017"
+
+- href: "/img/arch-crack.jpg"
+  title: "cracking concrete near the Wharton center"
+  caption: "East Lansing, MI fall 2017"
+
+- href: "/img/arch-fee.jpg"
+  title: "med student outside Fee hall"
+  caption: "East Lansing, MI summer 2017"
+
+- href: "/img/arch-garage.jpg"
+  title: "parking garage 10P"
+  caption: "East Lansing, MI fall 2017"
+
+- href: "/img/arch-statue.jpg"
+  title: "statue on Grand River Ave"
+  caption: "East Lansing, MI fall 2017"
+
+- href: "/img/welcome_firehydrant.jpg"
+  caption: "broken fire hydrant <br /> Newark, NJ summer 2016"
+
+- href: "/img/welcome_nyc.jpg"
+  title: "New York City skyline"
   caption: "Hoboken, NJ summer 2016"
 
-- href: "/img/welcome_ferns1.jpg"
-  title: "<i>Athyrium filix-femina</i> near Peavey Arboretum"
-  caption: "Corvallis, OR spring 2016"
+- href: "/img/welcome_crenelations.jpg"
+  title: "crenelations on Thompson Hall"
+  caption: "Tacoma, WA summer 2017"
 
-- href: "/img/welcome_ferns2.jpg"
-  title: "<i>Athyrium filix-femina</i> near Peavey Arboretum"
-  caption: "Corvallis, OR spring 2016"
+- href: "/img/welcome_bridge.jpg"
+  title: "sunset behind Aurora Bridge"
+  caption: "Seattle, WA summer 2017"
 
-- href: "/img/welcome_flowers.jpg"
-  title: "<i>Penstemon strictus</i> at Chip Ross park"
-  caption: "Corvallis, OR summer 2016"
-
-- href: "/img/welcome_lamppost.jpg"
-  title: "sunset at NW Mirador Pl"
-  caption: "Corvallis, OR summer 2016"
-
-- href: "/img/welcome_road.jpg"
-  title: "NW Soap Creek Road"
-  caption: "Corvallis, OR summer 2016"
-
-- href: "/img/welcome_strawberries.jpg"
-  title: "<i>Fragaria × ananassa</i> at USDA ARS HCRL"
-  caption: "Corvallis, OR summer 2016"
-
-- href: "/img/welcome_sunrisemoonset.jpg"
-  title: "moonset at sunrise near Chip Ross park"
-  caption: "Corvallis, OR summer 2016"
-
-- href: "/img/welcome_thistle.jpg"
-  title: "<i>Cirsium vulgare</i> at Owens Farm"
-  caption: "Corvallis, OR summer 2016"
+- href: "/img/arch-plantbio.jpg"
+  title: "plant biology building at dusk"
+  caption: "East Lansing, WA fall 2017"
