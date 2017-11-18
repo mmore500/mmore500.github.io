@@ -4,18 +4,6 @@ title: Welcome
 permalink: /
 ---
 
-<style type="text/css">
-.container{
-    display: flex;
-}
-.fixed{
-
-}
-.flex-item{
-    flex-grow: 0.5;
-}
-</style>
-
 <script type="text/javascript">
 
 images_list= {{ site.data.images | jsonify}}

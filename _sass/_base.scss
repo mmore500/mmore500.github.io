@@ -266,3 +266,17 @@ pre {
         clear: both;
     }
 }
+
+
+/**
+ * custom well-behaved image box on front page and project pages
+ */
+ .container{
+     display: flex;
+ }
+ .fixed{
+
+ }
+ .flex-item{
+     flex-grow: 0.5;
+ }
