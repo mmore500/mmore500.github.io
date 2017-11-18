@@ -17,3 +17,8 @@ github_username:  mmore500
 
 # Build settings
 markdown: kramdown
+
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/

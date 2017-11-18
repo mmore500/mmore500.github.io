@@ -8,6 +8,22 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
+/** Variables **********************************************/
+$horizontal-spacing-unit:       50px;
+$vertical-spacing-unit:         40px;
+
+/* portfolio tinkering */
+$img_spacing: 5px;
+$img_height: 275px;
+$caption_font_size: 12px;
+$caption_color: #aaa;
+
+
+/* Set theme color *************************/
+$theme-color:   $background-color;
+
+
+/************************************************************/
 
 
 /**
@@ -37,12 +53,24 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit / 2;
 }
 
+.alignright {
+    float: right;
+}
 
+
+hr{
+    /* Inset, by Dan Eden */
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+
+}
 
 /**
  * Images
  */
-img {
+.baseimg {
     max-width: 100%;
     vertical-align: middle;
 }
@@ -202,5 +230,39 @@ pre {
         path {
             fill: $grey-color;
         }
+    }
+}
+
+/**
+ * Wrapper
+ */
+.wrapper {
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+    @extend %clearfix;
+
+    @include media-query($on-laptop) {
+        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+        padding-right: $spacing-unit / 2;
+        padding-left: $spacing-unit / 2;
+    }
+}
+
+
+
+/**
+ * Clearfix
+ */
+%clearfix {
+
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
     }
 }
