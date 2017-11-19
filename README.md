@@ -6,6 +6,6 @@ Portfolio components taken from [*folio](https://github.com/bogoli/-folio).
 
 ### Authorship
 
-Matthew Moreno
+Matthew Andres Moreno
 
 [matthew.andres.moreno@gmail.com](mailto:matthew.andres.moreno@gmail.com)
