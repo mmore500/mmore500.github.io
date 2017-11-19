@@ -1,8 +1,10 @@
 ## mmore500.github.io
 
-My personal and academic site. Built with Jekyll.
+My personal and academic site.
+Built with Jekyll.
+Portfolio components taken from [*folio](https://github.com/bogoli/-folio).
 
-## Authorship
+### Authorship
 
 Matthew Moreno
 
