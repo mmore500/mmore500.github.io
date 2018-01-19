@@ -11,7 +11,7 @@ permalink: /writing/
   {% endfor %}
 </ul>
 
-## Devolab
+## [Devolab](http://devolab.msu.edu)
 <ul class="posts">
   {% for post in site.data.devolab_posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
