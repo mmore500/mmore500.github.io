@@ -26,7 +26,7 @@ date:   2018-01-21
 
 To me, the term record-keeping calls to mind dusty Bankers boxes with looping, slanty years scrawled in sharpie on the side lining the basement hallway.
 As a kid, empty Bankers boxes were *a lot* of fun.
-I doubt that dutifully stuffing them with boring ol' 1093-UGH-es, 2098-BS-es, and itemized accountings of every VHS tape we took to Goodwill was as much fun for my parents.
+For my parents, I doubt that dutifully stuffing them with boring ol' 1093-UGH-es, 2098-BS-es, and itemized accountings of every VHS tape we took to Goodwill was as exciting.
 
 ![boring vs rad](/resources/bankersboxes.jpg){:width="100%"}
 
@@ -91,7 +91,7 @@ Go.
 I'll wait.
 
 June of last year, I got my hands on a copy of Sedaris' *Theft by Finding*.
-In this volume, Sedaris presents a glimpse of his diaries.
+This volume presents an (edited) glimpse of Sedaris' diaries.
 Many entries are just a few sentences.
 
 > May 17, 1979
@@ -113,10 +113,10 @@ At first they were raised by hand puppets, then later by men who were dressed li
 *How does a man dress like a crane?* I wondered. *And are birds really dumb enough to fall for it?*
 
 I read all 528 pages in a matter of days.
-I was struck by how compelling Sedaris' stream of detached moments felt when each was presented for their its sake and how succinctly Sedaris conveyed them.
+I was struck by how compelling Sedaris' stream of detached, succinct moments felt when each was presented for its own sake.
 Since plowing through *Theft by Finding*, I've enjoyed tucking away vignettes of my own.
 It feels like netting butterflies and pinning them in a display case.
-When you start to look, they're all over the place.
+When you start to look, they're all over.
 I overheard this in the lobby of BPS.
 
 > My cat keeps singing off his whiskers because he tries to lick the candle.
@@ -130,7 +130,7 @@ The small satisfaction I get from arranging my collection and my continual encou
 Surprisingly, some of my collection have come in handy later.
 I populated my recent reflective writing on education and outreach primarily with anecdotes drawn from snippets of conversation I had tucked away contemporaneously.
 
-The largest return on my investment has been in more confidence and comfort writing.
+The most valuable return on my investment in journaling is greater confidence and comfort writing.
 When I sit down to put a few days' worth of material in my journal, I confront a series of decisions.
 Why is this interesting?
 What details must I leave in?
@@ -139,6 +139,7 @@ Are my own thoughts or reaction relevant?
 In what order should I reveal information?
 To what pieces of information should I lend special emphasis?
 With these decisions made, writing becomes a matter of devising and arranging a few clauses to meet design specifications.
+
 Working within this objective-oriented framework --- as opposed to aiming to write "well" --- is much simpler and more satisfying.
 When I started my journal, I produced play-by-play prose that weighted in at several paragraphs.
 Today, I'm mostly down to a few sentences at a time.
@@ -150,14 +151,14 @@ Everyone can use a leg up in competition for funding and publication.
 My experience with laboratory science outside the classroom is primarily through the USDA Agricultural Research Service (ARS).
 I worked on-and-off at the Corvallis office as a Biological Science Aide for four years with Dr. Chad Finn's small fruits breeding program.
 A lab notebook had no relevance to most of what I did --- hoeing, building trellis, picking fruit.
-Although I'd occasionally prepare media, work in the hood, or collect data (seed counts, fruit weight, thorn density, and the like), I never had a lab notebook of my own.
+Although I'd occasionally prepare media, work in the hood, count seeds, weigh fruit, or figure thorn density, I never kept a lab notebook of my own.
 Many of my co-workers did, though.
-As I've moved over to the realm of computer science, I've noticed that keeping a scientific notebook is a much deeper part of the laboratory science culture.
+As I've moved over to the realm of computer science, I've noticed that keeping a scientific notebook is not nearly as commonplace as in laboratory sciences.
 
 Before the USDA --- as a Model UN kid --- I became a connoisseur of obscure government documents.
 If the document is inexplicably titled in all caps, even better.
 (Shout out to the *HELLENIC REPUBLIC MINISTRY FOR THE ENVIRONMENT, PHYSICAL PLANNING AND PUBLIC WORKS 4th NATIONAL COMMUNICATION TO THE UNITED NATIONS FRAMEWORK CONVENTION ON CLIMATE CHANGE*.)
-In that spirit, let's get a sense of what laboratory notebooks are used for according to a 2009 slide deck titled *GOOD LABORATORY NOTEBOOK PRACTICES* from the good old USDA ARS.
+In that spirit, let's get a sense of what laboratory notebooks are useful for according to a 2009 slide deck titled *GOOD LABORATORY NOTEBOOK PRACTICES* from the good old USDA ARS.
 I've rearranged some of the material to suit this format.
 That said, what's the first thing we should know?
 
@@ -291,19 +292,19 @@ I'll also describe some of design solutions these requirements bring to mind.
    This can easily be achieved through a **separate script or Makefile** and doesn't have to be part of my core tool.
 
 12. I want my solution to be lightweight.
-   I want minimize the initial time investment I put into my record-keeping tool.
-   Also, I want to minimize any ongoing maintenance to my record-keeping tool.
-   I have better things to do.
+    I want minimize the initial time investment I put into my record-keeping tool.
+    Also, I want to minimize any ongoing maintenance to my record-keeping tool.
+    I have better things to do.
 
-   My first choice, of course, would be someone else's existing tool.
-   Then, I would get startup and maintenance for basically free.
-   If I *must* to code my own tool (\*dramatic swoon\*), I want to **use Python** and **write a proper package**.
-   And yae, I was glad when they said unto me,
+    My first choice, of course, would be someone else's existing tool.
+    Then, I would get startup and maintenance for basically free.
+    If I *must* to code my own tool (\*dramatic swoon\*), I want to **use Python** and **write a proper package**.
+    And yae, I was glad when they said unto me,
 
-   > Why would you put on clothes if you can shop in your comfy pants?
+    > Why would you put on clothes if you can shop in your comfy pants?
 
-   Spoiler: I wrote my own tool.
-   As of version 0.6.1, templ weights in at 197 lines of Python plus some YAML files.
+    Spoiler: I wrote my own tool.
+    As of version 0.6.1, templ weights in at 197 lines of Python plus some YAML files.
 
 13. I want my tool to be free (like free beer) and open-source.
    I'm cheap and I want to understand what's going on.
@@ -331,16 +332,18 @@ For your edification, here's a blurb pasted in from the project's `README.md`.
 > Noodle is a flat-file lab notebook that saves your files as plain html in the location of your choice.
 >
 > Features:
--   Data files are saved as flat HTML
--   Rich-Text editor (CKEditor)
--   Image uploads and browser
--   Background AJAX/JQuery data saving
--   Runs locally
--   Cross-platform
+>
+> * Data files are saved as flat HTML
+> * Rich-Text editor (CKEditor)
+> * Image uploads and browser
+> * Background AJAX/JQuery data saving
+> * Runs locally
+> * Cross-platform
 >
 > Requirements:
--   Python
--   Web Browser with Javascript
+>
+> * Python
+> * Web Browser with Javascript
 >
 > ## Why does this exist? Why would you ever make this?
 >
@@ -360,39 +363,48 @@ Go check it out.
 ## templ Usage
 
 Now that we've laid out the design requirements for my record-keeping tool (and I've built it) we get to the fun part: seeing the tool in action. Basic usage is as follows.
-```
+
+~~~
 templ [entry type]
-```
+~~~
+
 If an entry file does not already exist, an appropriate templated file is initialized.
 The path to the entry file is passed to `STDOUT`, regardless, allowing for fancy Bash tricks.
 
 Open a template-initialized entry file or an existing entry file with your favorite text editor from the command line!
 For example, if I did this on January 1, 1970
-```
+
+~~~
 atom $(templ je)
-```
+~~~
+
 I would open a new atom tab pointed at `1970/1/1-je.md` initialized with
-```
+
+~~~
 ## todo
 
 ## done
 
 ## misc
-```
+~~~
+
 ready for me to write down my thoughts for the day.
 
 Templates can dynamically populate both the path and the text file generated with content generated automatically or requested from the user.
 For example, when I was at a seminar on September 29th, 2017, and did this (answering some command line prompts generated by templ)
-```
+
+~~~
 atom $(templ talk)
 speaker-last > Wiser
 keyword > conceptions-randomness
 talk-title > Student conceptions about randomness and mutation
 speaker-first > Michael
 location > BEACON Seminar
-```
+~~~
+
 I got a new atom tab pointed at `talk/wiser-conceptions-randomness-2017-09-29.md` initialized with
-```
+
+~~~
 # Student conceptions about randomness and mutation
 
 Michael Wiser
@@ -405,7 +417,8 @@ BEACON Seminar
 
 ## misc
 
-```
+~~~
+
 ready for me to take notes on all of the crazy things undergraduates think about randomness.
 
 You can do other cool things with fancy bash tricks.
@@ -413,25 +426,29 @@ Remove the entry file.
 Compile the entry file to a PDF with pandoc.
 Put the entry under version control.
 Remember, if the templated path already exists, no changes are made to the file living there when templ is called.
-```
+
+~~~
 rm $(templ pr)
 pandoc -o out.pdf $(templ je)
 git add $(templ pr)
-```
+~~~
 
 A complete workflow might look like this.
-```
+
+~~~
 atom $(templ je)
 git add $(templ je)
 git commit
 git push origin master
-```
+~~~
 
 When I want to store a PDF file or anything else, I just manually put it into the file tree.
 For example, if I want to store some hand-written notes I'd just place them in like so,
-```
+
+~~~
 mv file.pdf journal/2017/09/29-pd.pdf
-```
+~~~
+
 (A [planned enhancement](https://github.com/mmore500/templ/issues/9) should make this even easier.)
 
 Interested in more? Take a look at an example journal made with templ [here](https://github.com/mmore500/templ/tree/example-journal). Take a look at an example note-taking system made with templ [here](https://github.com/mmore500/templ/tree/example-notes). The source code and installation instructions for templ are on [GitHub](https://github.com/mmore500/templ).
@@ -440,16 +457,19 @@ Interested in more? Take a look at an example journal made with templ [here](htt
 
 What's going on behind the scenes?
 Here's a high-level sketch:
+
 * templ gets called with the argument `xyz` on January 1st, 2018.
 * templ looks (within the templ package) for the file `templ/templates/xyz.yaml`.
-Here's what the file `templ/templates/xyz.yaml` might look like:
-```
-# a comment about xyz entry template
-filename: "class/{class-id}/{cur-month:02d}-{cur-day:02d}.md"
-template: |
-          # my very exciting {city} notes
-          *today's date: {cur-month}-{cur-day}*
-```
+  Here's what the file `templ/templates/xyz.yaml` might look like:
+
+  ~~~
+  # a comment about xyz entry template
+  filename: "class/{class-id}/{cur-month:02d}-{cur-day:02d}.md"
+  template: |
+            # my very exciting {city} notes
+            *today's date: {cur-month}-{cur-day}*
+  ~~~
+
 * templ locates the `filename` field `templ/templates/xyz.yaml`.
 * templ runs the raw content of `filename` (e.g. `xyz/{cur-year:02d}-{cur-month:02d}-{cur-day:02d}-{city}.md`) through standard Python string formatting.
 * For each token in curly braces, (e.g.`{cur-day:02d}` where the token is `cur-day` and `02d` instructs the formatter to paste in a two-digit number) the string formatter performs a dict lookup for the value to plug in.
@@ -461,22 +481,24 @@ template: |
 * If `xyz/2018-01-01-east_lansing.md` exists, templ prints the filename `xyz/2018-01-01-east_lansing.md` to `stdout` and returns.
 * If `xyz/2018-01-01-east_lansing.md` doesn't exist, templ applies standard Python string formatting to the raw content of the `template` field of `templ/templates/xyz.yaml`.
 * The exact same dict lookup process as before is used to plug in values for tokens in curly braces.
-Note that the key-value pair `city:east_lansing` is already in our dict so the user isn't queried for it again.
+  Note that the key-value pair `city:east_lansing` is already in our dict so the user isn't queried for it again.
 * The final formatted template string is produced:
-```
-# my very exciting east_lansing notes
-*today's date: 1-1*
-```
+
+  ~~~
+  # my very exciting east_lansing notes
+  *today's date: 1-1*
+  ~~~
+
 * The final formatted template string is written to `xyz/2018-01-01-east_lansing.md`.
 * templ prints the filename `xyz/2018-01-01-east_lansing.md` to `stdout` and returns.
 
 There you have it.
 There are just a two more implementation details to note.
 1. templ is written as a proper Python package.
-You can have it up and running at your command line in seconds using pip.
+   You can have it up and running at your command line in seconds using pip.
 2. templ is set up so making your own templates is trivial.
-Add a new YAML file to `templ/templates/` with the fields `filename` and `template`.
-Then, reinstall using pip (remembering the `--upgrade` flag).
+   Add a new YAML file to `templ/templates/` with the fields `filename` and `template`.
+   Then, reinstall using pip (remembering the `--upgrade` flag).
 
 ## Limitations
 
@@ -490,7 +512,7 @@ In the context of a journal built with templ (like [this one](https://github.com
 
 `journal/2018/01/21/doge.jpg`:
 
-```
+~~~
 ## My file built by templ on 01-01-2018
 
 Now I'm filling in the content.
@@ -503,13 +525,14 @@ Okay, time to put an image in.
 ![](21-img/doge.jpg)
 
 Wow, much amaze.
-```
+~~~
 
 `journal/2018/01/21-img/doge.jpg`:
 
 ![](/resources/doge.jpg){:width="100%"}
 
 Rendered result:
+
 > ## My file built by templ on 01-01-2018
 >
 > Now I'm filling in the content.
@@ -526,6 +549,6 @@ Rendered result:
 
 Two planned enhancements ([8](https://github.com/mmore500/templ/issues/8), [9](https://github.com/mmore500/templ/issues/9)) should make the image insertion workflow somewhat less arduous.
 
-One of the things I miss from keeping paper notes is being able to flip through the pages.
-Sometimes, I find this technique to be more useful than text search for locating a particular passage.
+Leaving paper notes behind, I can't shake an occasional annoyance over my inability to flip through physical pages.
+Often, I find this technique to be more useful than text search for locating a particular passage.
 [Ranger](https://github.com/ranger/ranger) provides a something like digital page-flipping, but it's still not the same.
