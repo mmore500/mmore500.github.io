@@ -309,7 +309,7 @@ I'll also describe some of design solutions these requirements bring to mind.
 13. I want my tool to be free (like free beer) and open-source.
    I'm cheap and I want to understand what's going on.
 
-14. Finally, when I get fed up with whatever tool I'm using or find something better I want an easy break --- I don't want to be stuck in divorce court when I should be on my honeymoon.
+14. Finally, when I get fed up with whatever tool I'm using or find something better, I want an easy break --- I don't want to be stuck in divorce court when I should be on my honeymoon.
    Having direct access to my content as Markdown and PDF files in a precise, simple directory structure at least gives me a fighting chance to script my way out of eternal alimony payments.
 
 ## Other Tools
@@ -502,7 +502,7 @@ There are just a two more implementation details to note.
 
 ## Limitations
 
-If you suffer from command line phobia, templ obviously isn't the tool for you.
+If you suffer from command line phobia, templ obviously isn't the right tool.
 If you're just unfamiliar and ready to [give the command line a try](http://rik.smith-unna.com/command_line_bootcamp/?id=ko66eewt3v), maybe templ could work for you.
 
 Currently, there's no really slick way to add inline images using templ.
@@ -551,4 +551,4 @@ Two planned enhancements ([8](https://github.com/mmore500/templ/issues/8), [9](h
 
 Leaving paper notes behind, I can't shake an occasional annoyance over my inability to flip through physical pages.
 Often, I find this technique to be more useful than text search for locating a particular passage.
-[Ranger](https://github.com/ranger/ranger) provides a something like digital page-flipping, but it's still not the same.
+[Ranger](https://github.com/ranger/ranger) emulates something like digital page-flipping, but it's still not the same.
