@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Record-Keeping Setup"
-date:   2018-01-19
+date:   2018-01-21
 ---
 
 > *March 25, 2000*
