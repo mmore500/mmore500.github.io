@@ -5,10 +5,10 @@ date:   2018-01-21
 ---
 
 > *March 25, 2000*
-
-  *Paris*
-
-  Hugh printed out my French medical story.
+>
+>  *Paris*
+>
+> Hugh printed out my French medical story.
   I don't like the way the pages look, but I suppose I'll get used to them, just as I'm adapting to the laptop he bought me.
   It's so different.
   On a typewriter, when you run out of things to say you get up and clean the bathtub.
@@ -19,8 +19,8 @@ date:   2018-01-21
 --- David Sedaris, *Theft by Finding: Diaries 1977-2002* (2017)
 
 > But I am very poorly today and very stupid and hate everybody and everything.
-One lives only to make blunders.—
-I am going to write a little Book for Murray on orchids & today I hate them worse than everything...
+  One lives only to make blunders.—
+  I am going to write a little Book for Murray on orchids & today I hate them worse than everything...
 
 --- Charles Darwin, letter to Charles Lyell dated October 1, 1861
 
@@ -28,7 +28,7 @@ To me, the term record-keeping calls to mind dusty Bankers boxes with looping, s
 As a kid, empty Bankers boxes were *a lot* of fun.
 I doubt that dutifully stuffing them with boring ol' 1093-UGH-es, 2098-BS-es, and itemized accountings of every VHS tape we took to Goodwill was as much fun for my parents.
 
-![boring vs rad](/resources/bankersboxes.jpg){:width="10{:width="100%"}0%"}
+![boring vs rad](/resources/bankersboxes.jpg){:width="100%"}
 
 *Figure 1.*
 A comparison of my parent's boring Bankers boxes (A) and my rad Bankers box (B).
@@ -95,18 +95,18 @@ In this volume, Sedaris presents a glimpse of his diaries.
 Many entries are just a few sentences.
 
 > May 17, 1979
-
+>
 > Raleigh
-
+>
 > Gas in four states is now selling for over $1 a gallon.
 I'd love to work in a service station so I could hear people complain.
 Apartment life is good.
 I'm using my ironing board as a kitchen table.
 
 > October 9, 1986
-
+>
 > Chicago
-
+>
 > On the radio, someone was talking about cranes.
 The ones he'd studied had been taken from their mother at birth.
 At first they were raised by hand puppets, then later by men who were dressed like cranes.
@@ -176,13 +176,14 @@ Even if you're not using ARS FORM 1, why keep a laboratory notebook?
 
 Three points here merit elaboration.
 1. Reproducibility is a core principle of science.
-To the extent it can help make sure the experiments you report are repeatable (thus, in a sense, valid), a notebook is important.
+  To the extent it can help make sure the experiments you report are repeatable (thus, in a sense, valid), a notebook is important.
 2. In most cases, funding for you (the scientific peon), your equipment, and your work comes from benevolent funding agencies.
-Maintaining a clear record of what you did, even the bits that didn't work out, is [the right thing to do](https://www.nature.com/scitable/blog/bioscience-elearning/to_lab_book_or_not).
+  Maintaining a clear record of what you did, even the bits that didn't work out, is [the right thing to do](https://www.nature.com/scitable/blog/bioscience-elearning/to_lab_book_or_not).
 3. Is there anything quite as satisfying as copy-pasting over a nice long paragraph from your notes into your manuscript?
-No, there isn't.
-As the slide deck reminds,
-> A WELL WRITTEN NOTEBOOK SAVES TIME
+  No, there isn't.
+  As the ARS slide deck firmly exhorts,
+
+  > A WELL WRITTEN NOTEBOOK SAVES TIME
 
 I'm sold.
 The laboratory notebook seems like a useful tool.
@@ -212,99 +213,103 @@ Now, with all this in mind, we get to the fun part --- describing what requireme
 I'll also describe some of design solutions these requirements bring to mind.
 
 1. I want to store text with some simple formatting, charts/figures, and maybe some digital drawings.
-**[Markdown](https://en.wikipedia.org/wiki/Markdown)** and **[PDF](https://en.wikipedia.org/wiki/Portable_Document_Format)** should cover my bases here.
+   **[Markdown](https://en.wikipedia.org/wiki/Markdown)** and **[PDF](https://en.wikipedia.org/wiki/Portable_Document_Format)** should cover my bases here.
 
 2. If I really want to store some other type of digital asset, I should be able to.
-If my system just keeps files in a **really simple local directory structure**, I can stash away whatever I want.
+   If my system just keeps files in a **really simple local directory structure**, I can stash away whatever I want.
 
 3. I want to **write in my favorite text editor** with my own favorite key bindings, color scheme, and other bells and whistles.
-In the words of a wise woman in expensive sweatpants I saw in a television advertisement,
-> Why would you put on clothes if you can shop in your comfy pants?
+   In the words of a wise woman in expensive sweatpants I saw in a television advertisement,
 
-  Enough said.
+   > Why would you put on clothes if you can shop in your comfy pants?
+
+   Enough said.
 
 4. Right now, my [Atom](https://atom.io) is my comfy pants.
-When I jump ship for the Next Trendy Text Editor, though, I want to change *nothing* in my record-keeping tool.
-In other words, **I don't want to build my tool on top of Atom or explicitly interface my tool with Atom**.
+  When I jump ship for the Next Trendy Text Editor, though, I want to change *nothing* in my record-keeping tool.
+   In other words, **I don't want to build my tool on top of Atom or explicitly interface my tool with Atom**.
 
 5. I want to use my record-keeping tool through a **command line interface** on Unix machines.
-Again,
-> Why would you put on clothes if you can shop in your comfy pants?
+   Again,
 
-  Cross-platform compatibility with Windows is not a priority.
+   > Why would you put on clothes if you can shop in your comfy pants?
+
+   Cross-platform compatibility with Windows is not a priority.
 
 6. I want to prevent accidental post-hoc modification and strongly encourage proper documentation for intentional post-hoc modification.
-  Let's revisit some of the admonitions from our friends at the ARS.
-  > * Do not use any erasable medium such as a pencil or erasable ink
-  * Make corrections by crossing through the item and initialing
-  * If the error is more than a few words, an explanation of the error should be noted in the margin where the error is corrected
-  * Do not remove any pages from the Notebook
+   Let's revisit some of the admonitions from our friends at the ARS.
 
-  You know what this sounds a lot like to me?
-  **Version control**.
-  By version control, of course, I mean **[Git](https://git-scm.com/)**.
+   > * Do not use any erasable medium such as a pencil or erasable ink
+   > * Make corrections by crossing through the item and initialing
+   > * If the error is more than a few words, an explanation of the error should be noted in the margin where the error is corrected
+   > * Do not remove any pages from the Notebook
 
-  Even with version control, can you still obfuscate post-hoc modifications to your records if your really put your mind to it?
-  Certainly.
-  At least you won't accidentally make modifications after the fact or absentmindedly fail to document them.
+   You know what this sounds a lot like to me?
+   **Version control**.
+   By version control, of course, I mean **[Git](https://git-scm.com/)**.
+
+   Even with version control, can you still obfuscate post-hoc modifications to your records if your really put your mind to it?
+   Certainly.
+   At least you won't accidentally make modifications after the fact or absentmindedly fail to document them.
 
 7. I don't want to lose my records after I store them.
 
-  ![Results of Methanol Soaking](/resources/pen_bleed.jpg){:width="100%"}
+   ![Results of Methanol Soaking](/resources/pen_bleed.jpg){:width="100%"}
 
-  *Figure 2.*
-  Results of methanol soaking on paper records, taken from *GOOD LABORATORY NOTEBOOK PRACTICES* (2009) from the USDA ARS.
+   *Figure 2.*
+   Results of methanol soaking on paper records, taken from *GOOD LABORATORY NOTEBOOK PRACTICES* (2009) from the USDA ARS.
 
-  Unless proper care is taken, digital records can be as fragile as paper records.
-  Like paper records, they can suffer physical damage.
-  (If I'm spilling high-proof alcohol on my work laptop, however, bigger problems than damaged records are afoot.)
-  The obvious solution here is to keep a copy in the cloud where smarter and more careful people will take care of your data for you.
-  If we're already working with Git, keeping a **remote repository up on [GitHub](https://github.com/)** would be the obvious way to accomplish this.
+   Unless proper care is taken, digital records can be as fragile as paper records.
+   Like paper records, they can suffer physical damage.
+   (If I'm spilling high-proof alcohol on my work laptop, however, bigger problems than damaged records are afoot.)
+   The obvious solution here is to keep a copy in the cloud where smarter and more careful people will take care of your data for you.
+   If we're already working with Git, keeping a **remote repository up on [GitHub](https://github.com/)** would be the obvious way to accomplish this.
 
-  More insidiously, if your digital content is stored using a proprietary file format or database system, you're relying on continuing support from the proprietors.
-  When I worked at the University of Puget Sound chemistry storeroom, we had great time wrangling vintage AppleWorks documents (stored on a prodigious collection of floppy disks, no less).
-  You're much better off with open source formats, but without continuing community support you might potentially still set yourself up for a real pain in the neck.
+   More insidiously, if your digital content is stored using a proprietary file format or database system, you're relying on continuing support from the proprietors.
+   When I worked at the University of Puget Sound chemistry storeroom, we had great time wrangling vintage AppleWorks documents (stored on a prodigious collection of floppy disks, no less).
+   You're much better off with open source formats, but without continuing community support you might potentially still set yourself up for a real pain in the neck.
 
-  I don't want to rely on whatever tool I use to create the records to read them.
-  For me, this means **storing assets as Markdown and PDF files in a directory structure (instead of a database)**.
-  Markdown files, in particular, should be just fine to page through even without an easy way to render Markdown to HTML.
-  If either of these file formats aren't easy to work with in the future, God help us all.
+   I don't want to rely on whatever tool I use to create the records to read them.
+   For me, this means **storing assets as Markdown and PDF files in a directory structure (instead of a database)**.
+   Markdown files, in particular, should be just fine to page through even without an easy way to render Markdown to HTML.
+   If either of these file formats aren't easy to work with in the future, God help us all.
 
 8. I want certain components of my text entries to be consistent (e.g. entry date, headings for content sections, etc.).
-I also want my entries to follow a consistent file-naming scheme.
-I want some of the consistent parts of my to be programmatically determined (e.g. the date).
-Some consistent parts, I might want to manually determine on a case-by-case basis.
-Clearly, some sort of **templating** of entry content and file path will be necessary.
+   I also want my entries to follow a consistent file-naming scheme.
+   I want some of the consistent parts of my to be programmatically determined (e.g. the date).
+   Some consistent parts, I might want to manually determine on a case-by-case basis.
+   Clearly, some sort of **templating** of entry content and file path will be necessary.
 
 9. I want to sync my content across devices.
-If we **use GitHub**, this is trivial.
+   If we **use GitHub**, this is trivial.
 
 10. I want to view my PDF records and HTML renderings of my Markdown records in a web browser.
-If we **use Github**, this is trivial.
+   If we **use Github**, this is trivial.
 
 11. Sometimes, I want to compile my Markdown records to PDF or HTML.
-Rendering local Markdown files to PDF and HTML is easy enough with tools like [Pandoc](https://pandoc.org/).
-This can easily be achieved through a **separate script or Makefile** and doesn't have to be part of my core tool.
+   Rendering local Markdown files to PDF and HTML is easy enough with tools like [Pandoc](https://pandoc.org/).
+   This can easily be achieved through a **separate script or Makefile** and doesn't have to be part of my core tool.
 
 12. I want my solution to be lightweight.
-I want minimize the initial time investment I put into my record-keeping tool.
-Also, I want to minimize any ongoing maintenance to my record-keeping tool.
-I have better things to do.
+   I want minimize the initial time investment I put into my record-keeping tool.
+   Also, I want to minimize any ongoing maintenance to my record-keeping tool.
+   I have better things to do.
 
-  My first choice, of course, would be someone else's existing tool.
-Then, I would get startup and maintenance for basically free.
-If I *must* to code my own tool (\*dramatic swoon\*), I want to **use Python** and **write a proper package**.
-And yae, I was glad when they said unto me,
-  > Why would you put on clothes if you can shop in your comfy pants?
+   My first choice, of course, would be someone else's existing tool.
+   Then, I would get startup and maintenance for basically free.
+   If I *must* to code my own tool (\*dramatic swoon\*), I want to **use Python** and **write a proper package**.
+   And yae, I was glad when they said unto me,
 
-  Spoiler: I wrote my own tool.
-  As of version 0.6.1, templ weights in at 197 lines of Python plus some YAML files.
+   > Why would you put on clothes if you can shop in your comfy pants?
+
+   Spoiler: I wrote my own tool.
+   As of version 0.6.1, templ weights in at 197 lines of Python plus some YAML files.
 
 13. I want my tool to be free (like free beer) and open-source.
-I'm cheap and I want to understand what's going on.
+   I'm cheap and I want to understand what's going on.
 
-13. Finally, when I get fed up with whatever tool I'm using or find something better I want an easy break --- I don't want to be stuck in divorce court when I should be on my honeymoon.
-Having direct access to my content as Markdown and PDF files in a precise, simple directory structure at least gives me a fighting chance to script my way out of eternal alimony payments.
+14. Finally, when I get fed up with whatever tool I'm using or find something better I want an easy break --- I don't want to be stuck in divorce court when I should be on my honeymoon.
+   Having direct access to my content as Markdown and PDF files in a precise, simple directory structure at least gives me a fighting chance to script my way out of eternal alimony payments.
 
 ## Other Tools
 
@@ -322,9 +327,9 @@ It very well might prove a better fit for *your* design requirements, though.
 For your edification, here's a blurb pasted in from the project's `README.md`.
 
 > ## What is Noodle?
-
+>
 > Noodle is a flat-file lab notebook that saves your files as plain html in the location of your choice.
-
+>
 > Features:
 -   Data files are saved as flat HTML
 -   Rich-Text editor (CKEditor)
@@ -332,16 +337,16 @@ For your edification, here's a blurb pasted in from the project's `README.md`.
 -   Background AJAX/JQuery data saving
 -   Runs locally
 -   Cross-platform
-
+>
 > Requirements:
 -   Python
 -   Web Browser with Javascript
-
+>
 > ## Why does this exist? Why would you ever make this?
-
+>
 > Essentially, all lab notebook software out there sucks in various ways.
 They either use a proprietary, non-text-based file format (Word, Pages), don't play well with Dropbox (Papers 2), require a database or an service (Evernote), aren't free (all of the above), or are lacking in useful features, like rich-text formatting (iPython Notebook, Texts.io).
-
+>
 > So, I made one that overcomes these shortcomings.
 The system is based around Python, Flask, Flask-FlatPages, CKEditor, and JQuery.
 Noodle stores all of your pages as plain html, so you can just open them up natively in your browser, or text editor of choice without needing any other tools.
@@ -502,21 +507,21 @@ Wow, much amaze.
 
 `journal/2018/01/21-img/doge.jpg`:
 
-![](/resources/doge.jpg){:width="50%"}{:width="100%"}
+![](/resources/doge.jpg){:width="100%"}
 
-R{:width="100%"}endered result:
+Rendered result:
 > ## My file built by templ on 01-01-2018
-
-  Now I'm filling in the content.
-  I'm using my favorite text editor so I'm happy and stuff.
-
-  :) :) :) :) :) :)
-
-  Okay, time to put an image in.
-
-  ![](/resources/doge.jpg){:width="80%"}
-
-  Wow, much amaze.
+>
+> Now I'm filling in the content.
+> I'm using my favorite text editor so I'm happy and stuff.
+>
+>  :) :) :) :) :) :)
+>
+> Okay, time to put an image in.
+>
+> ![](/resources/doge.jpg){:width="80%"}
+>
+>  Wow, much amaze.
 
 
 Two planned enhancements ([8](https://github.com/mmore500/templ/issues/8), [9](https://github.com/mmore500/templ/issues/9)) should make the image insertion workflow somewhat less arduous.
