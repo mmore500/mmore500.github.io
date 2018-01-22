@@ -6,9 +6,9 @@ date:   2018-01-21
 
 > *March 25, 2000*
 
-> *Paris*
+  *Paris*
 
-> Hugh printed out my French medical story.
+  Hugh printed out my French medical story.
 I don't like the way the pages look, but I suppose I'll get used to them, just as I'm adapting to the laptop he bought me.
 It's so different.
 On a typewriter, when you run out of things to say you get up and clean the bathtub.
@@ -507,19 +507,19 @@ Wow, much amaze.
 Rendered result:
 > ## My file built by templ on 01-01-2018
 
-> Now I'm filling in the content.
+  Now I'm filling in the content.
   I'm using my favorite text editor so I'm happy and stuff.
 
-> :) :) :) :) :) :)
+  :) :) :) :) :) :)
 
-> Okay, time to put an image in.
+  Okay, time to put an image in.
 
->  ![](/resources/doge.jpg)
+  ![](/resources/doge.jpg)
 
->  Wow, much amaze.
+  Wow, much amaze.
 
 
-Two planned enhancements ([8](https://github.com/mmore500/templ/issues/8), [9](https://github.com/mmore500/templ/issues/9)) should make this workflow somewhat less arduous.
+Two planned enhancements ([8](https://github.com/mmore500/templ/issues/8), [9](https://github.com/mmore500/templ/issues/9)) should make the image insertion workflow somewhat less arduous.
 
 One of the things I miss from keeping paper notes is being able to flip through the pages.
 Sometimes, I find this technique to be more useful than text search for locating a particular passage.
