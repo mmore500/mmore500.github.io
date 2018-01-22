@@ -9,12 +9,12 @@ date:   2018-01-21
   *Paris*
 
   Hugh printed out my French medical story.
-I don't like the way the pages look, but I suppose I'll get used to them, just as I'm adapting to the laptop he bought me.
-It's so different.
-On a typewriter, when you run out of things to say you get up and clean the bathtub.
-On a computer you scroll down your list of fonts or make little boxes.
-It scares me to say it, but I think I'm going to miss my laptop while I'm away.
-Suddenly I can see what everyone's been talking about for the past fifteen years.
+  I don't like the way the pages look, but I suppose I'll get used to them, just as I'm adapting to the laptop he bought me.
+  It's so different.
+  On a typewriter, when you run out of things to say you get up and clean the bathtub.
+  On a computer you scroll down your list of fonts or make little boxes.
+  It scares me to say it, but I think I'm going to miss my laptop while I'm away.
+  Suddenly I can see what everyone's been talking about for the past fifteen years.
 
 --- David Sedaris, *Theft by Finding: Diaries 1977-2002* (2017)
 
@@ -28,7 +28,7 @@ To me, the term record-keeping calls to mind dusty Bankers boxes with looping, s
 As a kid, empty Bankers boxes were *a lot* of fun.
 I doubt that dutifully stuffing them with boring ol' 1093-UGH-es, 2098-BS-es, and itemized accountings of every VHS tape we took to Goodwill was as much fun for my parents.
 
-![boring vs rad](/resources/bankersboxes.jpg)
+![boring vs rad](/resources/bankersboxes.jpg){:width="10{:width="100%"}0%"}
 
 *Figure 1.*
 A comparison of my parent's boring Bankers boxes (A) and my rad Bankers box (B).
@@ -250,7 +250,7 @@ Again,
 
 7. I don't want to lose my records after I store them.
 
-  ![Results of Methanol Soaking](/resources/pen_bleed.jpg)
+  ![Results of Methanol Soaking](/resources/pen_bleed.jpg){:width="100%"}
 
   *Figure 2.*
   Results of methanol soaking on paper records, taken from *GOOD LABORATORY NOTEBOOK PRACTICES* (2009) from the USDA ARS.
@@ -502,9 +502,9 @@ Wow, much amaze.
 
 `journal/2018/01/21-img/doge.jpg`:
 
-![](/resources/doge.jpg)
+![](/resources/doge.jpg){:width="50%"}{:width="100%"}
 
-Rendered result:
+R{:width="100%"}endered result:
 > ## My file built by templ on 01-01-2018
 
   Now I'm filling in the content.
@@ -514,7 +514,7 @@ Rendered result:
 
   Okay, time to put an image in.
 
-  ![](/resources/doge.jpg)
+  ![](/resources/doge.jpg){:width="80%"}
 
   Wow, much amaze.
 
