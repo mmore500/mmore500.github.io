@@ -421,6 +421,32 @@ BEACON Seminar
 
 ready for me to take notes on all of the crazy things undergraduates think about randomness.
 
+If it's no longer the 70's and I want to open that old journal entry, I use the `-m` flag to manually fill *all* fields.
+Performing
+
+~~~
+atom $(templ je -m)
+cur-year > 1970
+cur-month > 1
+cur-day > 1
+~~~
+
+opens a new atom tab pointed at my existing file `1970/1/1-je.md` initialized with
+
+~~~
+## todo
+* buy bell bottoms
+* wear my favorite wide-collar shirt
+
+## done
+* fed my pet rock
+
+## misc
+Just tryna be stayin' alive tbh.
+
+~~~
+
+
 You can do other cool things with fancy bash tricks.
 Remove the entry file.
 Compile the entry file to a PDF with pandoc.
@@ -450,6 +476,11 @@ mv file.pdf journal/2017/09/29-pd.pdf
 ~~~
 
 (A [planned enhancement](https://github.com/mmore500/templ/issues/9) should make this even easier.)
+**Update:** now, I just do
+
+~~~
+mv file.pdf $(templ pd)
+~~~
 
 Interested in more? Take a look at an example journal made with templ [here](https://github.com/mmore500/templ/tree/example-journal). Take a look at an example note-taking system made with templ [here](https://github.com/mmore500/templ/tree/example-notes). The source code and installation instructions for templ are on [GitHub](https://github.com/mmore500/templ).
 
@@ -510,7 +541,7 @@ You can do it, though.
 It's not even *that* bad.
 In the context of a journal built with templ (like [this one](https://github.com/mmore500/templ/tree/example-journal)), this might be achieved as follows.
 
-`journal/2018/01/21/doge.jpg`:
+`journal/2018/01/21-je.md`:
 
 ~~~
 ## My file built by templ on 01-01-2018
@@ -548,6 +579,52 @@ Rendered result:
 
 
 Two planned enhancements ([8](https://github.com/mmore500/templ/issues/8), [9](https://github.com/mmore500/templ/issues/9)) should make the image insertion workflow somewhat less arduous.
+**Update:** now, you can streamline the image insertion workflow as follows.
+
+~~~
+atom $(templ je)
+~~~
+
+`journal/2018/01/21-je.md`:
+
+~~~
+## My file built by templ on 01-01-2018
+
+Now I'm filling in the content.
+I'm using my favorite text editor so I'm happy and stuff.
+
+:) :) :) :) :) :)
+
+Okay, time to put an image in.
+
+~~~
+
+Bring back up your terminal.
+
+~~~
+mkdir $(templ jd)
+mv doge.jpg $(templ jd)
+templ ji
+filename > doge.jpg
+~~~
+
+When you switch back to your open file `journal/2018/01/21-je.md`, you'll find it with the following addition.
+
+`journal/2018/01/21-je.md`:
+
+~~~
+## My file built by templ on 01-01-2018
+
+Now I'm filling in the content.
+I'm using my favorite text editor so I'm happy and stuff.
+
+:) :) :) :) :) :)
+
+Okay, time to put an image in.
+
+![](21-img/doge.jpg)
+
+~~~
 
 Leaving paper notes behind, I can't shake an occasional annoyance over my inability to flip through physical pages.
 Often, I find this technique to be more useful than text search for locating a particular passage.
