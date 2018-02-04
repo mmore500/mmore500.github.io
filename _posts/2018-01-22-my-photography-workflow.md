@@ -33,7 +33,7 @@ In no particular order,
   * kept in Neoprene sleeves with UV filters for protection
 * outdoor research lost coast fingerless mitts
 * my MSU beanie
-* Dry & Dry Silica Gel packets
+* a few Dry & Dry silica desiccant packets
   * kept in a ziploc bag just in case the camera gets wet
 * Hefty Gallon bag
   * to protect the camera in case it's extra wet out
@@ -62,6 +62,7 @@ In no particular order,
 * replacement lens caps (front and back)
   * Buying these for super cheap ahead of time with three week shipping beats paying 10x as much when you eventually misplace a lens cap.
 * air blower and other cleaning accessories
+* a big bag of Dry & Dry silica gel desiccant
 * umbrella
 * my dad's old tripod
 * Meijer insulated bag
@@ -144,7 +145,7 @@ Photos I take just 'cause ("assignments from within") come off my camera once a 
 My file-naming convention for these images is: `2017-11-MAM-######.dng`.
 Pictures I take for other people ("assignments from without") come off much sooner.
 My file-naming convention for these images is: `2017-11-24-last_first-MAM-######.dng`.
-(Note that I include my initials MAM in the file names).
+(Note that I include my initials MAM in the file names.)
 
 ## Cull
 
@@ -152,6 +153,25 @@ Culling my images is just the worst.
 It takes way too long and is exhausting.
 Right now, I use [DarkTable](https://www.darktable.org)
 Hopefully, my suffering will decrease when I get better at using DarkTable or find a better tool.
+
+**Update**:
+I have found it much more pleasant to load unculled photos onto the iPad in my camera's native RAW format (`.NEF`) and perform my cull there.
+Then, I transfer the good photos from the iPad to my laptop via `ifuse`/`libimobledevice`.
+It was a bit difficult getting `ifuse` set up, but I found [this gist](https://gist.github.com/samrocketman/70dff6ebb18004fc37dc5e33c259a0fc) extremely useful.
+
+Now, assuming the directory `~/mnt` exists, I use the following commands to mount the iPad to my filesystem.
+
+~~~
+idevicepair pair
+ifuse ~/mnt
+~~~
+
+Then, I can access my culled photos directly, copy them over, convert them to `.DNG`, and proceed with my archiving workflow on my laptop.
+To unmount the iPad, use
+
+~~~
+fusermount -u ~/mnt
+~~~
 
 ## Archive
 
@@ -165,6 +185,7 @@ To illustrate, my personal photos are sorted into the following archive structur
 * 2017-11-raw
 * 2017-10-raw
 * etc.
+
 My projects are stored in the following archive structure:
 * 2017-11-24-last_first-raw
 * 2017-11-24-last_first-edit
@@ -204,7 +225,7 @@ I also keep a contact sheet in each archive.
 
 ![An example contact sheet](/resources/example-contact-sheet.png){:width="100%"}
 
-Here's the Makefile I use.
+Here's the `Makefile` I use.
 
 ~~~
 .RECIPEPREFIX = >
@@ -226,7 +247,11 @@ clean:
 > rm contact-sheet.pdf $(BUILD_DIR)-csheet.pdf
 ~~~
 
-I keep all my contact sheets together elsewhere, too, for easy reference.
+I sometimes adjust the `gamma` value in the montage command to lighten RAW files that are displayed over-dark by the back end renderer.
+Setting `gamma` to 1.0 corrects this issue.
+I use [templ](https://github.com/mmore500/templ) to generate the above `Makefile` on the fly.
+
+I keep a copy of all my contact sheets together elsewhere for easy reference.
 
 ### tar.gz
 
@@ -299,7 +324,8 @@ I use it intermittently to double check that my newest archives have been frozen
 I do all of my photo edits on my iPad.
 There are good, free tools for editing and publishing available.
 On the downside, getting raw photos on and edited photos off the iPad more difficult than it should be.
-Right now, I use Google Drive to accomplish my file transters.
+Right now, I use Google Drive to accomplish my file transfers.
+(**Update:** now that I do my culling on the iPad and get photos off the iPad directly to my laptop via `ifuse`, no cloud intermediaries are necessary.)
 
 I use [Google Snapseed](https://en.wikipedia.org/wiki/Snapseed) for most edits.
 On occasion, I'll open up [Lightroom](https://itunes.apple.com/us/app/adobe-lightroom-cc-for-ipad/id804177739) for its free noise-reduction capabilities.
