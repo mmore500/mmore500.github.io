@@ -4,6 +4,8 @@ title: Research & Projects
 permalink: /research/
 ---
 
+**Learning an Evolvable Genotype-Phenotype Map**. Matthew Andres Moreno, Wolfgang Banzhaf, and Charles Ofria. 2018. [pdf] [[data]](https://osf.io/n92c7/) [[code a]](https://github.com/mmore500/cse-848-project) [[code b]](https://github.com/mmore500/scrabble_evo_autoencoder)
+
 **templ**. Open-source Python package. Matthew Andres Moreno. [[github]](https://github.com/mmore500/templ)
 
 **Information Theory Through Toy Examples**. Devolab blog post. Matthew Andres Moreno. October 26, 2017. [[pdf]](/resources/october_26_2017.pdf) [[blog post]](http://devosoft.org/information-theory-through-toy-examples/)
