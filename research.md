@@ -4,7 +4,9 @@ title: Research & Projects
 permalink: /research/
 ---
 
-**Learning an Evolvable Genotype-Phenotype Map**. Matthew Andres Moreno, Wolfgang Banzhaf, and Charles Ofria. 2018. [pdf] [[data]](https://osf.io/n92c7/) [[code a]](https://github.com/mmore500/cse-848-project) [[code b]](https://github.com/mmore500/scrabble_evo_autoencoder)
+**DISHTINY: A Platform for Studying Open-Ended Evolutionary Transitions in Individuality**. Matthew Andres Moreno and Charles Ofria. 2018. [[paper]](https://github.com/mmore500/alife-2018/releases) [[code, data, tutorials]](https://osf.io/ewvg8/) [[live demo]](https://mmore500.github.io/dishtiny/ewvg8/)
+
+**Learning an Evolvable Genotype-Phenotype Mapping**. Matthew Andres Moreno, Wolfgang Banzhaf, and Charles Ofria. Proceedings of the Genetic and Evolutionary Computation Conference. July, 2018. [[paper]](https://github.com/mmore500/gecco-2018/releases) [[code, data, tutorials]](https://osf.io/n92c7/)
 
 **templ**. Open-source Python package. Matthew Andres Moreno. [[github]](https://github.com/mmore500/templ)
 
