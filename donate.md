@@ -81,28 +81,13 @@ permalink: /donate/
 
   </p>
 
-  <div style="display: flex; justify-content: center;">
+  <div style="text-align: center;">
 
-
-  <a href="https://paypal.me/mmore500">
-  <object style="pointer-events: none" data="https://img.shields.io/badge/donate-paypal-green.svg" type="image/svg+xml">
-  </object>
-  </a>
-
+  <a href="https://paypal.me/mmore500"><img src="/resources/donate-paypal-green.svg"></a>
   &nbsp;
-
-  <a href="https://commerce.coinbase.com/checkout/e670e237-c4b2-42ad-b8fa-a64689706195">
-  <object style="pointer-events: none" data="https://img.shields.io/badge/donate-crypto-green.svg" type="image/svg+xml">
-  </object>
-  </a>
-
+  <a href="https://commerce.coinbase.com/checkout/e670e237-c4b2-42ad-b8fa-a64689706195"> <img src="/resources/donate-crypto-green.svg"> </a>
   &nbsp;
-
-
-  <a href="http://greenbeltlandtrust.org/">
-  <object style="pointer-events: none" data="https://img.shields.io/badge/donate-greenbelt-green.svg" type="image/svg+xml">
-  </object>
-  </a>
+  <a href="https://greenbeltlandtrust.org/"><img src="/resources/donate-greenbelt-green.svg"></a>
 
   </div>
 
