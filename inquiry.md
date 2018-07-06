@@ -38,7 +38,7 @@ permalink: /inquiry/
   <div class="hideflex">
   <div style="text-align:center">
     <div style="display: inline-block;">
-      <img src="/img/welcome_clouds.jpg"  style="max-width:100%; max-height:100%;" alt="grasshopper">
+      <img src="/img/welcome_clouds.jpg"  style="max-width:100%; max-height:100%;" alt="cloud">
     </div>
   </div>
 </div>
