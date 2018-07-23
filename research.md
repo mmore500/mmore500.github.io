@@ -10,7 +10,7 @@ permalink: /research/
 
 **DISHTINY: A Platform for Studying Open-Ended Evolutionary Transitions in Individuality**. Matthew Andres Moreno and Charles Ofria. 2018. [[paper]](https://github.com/mmore500/alife-2018/releases) [[code, data, tutorials]](https://osf.io/ewvg8/) [[live demo]](https://mmore500.github.io/dishtiny/ewvg8/)
 
-**Learning an Evolvable Genotype-Phenotype Mapping**. Matthew Andres Moreno, Wolfgang Banzhaf, and Charles Ofria. Proceedings of the Genetic and Evolutionary Computation Conference. July, 2018. [[paper]](https://github.com/mmore500/gecco-2018/releases) [[code, data, tutorials]](https://osf.io/n92c7/)
+**Learning an Evolvable Genotype-Phenotype Mapping**. Matthew Andres Moreno, Wolfgang Banzhaf, and Charles Ofria. Proceedings of the Genetic and Evolutionary Computation Conference. July, 2018. [[paper]](https://github.com/mmore500/gecco-2018/releases) [[code, data, tutorials]](https://osf.io/n92c7/) [[blog]](https://mmore500.github.io/2018/05/23/automap.html) [[slides]](https://github.com/mmore500/gecco-2018-presentation/releases)
 
 **templ**. Open-source Python package. Matthew Andres Moreno. [[github]](https://github.com/mmore500/templ)
 
