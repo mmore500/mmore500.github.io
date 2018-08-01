@@ -8,7 +8,7 @@ permalink: /research/
 
 **A Broadly-Conserved NERD Genetically Interacts with the Exocyst to Affect Root Growth and Cell Expansion**. Rex Cole, Valera Peremyslov, Savanah Van Why, Ibrahim Moussaoui, Ann Ketter, Renee Cool, Matthew Andres Moreno, Zuzana Vejlupkova, Valerian Dolja, and John E Fowler. Journal of Experimental Botany. May 2, 2018. [[paper]](https://academic.oup.com/jxb/advance-article/doi/10.1093/jxb/ery162/4990813?guestAccessKey=f2af1b2e-c977-4ac2-ae18-de1a3cfa6bc8)
 
-**DISHTINY: A Platform for Studying Open-Ended Evolutionary Transitions in Individuality**. Matthew Andres Moreno and Charles Ofria. July, 2018. [[paper]](https://github.com/mmore500/alife-2018/releases) [[code, data, tutorials]](https://osf.io/ewvg8/) [[web demo]](https://mmore500.github.io/dishtiny/ewvg8/) [[slides]](https://github.com/mmore500/alife-2018-presentation/releases)
+**Understanding Fraternal Transitions in Individuality**. Matthew Andres Moreno and Charles Ofria. July, 2018. [[paper]](https://github.com/mmore500/alife-2018/releases) [[code, data, tutorials]](https://osf.io/ewvg8/) [[web demo]](https://mmore500.github.io/dishtiny/ewvg8/) [[slides]](https://github.com/mmore500/alife-2018-presentation/releases)
 
 **Learning an Evolvable Genotype-Phenotype Mapping**. Matthew Andres Moreno, Wolfgang Banzhaf, and Charles Ofria. Proceedings of the Genetic and Evolutionary Computation Conference. July, 2018. [[paper]](https://github.com/mmore500/gecco-2018/releases) [[code, data, tutorials]](https://osf.io/n92c7/) [[blog]](https://mmore500.github.io/2018/05/23/automap.html) [[slides]](https://github.com/mmore500/gecco-2018-presentation/releases)
 
