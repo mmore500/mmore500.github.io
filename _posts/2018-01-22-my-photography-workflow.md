@@ -147,6 +147,8 @@ Pictures I take for other people ("assignments from without") come off much soon
 My file-naming convention for these images is: `2017-11-24-last_first-MAM-######.dng`.
 (Note that I include my initials MAM in the file names.)
 
+I start raw photo numbering at 0 (i.e., 000000) and edited photo numbering at 100000.
+
 ## Cull
 
 Culling my images is just the worst.
