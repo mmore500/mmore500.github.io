@@ -299,10 +299,13 @@ import boto3
 from tqdm import tqdm
 from botocore.utils import calculate_tree_hash
 import os
+import sys
+
+assert (len(sys.argv) == 3), "bad arguments"
 
 client = boto3.client('glacier')
-vault_name = 'ADD-ME-1'
-local_file = 'ADD-ME-2.tar.gz'
+vault_name = sys.argv[1]
+local_file = sys.argv[2]
 size = os.path.getsize(local_file) # in bytes
 size_mb = size / (2**20) # Convert to megabytes for readability
 
@@ -334,6 +337,8 @@ with open(local_file, 'rb') as upload:
 
 I wrote a [little tool](https://github.com/mmore500/glacier_check) to check an AWS archive inventory against your local files to make sure everything is stored away properly.
 I use it intermittently to double check that my newest archives have been frozen away in Glacier successfully.
+
+[Paul Heinlein's blog](https://www.madboa.com/blog/2016/09/23/glacier-cli-intro/) has been very helpful RE: AWS command line Glacier interface miscellany.
 
 ## Edit
 
