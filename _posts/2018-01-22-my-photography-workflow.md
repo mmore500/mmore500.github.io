@@ -255,6 +255,20 @@ I use [templ](https://github.com/mmore500/templ) to generate the above `Makefile
 
 I keep a copy of all my contact sheets together elsewhere for easy reference.
 
+**Update**:
+I was continuing to run into trouble with over-dark rendering of RAW files and --- especially for large jobs --- excessive processing time and instability, so I switched to using `dcraw` to extract the pre-rendered `.jpg` bundled up in my `.dng` files instead of re-rendering via `ufraw-batch`.
+(`montage` is an [ImageMagick](https://www.imagemagick.org/script/index.php) utility).
+I made the switch by editing ImageMagick's `delegates.xml` file (which you can find via `locate delegates.xml`).
+Specifically, I rewrote the `decode="dng:decode"` entry as follows.
+
+```
+<delegate decode="dng:decode" command="dcraw -e -c %i | convert jpg:- %u.png"/>
+```
+
+This command uses `dcraw` to spit `.jpg` data through a pipe and into ImageMagick's `convert` utility, which saves it out to a `.png` file.
+Why exactly the output has to be in `.png` format and saved to the `%u` specifier (which is not the output specifier `%o`), I do not know.
+[Kevin Ludlow's blog article](http://www.kevinludlow.com/blog/2706/Configuring_ImageMagick_RAW_Delegates_with_DCRAW_and_UFRAWBatch/) and some [ImageMagick documentation](https://www.imagemagick.org/script/escape.php) helped me eventually trial-and-error my way to this solution.
+
 ### tar.gz
 
 ![XKCD 1168](https://imgs.xkcd.com/comics/tar.png){:width="100%"}
