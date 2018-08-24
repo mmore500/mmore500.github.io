@@ -4,6 +4,9 @@ title: Research & Projects
 permalink: /research/
 ---
 
+*A listing of my scientific publications is available on [my google scholar profile](https://scholar.google.com/citations?user=xROn8y4AAAAJ).
+Find links to access materials (PDFs and more) from my scientific publications and other projects below.*
+
 **reinterpretive-label**. Matthew Andres Moreno. Open-source guerilla art software. 2018. [[repository]](https://github.com/mmore500/reinterpretive-label)
 
 **A Broadly-Conserved NERD Genetically Interacts with the Exocyst to Affect Root Growth and Cell Expansion**. Rex Cole, Valera Peremyslov, Savanah Van Why, Ibrahim Moussaoui, Ann Ketter, Renee Cool, Matthew Andres Moreno, Zuzana Vejlupkova, Valerian Dolja, and John E Fowler. Journal of Experimental Botany. May 2, 2018. [[paper]](https://academic.oup.com/jxb/advance-article/doi/10.1093/jxb/ery162/4990813?guestAccessKey=f2af1b2e-c977-4ac2-ae18-de1a3cfa6bc8)
