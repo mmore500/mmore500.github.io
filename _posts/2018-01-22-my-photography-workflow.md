@@ -192,6 +192,13 @@ My projects are stored in the following archive structure:
 * 2017-11-24-last_first-raw
 * 2017-11-24-last_first-edit
 
+**Update**:
+Here is the shell command I use to rename my edited files.
+I start numbering raw files at 0 and edited files at 100000.
+```
+i=100000; for f in *.JPG; do mv $f 2018-09-MAM-$(printf "%06d" $i).jpg; let "i++"; done
+```
+
 ### README.md
 
 I use [templ](https://github.com/mmore500/templ) to populate each archive with a descriptive README.md.
