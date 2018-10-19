@@ -12,6 +12,8 @@ I absolutely despise working after 11pm or so, now
 
 http://mmore500.tumblr.com/archive/2017/8
 
+http://www.wbur.org/hereandnow/2018/10/12/sleep-class-harvard
+
 ## Alarm Clock
 
 ![](https://osf.io/bjadf/download){:width="100%"}
@@ -38,10 +40,17 @@ Wristwatch
 ([source](https://theblacksheeponline.com/michigan-state/the-black-sheeps-judgmental-map-of-east-lansing)*
 
 beware: balcony, fire escape, or hallways
+[for](http://mmore500.tumblr.com/post/173673636439/sweet-love-2018-04-at-east-lansing-michigan)
+[other](http://mmore500.tumblr.com/post/173673636439/sweet-love-2018-04-at-east-lansing-michigan)
+[reasons](http://mmore500.tumblr.com/post/179145895234/im-doing-you-a-favor-im-giving-you-an-f)
+.
 
 drunk: rating women 1-10
 
 high: melonballers space race
+
+sound-proof-ness of walls
+can recognize roommates by sound
 
 The intrepid reporting of James Day of the Corvallis Gazette Times from
 [2012](https://web.archive.org/web/20181012235912/https://www.gazettetimes.com/news/local/neighborhood-stakeout/article_0975b653-b0cf-58e8-9b2d-ac3d3761b069.html),
