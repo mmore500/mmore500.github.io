@@ -9,7 +9,7 @@ I use [elementary OS](https://elementary.io).
 I *really* like using elementary OS.
 The interface has come to feel like a good pair of boots, broken in to fit just right.
 
-How many hours did I spend aimlessly stomping around to achieve break in these boots?
+How many hours have I spent aimlessly stomping around to break in these boots?
 You probably don't want to know.
 I certainly don't want to --- I'm not really in the mood for an existential crisis right now.
 
@@ -148,9 +148,7 @@ Note that you might need superuser permissions to remove files under the `/usr` 
 
 (Original source [here](https://askubuntu.com/questions/71240/how-to-remove-icons-shortcuts-from-unity-menu).)
 
-
-
-## Block Distracting Websites
+## Block Distracting Websites <a name="BlockDistractingWebsites"></a>
 
 One of my friends works at a municipal library in small-town middle America.
 On her performance review, anonymous coworker told her that she needed to cool her jets because she was making everyone else look bad.
