@@ -116,7 +116,7 @@ Making
 
 I find that cooler temperatures (e.g., maybe 62 F) can help me fall asleep.
 
-## Air
+## Air <a name="Air"></a>
 
 ![](https://osf.io/c57eu/download){:width="100%"}
 
@@ -124,7 +124,7 @@ I find that cooler temperatures (e.g., maybe 62 F) can help me fall asleep.
 
 Leaving the window open.
 
-## Noise
+## Bad Noise
 
 An unfortunate trade-off accompanies leaving the window open: noise.
 
@@ -144,7 +144,7 @@ Despite, I'm still obsessed with my building's balconies
 &nbsp;
 [reasons](http://mmore500.tumblr.com/post/179145895234/im-doing-you-a-favor-im-giving-you-an-f).
 
-Also potentialy problematic: parking lots... i.e., woofer at all hours.  coming and going, but this is usually transient and therefore, to me, much less aggravating.
+Also potentially problematic: parking lots and driveways... i.e., woofer beats coming and going at all hours. This is usually transient and therefore, to me, much less aggravating.
 
 This sound-proof-ness of walls is so, so important, and varies widely.
 You can check on this when you're touring an apartment (and you should!).
@@ -192,6 +192,8 @@ A few important pointers for that:
 
 Also, sometimes I forget this, but just rolling over and putting a pillow over your head can help a lot, too.
 
+## Good Noise <a name="GoodNoise"></a>
+
 For some people, some noises can be pleasant!
 
 Your smart speaker can probably play white noise.
@@ -238,14 +240,12 @@ My mom did this when Oregon State put in a new [barn-classroom thing](https://ev
 After consulting an attorney, do whatever you want.
 Just be sure that your righteous self-empowerment won't catch fire.
 
-## Light
-
-### Sunrise Lamp <a name="SunriseLamp"></a>
+## Sunrise Lamp <a name="SunriseLamp"></a>
 
 ![](https://osf.io/v5f4d/download){:width="100%"}
 
-I combined an [Ikea FADO table lamp](https://www.google.com/search?q=ikea%20fado&tbm=isch) with a smart lightbulb to make a DIY sunrise lamp.
-The idea here is the light is on a timer to gently fade in before I want to get up to gradually shift my body towards wakefulness.
+I combined an [Ikea FADO table lamp](https://www.google.com/search?q=ikea%20fado&tbm=isch) with a smart lightbulb to fashion a DIY sunrise lamp.
+The idea here is that the light runs on a timer to gently fade in before I want to get up, gradually shifting my body towards wakefulness.
 I quite like it, especially in combination with [a clock radio alarm](#AlarmClock).
 It's probably ranks among the more effective interventions I've tried.
 Plus, it doubles as a handy voice-controlled light via Amazon Alexa.
@@ -263,64 +263,87 @@ Luckily, the [particular no-brand smart bulb](https://www.amazon.com/gp/product/
 I ended up using a combination of IFTTT and proprietary triggers because the proprietary only offered six daily schedulable events.
 * If you end up with a smart bulb that doesn't offer proprietary timing triggers (or, even better, trigger-able configurable fades), you might be able to achieve a reasonable fade in through [clever acrobatics via another service called Stringify](#SmartHome).
 
-### Happy Lamp
+## Workspace Lighting
+
+![](https://osf.io/n659e/download){:width="100%"}
 
 There are a lot of [things I like](https://en.wikipedia.org/wiki/Aeron_chair) about [our lab](http://devosoft.org/)'s [office space](https://www3.beacon-center.org/).
 Unfortunately, we have no windows.
 
-![](https://osf.io/n659e/download){:width="100%"}
+So, I have lots of lights at my desktop try to get myself to physiologically register that it is indeed daytime when it is daytime, including:
+* a happy lamp positioned to directly administer photons into my eyeballs,
+* a LED desk lamp,
+* [bias lighting](https://www.howtogeek.com/213464/how-to-decrease-eye-fatigue-while-watching-tv-and-gaming-with-bias-lighting/) (a stick-on LED strip that plugs directly into my monitor for power via USB), and
+* sick [RGB underlighting](https://github.com/mmore500/qmk_firmware) on [my keyboard](https://ergodox-ez.com/) (does nothing, but looks *sweeeet*).
 
+On the flip side of the coin: tricking your physiology into thinking it's daytime when it is actually not.
+Blue light from screens is thought to be [great at this](https://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side).
+Rebalancing the color composition of your screens, especially at night, might help.
 
+Back when I had a mac, I used [f.lux](https://justgetflux.com/).
+Now I use [Redshift](http://jonls.dk/redshift/), which had better support for Linux the last time I checked.
 
-### Redshift
+In the last few years, screen blue light management on screens has gone increasingly mainstream.
+Apple now natively supports it on their iOS and OS X devices under the moniker "Night Shift."
+Other systems I'm less familiar with (windows, android, etc.) probably support it, too.
 
-[blue light](https://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side) at night
-
-Apple Night Shift.
-It appears that android phones this has this feature.
-
-Also, just
-
-[f.lux](https://justgetflux.com/)
-
-[Redshift](http://jonls.dk/redshift/)
+I also like to turn down my screen brightness at night.
+I just do it manually whenever the thought strikes me.
 
 ## Pills and Such
 
 [**Disclaimer**:](https://twitter.com/panzer/status/994622853029904386)
 I am not a medical doctor.
 (I'm not even a philosophy doctor.)
-Don't take any pills do anything else without consulting your physician first.
+Consult your physician, yo.
 
 ![](https://osf.io/7ap8q/download){:width="100%"}
 
-My go-to is melatonin.
+Since I started playing around with pills and such RE: sleeping, my approach has switched from trying to refine a concoction to use every night to lining up a series of pills and such, [falling back](https://en.wikipedia.org/wiki/Concentric_castle) to more extreme/disruptive options if I keep awake.
+
+My go-to pill is melatonin.
 I'm not totally convinced it's objectively very effective, but it tends to feel helpful.
 I'll take a good [placebo effect](https://www.health.harvard.edu/blog/the-placebo-effect-amazing-and-real-201511028544) any day.
 If I'm already nice and drowsy at bedtime, I'll just skip it.
 
 When melatonin doesn't cut it and I'm still awake after half an hour or an hour, about once or twice a week nowadays, I'll fall back on *Doxylamine Succinate* aka *Unisom* or --- if I'm feeling congested, too --- drowsy allergy medication (*Cetirizine Hydrochloride* aka *Zyrtec*).
+These *definitely* make me feel groggy.
+Based on how I feel the next day, I suspect that these pills reduce the quality of my sleep.
+In particular, it can feel more difficult to break through [sleep inertia](https://en.wikipedia.org/wiki/Sleep_inertia) and get out of bed.
+In my calculation, though, that beats tossing and turning through 5 a.m. followed by several days of .
+Lately, I've only been using these every week or two.
 
-
-sleep
+My final resort is two or three shots of whatever hard alcohol is in the fridge.
+Again, [not ideal](https://www.webmd.com/sleep-disorders/news/20130118/alcohol-sleep#1) but IMO better than the alternative.
+I've only gotten to this point a handful of times.
 
 ## Caffeine
 
 I try not to have caffeine after noon, since [its half life is 5 hours](https://www.ncbi.nlm.nih.gov/books/NBK223808/).
 
+You can fine tune the dose of caffeine in your [bean water](https://twitter.com/SICKOFWOLVES/status/1042164545710518272) by cutting regular ground coffee with decaf.
+
 ## Ulysses Pact
 
 ![](https://osf.io/m5ctd/download){:width="100%"}
 
-Originally, would result in contributions to
-[repugnant causes](http://www.donaldjtrump.com/).
-Then, I considered .
-I guess I thought somehow I'd actually follow through burning dollar bills in my bathtub??
+On the left, behold strange remnants of a failed [Ulysses pact](https://en.wikipedia.org/wiki/Ulysses_pact) on my kitchen windowsill.
+The idea was to explicitly incentivize a certain pattern of behavior.
+Success meant being in the shower (under running water) at or before an alarm went off at 7:00 a.m.
+I planned to associate success with donations to [my charity cause of choice](http://greenbeltlandtrust.org/)
+(e.g., moving quarters from one mug to the other).
+Originally, excessive failure (beyond a predefined threshold) would result in contributions to
+[repugnant causes](http://www.donaldjtrump.com/) and public self-shaming on Facebook.
+After I obviously didn't do that, I considered simply destroying currency instead.
+I never did get around burning dollar bills in my bathtub or flushing them down the toilet, though.
 
-This only works if your conscious brain is at play.
-Lizard brain didn't clue into this, so it didn't work.
-It might work better with someone else in the loop to help hold you accountable.
+In my opinion, this type of scheme only works if your conscious brain is at bat.
+Lizard brain didn't clue into any of this, so it didn't work.
+
+A Ulysses pact might work better with someone else in the loop to help hold you accountable.
 There are plenty of apps out there [set up just for this type of thing](https://betterhumans.coach.me/6-accountability-apps-that-will-skyrocket-your-success-6a3c1821e15b).
+
+A different self-compulsion trick that works much better: leaving my laptop overnight at my desk never fails to get me in to the office at a reasonable hour the next day.
 
 ## Schedule Activities in the Morning
 
@@ -328,43 +351,92 @@ Lizard brain seems to be *very* well clued into the potential shame of tardiness
 Last year, I intentionally scheduled myself to volunteer at 8am two days a week to help regulate my sleep schedule.
 However, this trick only really works for morning activities I'm *truly obligated* to follow through with, because lizard brain seems to know the difference.
 
-## Screen Time
-
-more of a symptom than a cause.
-
-![](https://osf.io/kpb8r/download){:width="100%"}
-
 ## Coaxing
 
 ![](https://osf.io/2byu4/download){:width="100%"}
 
-Literally put out a pillow, granola, and water
+I went through a phase where I thought I might be able to coax lizard brain out of bed with nice things.
+
+At one point, I literally put out a pillow, granola, and water on my living room floor.
+The idea was that lizard brain would be forced out of bed by my horrible Timex alarm in the living room and then, finding accommodations so conveniently prepared, elect to deposit myself on the floor (where I would eventually gain consciousness) instead of returning to bed.
+This did not work.
+
+In the coaxing department, I have also also tried
+
+* having &nbsp; M r . &nbsp; C o f f e e &nbsp; automatically brew a morning beverage,
+* installing a fancy &nbsp; r a i n f a l l &nbsp; showerhead,
+* using a transparent shower curtain to enjoy the &nbsp; n i c e &nbsp; morning light,
+* installing an Amazon Echo Dot and portable speaker above the vanity cabinet for quality &nbsp; s h o w e r &nbsp; &nbsp; j a m s &nbsp;, and
+* leaving out my camera, because who could bear to miss the fleeting &nbsp; a e s t h e t i c &nbsp; morning light.
+
+None of these worked, but at least I got some nice things I enjoy anyways out of it.
+
+## Screen Time
+
+![](https://osf.io/kpb8r/download){:width="100%"}
+
+For me, [doing pointless things on the internet](https://store.waitbutwhy.com/products/dark-playground-poster-18x24) when I'm supposed to be sleeping generally seems to be a symptom of not sleeping instead of a cause.
+
+I do put some parental controls on myself [on my work computer](https://mmore500.github.io/2018/01/18/my-elementary-setup.html#BlockDistractingWebsites) and [on my iPad](https://www.apple.com/newsroom/2018/06/ios-12-introduces-new-features-to-reduce-interruptions-and-manage-screen-time/).
+
+If I were really serious, I would have someone else set the password to make overrides more difficult.
+For me, mere inconvenience dissuades most pointless things well enough, though.
+
+Even if it's all well-justified, it is depressingly eyeopening to quantify the time spent on touch devices.
+I assume most modern devices let you do this, and you should.
+Last year, I swapped out my iPhone for a Blackberry, which makes me feel a little less like I'm [stuck on the hampster wheel](https://www.youtube.com/watch?v=Pe-zq4bFPFU).
+
+Also helpful: unfollow every single person and page on Facebook (you are missing absolutely nothing, I promise) and use the "mute" and the "retweet mute" buttons judiciously on your *personal* Twitter.
+
+I tried relocating my device chargers out of the bedroom.
+I ended up deciding to return my iPad to the nightstand, though.
+Although [not a totally ideal way to start the day](https://medium.com/thrive-global/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3), I find that [checking my RSS feeds](https://feedly.com/) and making my daily deposit [on the Instagram](https://www.instagram.com/morenomatthewa/) helps to incentivize and ease the transition from lizard brain to consciousness.
 
 ## Self Tracking
 
 ![](https://osf.io/n2btf/download){:width="100%"}
 
+Ah, [quantified self](https://en.wikipedia.org/wiki/Quantified_self).
+The thing you do for a while and then somehow end up not doing anymore.
+
+I played around with the [Garmin Vivosmart 3 wrist tracker](https://www.amazon.com/gp/product/B07BH3XN3T/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1) and [Existential Time Tracking](http://www.cgpgrey.com/blog/cortex-44-existential-time-tracking) in a little Moleskine notebook.
+All I got out of tracking everything I did all day, every day was a paper trail for the embarrassingly large amount of time I spent learning the Japanese alphabet.
+From the wrist tracker, I didn't get much better utility: I usually sleep nine hours a night and apparently I enter "deep sleep" for only like 5 minutes (whatever that means).
+
+Personally, I find quantified self projects that unfold on the scale decades like [Kazuo Yano](http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Keynotes)'s very nifty wrist-accelerometer ["life tapestry"](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.497.4009) and [Steven Wolfram](https://www.glassdoor.com/Reviews/Wolfram-Research-Reviews-E14501.htm)'s also nifty [email/keylogger tapestry](http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/) the most compelling.
+Unfortunately, although they do tell a cool story, I don't find quantified self projects like these terribly prescriptive.
+Also, they take years to mature.
+
 ## Make Your Bed and Clean Your Sink
 
 ![](https://osf.io/v28x7/download){:width="100%"}
 
-cooking
+Some woman who was being interviewed by [Terri Gross](https://www.youtube.com/watch?v=YTVFNZKuN-g) on [Fresh Air](https://www.npr.org/programs/fresh-air/) briefly convinced me that cleaning your sink and making your bed was life-changing Zen magic.
+(For some reason, I remember the guest as the totally kick-ass [current director of the IMF](https://en.wikipedia.org/wiki/Christine_Lagarde), but this doesn't really make sense.)
+Making your bed and cleaning your sink is nice, but isn't life-changing Zen magic.
+
+In my experience, though, walking to the grocery store and then cooking a proper dinner seems to correlate with easier sleep.
 
 ## Smart Home <a name="SmartHome"></a>
 
-https://strngfy.com/s6cDKYye
-
-https://ifttt.com/applets/WKpCkv9H-if-you-say-alexa-trigger-fans-timer-then-run-a-stringify-flow
-
-https://ifttt.com/applets/DtQ7HFgA-if-stringify-flow-named-x-hour-timer-ran-then-turn-off-a-meross-device
-
-https://ifttt.com/applets/UbsruxQq-if-every-day-at-x-am-then-turn-off-a-meross-device
-
-https://ifttt.com/applets/ktWbsdjf-if-you-say-alexa-trigger-fans-on-then-turn-on-a-meross-device
-
-https://ifttt.com/applets/kezbVwFg-if-you-say-alexa-trigger-fans-off-then-turn-off-a-meross-device
+I use [Amazon Echo](https://www.amazon.com/Amazon-Echo-And-Alexa-Devices/b?ie=UTF8&node=9818047011) devices around the house.
+At night, it's sometimes nice to be able to turn on/off the radio (especially, putting it on a sleep timer) or ask about the weather or other odds and ends without having to get up or use a screen.
 
 ![](https://osf.io/r7x4u/download){:width="100%"}
+
+I use a bunch of [Meross](http://www.meross.com/) smart plugs, which are cheap and work fine, around the house to control lamps and fans.
+I have an [Awair Glow](https://getawair.com/pages/awair-glow) smart plug, too, but wouldn't strongly recommend it because it's been pretty spotty in terms of reliability lately.
+Again, it's nice being able to turn devices (especially fans, see [Air](#Air) and [Good Noise](#GoodNoise)) on/off without having to get up or use a screen.
+I played around with lots of different control strategies (e.g., weather-based, indoor temperature based, etc.), but recipes I found to be the most useful.
+* three-part IFTTT `->` Stringify `->` IFTTT recipe for a voice-activated X hour timer for smart devices
+([1](https://ifttt.com/applets/WKpCkv9H-if-you-say-alexa-trigger-fans-timer-then-run-a-stringify-flow),
+[2](https://strngfy.com/s6cDKYye),
+[3](https://ifttt.com/applets/DtQ7HFgA-if-stringify-flow-named-x-hour-timer-ran-then-turn-off-a-meross-device))
+* IFTTT voice-activated trigger, which can control multiple devices at once ([on](https://ifttt.com/applets/ktWbsdjf-if-you-say-alexa-trigger-fans-on-then-turn-on-a-meross-device)/[off](https://ifttt.com/applets/kezbVwFg-if-you-say-alexa-trigger-fans-off-then-turn-off-a-meross-device))
+* turn a device off every day at X am/pm (e.g., to help save energy)
+([link](https://ifttt.com/applets/UbsruxQq-if-every-day-at-x-am-then-turn-off-a-meross-device))
+
+Be aware that smart devices and smart plugs noticeably consume electricity.
 
 ## Naps
 
@@ -380,43 +452,77 @@ Often, working late can be avoided [through some proactive effort](https://waitb
 Even in a pinch though, I'll sometimes decide to just go to bed anyways.
 Taking seriously the impact that staying up to do it will have on your sleep for days to come (or weeks, if it really throws you off kilter)TODO
 
-Also, be aware of (sometimes subtle) institutional forces that [encourage](https://www.bostonglobe.com/metro/2018/09/08/many-college-students-don-sleep-well-this-harvard-course-hopes-change-that/xMiKiboMFH8UFMR9lgennL/story.html) or [mandate](https://medium.com/@mattyoung_97598/sleep-deprivation-with-regards-to-hackathons-722d9d43c2ad) working late.
+Also, beware and resist (sometimes subtle) institutional forces that [encourage](https://www.bostonglobe.com/metro/2018/09/08/many-college-students-don-sleep-well-this-harvard-course-hopes-change-that/xMiKiboMFH8UFMR9lgennL/story.html) or [mandate](https://medium.com/@mattyoung_97598/sleep-deprivation-with-regards-to-hackathons-722d9d43c2ad) working late.
 
 ## Age
 
-This one isn't really so much something you can do
-Turns out, graduate school is a great place to age quickly.
+This one isn't really so much something you can do as something you can hope for.
+Maybe more reasonable sleep hours tend to accompanying advancing biological age.
 
-## Chronic versus Acute
+Luckily, it turns out that graduate school is a great place to age quickly.
 
+## Acute versus Chronic
 
-## Further Work
+Finally, a more conceptual point.
+
+When I first started struggling with my sleep, I viewed it as a temporary crisis.
+I just had to right the ship, then I could forget about it.
+
+Now, I see sleep as a part of my life that I manage in an ongoing fashion (as simply and passively as possible), and I think that's a healthier and more useful take on it.
+
+## Future Work
+
+Stuff I didn't do but that might be cool/useful anyways... always [the easiest part to write up](http://phdcomics.com/comics/archive_print.php?comicid=1997).
 
 ### Exercise
 
 ![](https://osf.io/a7dpg/download){:width="100%"}
 
-### Go Outside
+Sometimes, exercise makes me feel tired.
+I haven't played with this variable systematically, though.
+
+Something as simple as just going out for a brief walk when you can't sleep might help.
 
 ### General Wellness
 
 ![](https://osf.io/37kgq/download){:width="100%"}
 
-### Do More Stuff
+Idk.
+Take your vitamins.
+Maybe try a standing desk.
+(Sitting is the new smoking, y'all.)
+
+Maybe just try doing more organized activities in general.
+In academia land, regularly scheduled seminars [(with free food!)](http://web.archive.org/save/http://whatshouldwecallgradschool.tumblr.com/post/147540962767/when-i-expect-food-at-a-seminar-and-there-isnt) might fit the bill.
+If nothing else, your local Parks and Rec department almost certainly has lots of things to sign up for.
 
 ### Do a Sleep Study
 
+[Sleep studies](https://en.wikipedia.org/wiki/Sleep_study) can help diagnose serious sleep disorders.
 Sounds expensive, but maybe your insurance covers it.
 
-Bringing in professionals never hurts.
+Bringing in professional help never hurts.
+I know at least one graduate student who has benefited from a sleep study.
+
+### Get a Prescription
+
+Prescription sleep aids might be useful to you.
+
+Also, depression and insomnia often live hand in hand.
+Prescription medications to treat depression (and/or other therapies) can go a long way.
+I've thought about this one a bit, and decided to keep it on the back burner unless I really start to feel persistently and unacceptably impaired.
+
+### Avoid Time Zone Changes
+
+Traveling East/West always throws me off, but I haven't actively tried to avoid it.
 
 ### Blackout Curtains
 
 Yup, this is [a thing you can do](https://xkcd.com/1973/).
 
-### Get a Prescription
-
-depression
+I'm not super into curtains, though, because
+1. I like morning light, and
+2. I inevitably forget to open curtains during the day, which will kill the plants that live in my room.
 
 ### Meditation
 
@@ -428,12 +534,31 @@ I hear a lot of chatter about meditation apps, so that might be working into.
 
 ### Go to Boot Camp
 
-### More Extreme Alarm Clocks
+I hear that a side effect of being yelled awake every morning is that your lizard brain becomes conditioned to *insist* on getting the hell out of bed every morning.
+
+### More Extreme/Inventive Alarm Clocks
+
+There's a lot of them.
+Google it.
 
 ### Roll With It
 
-https://tonic.vice.com/en_us/article/vbnmvy/a-counterintuitive-nighttime-routine-for-the-type-a-insomniac
+When I was in high school, one of my friends transferred to an online program.
+Not having to keep any hours in particular, she started reverse cycling around the clock.
+Her wake-sleep cycles took about 26 hours.
+So, every 6 days or so she switched between being basically nocturnal to being basically diurnal.
+
+Maybe for you it turns out something like that actually ends up being compatible with good quality of life (or, at least, feels better than wasting hours on vain attempts to fall asleep).
+
+Also, maybe [trying so hard to sleep makes your sleep problem worse](https://tonic.vice.com/en_us/article/vbnmvy/a-counterintuitive-nighttime-routine-for-the-type-a-insomniac).
 
 ## Let's Chat
 
-TODO embed twitter thread here
+I would love to hear your stories about sleeping in grad school!!
+
+I started a twitter thread (right below) so we can chat :phone: :phone: :phone:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">nothing to see here, just a placeholder tweet 🐦</p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/1054071480512843776?ref_src=twsrc%5Etfw">October 21, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Pop on there and drop me a line :fishing_pole_and_fish:, make a comment :raising_hand_woman:, or leave your own tips & tricks for sleeping better :heart:
