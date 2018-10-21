@@ -104,25 +104,53 @@ This worked well for a while, and I have vague notions of being less annoyed by 
 
 ## Temperature <a name="Temperature"></a>
 
-Making
-
-![](https://osf.io/xt9zc/download){:width="100%"}
+Sleeping in the heat *sucks*.
+I miss my big, heavy comforter dearly during the summer.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A: the <a href="https://twitter.com/hashtag/midwest?src=hash&amp;ref_src=twsrc%5Etfw">#midwest</a> vs <a href="https://twitter.com/hashtag/westcoast?src=hash&amp;ref_src=twsrc%5Etfw">#westcoast</a> climate difference that everyone talks about vs. B: the climate difference that ACTUALLY matters and everyone forgot to mention ... 🤒 <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://twitter.com/hashtag/dogdays?src=hash&amp;ref_src=twsrc%5Etfw">#dogdays</a> <a href="https://t.co/iEV53moGem">pic.twitter.com/iEV53moGem</a></p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/1008568607318700033?ref_src=twsrc%5Etfw">June 18, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+It took me a whole *year* to figure that one out.
+In a sadly doomed campaign cool by cross ventilation, I amassed an absurdly large collection of fans (six!!! for a one bedroom apt).
+
+![](https://osf.io/xt9zc/download){:width="100%"}
+
+Fans that blow *on* you, though, are way better than nothing.
+I have a desk fan on my nightstand and a pedestal fan at the foot of the bed.
+My mom tells me that damp washcloths and frozen water bottles are also better than nothing.
 
 ![](https://osf.io/bh8jf/download){:width="100%"}
 
-I find that cooler temperatures (e.g., maybe 62 F) can help me fall asleep.
+If you have it, though, AC is hard to beat.
+My apartment comes with a Reagan-vintage wall AC unit.
+For a while, I was too cheap to run it.
+I have since become convinced that AC at bedtime is worth every penny.
+I bought a plug timer for the AC, which allows me to fine tune beyond the existing options (basically "on" and "off").
+I'll usually have it run until 1 or 2 a.m., then have the plug timer turn off to save a buck.
+I'd really like to do something [more cleverer](#SmartHome), but my loud Reagan-box runs on a 240 volt plug.
+(You know, the kind you might plug your laundry machine or industrial grow light in with.)
+
+When I have the choice (i.e., during the winter when I can just open my window), I find that cooler temperatures (e.g., maybe 62 F) can help me fall asleep... but make crawling out of bed the next morning harder.
 
 ## Air <a name="Air"></a>
 
-![](https://osf.io/c57eu/download){:width="100%"}
+Another feature of Reagan-era apartments: no ventilation.
 
 ![](https://osf.io/ctxwd/download){:width="50%"}
 
-Leaving the window open.
+This 24 hour plot of CO2 concentration in my bedroom came from my [Awair](https://getawair.com/) glow.
+Even with the windows open, you can still see CO2 levels are up a little when I'm at home.
+I don't have the data anymore, but with the windows closed I've seen CO2 levels spike to 2500 ppm.
+
+Too-high CO2 levels can make you feel off.
+Stale air accumulating in a closed person-box for eight hours probably doesn't help you rise and shine.
+
+![](https://osf.io/c57eu/download){:width="100%"}
+
+I bought some plants for my room, more because I like plants and [Ikea](https://www.ikea.com/us/en/catalog/products/10258155/) [things](https://www.ikea.com/us/en/catalog/products/40258154/) than for any other reason.
+(Plants respire, too.)
+
+The real answer here is to leave the window open, which I do every night.
 
 ## Bad Noise
 
@@ -211,12 +239,14 @@ I used to listen to Garrison Keillor's [The Writer's Almanac](https://www.writer
 The Almanac briefly ceased to exist but has since [returned to production](https://art19.com/shows/the-writers-almanac).
 Attempts ([1](https://bidwellhollow.com/replacing-the-writers-almanac/), [2](http://theartistsalmanac.org/)) to fill [the void](http://www.wbur.org/hereandnow/2017/12/06/poets-writers-almanac), unfortunately, don't seem to have stuck.
 
-If there's a podcast feed you like that's not currently available as a Flash Briefing skill, it's actually very straightforward (takes maybe fifteen minutes, no coding involved) to fix that.
-There are two pieces you need to put together.
+If there's a podcast feed you like that's not currently available as a Flash Briefing skill, it's actually very straightforward to fix that.
+Setting it up takes maybe fifteen minutes, and no coding is involved.
+
 First, you need to create a mirror RSS feed that only serves up the most recent episode of your podcast.
 Otherwise, Alexa will play through *all* the available episodes every time, which probably isn't what you want.
 It's easy (and free) to do this with a RSS to RSS "zap" from [Zapier](https://zapier.com/) where you set your mirror RSS feed to only return one item (e.g., `Max Records` = 1).
-Then, hop on over to Amazon to register a developer account, [click a few buttons](https://developer.amazon.com/docs/flashbriefing/steps-to-create-a-flash-briefing-skill.html), and paste in your Zaipier RSS url.
+
+Second, hop on over to Amazon to register a developer account, [click a few buttons](https://developer.amazon.com/docs/flashbriefing/steps-to-create-a-flash-briefing-skill.html), and paste in your Zaipier RSS url.
 Once you save the skill, it should become available to "test" on your Alexa devices.
 You can comfortably continue using the skill like this without ever needing to officially publish it.
 
@@ -261,7 +291,7 @@ Be careful if you try to pick up a lamp designed for a different region (e.g., E
 * The free [If This Than That](https://ifttt.com) service (IFTTT), which serves as a kind of handy duct tape to control smart devices among other things, only offers time triggers at fifteen minute granularity.
 Luckily, the [particular no-brand smart bulb](https://www.amazon.com/gp/product/B07DFGPG57/ref=oh_aui_detailpage_o02_s01?ie=UTF8&psc=1) I bought provides proprietary timing functionality that allowed for brightness changes at one minute increments.
 I ended up using a combination of IFTTT and proprietary triggers because the proprietary only offered six daily schedulable events.
-* If you end up with a smart bulb that doesn't offer proprietary timing triggers (or, even better, trigger-able configurable fades), you might be able to achieve a reasonable fade in through [clever acrobatics via another service called Stringify](#SmartHome).
+* If you end up with a smart bulb that doesn't offer proprietary timing triggers (or, even better, trigger-able configurable fades), you might be able to achieve a reasonable fade in through [clever acrobatics](#SmartHome) via another service called Stringify](https://www.stringify.com/).
 
 ## Workspace Lighting
 
@@ -445,21 +475,20 @@ When you sleep 10 hours a night, napping just because you don't feel like doing 
 
 ## Working Late
 
-If you are a busy beaver surfing an endless wave of imminent deadlines, working late makes sense.
-When I started to realize .
+If you are a busy beaver surfing an endless wave of imminent deadlines, working late can seem reasonable.
+Seriously considering the impact that staying up will have on my sleep for days to come (or weeks, if it really throws me off kilter) has really changed my calculus.
 Now, unless I truly cannot avoid it, I try to avoid working after 10 p.m.
-Often, working late can be avoided [through some proactive effort](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html).
-Even in a pinch though, I'll sometimes decide to just go to bed anyways.
-Taking seriously the impact that staying up to do it will have on your sleep for days to come (or weeks, if it really throws you off kilter)TODO
+Often, working late *can* be avoided [through some proactive effort](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html).
+Even in a pinch, though, I'll sometimes decide to just go to bed.
 
 Also, beware and resist (sometimes subtle) institutional forces that [encourage](https://www.bostonglobe.com/metro/2018/09/08/many-college-students-don-sleep-well-this-harvard-course-hopes-change-that/xMiKiboMFH8UFMR9lgennL/story.html) or [mandate](https://medium.com/@mattyoung_97598/sleep-deprivation-with-regards-to-hackathons-722d9d43c2ad) working late.
 
 ## Age
 
 This one isn't really so much something you can do as something you can hope for.
-Maybe more reasonable sleep hours tend to accompanying advancing biological age.
+Maybe more reasonable sleep hours tend to accompanying advancing biological age?
 
-Luckily, it turns out that graduate school is a great place to age quickly.
+Luckily, it turns out that graduate school is a great place to age rapidly.
 
 ## Acute versus Chronic
 
