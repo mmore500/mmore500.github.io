@@ -127,6 +127,7 @@ For a while, I was too cheap to run it.
 I have since become convinced that AC at bedtime is worth every penny.
 I bought a plug timer for the AC, which allows me to fine tune beyond the existing options (basically "on" and "off").
 I'll usually have it run until 1 or 2 a.m., then have the plug timer turn off to save a buck.
+I redeployed my army of fans from cross ventilation duty to blow AC from the unit in the living room into my sleep area.
 I'd really like to do something [more cleverer](#SmartHome), but my loud Reagan-box runs on a 240 volt plug.
 (You know, the kind you might plug your laundry machine or industrial grow light in with.)
 
@@ -416,7 +417,7 @@ Even if it's all well-justified, it is depressingly eyeopening to quantify the t
 I assume most modern devices let you do this, and you should.
 Last year, I swapped out my iPhone for a Blackberry, which makes me feel a little less like I'm [stuck on the hampster wheel](https://www.youtube.com/watch?v=Pe-zq4bFPFU).
 
-Also helpful: unfollow every single person and page on Facebook (you are missing absolutely nothing, I promise) and use the "mute" and the "retweet mute" buttons judiciously on your *personal* Twitter.
+Also helpful: unfollow every single person and page on Facebook (you are missing absolutely nothing, I promise), unsubscribe from email lists, and use the "mute" and the "retweet mute" buttons judiciously on your *personal* Twitter.
 
 I tried relocating my device chargers out of the bedroom.
 I ended up deciding to return my iPad to the nightstand, though.
