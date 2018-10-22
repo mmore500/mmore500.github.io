@@ -8,4 +8,4 @@ Portfolio components taken from [*folio](https://github.com/bogoli/-folio).
 
 Matthew Andres Moreno
 
-[matthew.andres.moreno@gmail.com](mailto:matthew.andres.moreno@gmail.com)
+[mmore.500@gmail.com](mailto:mmore.500@gmail.com)

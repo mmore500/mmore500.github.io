@@ -32,7 +32,7 @@ permalink: /inquiry/
 
   <p>
     Either way --- or if you just want to say hi --- email me at
-    <a href="mailto:matthew.andres.moreno@gmail.com">matthew.andres.moreno@gmail.com</a>.
+    <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
   </p>
   </div>
   <div class="hideflex">
