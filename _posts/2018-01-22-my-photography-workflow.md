@@ -360,7 +360,7 @@ On occasion, I'll open up [Lightroom](https://itunes.apple.com/us/app/adobe-ligh
 
 ## Publish
 
-I publish my photos through [Instagram](https://www.instagram.com/m.andres.moreno/).
+I publish my photos through [Instagram](https://www.instagram.com/morenomatthewa/).
 When I post on Instagram, I always share to [tumblr](https://mmore500.tumblr.com).
 I really like tumblr as a photo blog platform.
 I [use IFTTT to tweet my Instagram photos](https://ifttt.com/applets/103249p-tweet-your-instagrams-as-native-photos-on-twitter), too.
