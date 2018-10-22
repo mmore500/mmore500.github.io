@@ -1,4 +1,4 @@
-## mmore500.github.io
+## [mmore500.github.io](https://mmore500.github.io)
 
 My personal and academic site.
 Built with Jekyll.
