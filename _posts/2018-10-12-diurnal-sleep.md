@@ -98,9 +98,9 @@ After a month or so, I didn't even like to hear the track any more when I was aw
 Besides being too uniform of a stimulus, the music alarm might have been too loud and/or music might just be inherently too strong of a stimulus for lizard brain to tolerate.
 If you do go for a music-based alarm, you might play with the alarm volume and try making sure that your alarm always plays a different sequence of tracks (e.g., shuffle over a large selection or tuning into a music-oriented radio station).
 
-My smart health-tracker has a wristwatch.
-It took about two days for lizard brain to clue in and treat it just like the Timex.
-This worked well for a while, and I have vague notions of being less annoyed by it, but my lizard brain has
+My smart watch has a wrist-buzzing alarm.
+It took about two days for lizard brain to learn to snooze it, just like the Timex.
+The wrist alarm's not unpleasant, though, and might be useful in a situation where you wanted to get up without disturbing someone else.
 
 ## Temperature <a name="Temperature"></a>
 
