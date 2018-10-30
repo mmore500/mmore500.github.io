@@ -347,3 +347,53 @@ font-size: $caption_font_size;
 padding-left: 40px;
 flex-grow: 1;
 }
+
+/*
+ *  toc-anchor
+ */
+.toc-anchor {
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+/*
+ *  toc
+ */
+.toc-longlist {
+  padding: 0;
+  margin-left: 80px;
+  margin-right: 0;
+  margin-bottom: $spacing-unit;
+  list-style: none;
+  -moz-columns: 2;
+  -webkit-columns: 2;
+  columns: 2;
+}
+
+.toc-shortlist {
+  padding: 0;
+  margin-left: 80px;
+  margin-right: 0;
+  margin-bottom: $spacing-unit;
+  list-style: none;
+  -moz-columns: 1;
+  -webkit-columns: 1;
+  columns: 1;
+}
+
+.toc{
+	position: relative;
+  min-height: 150px;
+}
+
+.toc-label {
+	transform: rotate(-90deg);
+	-ms-transform: rotate(-90deg);
+	-webkit-transform: rotate(-90deg);
+  letter-spacing: 3px;
+  padding-left: -20px;
+  margin-left: -20px;
+	top: 50px;
+	position: absolute;
+}

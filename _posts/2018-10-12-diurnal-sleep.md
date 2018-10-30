@@ -50,7 +50,7 @@ In this blog, I'll blitz through various sleep interventions I've tried, in no p
 For anyone working to keep a workable sleep schedule, maybe you'll come away with some new ideas to try out.
 Regardless, I hope my shotgun approach here might at least have some entertainment value.
 
-## Alarm Clock <a name="AlarmClock"></a>
+## Alarm Clock
 
 Through my long-time struggle with alarm clocks, I've identified three wakefulness states:
 
@@ -89,7 +89,7 @@ Lizard brain doesn't seem to care about quiet, soothing NPR voices ([despite wha
 I think I pass through lizard brain stage, which is not moved to turn off the stimulus, and, with continued application of the stimulus, eventually gain enough consciousness to decide to get out of bed.
 I've experienced one side effect: occasional extremely vivid dreams about whatever topic is being covered on NPR.
 I can live with that.
-My DIY sunrise lamp ([details below](#SunriseLamp)) also seems to help me ease past lizard brain.
+My DIY sunrise lamp ([details below](#sunrise-lamp)) also seems to help me ease past lizard brain.
 
 A few years ago, I tried using a music playlist as an alarm.
 Unfortunately, the playlist couldn't be shuffled, so the first track to come on was always the same.
@@ -102,7 +102,7 @@ My smart watch has a wrist-buzzing alarm.
 It took about two days for lizard brain to learn to snooze it, just like the Timex.
 The wrist alarm's not unpleasant, though, and might be useful in a situation where you wanted to get up without disturbing someone else.
 
-## Temperature <a name="Temperature"></a>
+## Temperature
 
 Sleeping in the heat *sucks*.
 I miss my big, heavy comforter dearly during the summer.
@@ -128,12 +128,12 @@ I have since become convinced that AC at bedtime is worth every penny.
 I bought a plug timer for the AC, which allows me to fine tune beyond the existing options (basically "on" and "off").
 I'll usually have it run until 1 or 2 a.m., then have the plug timer turn off to save a buck.
 I redeployed my army of fans from cross ventilation duty to blow AC from the unit in the living room into my sleep area.
-I'd really like to do something [more cleverer](#SmartHome), but my loud Reagan-box runs on a 240 volt plug.
+I'd really like to do something [more cleverer](#smart-home), but my loud Reagan-box runs on a 240 volt plug.
 (You know, the kind you might plug your laundry machine or industrial grow light in with.)
 
 When I have the choice (i.e., during the winter when I can just open my window), I find that cooler temperatures (e.g., maybe 62 F) can help me fall asleep... but make crawling out of bed the next morning harder.
 
-## Air <a name="Air"></a>
+## Air
 
 Another feature of Reagan-era apartments: no ventilation.
 
@@ -221,17 +221,17 @@ A few important pointers for that:
 
 Also, sometimes I forget this, but just rolling over and putting a pillow over your head can help a lot, too.
 
-## Good Noise <a name="GoodNoise"></a>
+## Good Noise
 
 For some people, some noises can be pleasant!
 
 Your smart speaker can probably play white noise.
 I played with this some, but didn't care for it.
 
-[My army of fans](#Temperature) generates plenty of white noise.
+[My army of fans](#temperature) generates plenty of white noise.
 Some nights, I'm super into the fan noise.
 Other nights, I'm not.
-On those nights, it's nice being able to [turn everything off with a voice command](#SmartHome).
+On those nights, it's nice being able to [turn everything off with a voice command](#smart-home).
 
 I like listening to a brief newscast before sleep.
 I currently have "NPR News Now" and "BBC World Service" set up on my Alexa's [Flash Briefing](https://developer.amazon.com/docs/flashbriefing/understand-the-flash-briefing-skill-api.html)
@@ -271,13 +271,13 @@ My mom did this when Oregon State put in a new [barn-classroom thing](https://ev
 After consulting an attorney, do whatever you want.
 Just be sure that your righteous self-empowerment won't catch fire.
 
-## Sunrise Lamp <a name="SunriseLamp"></a>
+## Sunrise Lamp
 
 ![](https://osf.io/v5f4d/download){:width="100%"}
 
 I combined an [Ikea FADO table lamp](https://www.google.com/search?q=ikea%20fado&tbm=isch) with a smart lightbulb to fashion a DIY sunrise lamp.
 The idea here is that the light runs on a timer to gently fade in before I want to get up, gradually shifting my body towards wakefulness.
-I quite like it, especially in combination with [a clock radio alarm](#AlarmClock).
+I quite like it, especially in combination with [a clock radio alarm](#alarm-clock).
 It's probably ranks among the more effective interventions I've tried.
 Plus, it doubles as a handy voice-controlled light via Amazon Alexa.
 
@@ -292,7 +292,7 @@ Be careful if you try to pick up a lamp designed for a different region (e.g., E
 * The free [If This Than That](https://ifttt.com) service (IFTTT), which serves as a kind of handy duct tape to control smart devices among other things, only offers time triggers at fifteen minute granularity.
 Luckily, the [particular no-brand smart bulb](https://www.amazon.com/gp/product/B07DFGPG57/ref=oh_aui_detailpage_o02_s01?ie=UTF8&psc=1) I bought provides proprietary timing functionality that allowed for brightness changes at one minute increments.
 I ended up using a combination of IFTTT and proprietary triggers because the proprietary only offered six daily schedulable events.
-* If you end up with a smart bulb that doesn't offer proprietary timing triggers (or, even better, trigger-able configurable fades), you might be able to achieve a reasonable fade in through [clever acrobatics](#SmartHome) via another service called Stringify](https://www.stringify.com/).
+* If you end up with a smart bulb that doesn't offer proprietary timing triggers (or, even better, trigger-able configurable fades), you might be able to achieve a reasonable fade in through [clever acrobatics](#smart-home) via another service called Stringify](https://www.stringify.com/).
 
 ## Workspace Lighting
 
@@ -408,14 +408,14 @@ None of these worked, but at least I got some nice things I enjoy anyways out of
 
 For me, [doing pointless things on the internet](https://store.waitbutwhy.com/products/dark-playground-poster-18x24) when I'm supposed to be sleeping generally seems to be a symptom of not sleeping instead of a cause.
 
-I do put some parental controls on myself [on my work computer](https://mmore500.github.io/2018/01/18/my-elementary-setup.html#BlockDistractingWebsites) and [on my iPad](https://www.apple.com/newsroom/2018/06/ios-12-introduces-new-features-to-reduce-interruptions-and-manage-screen-time/).
+I do put some parental controls on myself [on my work computer](https://mmore500.github.io/2018/01/18/my-elementary-setup.html#block-distracting-websites) and [on my iPad](https://www.apple.com/newsroom/2018/06/ios-12-introduces-new-features-to-reduce-interruptions-and-manage-screen-time/).
 
 If I were really serious, I would have someone else set the password to make overrides more difficult.
 For me, mere inconvenience dissuades most pointless things well enough, though.
 
 Even if it's all well-justified, it is depressingly eyeopening to quantify the time spent on touch devices.
 I assume most modern devices let you do this, and you should.
-Last year, I swapped out my iPhone for a Blackberry, which makes me feel a little less like I'm [stuck on the hampster wheel](https://www.youtube.com/watch?v=Pe-zq4bFPFU).
+Last year, I swapped out my iPhone for a Blackberry, which makes me feel a little less like I'm [stuck](https://www.youtube.com/watch?v=Pe-zq4bFPFU) [on the hamster wheel](https://www.youtube.com/watch?v=AEVDpDmqEEs).
 
 Also helpful: unfollow every single person and page on Facebook (you are missing absolutely nothing, I promise), unsubscribe from email lists, and use the "mute" and the "retweet mute" buttons judiciously on your *personal* Twitter.
 
@@ -448,7 +448,7 @@ Making your bed and cleaning your sink is nice, but isn't life-changing Zen magi
 
 In my experience, though, walking to the grocery store and then cooking a proper dinner seems to correlate with easier sleep.
 
-## Smart Home <a name="SmartHome"></a>
+## Smart Home
 
 I use [Amazon Echo](https://www.amazon.com/Amazon-Echo-And-Alexa-Devices/b?ie=UTF8&node=9818047011) devices around the house.
 At night, it's sometimes nice to be able to turn on/off the radio (especially, putting it on a sleep timer) or ask about the weather or other odds and ends without having to get up or use a screen.
@@ -457,7 +457,7 @@ At night, it's sometimes nice to be able to turn on/off the radio (especially, p
 
 I use a bunch of [Meross](http://www.meross.com/) smart plugs, which are cheap and work fine, around the house to control lamps and fans.
 I have an [Awair Glow](https://getawair.com/pages/awair-glow) smart plug, too, but wouldn't strongly recommend it because it's been pretty spotty in terms of reliability lately.
-Again, it's nice being able to turn devices (especially fans, see [Air](#Air) and [Good Noise](#GoodNoise)) on/off without having to get up or use a screen.
+Again, it's nice being able to turn devices (especially fans, see [Air](#air) and [Good Noise](#good-noise)) on/off without having to get up or use a screen.
 I played around with lots of different control strategies (e.g., weather-based, indoor temperature based, etc.), but recipes I found to be the most useful.
 * three-part IFTTT `->` Stringify `->` IFTTT recipe for a voice-activated X hour timer for smart devices
 ([1](https://ifttt.com/applets/WKpCkv9H-if-you-say-alexa-trigger-fans-timer-then-run-a-stringify-flow),

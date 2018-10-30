@@ -129,7 +129,7 @@ By placing this script in `/etc/init.d/`, logkeys will be launched on boot.
 I discovered that the commented header was necessary to register the script for launch on boot.
 You'll need to switch out `/home/mmore500/.config/logkeys/mylang.map` with whatever path you put your custom keymap on.
 If you didn't need to make a custom keymap, you can omit `-m /home/mmore500/.config/logkeys/mylang.map`.
-([See below](#SmartHome) for details on testing whether you need a custom keymap and setting one up.)
+([See below](#logkeys-keymap) for details on testing whether you need a custom keymap and setting one up.)
 
 I call the `logkeys-start.sh` script via crontab every five seconds.
 This way, logkeys will promptly restart after keyboard plug-in/unplug events kill it.
@@ -151,7 +151,7 @@ Here's the relevant addition to my `/etc/crontab`.
 * * * * * root sleep 55; /etc/init.d/logkeys-start.sh
 ~~~
 
-### Logkeys Keymap <a name="LogkeysKeymap"></a>
+### Logkeys Keymap
 
 I run [elemenary OS](https://elementary.io/) on a [Lenovo Thinkpad Carbon](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-5th-Gen/p/22TP2TXX15G).
 In order to get correct key log output, I had to define a custom keymap.

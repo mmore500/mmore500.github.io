@@ -8,8 +8,19 @@ layout: default
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
   </header>
 
+  {% unless page.no_toc %}
+    <div class="toc">
+      <div id = "header">
+        <h1 class = "toc-label">
+          contents
+        </h1>
+      </div>
+    {% include toc.html h_min=2 h_max=2 threshold=9 short_class="toc-shortlist" class="toc-longlist" santize=true  html=content %}
+  </div>
+  {% endunless %}
+
   <div class="post-content" itemprop="articleBody">
-    {{ content }}
+    {% include anchor_headings.html html=content anchorBody="🔗" anchorClass="toc-anchor" beforeHeading=true%}
   </div>
 
 </article>

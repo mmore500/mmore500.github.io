@@ -148,7 +148,7 @@ Note that you might need superuser permissions to remove files under the `/usr` 
 
 (Original source [here](https://askubuntu.com/questions/71240/how-to-remove-icons-shortcuts-from-unity-menu).)
 
-## Block Distracting Websites <a name="BlockDistractingWebsites"></a>
+## Block Distracting Websites
 
 One of my friends works at a municipal library in small-town middle America.
 On her performance review, anonymous coworker told her that she needed to cool her jets because she was making everyone else look bad.
