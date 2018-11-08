@@ -397,3 +397,60 @@ flex-grow: 1;
 	top: 50px;
 	position: absolute;
 }
+
+.recipe-contents {
+	display: flex;
+	display: -webkit-flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+
+	.ingredients {
+		width: 200px;
+		padding: 10px 10px 10px 10px;
+	}
+
+	.directions {
+    padding: 10px 10px 10px 10px;
+    -webkit-flex-grow: 1;
+    -webkit-flex-shrink: 1;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 250px;
+	}
+
+	.notes {
+    padding: 10px 10px 10px 10px;
+    -webkit-flex-grow: 1;
+    -webkit-flex-shrink: 1;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 100%;
+	}
+
+}
+
+.recipe-overview {
+  padding: 0 0 20px 0;
+  margin: auto;
+  text-align: center;
+
+  svg {
+    position: relative;
+    top: 6px;
+  }
+
+  span {
+    margin: 0 18px 0 3px;
+  }
+
+  li {
+    list-style: none;
+    padding: 0 10px 10px 10px;
+    margin: 0;
+
+    display: inline-block;
+
+    text-align: initial;
+
+  }
+}

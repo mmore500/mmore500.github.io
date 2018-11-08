@@ -1,0 +1,14 @@
+{% case include.icon %}
+	{% when "quantity" %}
+  {% include icon-utensils.svg %}
+	{% when "preheat" %}
+  {% include icon-oven.svg %}
+	{% when "prep" %}
+  {% include icon-mixer.svg %}
+	{% when "cook" %}
+  {% include icon-pan.svg %}
+	{% when "time" %}
+  {% include icon-stopwatch.svg %}
+  {% when "source" %}
+  {% include icon-notepad.svg %}
+{% endcase %}

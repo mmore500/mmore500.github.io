@@ -3,6 +3,7 @@
 My personal and academic site.
 Built with Jekyll.
 Portfolio components taken from [*folio](https://github.com/bogoli/-folio).
+Recipe components taken from [treat-jekyll-template](https://github.com/CloudCannon/treat-jekyll-template).
 
 ### Authorship
 

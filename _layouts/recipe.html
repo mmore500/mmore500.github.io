@@ -1,0 +1,58 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="https://schema.org/Recipe">
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+  </header>
+
+	<ul id="recipe" class="recipe-overview">
+		{% if page.recipe.servings %} <li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li> {% endif %}
+    {% if page.recipe.preheat %} <li title="Preheat">{% include recipe-icon.html icon="preheat" %}<span>{{ page.recipe.preheat }}</span></li> {% endif %}
+		{% if page.recipe.prep %} <li title="Prep Time">{% include recipe-icon.html icon="prep" %}<span>{{ page.recipe.prep }}</span></li> {% endif %}
+		{% if page.recipe.cook %} <li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li> {% endif %}
+		{% if page.recipe.time %} <li title="Total Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.time }}</span></li> {% endif %}
+		{% if page.recipe.source_name or page.recipe.source_publisher %}
+    <li title="Adapted From">
+    {% include recipe-icon.html icon="source" %}
+    <span>
+    {% if page.recipe.source_url %}
+    <a href="{{ page.recipe.source_url }}">
+    {% endif %}
+    {% if page.recipe.source_name %}
+    {{ page.recipe.source_name }}
+    {% endif %}
+    {% if page.recipe.source_publisher %}
+    via
+    {{ page.recipe.source_publisher }}
+    {% endif %}
+    {% if page.recipe.source_url %}
+    </a>
+    {% endif %}
+    </span>
+    </li>
+    {% endif %}
+	</ul>
+
+	<div class="recipe-contents">
+		<div class="ingredients">
+			<h2><b>Ingredients</b></h2>
+			{{ page.recipe.ingredients_markdown | markdownify }}
+		</div>
+
+		<div class="directions">
+			<h2><b>Directions</b></h2>
+			{{ page.recipe.directions_markdown | markdownify }}
+		</div>
+
+    {% if page.recipe.notes_markdown %}
+    <div class="notes">
+			<h2><b>Notes</b></h2>
+			{{ page.recipe.notes_markdown | markdownify }}
+		</div>
+    {% endif %}
+	</div>
+
+</article>
