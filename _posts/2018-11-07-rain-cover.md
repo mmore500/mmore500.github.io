@@ -21,7 +21,7 @@ I live away from my hometown.
 The word I would use, though, is *exile*.
 
 I could talk your ear off over a whole litany --- Corvallis took [third place](https://livability.com/best-places/top-100-best-places-to-live/2018/or/corvallis) in *livability.com*'s ~renowned~ straight-to-chamber-of-commerce-press-release "Best Places to Live 2018" rankings --- of topics --- seriously, I dare you to ask me about vote-by-mail. However, I prize especially  green space in Corvallis.
-Immediately to the North --- as in, contiguous with a city park --- is Oregon State University's McDonald Forest.
+Immediately to the north --- as in, contiguous with a city park --- is Oregon State University's McDonald Forest.
 The University forest covers 17.6 square miles.
 Parks and Rec and the Greenbelt Land Trust administer about 3.6 square miles around town.
 That's 21.2 square miles total of publicly accessible green space that's pretty much as easy to get to as swinging by the post office.
@@ -50,7 +50,7 @@ In the northwest, being out means being out in the rain.
 I haven't quite put my finger on what being out in the rain in Corvallis means.
 I suspect it's different from the Midwest, where being out in the rain means you have to hang your pants up in the shower when you get home.
 I think it has something to do with the character of precipitation from loose, low-elevation clouds.
-I think it has something to do with the particular [temperate rain forest](https://en.wikipedia.org/wiki/Temperate_rainforest) flora and geology.
+I think it has something to do with the particular [temperate rain forest](https://en.wikipedia.org/wiki/Temperate_rainforest) [flora](https://www.inaturalist.org/places/mcdonald-dunn-forest) and geology.
 I think it has something to do with high school, [cross country](https://www.youtube.com/watch?v=uyrcsZEv_wQ&feature=youtu.be&t=114), and the privilege to drive.
 I think it has something to do with how it doesn't just blow through.
 I think it has something to do with being out alone, just as an errand.
