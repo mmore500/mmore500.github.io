@@ -7,7 +7,9 @@ permalink: /research/
 *A listing of my scientific publications is available on [my google scholar profile](https://scholar.google.com/citations?user=xROn8y4AAAAJ).
 Find links to access materials (PDFs and more) from my scientific publications and other projects below.*
 
-**reinterpretive-label**. Matthew Andres Moreno. Open-source guerilla art software. 2018. [[repository]](https://github.com/mmore500/reinterpretive-label)
+**presentation-template**. Open-source containerized LaTeX template with custom fonts. 2018. [[repository]](https://github.com/mmore500/presentation-template) [[twitter thread]](https://twitter.com/MorenoMatthewA/status/1048676082952626177)
+
+**reinterpretive-label**. Open-source guerilla art software. 2018. [[repository]](https://github.com/mmore500/reinterpretive-label) [[twitter thread]](https://twitter.com/MorenoMatthewA/status/1011596989824405505)
 
 **A Broadly-Conserved NERD Genetically Interacts with the Exocyst to Affect Root Growth and Cell Expansion**. Rex Cole, Valera Peremyslov, Savanah Van Why, Ibrahim Moussaoui, Ann Ketter, Renee Cool, Matthew Andres Moreno, Zuzana Vejlupkova, Valerian Dolja, and John E Fowler. Journal of Experimental Botany. May 2, 2018. [[paper]](https://academic.oup.com/jxb/advance-article/doi/10.1093/jxb/ery162/4990813?guestAccessKey=f2af1b2e-c977-4ac2-ae18-de1a3cfa6bc8)
 
@@ -15,7 +17,7 @@ Find links to access materials (PDFs and more) from my scientific publications a
 
 **Learning an Evolvable Genotype-Phenotype Mapping**. Matthew Andres Moreno, Wolfgang Banzhaf, and Charles Ofria. Proceedings of the Genetic and Evolutionary Computation Conference. July, 2018. [[paper]](https://github.com/mmore500/gecco-2018/releases) [[code, data, tutorials]](https://osf.io/n92c7/) [[blog]](https://mmore500.github.io/2018/05/23/automap.html) [[slides]](https://github.com/mmore500/gecco-2018-presentation/releases)
 
-**templ**. Open-source Python package. Matthew Andres Moreno. [[github]](https://github.com/mmore500/templ)
+**templ**. Open-source Python package for organizing a Markdown notebook or journal. [[github]](https://github.com/mmore500/templ) [[blog post]](https://mmore500.github.io/2018/01/21/my-record-keeping-setup.html)
 
 **Information Theory Through Toy Examples**. Devolab blog post. Matthew Andres Moreno. October 26, 2017. [[pdf]](/resources/october_26_2017.pdf) [[blog post]](http://devosoft.org/information-theory-through-toy-examples/)
 
@@ -38,7 +40,7 @@ Genetic Regulatory Network Model**. Matthew Moreno. Math/CS Day; University of P
 
 **Modeling the Collective Behavior of Ants on Uneven Terrain**. Matthew Moreno, Jason Graham, and Simon Garnier. Phi Sigma Undergraduate Research Symposium; University of Puget Sound. April 1, 2017.  [[presentation]](/resources/april_1_2017.pdf)
 
-**git-edit-atom**. Atom Package. Matthew Moreno. March 26, 2017. [[package listing]](https://atom.io/packages/git-edit-atom)
+**git-edit-atom**. Atom Package. March 26, 2017. [[package listing]](https://atom.io/packages/git-edit-atom)
 
 **Evolvability: What Is It and How Do We Get It?**. Matthew Moreno. Otis C. Chapman Honors Program Thesis Presentation; University of Puget Sound. March 22, 2017. [[presentation]](/resources/march_22_2017_presentation.pdf) [[flyer]](/resources/march_22_2017_flyer.pdf)
 
