@@ -31,11 +31,11 @@ permalink: /about/
 
 <div class="img-group flex-container flex-aspect">
   <div class = "img-container1 padding">
-    <img src="/img/personal_photo_1.jpg" alt="Headshot by Hanna McIntosh" class = "baseimg"/>
+    <img src="/resources/personal_photo_1.jpg" alt="Headshot by Hanna McIntosh" class = "baseimg"/>
   </div>
 
   <div class = "img-container2 padding">
-    <img src="/img/personal_photo_2.jpg" alt="Skiing with Nathan" class = "baseimg"/>
+    <img src="/resources/personal_photo_2.jpg" alt="Skiing with Nathan" class = "baseimg"/>
   </div>
 </div>
 

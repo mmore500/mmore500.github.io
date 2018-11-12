@@ -6,7 +6,7 @@ permalink: /
 
 <script type="text/javascript">
 
-images_list= {{ site.data.images | jsonify}}
+images_list= {{ site.data.welcome | jsonify}}
 
 console.log(images_list)
 
@@ -16,6 +16,8 @@ console.log(images_list)
     html_code += images_list[randomIndex]["href"];
     html_code += '\"  style=\"max-width:90vw; max-height:60vh;\" alt=\"have you tried ~refreshing~?!\"/>';
     html_code += "<br /><p align=\"left\">"
+    html_code += images_list[randomIndex]["title"];
+    html_code += "<br />"
     html_code += images_list[randomIndex]["caption"];
     html_code += "</p>"
 

@@ -2,7 +2,7 @@
 layout: project
 title: people
 description: <i> Homo sapiens sapiens </i>
-img: /img/welcome_people.jpg
+img: /img/people-portfolio-silhouettes.jpg
 ---
 
 {% for pic in site.data.people %}

@@ -2,7 +2,7 @@
 layout: project
 title: nature
 description: infinite effect of a finite cause
-img: /img/welcome_lily.jpg
+img: /img/welcome-portfolio-lily.jpg
 ---
 
 

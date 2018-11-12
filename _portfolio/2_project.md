@@ -2,7 +2,7 @@
 layout: project
 title: architecture
 description: the built environment
-img: /img/welcome_firehydrant.jpg
+img: /img/architecture-portfolio-firehydrant.jpg
 ---
 
 {% for pic in site.data.architecture %}
