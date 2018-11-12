@@ -3,6 +3,7 @@ layout: project
 title: nature
 description: infinite effect of a finite cause
 img: /img/welcome-portfolio-lily.jpg
+order: 3
 ---
 
 

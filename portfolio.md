@@ -5,7 +5,8 @@ permalink: /portfolio/
 ---
 
 
-{% for project in site.portfolio %}
+{% assign sorted = site.portfolio | sort:"order" %}
+{% for project in sorted %}
 
 {% if project.redirect %}
 <div class="project">

@@ -3,6 +3,7 @@ layout: project
 title: people
 description: <i> Homo sapiens sapiens </i>
 img: /img/people-portfolio-silhouettes.jpg
+order: 1
 ---
 
 {% for pic in site.data.people %}

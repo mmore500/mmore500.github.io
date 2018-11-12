@@ -3,6 +3,7 @@ layout: project
 title: architecture
 description: the built environment
 img: /img/architecture-portfolio-firehydrant.jpg
+order: 2
 ---
 
 {% for pic in site.data.architecture %}
