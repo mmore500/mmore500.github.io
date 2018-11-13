@@ -604,7 +604,7 @@ I would love to hear your stories about sleeping in grad school!!
 
 I started a twitter thread (right below) so we can chat :phone: :phone: :phone:
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">nothing to see here, just a placeholder tweet 🐦</p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/1054071480512843776?ref_src=twsrc%5Etfw">October 21, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">✨new✨blog post<br> <br>1  my struggle to be diurnal in grad school<br><br>2  many, many sleep interventions I&#39;ve tried<br>✅pills<br>✅Ulysses pact<br>✅DIY sunrise lamp<br>✅workplace lighting<br>&amp; more<br><br>hope it&#39;s useful to others in same boat⛵️<br>+ plz share your sleep tricks💞<a href="https://t.co/31YIjgEhUd">https://t.co/31YIjgEhUd</a></p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/1062413722579296256?ref_src=twsrc%5Etfw">November 13, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Pop on there and drop me a line :fishing_pole_and_fish:, make a comment :raising_hand_woman:, or leave your own tips & tricks for sleeping better :heart:
