@@ -11,8 +11,8 @@ I like to think that graduate school is about dreaming big things.
 Unfortunately, it can be difficult to dream when you do not sleep [[citation needed]](https://xkcd.com/285/).
 In fact, without sleep, things you might want to be doing when you're awake can become more difficult, too.
 Things like, say, [not crashing your Navy boat](https://www.thisamericanlife.org/634/human-error-in-volatile-situations/act-two-3) or getting good research work done.
-(If you are in the mood for more factoids about the importance of sleep and/or are curious about 'Sleep 101' at Harvard, look [here](http://www.wbur.org/hereandnow/2018/10/12/sleep-class-harvard)).
-Moving into graduate school, I struggled (and still do) with sleeping when I wanted to.
+(If you are in the mood for more factoids about the importance of sleep and/or are curious about "Sleep 101" at Harvard, look [here](http://www.wbur.org/hereandnow/2018/10/12/sleep-class-harvard)).
+Moving into graduate school, I struggled (and still do) with sleeping when I wanted to sleep.
 I would key this as the most difficult aspect of my transition into graduate school.
 
 As an undergraduate, I had an entirely different --- perhaps entirely opposite --- problem.
@@ -20,23 +20,26 @@ Falling asleep was easy...
 often easier, in fact, than *not* falling asleep.
 My undergraduate sleep habits were an artifact of over-scheduling.
 Some of the worst of it, I remember was having the score for the opera *Le comte Ory* unexpectedly thrust onto my music stand.
-(I was obliged because I held an oboe scholarship.)
+(I was obliged by an oboe scholarship.)
 We met for up to *five hour* pit orchestra rehearsals that were scheduled through 11 p.m. (!!!), after which I would leave to *start* my other homework.
-I employed a greedy sleep-scheduling policy.
-Because it was in short supply, sleeping was always a useful, "productive" activity.
-Thus, at the time it made sense to weigh sleep equally against any other to-do and schedule it first as often as possible,
-"I can schedule sleep now and do that tomorrow."
-Being perpetually sleep deprived, sleeping wherever and whenever I had the time and then rolling out of bed seven minutes before a 7:30 a.m. organic chemistry exam was workable --- I almost never had problems falling asleep.
+
+During this time of my life, I employed a greedy sleep-scheduling policy.
+Because sleep was in short supply, sleeping was always a useful, "productive" activity.
+Thus, at the time it made sense to weigh sleep equally against any other task and schedule it first as often as possible.
+"I can sleep now and do that tomorrow."
+
+Perpetually sleep deprived, sleeping wherever and whenever I had the time and then rolling out of bed seven minutes before a 7:30 a.m. organic chemistry exam was workable --- I almost never had problems falling asleep.
 
 Graduating and moving on to a lifestyle where I could have some free time (?!??!?!), this sleep scheduling strategy worked very, very poorly.
 For me, without restrictions, greedy sleep-scheduling means sleeping 10 or 11 hours a night.
 During my first summer in East Lansing, I had very few restrictions.
 I rapidly regressed to severe night-owlishness.
-(See my disproportionate amount of nocturnal wandering around MSU during [August, 2017](http://mmore500.tumblr.com/archive/2017/8)).
-Very soon, I realized that severe night-owlishness was for my bad for my work output and my personal wellbeing.
-The solution, I reasoned, was simply to go to bed at a reasonable hyour.
-I tried getting into bed at 9 or 10 p.m. and sit there, wide awake, until 3 a.m., 4 a.m. or later.
-Of course, then I'd sleep through noon or later.
+(See my disproportionate amount of nocturnal wandering around MSU during [August 2017](http://mmore500.tumblr.com/archive/2017/8)).
+
+Very quickly, I realized severe night-owlishness was for my bad for my work output and my personal wellbeing.
+The solution, I reasoned, was simply to go to bed at a reasonable hour.
+I tried getting into bed at 9 or 10 p.m. and would sit there, wide awake, until 3 a.m., 4 a.m. or later.
+Of course, after finally falling asleep, then I'd sleep through noon.
 As this carried onward, I felt I had lost control of very basic and important aspects of my life.
 
 So began a long trial-and-error search for interventions to get myself to sleep during the night and be awake during the day.
@@ -44,11 +47,10 @@ I tried a lot of things.
 Early on, I focused on the *falling asleep* part of the equation.
 It was only a few months in that I realized that *waking up* was also an important target for intervention.
 
-With respect to human sleep, there is no shortage of variables to play with.
+With respect to your sleep, there is no shortage of variables to play with.
 I tried a lot of things.
 In this blog, I'll blitz through various sleep interventions I've tried, in no particular order.
 For anyone working to keep a workable sleep schedule, maybe you'll come away with some new ideas to try out.
-Regardless, I hope my shotgun approach here might at least have some entertainment value.
 
 ## Alarm Clock
 
@@ -59,34 +61,37 @@ Through my long-time struggle with alarm clocks, I've identified three wakefulne
 3. conscious (e.g., mostly or fully capable of rational decision-making).
 
 The fortunate thing about my lizard brain is that it seems surprisingly well informed about what's on the calendar (e.g., an organic chemistry exam in seven minutes that's a five minute walk away).
-Even when my alarm doesn't go off (usually because I set p.m. rather than a.m.), I am often surprised by how well my lizard brain can pick up on when I *need* to be up to avoid catastrophe (e.g., 7:23 a.m. for the 7:30 a.m. organic chemistry exam).
+Even when my alarm doesn't go off (usually because I set p.m. rather than a.m.), I am astounded by how well my lizard brain can pick up on when I *need* to be up to avoid catastrophe (e.g., 7:23 a.m. for the 7:30 a.m. organic chemistry exam).
+
 The unfortunate thing about lizard brain is that it really doesn't know and/or care about any conscious decisions I've made about when I *want* to be up.
-As you'll see a little later, I have had no success in attempts to trick lizard brain into cooperating.
-So, to influence my sleep patterns on the morning side of the equation, I need to figure out how to get past lizard brain to reach the conscious state.
+As you'll see a little later, I have had zero success attempting to trick lizard brain into thinking I *need* to be up when I actually don't.
+So, to influence my sleep patterns on the morning side of the equation, I need to figure out how to sneak past lizard brain to reach the conscious state.
 Easier said than done.
 
 ![](https://osf.io/bjadf/download){:width="100%"}
 
 On the left, my long-time mortal enemy.
-This little Timex makes a crude, irritating electronic beep.
-It gets the job done, but it can make me feel like I'm waking up with a hangover (especially if lizard brain doesn't want to be up yet).
-Unfortunately, my lizard brain has become quite good at ignoring the Timex or hitting the snooze button.
-In high school, my mom, who from time to time had to leave at 6 a.m. for work, sometimes had to call the neighbor over to ring our doorbell to wake me up.
+This little Timex makes a crude, infuriating electronic beep.
+It gets the job done (transitioning from fully asleep to lizard brain), but it can make me feel like I'm hungover (especially if lizard brain doesn't want to be up yet).
+Unfortunately, unless I *need* to be up lizard brain has become quite good at ignoring the Timex or hitting the snooze button.
+In high school, my mom, who from time to time had to leave early for work, once had to call the neighbor over to ring our doorbell in order to wake me up.
 Our neighbor could hear this alarm clock going off from the front door.
-To try to force myself to bypass lizard brain and reach consciousness, I tried relocating the alarm clock into my living room.
+
+To try to bypass lizard brain and reach consciousness, I tried relocating the alarm clock into my living room.
 Lizard brain immediately became adept at rolling out of bed, staggering down the hall into the living room, hitting the snooze button (even when I tried placing the Timex under a colander with a bowl of cereal on top), and retreating back to bed.
 On some weekend mornings, I figure that I have hit the snooze button *upwards of 12 times* (quarter hour increments over three hours).
-The traditional alarm clock clearly doesn't succeed at putting me past lizard brain to full consciousness.
-The Timex *is* useful to make sure that I don't miss important morning meetings/etc. because under these circumstances I have lizard brain's full cooperation.
-(Because it uses a backup 9 Volt battery, it is especially useful for *important* occasions.).
 
-Recently, I've found more success easing past lizard brain into full consciousness using a clock-radio tuned to NPR.
+The traditional alarm clock clearly doesn't succeed at putting me past lizard brain to full consciousness.
+The Timex *is* useful to make sure that I don't miss important morning meetings because under these circumstances I have lizard brain's full cooperation.
+(Because the Timex will fall back on a 9 Volt battery if there's a power interruption, it is especially useful for *important* occasions.)
+
+I've found more success easing past lizard brain into full consciousness using a clock-radio tuned to NPR.
 It's actually an Amazon Alexa, which only [recently gained this capability](https://www.gearbrain.com/amazon-alexa-music-alarm-clock-2516832019.html).
 I have it set to low volume, usually at 5:30 a.m.
 The thing is, though, I don't expect to get up at 5:30 a.m.
-I actualy expect wake up sometime between 6 a.m. and 7 a.m.
+I actually expect wake up sometime between 6 a.m. and 7 a.m.
 Lizard brain doesn't seem to care about quiet, soothing NPR voices ([despite what they're often actually talking about](https://democracyjournal.org/alcove/should-we-want-politics-to-be-boring/)).
-I think I pass through lizard brain stage, which is not moved to turn off the stimulus, and, with continued application of the stimulus, eventually gain enough consciousness to decide to get out of bed.
+I hypothesize that I pass through lizard brain stage, which is not sufficiently irked to turn off the stimulus, and, with continued application of the stimulus, eventually gain enough consciousness to decide to get out of bed.
 I've experienced one side effect: occasional extremely vivid dreams about whatever topic is being covered on NPR.
 I can live with that.
 My DIY sunrise lamp ([details below](#sunrise-lamp)) also seems to help me ease past lizard brain.
@@ -96,11 +101,11 @@ Unfortunately, the playlist couldn't be shuffled, so the first track to come on 
 Lizard brain very quickly learned to recognize it and *hate it*, leaving me right back in snooze button hell.
 After a month or so, I didn't even like to hear the track any more when I was awake.
 Besides being too uniform of a stimulus, the music alarm might have been too loud and/or music might just be inherently too strong of a stimulus for lizard brain to tolerate.
-If you do go for a music-based alarm, you might play with the alarm volume and try making sure that your alarm always plays a different sequence of tracks (e.g., shuffle over a large selection or tuning into a music-oriented radio station).
+If you do go for a music-based alarm, you might play with the alarm volume, try making sure that your alarm always plays a different sequence of tracks (e.g., shuffle over a large selection or tuning into a music-oriented radio station), and experiment with different genres.
 
 My smart watch has a wrist-buzzing alarm.
 It took about two days for lizard brain to learn to snooze it, just like the Timex.
-The wrist alarm's not unpleasant, though, and might be useful in a situation where you wanted to get up without disturbing someone else.
+The wrist alarm's not unpleasant, though, and might be useful in a situation where I wanted to transition from fully asleep to lizard brain without disturbing someone else.
 
 ## Temperature
 
@@ -111,25 +116,28 @@ I miss my big, heavy comforter dearly during the summer.
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 It took me a whole *year* to figure that one out.
-In a sadly doomed campaign cool by cross ventilation, I amassed an absurdly large collection of fans (six!!! for a one bedroom apt).
+(It also took me a whole *semester* to realize that buses with the same number go different ways and I could tell the difference by the scrolling message panel on the front of the bus.)
+
+In a sadly doomed campaign to cool by cross ventilation, I amassed an absurdly large collection of fans (six!!! for a one bedroom apartment).
 
 ![](https://osf.io/xt9zc/download){:width="100%"}
 
-Fans that blow *on* you, though, are way better than nothing.
+Cross ventilation does nothing when it's 80 F out at 2am.
+Fans that blow *on* you, though, help alittle.
 I have a desk fan on my nightstand and a pedestal fan at the foot of the bed.
 My mom tells me that damp washcloths and frozen water bottles are also better than nothing.
 
 ![](https://osf.io/bh8jf/download){:width="100%"}
 
 If you have it, though, AC is hard to beat.
-My apartment comes with a Reagan-vintage wall AC unit.
+My apartment came with a Reagan-vintage wall AC unit.
 For a while, I was too cheap to run it.
 I have since become convinced that AC at bedtime is worth every penny.
 I bought a plug timer for the AC, which allows me to fine tune beyond the existing options (basically "on" and "off").
 I'll usually have it run until 1 or 2 a.m., then have the plug timer turn off to save a buck.
+
 I redeployed my army of fans from cross ventilation duty to blow AC from the unit in the living room into my sleep area.
-I'd really like to do something [more cleverer](#smart-home), but my loud Reagan-box runs on a 240 volt plug.
-(You know, the kind you might plug your laundry machine or industrial grow light in with.)
+I'd really like to do something [more cleverer](#smart-home), but my loud Reagan-box runs on a 240 volt plug (you know, the kind you might plug your laundry machine or industrial grow light in with) so I can't smartify it.
 
 When I have the choice (i.e., during the winter when I can just open my window), I find that cooler temperatures (e.g., maybe 62 F) can help me fall asleep... but make crawling out of bed the next morning harder.
 
@@ -140,11 +148,11 @@ Another feature of Reagan-era apartments: no ventilation.
 ![](https://osf.io/ctxwd/download){:width="50%"}
 
 This 24 hour plot of CO2 concentration in my bedroom came from my [Awair](https://getawair.com/) glow.
-Even with the windows open, you can still see CO2 levels are up a little when I'm at home.
+Even with the windows open, you can still see CO2 levels spike up a little when I'm at home.
 I don't have the data anymore, but with the windows closed I've seen CO2 levels spike to 2500 ppm.
 
 Too-high CO2 levels can make you feel off.
-Stale air accumulating in a closed person-box for eight hours probably doesn't help you rise and shine.
+Stale air accumulating in a sealed person-box for eight hours probably doesn't help you rise and shine.
 
 ![](https://osf.io/c57eu/download){:width="100%"}
 
@@ -157,15 +165,13 @@ The real answer here is to leave the window open, which I do every night.
 
 An unfortunate trade-off accompanies leaving the window open: noise.
 
-Even if I can't sleep otherwise, noise just makes me angry.
+Even when I can't sleep for other reasons, noise just makes me angry.
 Feeling angry doesn't help me sleep.
-Noise makes me so angry, in fact, that I have woken up in the middle of lizard brain yelling at noisemakers at a volume I didn't know possible.
 
 Unfortunately, probably your best bet to manage noise problems is choosing where to live which (a) you probably don't get to do very often and (b) you might not have full control over.
 
-
 Beware: outdoor hallways, courtyards, public balconies, and fire escapes.
-That is, unless you're into listening to gratuitously protracted conversations about asinine algorithms to rank women *(drunk)* or how, man, isn't it just wild that the capitalists beat the communists to the moon even though, you know, they were just like all about making melon ballers and whatever useless other shit *(high)*?
+That is, unless you're into listening to gratuitously protracted conversations about asinine criteria to rank women *(drunk)* or how, man, isn't it just wild that the capitalists beat the communists to the moon even though, you know, they were just like all about making melon ballers and whatever useless other shit *(high)*.
 Despite, I'm still obsessed with my building's balconies
 [for](http://mmore500.tumblr.com/post/173673636439/sweet-love-2018-04-at-east-lansing-michigan)
 &nbsp;
@@ -173,23 +179,24 @@ Despite, I'm still obsessed with my building's balconies
 &nbsp;
 [reasons](http://mmore500.tumblr.com/post/179145895234/im-doing-you-a-favor-im-giving-you-an-f).
 
-Also potentially problematic: parking lots and driveways... i.e., woofer beats coming and going at all hours. This is usually transient and therefore, to me, much less aggravating.
+Also potentially problematic: parking lots and driveways... i.e., woofer beats coming and going at all hours.
+This noise is usually transient and therefore, to me, much less aggravating.
 
 This sound-proof-ness of walls is so, so important, and varies widely.
 You can check on this when you're touring an apartment (and you should!).
 I got lucky: often, I only become aware of well-underway [Miley-level Bangerz (tm)](https://www.youtube.com/watch?v=LrUvu1mlWco) next door during the brief moments the front door opens to admit and/or expel party people.
-On the flip side, my boyfriend lived in [a dorm](https://www.pugetsound.edu/student-life/campus-living/residence-life/residence-halls-houses/trimble-hall/) with walls so thin you (unavoidably) learned to recognize who was in the bathroom two doors down by the sound of their urination.
+On the flip side, my boyfriend used to live in [a dorm](https://www.pugetsound.edu/student-life/campus-living/residence-life/residence-halls-houses/trimble-hall/) with walls so thin you (unavoidably) learned to recognize who was in the bathroom two doors down by the sound of their urination.
 
-One of my very, very all-time favorite pieces of journalism comes from James Day of my hometown Corvallis Gazette Times.
+One of my very, very all-time favorite pieces of journalism comes from James Day of my hometown Corvallis Gazette-Times.
 In reports from
 [2012](https://web.archive.org/web/20181012235912/https://www.gazettetimes.com/news/local/neighborhood-stakeout/article_0975b653-b0cf-58e8-9b2d-ac3d3761b069.html),
 [2013](https://web.archive.org/web/20181012235834/https://www.gazettetimes.com/news/local/crime-and-courts/scenes-from-a-midnight-stakeout/article_7bb4ffba-3a96-11e3-9253-0019bb2963f4.html),
 [2014](https://web.archive.org/web/20181012235244/https://www.gazettetimes.com/on-the-streets-of-corvallis-on-halloween-night/article_cbbd3298-4141-5464-a919-f7522106ed71.html), and
 [2017](https://web.archive.org/web/20181012235747/https://www.gazettetimes.com/news/local/walkabout-slurred-speech-lots-of-f-bombs-but-no-carnage/article_91b0ce0c-f648-56fc-90aa-bbef5ba74bd2.html)
-he stakes out student-heavy neighborhoods --- sometimes accompanied by grumpy long-time residents --- in order to record a meticulous litany of livability complaints.
+he stakes out student-dense neighborhoods --- sometimes accompanied by grumpy long-time residents --- in order to record a meticulous litany of livability complaints.
 I find the articles endlessly entertaining.
-If you are insane enough, you might take a cue from James Day's intrepid reporting and stake out your intended neighborhood (especially on a Friday or Saturday night) to check noise levels.
 
+If you are dedicated enough, you might take a cue from James Day's intrepid reporting and stake out your intended neighborhood (especially on a Friday or Saturday night) to check noise levels.
 Probably a better idea is to simply clue in to who else lives in the building/neighborhood your considering.
 Do "real people" live there?
 What about other grad students?
@@ -206,11 +213,11 @@ As a freshman, my dorm room shared a wall with a wanna-be DJ.
 We worked out a system where I would bang on the wall and he'd turn down the volume 25%.
 Compromise!
 
-Sometimes, at 2am, though, I really don't feel like going outside.
+Sometimes, at 2am, though, I really don't feel like going outside to ask nicely.
 Yelling out the window is always an option.
 Last summer, to my great disorientation, I woke up in the middle of lizard brain yelling at noisemakers to quiet down.
 I didn't know I had that voice inside me.
-From that point onwards, whoever was babysitting made a sincere effort to shush the noisemakers and bring them back inside after they were done throwing up.
+From that point onwards, though, whoever was on party people babysitting duty made a sincere effort to shush the noisemakers and bring them back inside after they were done throwing up.
 I really did appreciate the courtesy.
 
 A few times, I've considered calling in a noise violation but never quite felt adequately disturbed.
@@ -236,7 +243,7 @@ On those nights, it's nice being able to [turn everything off with a voice comma
 I like listening to a brief newscast before sleep.
 I currently have "NPR News Now" and "BBC World Service" set up on my Alexa's [Flash Briefing](https://developer.amazon.com/docs/flashbriefing/understand-the-flash-briefing-skill-api.html)
 
-I used to listen to Garrison Keillor's [The Writer's Almanac](https://www.writersalmanac.org/) regularly, but I have [mixed feelings](https://web.archive.org/web/20181021144359/https://www.theguardian.com/commentisfree/2017/nov/02/kevin-spacey-deserves-scorned-watch-house-of-cards) after [his unacceptable conduct](https://www.mprnews.org/story/2018/01/23/keillor-workplace) came to light.
+I used to listen to Garrison Keillor's [The Writer's Almanac](https://www.writersalmanac.org/) regularly before bed, but I have [mixed feelings](https://web.archive.org/web/20181021144359/https://www.theguardian.com/commentisfree/2017/nov/02/kevin-spacey-deserves-scorned-watch-house-of-cards) after [his unacceptable conduct](https://www.mprnews.org/story/2018/01/23/keillor-workplace) came to light.
 The Almanac briefly ceased to exist but has since [returned to production](https://art19.com/shows/the-writers-almanac).
 Attempts ([1](https://bidwellhollow.com/replacing-the-writers-almanac/), [2](http://theartistsalmanac.org/)) to fill [the void](http://www.wbur.org/hereandnow/2017/12/06/poets-writers-almanac), unfortunately, don't seem to have stuck.
 
@@ -246,6 +253,7 @@ Setting it up takes maybe fifteen minutes, and no coding is involved.
 First, you need to create a mirror RSS feed that only serves up the most recent episode of your podcast.
 Otherwise, Alexa will play through *all* the available episodes every time, which probably isn't what you want.
 It's easy (and free) to do this with a RSS to RSS "zap" from [Zapier](https://zapier.com/) where you set your mirror RSS feed to only return one item (e.g., `Max Records` = 1).
+This way, when Alexa is done with the most recent episode of whatever, she won't just keep playing the rest of the episodes in the feed for you.
 
 Second, hop on over to Amazon to register a developer account, [click a few buttons](https://developer.amazon.com/docs/flashbriefing/steps-to-create-a-flash-briefing-skill.html), and paste in your Zaipier RSS url.
 Once you save the skill, it should become available to "test" on your Alexa devices.
@@ -261,7 +269,7 @@ Consult an attorney and under no circumstances violate the law.
 ![](https://osf.io/ckrgh/download){:width="100%"}
 
 When I first moved into my neighborhood in East Lansing, I was thrown for a loop by a very out of place bit of apparent pro-MSU graffiti: green spray paint on a street light.
-It wasn't until I walked by after dark that I realized that, duh, the homeowner whose window the [bad streetlight](http://darksky.org/our-work/lighting/bad-streetlights/) violated had taken prerogative for unilateral action.
+It wasn't until I walked by after dark that I realized that, duh, the homeowner whose window the [bad streetlight](http://darksky.org/our-work/lighting/bad-streetlights/) violated had taken prerogative for some righteous unilateral action.
 Inspired, I aluminum foiled an exterior light at my building that shines directly in my bedroom.
 It's been up for almost a year now with no problems.
 
@@ -269,30 +277,31 @@ Another option: plant a big shrubbery between your window and the offending ligh
 My mom did this when Oregon State put in a new [barn-classroom thing](https://events.oregonstate.edu/james_e_oldfield_animal_teaching_facility) right behind her house.
 
 After consulting an attorney, do whatever you want.
-Just be sure that your righteous self-empowerment won't catch fire.
+Just be sure that your righteous self-empowerment won't pose a fire risk (e.g., maybe don't duct tape a bare light bulb).
 
 ## Sunrise Lamp
 
 ![](https://osf.io/v5f4d/download){:width="100%"}
 
-I combined an [Ikea FADO table lamp](https://www.google.com/search?q=ikea%20fado&tbm=isch) with a smart lightbulb to fashion a DIY sunrise lamp.
+I combined an [Ikea FADO table lamp](https://www.google.com/search?q=ikea%20fado&tbm=isch) with a smart light bulb to fashion a DIY sunrise lamp.
 The idea here is that the light runs on a timer to gently fade in before I want to get up, gradually shifting my body towards wakefulness.
 I quite like it, especially in combination with [a clock radio alarm](#alarm-clock).
-It's probably ranks among the more effective interventions I've tried.
-Plus, it doubles as a handy voice-controlled light via Amazon Alexa.
+It probably ranks among the more effective interventions I've tried.
+Plus, it doubles as a handy voice-controlled area light via Amazon Alexa.
 
 A few details:
+
 * I originally scheduled the bulb to fade in across linearly spaced brightness increments (e.g., 10% to 20% to 30% to 40% etc.).
 After a few days, I switched to exponentially spaced brightness increments, which I like much more (e.g., 1% to 2% to 4% to 8% etc.).
-* I schedule the bulb to automatically turn off after two hours at full brightness (e.g., every day at 7 a.m.) so it doesn't stay on all day if I don't happen to be home to turn it off my self.
+* I schedule the bulb to automatically turn off after two hours at full brightness (e.g., every day at 7 a.m.) so it doesn't stay on all day if I don't happen to be home to turn it off myself.
 * Currently, Ikea doesn't stock appear to stock the FADO table lamp in the US.
 I bought my lamp on [eBay](https://www.ebay.com/) for about $50.
-The smart bulb cost about $15.
+The smart bulb cost about $15 on [Amazon](https://www.amazon.com).
 Be careful if you try to pick up a lamp designed for a different region (e.g., Europe) because the power plug might be incompatible with your outlet.
-* The free [If This Than That](https://ifttt.com) service (IFTTT), which serves as a kind of handy duct tape to control smart devices among other things, only offers time triggers at fifteen minute granularity.
-Luckily, the [particular no-brand smart bulb](https://www.amazon.com/gp/product/B07DFGPG57/ref=oh_aui_detailpage_o02_s01?ie=UTF8&psc=1) I bought provides proprietary timing functionality that allowed for brightness changes at one minute increments.
-I ended up using a combination of IFTTT and proprietary triggers because the proprietary only offered six daily schedulable events.
-* If you end up with a smart bulb that doesn't offer proprietary timing triggers (or, even better, trigger-able configurable fades), you might be able to achieve a reasonable fade in through [clever acrobatics](#smart-home) via another service called Stringify](https://www.stringify.com/).
+* The free [If This Than That](https://ifttt.com) service (IFTTT), which acts like a kind of handy duct tape for control of smart devices and web services, only offers time triggers at fifteen minute granularity.
+Luckily, the [particular no-brand smart bulb](https://www.amazon.com/gp/product/B07DFGPG57/ref=oh_aui_detailpage_o02_s01?ie=UTF8&psc=1) I bought provides proprietary timing functionality that allowed for brightness adjustments at one minute increments.
+I ended up using a combination of IFTTT and proprietary triggers because the proprietary service only offered six daily schedulable events.
+* If you end up with a smart bulb that doesn't offer proprietary timing triggers (or, even better, trigger-able configurable fades), you might be able to achieve a reasonable fade in through [clever acrobatics](#smart-home) via another service called [Stringify](https://www.stringify.com/).
 
 ## Workspace Lighting
 
@@ -307,7 +316,7 @@ So, I have lots of lights at my desktop try to get myself to physiologically reg
 * [bias lighting](https://www.howtogeek.com/213464/how-to-decrease-eye-fatigue-while-watching-tv-and-gaming-with-bias-lighting/) (a stick-on LED strip that plugs directly into my monitor for power via USB), and
 * sick [RGB underlighting](https://github.com/mmore500/qmk_firmware) on [my keyboard](https://ergodox-ez.com/) (does nothing, but looks *sweeeet*).
 
-On the flip side of the coin: tricking your physiology into thinking it's daytime when it is actually not.
+The sinister flip side of this coin: tricking your physiology into thinking it's daytime when it is actually not.
 Blue light from screens is thought to be [great at this](https://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side).
 Rebalancing the color composition of your screens, especially at night, might help.
 
@@ -316,9 +325,9 @@ Now I use [Redshift](http://jonls.dk/redshift/), which had better support for Li
 
 In the last few years, screen blue light management on screens has gone increasingly mainstream.
 Apple now natively supports it on their iOS and OS X devices under the moniker "Night Shift."
-Other systems I'm less familiar with (windows, android, etc.) probably support it, too.
+Other systems I'm less familiar with (windows, android, etc.) probably support blue light adjustments, too.
 
-I also like to turn down my screen brightness at night.
+I also like to turn down my devices' screen brightness at night.
 I just do it manually whenever the thought strikes me.
 
 ## Pills and Such
@@ -330,10 +339,10 @@ Consult your physician, yo.
 
 ![](https://osf.io/7ap8q/download){:width="100%"}
 
-Since I started playing around with pills and such RE: sleeping, my approach has switched from trying to refine a concoction to use every night to lining up a series of pills and such, [falling back](https://en.wikipedia.org/wiki/Concentric_castle) to more extreme/disruptive options if I keep awake.
+Since I started playing around with pills and such RE: sleeping, my approach has switched from trying to concoct an elixir to use every night to lining up a series of pills and such, [falling back](https://en.wikipedia.org/wiki/Concentric_castle) to more extreme/disruptive options if I keep awake.
 
 My go-to pill is melatonin.
-I'm not totally convinced it's objectively very effective, but it tends to feel helpful.
+I'm not convinced it's objectively very effective, but it tends to *feel* helpful.
 I'll take a good [placebo effect](https://www.health.harvard.edu/blog/the-placebo-effect-amazing-and-real-201511028544) any day.
 If I'm already nice and drowsy at bedtime, I'll just skip it.
 
@@ -341,7 +350,7 @@ When melatonin doesn't cut it and I'm still awake after half an hour or an hour,
 These *definitely* make me feel groggy.
 Based on how I feel the next day, I suspect that these pills reduce the quality of my sleep.
 In particular, it can feel more difficult to break through [sleep inertia](https://en.wikipedia.org/wiki/Sleep_inertia) and get out of bed.
-In my calculation, though, that beats tossing and turning through 5 a.m. followed by several days of .
+In my calculation, though, that beats tossing and turning through 5 a.m. (followed, of course) by several days of sleep schedule anarchy.
 Lately, I've only been using these every week or two.
 
 My final resort is two or three shots of whatever hard alcohol is in the fridge.
@@ -363,12 +372,12 @@ The idea was to explicitly incentivize a certain pattern of behavior.
 Success meant being in the shower (under running water) at or before an alarm went off at 7:00 a.m.
 I planned to associate success with donations to [my charity cause of choice](http://greenbeltlandtrust.org/)
 (e.g., moving quarters from one mug to the other).
-Originally, excessive failure (beyond a predefined threshold) would result in contributions to
+Originally, excessive failure (beyond a predefined threshold number of days per month) would result in contributions to
 [repugnant causes](http://www.donaldjtrump.com/) and public self-shaming on Facebook.
-After I obviously didn't do that, I considered simply destroying currency instead.
+After I obviously didn't follow through with these self-punishments, I considered simply destroying currency instead as a less extreme alternative.
 I never did get around burning dollar bills in my bathtub or flushing them down the toilet, though.
 
-In my opinion, this type of scheme only works if your conscious brain is at bat.
+In my opinion, Ulysses pacts only works if your conscious brain is at bat.
 Lizard brain didn't clue into any of this, so it didn't work.
 
 A Ulysses pact might work better with someone else in the loop to help hold you accountable.
@@ -389,7 +398,7 @@ However, this trick only really works for morning activities I'm *truly obligate
 I went through a phase where I thought I might be able to coax lizard brain out of bed with nice things.
 
 At one point, I literally put out a pillow, granola, and water on my living room floor.
-The idea was that lizard brain would be forced out of bed by my horrible Timex alarm in the living room and then, finding accommodations so conveniently prepared, elect to deposit myself on the floor (where I would eventually gain consciousness) instead of returning to bed.
+The idea was that lizard brain would be forced out of bed by my horrible Timex alarm in the living room and then, finding accommodations so conveniently prepared, elect to deposit my body on the floor (where I would eventually gain consciousness) instead of returning to bed.
 This did not work.
 
 In the coaxing department, I have also also tried
@@ -413,7 +422,7 @@ I do put some parental controls on myself [on my work computer](https://mmore500
 If I were really serious, I would have someone else set the password to make overrides more difficult.
 For me, mere inconvenience dissuades most pointless things well enough, though.
 
-Even if it's all well-justified, it is depressingly eyeopening to quantify the time spent on touch devices.
+Even if the hours are all well-justified, it is depressingly eyeopening to quantify the time spent on touch devices.
 I assume most modern devices let you do this, and you should.
 Last year, I swapped out my iPhone for a Blackberry, which makes me feel a little less like I'm [stuck](https://www.youtube.com/watch?v=Pe-zq4bFPFU) [on the hamster wheel](https://www.youtube.com/watch?v=AEVDpDmqEEs).
 
@@ -431,8 +440,12 @@ Ah, [quantified self](https://en.wikipedia.org/wiki/Quantified_self).
 The thing you do for a while and then somehow end up not doing anymore.
 
 I played around with the [Garmin Vivosmart 3 wrist tracker](https://www.amazon.com/gp/product/B07BH3XN3T/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1) and [Existential Time Tracking](http://www.cgpgrey.com/blog/cortex-44-existential-time-tracking) in a little Moleskine notebook.
-All I got out of tracking everything I did all day, every day was a paper trail for the embarrassingly large amount of time I spent learning the Japanese alphabet.
-From the wrist tracker, I didn't get much better utility: I usually sleep nine hours a night and apparently I enter "deep sleep" for only like 5 minutes (whatever that means).
+All I got out of tracking everything I did all day, every day was a paper trail for the embarrassingly large amount of time I spent learning the Japanese alphabets.
+(Yes, plural.)
+
+From the wrist tracker, I didn't get much better utility.
+I learned I usually sleep nine hours a night and apparently I enter "deep sleep" for only like 5 minutes (whatever that means).
+I'm at a loss for how to apply these insights, though.
 
 Personally, I find quantified self projects that unfold on the scale decades like [Kazuo Yano](http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Keynotes)'s very nifty wrist-accelerometer ["life tapestry"](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.497.4009) and [Steven Wolfram](https://www.glassdoor.com/Reviews/Wolfram-Research-Reviews-E14501.htm)'s also nifty [email/keylogger tapestry](http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/) the most compelling.
 Unfortunately, although they do tell a cool story, I don't find quantified self projects like these terribly prescriptive.
@@ -450,24 +463,26 @@ In my experience, though, walking to the grocery store and then cooking a proper
 
 ## Smart Home
 
-I use [Amazon Echo](https://www.amazon.com/Amazon-Echo-And-Alexa-Devices/b?ie=UTF8&node=9818047011) devices around the house.
-At night, it's sometimes nice to be able to turn on/off the radio (especially, putting it on a sleep timer) or ask about the weather or other odds and ends without having to get up or use a screen.
+I use [Amazon Echo](https://www.amazon.com/Amazon-Echo-And-Alexa-Devices/b?ie=UTF8&node=9818047011) to devices around the house.
+At night, it's sometimes nice to be able to turn on/off the radio (especially, putting it on a sleep timer) or ask about the weather and other odds and ends without having to get up or use a screen.
 
 ![](https://osf.io/r7x4u/download){:width="100%"}
 
 I use a bunch of [Meross](http://www.meross.com/) smart plugs, which are cheap and work fine, around the house to control lamps and fans.
 I have an [Awair Glow](https://getawair.com/pages/awair-glow) smart plug, too, but wouldn't strongly recommend it because it's been pretty spotty in terms of reliability lately.
 Again, it's nice being able to turn devices (especially fans, see [Air](#air) and [Good Noise](#good-noise)) on/off without having to get up or use a screen.
-I played around with lots of different control strategies (e.g., weather-based, indoor temperature based, etc.), but recipes I found to be the most useful.
+I played around with lots of different control strategies (e.g., weather-based, indoor temperature based, etc.), but here are the recipes I found to be the most useful:
+
 * three-part IFTTT `->` Stringify `->` IFTTT recipe for a voice-activated X hour timer for smart devices
 ([1](https://ifttt.com/applets/WKpCkv9H-if-you-say-alexa-trigger-fans-timer-then-run-a-stringify-flow),
 [2](https://strngfy.com/s6cDKYye),
 [3](https://ifttt.com/applets/DtQ7HFgA-if-stringify-flow-named-x-hour-timer-ran-then-turn-off-a-meross-device))
+  * that way, you can save electricity by not running fans all night
 * IFTTT voice-activated trigger, which can control multiple devices at once ([on](https://ifttt.com/applets/ktWbsdjf-if-you-say-alexa-trigger-fans-on-then-turn-on-a-meross-device)/[off](https://ifttt.com/applets/kezbVwFg-if-you-say-alexa-trigger-fans-off-then-turn-off-a-meross-device))
-* turn a device off every day at X am/pm (e.g., to help save energy)
+* turn a device off every day at X am/pm (e.g., also to help save energy)
 ([link](https://ifttt.com/applets/UbsruxQq-if-every-day-at-x-am-then-turn-off-a-meross-device))
 
-Be aware that smart devices and smart plugs noticeably consume electricity.
+Be aware that smart devices and smart plugs consume noticeable electricity.
 
 ## Naps
 
@@ -477,12 +492,12 @@ When you sleep 10 hours a night, napping just because you don't feel like doing 
 ## Working Late
 
 If you are a busy beaver surfing an endless wave of imminent deadlines, working late can seem reasonable.
-Seriously considering the impact that staying up will have on my sleep for days to come (or weeks, if it really throws me off kilter) has really changed my calculus.
-Now, unless I truly cannot avoid it, I try to avoid working after 10 p.m.
+Seriously considering the impact that staying up will have on my sleep for days to come (or weeks, if it really throws me off-kilter) has radically changed my calculus.
+Now, unless I truly cannot avoid it, I won't work past 10 p.m.
 Often, working late *can* be avoided [through some proactive effort](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html).
 Even in a pinch, though, I'll sometimes decide to just go to bed.
 
-Also, beware and resist (sometimes subtle) institutional forces that [encourage](https://www.bostonglobe.com/metro/2018/09/08/many-college-students-don-sleep-well-this-harvard-course-hopes-change-that/xMiKiboMFH8UFMR9lgennL/story.html) or [mandate](https://medium.com/@mattyoung_97598/sleep-deprivation-with-regards-to-hackathons-722d9d43c2ad) working late.
+Also, beware and resist institutional forces (sometimes subtle) that [encourage](https://www.bostonglobe.com/metro/2018/09/08/many-college-students-don-sleep-well-this-harvard-course-hopes-change-that/xMiKiboMFH8UFMR9lgennL/story.html) or [enforce](https://medium.com/@mattyoung_97598/sleep-deprivation-with-regards-to-hackathons-722d9d43c2ad) working late.
 
 ## Age
 
@@ -496,9 +511,10 @@ Luckily, it turns out that graduate school is a great place to age rapidly.
 Finally, a more conceptual point.
 
 When I first started struggling with my sleep, I viewed it as a temporary crisis.
-I just had to right the ship, then I could forget about it.
+I just had to right the ship, then I could forget about managing sleep.
 
-Now, I see sleep as a part of my life that I manage in an ongoing fashion (as simply and passively as possible), and I think that's a healthier and more useful take on it.
+Now, I see sleep as an aspect of my life that I manage in an ongoing fashion (as simply and passively as possible).
+I think that's a healthier and more useful take on it.
 
 ## Future Work
 
@@ -538,7 +554,7 @@ I know at least one graduate student who has benefited from a sleep study.
 
 Prescription sleep aids might be useful to you.
 
-Also, depression and insomnia often live hand in hand.
+Also, [depression and insomnia often live hand in hand](https://www.webmd.com/depression/guide/depression-sleep-disorder).
 Prescription medications to treat depression (and/or other therapies) can go a long way.
 I've thought about this one a bit, and decided to keep it on the back burner unless I really start to feel persistently and unacceptably impaired.
 
@@ -560,7 +576,7 @@ Counting sheep is straight-up bullshit.
 It makes me feel insane.
 
 Other meditation practices (that weren't obviously designed to keep restless kids occupied) might be of more benefit.
-I hear a lot of chatter about meditation apps, so that might be working into.
+I hear a lot of chatter about meditation apps, so that might be worth looking into.
 
 ### Go to Boot Camp
 
