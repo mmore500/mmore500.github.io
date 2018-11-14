@@ -290,3 +290,17 @@ pre {
  .flex-item{
      flex-grow: 0.5;
  }
+
+.gist .csv-data  {
+  overflow:auto;
+  max-height:350px;
+}
+
+.gist .blob-wrapper {
+  max-height:400px;
+  overflow: auto !important;
+}
+
+.gist .type-csv {
+  overflow:hidden !important;
+}
