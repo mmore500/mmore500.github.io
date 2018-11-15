@@ -555,7 +555,7 @@ In the context of a journal built with templ (like [this one](https://github.com
 `journal/2018/01/21-je.md`:
 
 ~~~
-## My file built by templ on 01-01-2018
+# My file built by templ on 01-01-2018
 
 Now I'm filling in the content.
 I'm using my favorite text editor so I'm happy and stuff.
@@ -575,7 +575,7 @@ Wow, much amaze.
 
 Rendered result:
 
-> ## My file built by templ on 01-01-2018
+> # My file built by templ on 01-01-2018
 >
 > Now I'm filling in the content.
 > I'm using my favorite text editor so I'm happy and stuff.
