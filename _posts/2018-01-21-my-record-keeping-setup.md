@@ -640,3 +640,14 @@ Okay, time to put an image in.
 Leaving paper notes behind, I can't shake an occasional annoyance over my inability to flip through physical pages.
 Often, I find this technique to be more useful than text search for locating a particular passage.
 [Ranger](https://github.com/ranger/ranger) emulates something like digital page-flipping, but it's still not the same.
+
+## Let's Chat
+
+I would love to hear your thoughts on journaling like a hacker!!
+
+I started a twitter thread (right below) so we can chat :phone: :phone: :phone:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Wrote a little something on my personal journaling/lab notebook setup 🌟 <a href="https://twitter.com/hashtag/doitlikeahacker?src=hash&amp;ref_src=twsrc%5Etfw">#doitlikeahacker</a> <a href="https://t.co/oGZEyLIlNG">https://t.co/oGZEyLIlNG</a> <a href="https://t.co/vmDvJZ0INj">pic.twitter.com/vmDvJZ0INj</a></p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/955290949298675712?ref_src=twsrc%5Etfw">January 22, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Pop on there and drop me a line :fishing_pole_and_fish:, make a comment :raising_hand_woman:, or leave your own tips & tricks :heart:

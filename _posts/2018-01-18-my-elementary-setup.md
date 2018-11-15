@@ -286,3 +286,14 @@ The Momentum Chrome extension will also help make your desk-jockey existence mor
 It says something nice to you, shows you a pretty picture, and reminds you what time it is when you open a new tab.
 Really, what more can you ask for?
 Get it [here](https://momentumdash.com/).
+
+## Let's Chat
+
+I would love to hear your thoughts on elementary os and Linuxy things!!
+
+I started a twitter thread (right below) so we can chat :phone: :phone: :phone:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Put together a little something about all my favorite tweaks and augmentations for <a href="https://twitter.com/elementary?ref_src=twsrc%5Etfw">@elementary</a> OS ❤️<a href="https://t.co/XE2zsr5k5e">https://t.co/XE2zsr5k5e</a></p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/954238460386316289?ref_src=twsrc%5Etfw">January 19, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Pop on there and drop me a line :fishing_pole_and_fish:, make a comment :raising_hand_woman:, or leave your own tips & tricks :heart:
