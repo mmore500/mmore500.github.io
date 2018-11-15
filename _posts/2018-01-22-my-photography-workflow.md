@@ -429,3 +429,14 @@ Even if you don't use film, reading Ansel Adams is a good investment of your tim
 His writing hits top marks technically.
 Plus, it's just good writing.
 I particularly enjoyed [Examples: The Making of 40 Photographs](https://www.amazon.com/Examples-Making-Photographs-Ansel-Adams/dp/082121750X).
+
+## Let's Chat
+
+I would love to hear your thoughts on my photo workflow or your photo workflow or other photo topics !!
+
+I started a twitter thread (right below) so we can chat :phone: :phone: :phone:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">🔌plugging a blog on my 📸 workflow...<br>* accessories💄<br>* raspberry pi SD card backup bot🤖<br>* iPad-based cull &amp; edit 📱<br>* transfer files iPad ➡️ linux🐧<br>* organize &amp; archive🗄️💾<br>   * AWS glacier❄️<br>   * how to make contact sheets🖼️<br>&amp; more✨<br><br>✅ it out !<a href="https://t.co/PN6aVT4tEW">https://t.co/PN6aVT4tEW</a></p>&mdash; Matthew Andres Moreno (@mmore500) <a href="https://twitter.com/mmore500/status/1063149322093641729?ref_src=twsrc%5Etfw">November 15, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Pop on there and drop me a line :fishing_pole_and_fish:, make a comment :raising_hand_woman:, or leave your own tips & tricks :heart:
