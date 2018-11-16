@@ -10,8 +10,8 @@ date:   2018-01-22
 
 I like taking pictures.
 
-Photography is hard enough without all the logistics around it.
-Over the past few months, I've amassed a disparate set of tools and processes that seem to work for me.
+Photography is hard enough work, even without logistical considerations.
+Over the past few months, I've assembled piece-by-piece a set of tools and processes that seem to work for me.
 
 Here are a few pieces of information I thought were worth sharing... or at least preserving so I can refer to them easily.
 Enjoy!
