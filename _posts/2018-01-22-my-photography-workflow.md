@@ -4,11 +4,11 @@ title:  "My Photography Workflow"
 date:   2018-01-22
 ---
 
-![](/img/nature-bokeh.jpg){:width="100%"}
-
 ## Overview
 
 I like taking pictures.
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/xpUII4s1Wfc9h-Qv4zAfLA/164332130974" data-did="017c1ffd8ce22ccd03cb567637f4c904c90e24c9"><a href="http://mmore500.tumblr.com/post/164332130974/at-michigan-state-university">http://mmore500.tumblr.com/post/164332130974/at-michigan-state-university</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
 
 Photography is hard enough work, even without logistical considerations.
 Over the past few months, I've assembled piece-by-piece a set of tools and processes that seem to work for me.
