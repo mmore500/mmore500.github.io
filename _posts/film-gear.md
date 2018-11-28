@@ -59,3 +59,54 @@ https://lansing.craigslist.org/ele/d/mac-laptop/6744849734.html
 where to put scanner and mac?
 
 https://www.filmsnotdead.com/howtodevelop35mmfilm/
+
+http://erickimphotography.com/blog/2015/11/13/what-i-learned-shooting-100-rolls-of-black-and-white-tri-x-film-pushed-to-1600/
+
+https://petapixel.com/2017/08/26/ultimate-guide-every-bw-iso-400-35mm-film-market/
+
+https://www.lomography.com/magazine/56919-a-comprehensive-guide-to-diy-black-and-white-film-developing
+
+https://www.popsci.com/develop-black-and-white-film#page-11
+
+
+Delta 1 Datatainer Chemical Storage Bottle 128-oz (One Gallon)
+Delta 1 Datatainer Chemical Storage Bottle 128-oz (One Gallon)
+B&H #DEDG • MFR #11140
+
+Free Standard Shipping on Orders Over $49
+In Stock
+Ready to Ship
+
+2
+$9.95  Save for Later   Remove
+Accessories
+
+Item Total:
+$19.90
+ Kodak Fixer for Black & White Film & Paper (Powder)Makes 1 Gallon
+Kodak Fixer for Black & White Film & Paper (Powder)Makes 1 Gallon
+B&H #KOFG • MFR #5160320
+
+Eligible for Free Expedited Shipping on orders over $49
+In Stock
+Ready to Ship
+
+1
+$12.95  Save for Later   Remove
+Accessories
+
+Item Total:
+$12.95
+ Kodak D-76 Developer
+Kodak D-76 Developer (Powder) for Black & White Film - Makes 1 Gallon
+B&H #KOD76G • MFR #5160296
+
+Free Standard Shipping on Orders Over $49
+In Stock
+Ready to Ship
+
+3
+$6.95  Save for Later   Remove
+Accessories
+
+https://docs.google.com/spreadsheets/d/1AjJwOzmSCjzALwzIbPpwxtnLMsyRPWA8wzGtv9CRdWA/edit#gid=0
