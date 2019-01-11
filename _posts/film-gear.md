@@ -115,3 +115,27 @@ $6.95  Save for Later   Remove
 Accessories
 
 https://docs.google.com/spreadsheets/d/1AjJwOzmSCjzALwzIbPpwxtnLMsyRPWA8wzGtv9CRdWA/edit#gid=0
+
+https://blog.jimgrey.net/2018/08/22/where-can-you-still-get-film-developed-2018-edition/
+
+https://www.willowphotolab.com/
+
+https://www.bhphotovideo.com/c/product/1403440-REG/japan_camera_hunter_153583_35mm_film_5_roll.html
+
+https://www.amazon.com/gp/product/B00TB6OT06/ref=ox_sc_act_title_1?smid=A17MC6HOH9AVE6&psc=1
+
+https://petapixel.com/2015/03/23/i-had-164-rolls-of-film-processed-at-once-heres-how-i-do-it/
+
+https://www.instructables.com/id/How-to-Build-a-USB-Powered-LED-Light/
+
+https://www.amazon.com/gp/product/B000JPZFBA/ref=ox_sc_act_title_1?smid=A2L77EE7U53NWQ&psc=1
+
+https://www.amazon.com/gp/product/B000CAHCQS/ref=ox_sc_act_title_2?smid=ATVPDKIKX0DER&psc=1
+
+https://www.ebay.com/sch/i.html?_sop=15&_pmc=true&isRefine=true&_productid=220004390&LH_ItemCondition=3000%7C4000%7C5000%7C6000&rt=nc&_fosrp=1
+
+https://m.youtube.com/watch?v=j7LLVkPpQ78&t=0h0m1s
+
+https://github.com/timwaizenegger/raspberrypi-examples/blob/master/actor-led-7segment-4numbers/tm1637.py
+
+http://youtu.be/hOadak-1Ipg
