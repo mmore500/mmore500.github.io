@@ -23,11 +23,59 @@ https://trendland.com/inside-terence-kohs-all-white-world/
 
 ## Why? Small world
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Your not wrong 😀 I will say one thing, I regretted not using left justified text. There are good design reasons to shy away from fully justified text. Otherwise I am fully on board😀</p>&mdash; Malboury Jones (@Malboury) <a href="https://twitter.com/Malboury/status/1011725268644397056?ref_src=twsrc%5Etfw">June 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">(finally) got a minimal working example of checkpoint-restart in <a href="https://twitter.com/SingularityApp?ref_src=twsrc%5Etfw">@SingularityApp</a> containers using <a href="https://twitter.com/hashtag/DMTCP?src=hash&amp;ref_src=twsrc%5Etfw">#DMTCP</a> running today 😎 <br><br>I&#39;ve seriously wanted this to work for about a year now, so yay 🤪<br><br>find the source &amp; and interactive demo here,<a href="https://t.co/TQ9xdNcNw6">https://t.co/TQ9xdNcNw6</a> <a href="https://t.co/eeYf4eqVQT">https://t.co/eeYf4eqVQT</a></p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/1077003601304682496?ref_src=twsrc%5Etfw">December 24, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I think Sans Forgetica is   ✨ rad  ✨, so I made a <a href="https://twitter.com/SingularityApp?ref_src=twsrc%5Etfw">@SingularityApp</a> container so you can easily compile it into your  🎇 L a T e X  b e a m e r  🎇 presentations!<a href="https://t.co/62SRD890dg">https://t.co/62SRD890dg</a><br><br>Details 📝 and 🚧 how-to 👷‍♀️👷‍♂️ below...     ⬇️   ⬇️   ⬇️ <a href="https://t.co/L1EftwLmPv">https://t.co/L1EftwLmPv</a></p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/1048676082952626177?ref_src=twsrc%5Etfw">October 6, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">🎶 it&#39;s a small world after all, it&#39;s a small, small world 🎶 <a href="https://t.co/V37oe46cUX">pic.twitter.com/V37oe46cUX</a></p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/1040963346948866050?ref_src=twsrc%5Etfw">September 15, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 ## Private or Public?
+
+## Rope someone else into the Conversations
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Too much dna looks like that but I have never seen such a big separation between running band and the &quot;tentacle tip&quot;.<br><br>Maybe agarose? Ladder doesn&#39;t look overloaded and it is also looking tentacly</p>&mdash; Melvin Noé González (@MNoeGonzalez) <a href="https://twitter.com/MNoeGonzalez/status/1083123193777475584?ref_src=twsrc%5Etfw">January 9, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Commercial
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Internet: “But Mr. Peanut, it’s <a href="https://twitter.com/hashtag/NoNutNovember?src=hash&amp;ref_src=twsrc%5Etfw">#NoNutNovember</a>!”<br><br>My Brain:<br>Don’t say it<br>Don’t say it<br>Don’t say it<br>Don’t say it<br>Don’t say it<br>Don’t say it<br>Don’t say it<br>Don’t say it<br><br>Me: I. AM. A. LEGUME.</p>&mdash; Mr Peanut (@MrPeanut) <a href="https://twitter.com/MrPeanut/status/1062468607035215872?ref_src=twsrc%5Etfw">November 13, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="fi" dir="ltr">gb;sughalugpaewyhg;irhdl!hflg..gss..hhrtdtudjytjghc&gt;-8*tfls&lt;9jdgblsvakyefe124352.b?jifdg;sualbnjg;ihs=0u65484hliugresHFUGILBSPJGMnfsig0947ws</p>&mdash; Burger King (@BurgerKing) <a href="https://twitter.com/BurgerKing/status/1067825530727206913?ref_src=twsrc%5Etfw">November 28, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Media Manager: Okay, what is something quick we can do to interact on social media and show we are active and can be fun?<br><br>Intern #1: Just mash all the keys on the keyboard and tweet it, they&#39;ll love it</p>&mdash; (not champs) Dragon (@dragonsjet) <a href="https://twitter.com/dragonsjet/status/1067830411869380608?ref_src=twsrc%5Etfw">November 28, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Tuesday, July 17th is our birthday! And to celebrate, we’ll be offering 60¢ short stacks! Guess how old we’ll be? Hint: 🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞🥞</p>&mdash; IHOP (@IHOP) <a href="https://twitter.com/IHOP/status/1018140598367346689?ref_src=twsrc%5Etfw">July 14, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It&#39;s <a href="https://twitter.com/hashtag/MothersDay?src=hash&amp;ref_src=twsrc%5Etfw">#MothersDay</a> so I&#39;m making Cheesy Chocolate Dip. It&#39;s another dish to wash but you did technically raise my kids. <a href="http://t.co/1VeEOxWoFd">pic.twitter.com/1VeEOxWoFd</a></p>&mdash; VELVEETA (@EatLiquidGold) <a href="https://twitter.com/EatLiquidGold/status/464817299263066112?ref_src=twsrc%5Etfw">May 9, 2014</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+## Career Brag / Rag
+
+Done right, this can be endearing.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Passed my classical rhetoric comprehensive exam! 📜🏛🏺HMU if you need help wrapping a toga or defending the Sophists.</p>&mdash; Marissa G Croft (@mgcroft) <a href="https://twitter.com/mgcroft/status/1073971877893173248?ref_src=twsrc%5Etfw">December 15, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Paper accepted</p>&mdash; Hiroki Sayama (@HirokiSayama) <a href="https://twitter.com/HirokiSayama/status/1033362487452880898?ref_src=twsrc%5Etfw">August 25, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Big week: two papers from my dissertation are out!! (and are my first first-author pubs!) 🤗🔬🌺🐝 if interested you can find details/links below :)</p>&mdash; Ash Zemenick (@mtn_ash) <a href="https://twitter.com/mtn_ash/status/1049759632518987777?ref_src=twsrc%5Etfw">October 9, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+
 
 ## Invite discussion
 
@@ -53,6 +101,13 @@ https://business.twitter.com/en/blog/creative-roundup-examples-of-brands-using-e
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Got my <a href="https://twitter.com/fitbit?ref_src=twsrc%5Etfw">@Fitbit</a> One as a Father&#39;s Day gift in 2013.  <br>Now I just passed 20 million steps while wearing it. <br>That beats my target of 10,000 steps per day by ~7% 🍻 <br>I&#39;m not sure I&#39;ll last to 100 million, but I&#39;ll try 🦶🦶</p>&mdash; Richard E. Lenski (@RELenski) <a href="https://twitter.com/RELenski/status/1024039935303671808?ref_src=twsrc%5Etfw">July 30, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## Share Pictures
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This is an awesome shot! Thanks <a href="https://twitter.com/MorenoMatthewA?ref_src=twsrc%5Etfw">@MorenoMatthewA</a> ! <a href="https://t.co/7DjysI5afm">https://t.co/7DjysI5afm</a></p>&mdash; Travis Hagey (@TravisHagey) <a href="https://twitter.com/TravisHagey/status/983144366251364353?ref_src=twsrc%5Etfw">April 9, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">another kickin’ <a href="https://twitter.com/michiganstateu?ref_src=twsrc%5Etfw">@michiganstateu</a> <a href="https://twitter.com/BEACON_Center?ref_src=twsrc%5Etfw">@BEACON_Center</a> elementary science night w/ all your usual your usual <a href="https://twitter.com/MSUDevolab?ref_src=twsrc%5Etfw">@MSUDevolab</a> suspects...<br><br>👇 <a href="https://t.co/omkgKhV9z3">pic.twitter.com/omkgKhV9z3</a></p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/1068319089716854784?ref_src=twsrc%5Etfw">November 30, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Hit Me up
 
@@ -98,14 +153,27 @@ and
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">After one month of offering access to <a href="https://twitter.com/lynda?ref_src=twsrc%5Etfw">@lynda</a>, people have accessed all sorts of courses and trainings. Can you guess which course was the most popular? <br><br>Access our subscription to Lynda and login with your library card # at <a href="https://t.co/fYVzSKGTSs">https://t.co/fYVzSKGTSs</a></p>&mdash; Corvallis Library (@corvallislib) <a href="https://twitter.com/corvallislib/status/1060653902926737408?ref_src=twsrc%5Etfw">November 8, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">old news but a huge dump of old microsoft clipart is on <a href="https://twitter.com/internetarchive?ref_src=twsrc%5Etfw">@internetarchive</a> <a href="https://t.co/8FUClkSBBx">https://t.co/8FUClkSBBx</a></p>&mdash; journal of mcmansion studies (@mcmansionhell) <a href="https://twitter.com/mcmansionhell/status/1059883024140156930?ref_src=twsrc%5Etfw">November 6, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">old news but a huge dump of old microsoft clipart is on <a href="https://twitter.com/internetarchive?ref_src=twsrc%5Etfw">@internetarchive</a> <a href="https://t.co/8FUClkSBBx">https://t.co/8FUClkSBBx</a></p>&mdash; journal of mcmansion studies (@mcmansionhell) <a href="https://twitter.com/mcmansionhell/status/1059883024140156930?ref_src=twsrc%5Etfw">November 6, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
 ## Change Your Name
 
-🍁Lauren  🍃Gilles 🍂
+[@leg2015](https://twitter.com/leg2015)
+
+> 🎄Lauren Gilles 🎄
+
+> 🍁Lauren  🍃Gilles 🍂
+
+
+[@benrjack](https://twitter.com/benrjack)
+
+> Ben Jack 🏳️‍🌈👨‍💻
+
+
+Halloween
+
+![Jake Fenton changed his username to Jake Fenton @ Codemash](https://osf.io/qyb59/download)
 
 ## Persona
 
@@ -128,6 +196,9 @@ terence koh baby talk
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">|￣￣￣￣￣￣￣￣￣￣￣|<br>              Be sweet <br>       when you Tweet<br>|＿＿＿＿＿＿＿＿＿＿＿| <br>                \ (•◡•) / <br>                  \      / <br>                    ---<br>                    |   |</p>&mdash; Twitter (@Twitter) <a href="https://twitter.com/Twitter/status/1052582817228607491?ref_src=twsrc%5Etfw">October 17, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">(•_•)<br>&lt;)   )╯Senators <br> /    \<br><br>\(•_•)   can influence, <br> (   (&gt;    <br> /    \      <br><br> (•_•)    foreign policy <br>&lt;)   )&gt;  <br> /    \      under Article One</p>&mdash; Brian Schatz (@brianschatz) <a href="https://twitter.com/brianschatz/status/1019247730366009346?ref_src=twsrc%5Etfw">July 17, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">|￣￣￣￣￣￣ |<br>| TURN |<br>| DOWN | <br>| FOR | <br>| WHAT |<br>| ＿＿＿＿＿__| <br>(\__/) || <br>(•ㅅ•) || <br>/ 　 づ</p>&mdash; Sign Bunny (@bunnywithsign) <a href="https://twitter.com/bunnywithsign/status/512328333195870208?ref_src=twsrc%5Etfw">September 17, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">You could say she was a <br><br>(•_•) <br>( •_•)&gt;⌐■-■ <br>(⌐■_■<br><br>breath of <a href="https://twitter.com/nprfreshair?ref_src=twsrc%5Etfw">@nprfreshair</a>. <a href="https://t.co/jw5ckSjx4o">https://t.co/jw5ckSjx4o</a></p>&mdash; NPR Extra (@NPRextra) <a href="https://twitter.com/NPRextra/status/1050006656581554176?ref_src=twsrc%5Etfw">October 10, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -141,6 +212,8 @@ terence koh baby talk
 
 ## Make a Bot
 
+<a class="twitter-timeline" data-height="500" href="https://twitter.com/year_progress?ref_src=twsrc%5Etfw">Tweets by year_progress</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <a class="twitter-timeline" data-height="500" href="https://twitter.com/leastUsedEmoji?ref_src=twsrc%5Etfw">Tweets by leastUsedEmoji</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <a class="twitter-timeline" data-height="500" href="https://twitter.com/smilevector?ref_src=twsrc%5Etfw">Tweets by smilevector</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -148,6 +221,9 @@ terence koh baby talk
 <a class="twitter-timeline" data-height="500" href="https://twitter.com/BOTUS?ref_src=twsrc%5Etfw">Tweets by BOTUS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <a class="twitter-timeline" data-height="500" href="https://twitter.com/MSUDevolab?ref_src=twsrc%5Etfw">Tweets by MSUDevolab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Japan Travel 2018 <a href="https://t.co/VqW4Bqbrak">https://t.co/VqW4Bqbrak</a></p>&mdash; Devolab (@MSUDevolab) <a href="https://twitter.com/MSUDevolab/status/1029070644401590279?ref_src=twsrc%5Etfw">August 13, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Make A 1-Purpose Account
 
@@ -191,10 +267,35 @@ Ergo dox ez
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">great meme <a href="https://t.co/d5AW6WliTy">pic.twitter.com/d5AW6WliTy</a></p>&mdash; Lex Flagel (@flagelbagel) <a href="https://twitter.com/flagelbagel/status/1023661343143026688?ref_src=twsrc%5Etfw">July 29, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">(•_•)<br>&lt;)   )╯Senators <br> /    \<br><br>\(•_•)   can influence, <br> (   (&gt;    <br> /    \      <br><br> (•_•)    foreign policy <br>&lt;)   )&gt;  <br> /    \      under Article One</p>&mdash; Brian Schatz (@brianschatz) <a href="https://twitter.com/brianschatz/status/1019247730366009346?ref_src=twsrc%5Etfw">July 17, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Very excited to make this lab safety sign <a href="https://t.co/gRwGEyCtr4">pic.twitter.com/gRwGEyCtr4</a></p>&mdash; Sean Leonard (@spleonard1) <a href="https://twitter.com/spleonard1/status/1022253226748510208?ref_src=twsrc%5Etfw">July 25, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Very excited to make this lab safety sign <a href="https://t.co/gRwGEyCtr4">pic.twitter.com/gRwGEyCtr4</a></p>&mdash; Sean Leonard (@spleonard1) <a href="https://twitter.com/spleonard1/status/1022253226748510208?ref_src=twsrc%5Etfw">July 25, 2018</a></blockquote>
+### Caption An Image/Gif
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Me when I think that I&#39;m almost done writing a paper <a href="https://t.co/W2nBKrmR9R">pic.twitter.com/W2nBKrmR9R</a></p>&mdash; Simon Garnier (@sjmgarnier) <a href="https://twitter.com/sjmgarnier/status/931618247320965122?ref_src=twsrc%5Etfw">November 17, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Actual footage of me getting distracted by a side project <a href="https://twitter.com/hashtag/phdlife?src=hash&amp;ref_src=twsrc%5Etfw">#phdlife</a> <a href="https://t.co/VVjjNVshq2">pic.twitter.com/VVjjNVshq2</a></p>&mdash; Emily Dolson (@emilyldolson) <a href="https://twitter.com/emilyldolson/status/1003882998637395968?ref_src=twsrc%5Etfw">June 5, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">slack: &quot;oops sorry can&#39;t connect&quot;<br><br>teams who all sit right next to each other but still rely on slack: <a href="https://t.co/HHKrkDUe41">pic.twitter.com/HHKrkDUe41</a></p>&mdash; Brittney 🆗🆒 (@brittneyplz) <a href="https://twitter.com/brittneyplz/status/1011970929151434755?ref_src=twsrc%5Etfw">June 27, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Repurpose Arts and Crafts
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Going to start a women in STEM knitting and needlepoint group as a radical reclamation of what are traditionally regarded as worthless feminine arts where we sit around and sew and knit and science inspired pieces</p>&mdash; The Jupiter Girl (@upulie) <a href="https://twitter.com/upulie/status/1048344336151138304?ref_src=twsrc%5Etfw">October 5, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Really amazing <a href="https://twitter.com/hashtag/scicomm?src=hash&amp;ref_src=twsrc%5Etfw">#scicomm</a>! How to Crochet a Coral Reef--and Why <a href="https://t.co/61dPvMDdGu">https://t.co/61dPvMDdGu</a> <a href="https://twitter.com/hashtag/science?src=hash&amp;ref_src=twsrc%5Etfw">#science</a></p>&mdash; Carina Baskett (@carina_plant) <a href="https://twitter.com/carina_plant/status/819613245015289863?ref_src=twsrc%5Etfw">January 12, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Resin cast of a slime mold culture by <a href="https://twitter.com/NJIT?ref_src=twsrc%5Etfw">@njit</a> industrial design major <a href="https://twitter.com/danmeza98?ref_src=twsrc%5Etfw">@danmeza98</a>. This is the first step toward a much more ambitious project. Stay tuned ;-) <a href="https://t.co/pYtwKYpL1F">pic.twitter.com/pYtwKYpL1F</a></p>&mdash; Simon Garnier (@sjmgarnier) <a href="https://twitter.com/sjmgarnier/status/1060620254081105922?ref_src=twsrc%5Etfw">November 8, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Lab pumpkin carving party. Check our BEACON 🎃 by <a href="https://twitter.com/MorenoMatthewA?ref_src=twsrc%5Etfw">@MorenoMatthewA</a>! 🎃❤️ <a href="https://twitter.com/BEACON_Center?ref_src=twsrc%5Etfw">@BEACON_Center</a> <a href="https://t.co/vakcNHKjPS">pic.twitter.com/vakcNHKjPS</a></p>&mdash; Devolab (@MSUDevolab) <a href="https://twitter.com/MSUDevolab/status/921054636345380864?ref_src=twsrc%5Etfw">October 19, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">hey <a href="https://twitter.com/icermsu?ref_src=twsrc%5Etfw">@icermsu</a>, y’all are the 🕯 inside my research 🎃 <br><br>happy Halloween!!! 🧡🧡🧡 — a grad student <a href="https://t.co/qnYESIfcBW">pic.twitter.com/qnYESIfcBW</a></p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/1057649076202823681?ref_src=twsrc%5Etfw">October 31, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Retweet Your Own Tweets
@@ -206,11 +307,16 @@ update
 
 
 just to put it back out there
-particularly devious, you can go back and delete these later
+particularly devious, you can go back and delete these later!
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">WOW HELLO I AM WRITING A CHOOSE YOUR OWN PATH BOOK ABOUT A WOLF PRETENDING TO BE A MAN, AN INCREDIBLE WORK OF FICTION WITH NO RELATION TO MY LIFE<br><br>WE ARE CROWDFUNDING IT HERE <a href="https://t.co/3ZyHpcoeDZ">https://t.co/3ZyHpcoeDZ</a></p>&mdash; NOT A WOLF (@SICKOFWOLVES) <a href="https://twitter.com/SICKOFWOLVES/status/1056938445577355266?ref_src=twsrc%5Etfw">October 29, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/AI?src=hash&amp;ref_src=twsrc%5Etfw">#AI</a> winter? Certainly a fair bit of disillusionment so far. But still on course. <a href="https://twitter.com/hashtag/DeepLearning?src=hash&amp;ref_src=twsrc%5Etfw">#DeepLearning</a> <a href="https://twitter.com/hashtag/AutonomousVehicles?src=hash&amp;ref_src=twsrc%5Etfw">#AutonomousVehicles</a> <a href="https://t.co/lHqLvhLr76">https://t.co/lHqLvhLr76</a></p>&mdash; Filip Piekniewski (@filippie509) <a href="https://twitter.com/filippie509/status/1056904214738165760?ref_src=twsrc%5Etfw">October 29, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I stand by this quality tweet <a href="https://t.co/U0NIvNGSVv">https://t.co/U0NIvNGSVv</a></p>&mdash; Matthew Andres Moreno (@mmore500) <a href="https://twitter.com/mmore500/status/1075893726201802752?ref_src=twsrc%5Etfw">December 20, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
@@ -222,10 +328,49 @@ quote yourself
 
 ## Complain
 
+be *~relatable~*
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">repent, for the end times are upon us <a href="https://t.co/tbSTfQpQnK">pic.twitter.com/tbSTfQpQnK</a></p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/1054156088973713408?ref_src=twsrc%5Etfw">October 21, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Current state of my inbox:<br><br>We’ve updated our privacy policy.<br>We’ve updated our privacy policy. <br>We’ve updated our privacy policy. <br>We’ve updated our privacy policy. <br>We’ve updated our privacy policy. <br>We’ve updated our privacy policy. <br>We’ve updated our privacy policy. <br>…</p>&mdash; Neil Cremins (@ncremins) <a href="https://twitter.com/ncremins/status/989463038393835520?ref_src=twsrc%5Etfw">April 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Doesn&#39;t take long to forget that it is literally impossible to get any work done in a USA airline seat for me. So much for that productive time I planned on the way to Tokyo. On the other hand, I&#39;m in Tokyo so thats cool.</p>&mdash; Luis Zaman (@LuisZaman) <a href="https://twitter.com/LuisZaman/status/1020970487663345664?ref_src=twsrc%5Etfw">July 22, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+You can also appeal for change!
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Also put dates on any updates you make to your posts. <a href="https://t.co/EpM5hRjulp">https://t.co/EpM5hRjulp</a></p>&mdash; Ben Jack 🏳️‍🌈👨‍💻 (@benrjack) <a href="https://twitter.com/benrjack/status/1011619791495450627?ref_src=twsrc%5Etfw">June 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">An editor at PLOS One just asked me — an evolutionary biologist, and a theorist no less — to review this paper: &quot;Stability of commercial parenteral lipid emulsions repacking to polypropylene syringes&quot;. <br><br>If you want to be taken seriously, <a href="https://twitter.com/PLOSONE?ref_src=twsrc%5Etfw">@PLOSOne</a>, you&#39;ve got to do better.</p>&mdash; Carl T. Bergstrom (@CT_Bergstrom) <a href="https://twitter.com/CT_Bergstrom/status/1083112104746311680?ref_src=twsrc%5Etfw">January 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">petition to bring back rainbows in computer logos<br><br>rt if u agree, fav if u agree <a href="https://t.co/cjofOqEKIb">pic.twitter.com/cjofOqEKIb</a></p>&mdash; isis agora lovecruft (@isislovecruft) <a href="https://twitter.com/isislovecruft/status/1031794845109477377?ref_src=twsrc%5Etfw">August 21, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Resin cast of a slime mold culture by <a href="https://twitter.com/NJIT?ref_src=twsrc%5Etfw">@njit</a> industrial design major <a href="https://twitter.com/danmeza98?ref_src=twsrc%5Etfw">@danmeza98</a>. This is the first step toward a much more ambitious project. Stay tuned ;-) <a href="https://t.co/pYtwKYpL1F">pic.twitter.com/pYtwKYpL1F</a></p>&mdash; Simon Garnier (@sjmgarnier) <a href="https://twitter.com/sjmgarnier/status/1060620254081105922?ref_src=twsrc%5Etfw">November 8, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+## Be Political
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Beyond heartbreaking. This national nightmare is growing darker. This is abuse - plain and simple. Individuals of conscience, empathy and decency cannot hear this without feeling their stomachs give out. This has to end.<a href="https://twitter.com/hashtag/ReuniteFamiliesNow?src=hash&amp;ref_src=twsrc%5Etfw">#ReuniteFamiliesNow</a> <a href="https://t.co/dhbbspWaUA">https://t.co/dhbbspWaUA</a></p>&mdash; Benjamin Kerr (@evokerr) <a href="https://twitter.com/evokerr/status/1015136447546839040?ref_src=twsrc%5Etfw">July 6, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
 ## Appeal to Community
+
+make introductions/be a nexus
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Pretty much all of the <a href="https://twitter.com/MSUDevolab?ref_src=twsrc%5Etfw">@MSUDevolab</a> and affiliates are making the trek, including me, <a href="https://twitter.com/amlalejini?ref_src=twsrc%5Etfw">@amlalejini</a>, <a href="https://twitter.com/MorenoMatthewA?ref_src=twsrc%5Etfw">@MorenoMatthewA</a>, <a href="https://twitter.com/AnyaEVostinar?ref_src=twsrc%5Etfw">@AnyaEVostinar</a>, and <a href="https://twitter.com/leg2015?ref_src=twsrc%5Etfw">@leg2015</a></p>&mdash; Emily Dolson (@emilyldolson) <a href="https://twitter.com/emilyldolson/status/1019739359782637568?ref_src=twsrc%5Etfw">July 19, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I am constantly impressed by the grad students and postdocs who are on twitter courageously speaking out against toxic behavior in academia and taking a stand for diversity and equity. If you want to celebrate someone who does this, tag them in the comments!</p>&mdash; Jen Heemstra (@jenheemstra) <a href="https://twitter.com/jenheemstra/status/1071766525835665408?ref_src=twsrc%5Etfw">December 9, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Attention everyone! A few people are gathering photos taken at the <a href="https://twitter.com/hashtag/MuseuNacional?src=hash&amp;ref_src=twsrc%5Etfw">#MuseuNacional</a> in Rio. Anyone with photos from their visits is encouraged to send them to:<br>thg.museo@gmail.com Here is my friend João Luiz Gasparini there in 1980! Please RT! <a href="https://t.co/2mRC3PZZHn">pic.twitter.com/2mRC3PZZHn</a></p>&mdash; Dr. Luiz Rocha (@CoralReefFish) <a href="https://twitter.com/CoralReefFish/status/1036729109676666880?ref_src=twsrc%5Etfw">September 3, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -297,8 +442,17 @@ real or imagined
 
 ## Share an announcement
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Our <a href="https://twitter.com/hashtag/ant?src=hash&amp;ref_src=twsrc%5Etfw">#ant</a> queen Beyoncé laid her first eggs this week! <a href="https://t.co/YJB8x53DYe">pic.twitter.com/YJB8x53DYe</a></p>&mdash; Simon Garnier (@sjmgarnier) <a href="https://twitter.com/sjmgarnier/status/1012840821899620352?ref_src=twsrc%5Etfw">June 29, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">An agent which learned to play Mario without rewards. Instead, it was incentivized to avoid &quot;boredom&quot; (that is, getting into states where it can predict what will happen next). Discovered warp levels, how to defeat bosses, etc. More details: <a href="https://t.co/lGw3rZUbv3">https://t.co/lGw3rZUbv3</a> <a href="https://t.co/6ObS35iZZS">pic.twitter.com/6ObS35iZZS</a></p>&mdash; Greg Brockman (@gdb) <a href="https://twitter.com/gdb/status/1057684743980965888?ref_src=twsrc%5Etfw">October 31, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+if you're announcing a paper, consider throwing in a slick graphic and trying to summarize something interesting/the main point to give people a reason to click through and read around more
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Blogging would make you understand your stuff better. And deeper.<br><br>Blogging would make people learn from your experience and from your mistakes.<br><br>Blogging would advance your career in many ways<br>{ author: <a href="https://twitter.com/hagailuger?ref_src=twsrc%5Etfw">@hagailuger</a> }<a href="https://t.co/3JtjYkkWqO">https://t.co/3JtjYkkWqO</a></p>&mdash; DEV Community 👩‍💻👨‍💻 (@ThePracticalDev) <a href="https://twitter.com/ThePracticalDev/status/1040216281998340096?ref_src=twsrc%5Etfw">September 13, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 package as a slick blog post, include a graphic or video
 
@@ -316,6 +470,11 @@ pre-hype
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We got a very cool picture on our trail camera, a cougar chasing a coyote. You do not get these very often <a href="https://t.co/tDkFvQJL0e">pic.twitter.com/tDkFvQJL0e</a></p>&mdash; Frank van der Meer (@frnkvdmr) <a href="https://twitter.com/frnkvdmr/status/1054223905110388736?ref_src=twsrc%5Etfw">October 22, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## Share an interesting/amusing failed visualization or error message
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">my secret, dark talent: <br>coaxing error messages out of ever single thing I touch <a href="https://t.co/DZHmjU7bw6">pic.twitter.com/DZHmjU7bw6</a></p>&mdash; Matthew Andres Moreno (@mmore500) <a href="https://twitter.com/mmore500/status/1055575841407725570?ref_src=twsrc%5Etfw">October 25, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 can even be failed
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Going through old figures and found this gem, in which I apparently visualized a disco party in Eurasia and N. Africa. <a href="https://twitter.com/hashtag/NailedIt?src=hash&amp;ref_src=twsrc%5Etfw">#NailedIt</a> <a href="https://twitter.com/accidental__aRt?ref_src=twsrc%5Etfw">@accidental__aRt</a> <a href="https://t.co/EEBNS0G0qv">pic.twitter.com/EEBNS0G0qv</a></p>&mdash; Gideon Bradburd (@gbradburd) <a href="https://twitter.com/gbradburd/status/998632088202080262?ref_src=twsrc%5Etfw">May 21, 2018</a></blockquote>
@@ -327,10 +486,9 @@ can even be failed
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Now it kind of looks like an upside-down birds nest... <a href="https://twitter.com/hashtag/accidentalart?src=hash&amp;ref_src=twsrc%5Etfw">#accidentalart</a> <a href="https://t.co/GbqixZb0KE">pic.twitter.com/GbqixZb0KE</a></p>&mdash; Emily Dolson (@emilyldolson) <a href="https://twitter.com/emilyldolson/status/976898868502769666?ref_src=twsrc%5Etfw">March 22, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
 ## Follow and retweet content your field/following might appreciate
 
-e.x. Calvin and Hobbes or xcd
+e.x. Calvin and Hobbes or xkcd
 
 ## Self-analysis
 
@@ -349,9 +507,25 @@ e.x. Calvin and Hobbes or xcd
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Crazy Rich Bayesians</p>&mdash; Ankur Pandya (@AnkurFactorial) <a href="https://twitter.com/AnkurFactorial/status/1033473370732605440?ref_src=twsrc%5Etfw">August 25, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&#39;Tis the season…<br>…to make holiday pop songs into holiday pop gen songs!<br><br>🎶<br>- I’m Dreaming of a Wright Christmas<br>- O Coalescent Tree<br>- All I want for Christmas is 4Nμ<br>- O Holy Landscape<br>- Let genes flow! Let genes flow! Let genes flow!<br>🎵<br><br>Happy holidays!</p>&mdash; Benjamin Kerr (@evokerr) <a href="https://twitter.com/evokerr/status/944966356755025920?ref_src=twsrc%5Etfw">December 24, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Use a Thread to Tell A Story
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I overheard a young man on the train on the way home today, talking to another young man. Holding hands. In college, I guessed. About that age anyway. Much younger than I am.</p>&mdash; Tucker Shaw (@tucker_shaw) <a href="https://twitter.com/tucker_shaw/status/1041839498999603202?ref_src=twsrc%5Etfw">September 18, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This is my son, Sam. He’s 5. And today he learned how shitty and harmful <a href="https://twitter.com/hashtag/ToxicMasculinity?src=hash&amp;ref_src=twsrc%5Etfw">#ToxicMasculinity</a> is. My rage meter is spiking right now so excuse me if this is a little raw but there are some things I want to say about BS <a href="https://twitter.com/hashtag/gender?src=hash&amp;ref_src=twsrc%5Etfw">#gender</a> norms (a thread) <a href="https://t.co/NtoE2VHKsU">pic.twitter.com/NtoE2VHKsU</a></p>&mdash; Daddy Files (@DaddyFiles) <a href="https://twitter.com/DaddyFiles/status/1054527579204530176?ref_src=twsrc%5Etfw">October 23, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+## Bad Things :poop: :rotating_light: :no_good:
+
+TODO
 
 ## Let's Chat
 
 Use Twitter as A Comments Section
 
-TODO
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">nothing to see here, just a placeholder tweet 🐦</p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/1054071480512843776?ref_src=twsrc%5Etfw">October 21, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
