@@ -10,6 +10,11 @@ https://kenrockwell.com/tech/how-to-spot-an-amateur.htm
 
 [preemptive retrospection](https://scholarsarchive.byu.edu/etd/1688), which probably objectively unnecessary, precautions
 
+vines!!!
+https://m.youtube.com/watch?v=k9RbixT8d5w
+* taking screenshots of youtube videos
+
+https://www.instructables.com/id/Developing-Black-and-White-Film-at-Home/
 
 lens hoods, lens cap, uv lens, neoprene bags
 
