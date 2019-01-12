@@ -518,6 +518,29 @@ e.x. Calvin and Hobbes or xkcd
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This is my son, Sam. He’s 5. And today he learned how shitty and harmful <a href="https://twitter.com/hashtag/ToxicMasculinity?src=hash&amp;ref_src=twsrc%5Etfw">#ToxicMasculinity</a> is. My rage meter is spiking right now so excuse me if this is a little raw but there are some things I want to say about BS <a href="https://twitter.com/hashtag/gender?src=hash&amp;ref_src=twsrc%5Etfw">#gender</a> norms (a thread) <a href="https://t.co/NtoE2VHKsU">pic.twitter.com/NtoE2VHKsU</a></p>&mdash; Daddy Files (@DaddyFiles) <a href="https://twitter.com/DaddyFiles/status/1054527579204530176?ref_src=twsrc%5Etfw">October 23, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## Send Someone a Compliment
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Cool paper on geographical variation in the storage effect <a href="https://t.co/a3a2cfS1M8">https://t.co/a3a2cfS1M8</a></p>&mdash; Emily Dolson (@emilyldolson) <a href="https://twitter.com/emilyldolson/status/910574872950132736?ref_src=twsrc%5Etfw">September 20, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/benrjack?ref_src=twsrc%5Etfw">@benrjack</a> ok wow your website <a href="https://t.co/rnED2p7UDm">https://t.co/rnED2p7UDm</a> is stunning ✨</p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/1083143117946142721?ref_src=twsrc%5Etfw">January 9, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I keep having an urge to revamp the style of my blog. <a href="https://twitter.com/mmore500?ref_src=twsrc%5Etfw">@mmore500</a>&#39;s layout is super functional (table of contents for each post!) but then I realized there&#39;s several commits in the repo for just tweaking CSS...<br><br>Thats a rabbit hole I don&#39;t think I wanna go down.</p>&mdash; Jake Fenton @ CodeMash! (@highnoiseratio) <a href="https://twitter.com/highnoiseratio/status/1078770081851756550?ref_src=twsrc%5Etfw">December 28, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+## Ask a Question!
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;m curious about people&#39;s thoughts/usage of pre-print servers. Please take a second to fill out this survey - and share with your colleagues/RT please. <a href="https://t.co/4jR8KDOtxL">https://t.co/4jR8KDOtxL</a></p>&mdash; Jacob G Scott (@CancerConnector) <a href="https://twitter.com/CancerConnector/status/982968943068532737?ref_src=twsrc%5Etfw">April 8, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Let&#39;s gather real data about memory card failures: <a href="https://t.co/56cSOC8OXJ">https://t.co/56cSOC8OXJ</a><br><br>If you have a camera, whether or not you&#39;ve had a card failure, I want the details</p>&mdash; Tony Northrup (@tonynorthrup) <a href="https://twitter.com/tonynorthrup/status/1039595103034204160?ref_src=twsrc%5Etfw">September 11, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+especially clever: used a custom url to redirect from the google poll to a video summarizing the results of the poll
+
+https://business.twitter.com/en/blog/4-ways-businesses-can-use-Twitter-Polls.html
 
 ## Bad Things :poop: :rotating_light: :no_good:
 
