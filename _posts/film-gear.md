@@ -147,3 +147,6 @@ https://m.youtube.com/watch?v=fhl-htJKRxo
 https://m.youtube.com/watch?v=Rfli9at-wDE#fauxfullscreen
 
 https://m.youtube.com/watch?v=t4liS_NFE3c
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Photographers who&#39;ve been shooting for at least 3 years: What&#39;s changed about your technique, gear, planning, etc? What did you think was important as a beginner that you now think is a waste of time/money/energy? What gear did you start - or stop - carrying?</p>&mdash; Tony Northrup (@tonynorthrup) <a href="https://twitter.com/tonynorthrup/status/1045296147647135745?ref_src=twsrc%5Etfw">September 27, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
