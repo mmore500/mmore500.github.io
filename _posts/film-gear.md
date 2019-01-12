@@ -139,3 +139,11 @@ https://m.youtube.com/watch?v=j7LLVkPpQ78&t=0h0m1s
 https://github.com/timwaizenegger/raspberrypi-examples/blob/master/actor-led-7segment-4numbers/tm1637.py
 
 http://youtu.be/hOadak-1Ipg
+
+https://m.youtube.com/watch?v=MBW0OaW8_hI#
+
+https://m.youtube.com/watch?v=fhl-htJKRxo
+
+https://m.youtube.com/watch?v=Rfli9at-wDE#fauxfullscreen
+
+https://m.youtube.com/watch?v=t4liS_NFE3c
