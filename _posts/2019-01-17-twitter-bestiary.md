@@ -73,8 +73,14 @@ Done right, this can be endearing.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Big week: two papers from my dissertation are out!! (and are my first first-author pubs!) 🤗🔬🌺🐝 if interested you can find details/links below :)</p>&mdash; Ash Zemenick (@mtn_ash) <a href="https://twitter.com/mtn_ash/status/1049759632518987777?ref_src=twsrc%5Etfw">October 9, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Having all of the feels about next week. A dream of mine *may* come true (i.e. faculty interview). Am I nervous? Of course, who wouldn&#39;t be? But my drive and excitement helps decrease any negative feelings. It&#39;s just surreal that I, a small-town, <a href="https://twitter.com/hashtag/firstgen?src=hash&amp;ref_src=twsrc%5Etfw">#firstgen</a> <a href="https://twitter.com/hashtag/LGBTQ?src=hash&amp;ref_src=twsrc%5Etfw">#LGBTQ</a> Nova Scotian,</p>&mdash; Dr Joel Slade 🏳️‍🌈 (@EvoEcoJoel) <a href="https://twitter.com/EvoEcoJoel/status/1068930598134317056?ref_src=twsrc%5Etfw">December 1, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">who struggled to get out of bed and go to jr. high because he was afraid of being called a derogatory slur regarding my unannounced sexuality, or teased for being a &quot;nerd&quot; or &quot;geek&quot;, is being recognized and may potentially earn the job of his dreams (to do research...</p>&mdash; Dr Joel Slade 🏳️‍🌈 (@EvoEcoJoel) <a href="https://twitter.com/EvoEcoJoel/status/1068930599082176512?ref_src=twsrc%5Etfw">December 1, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">...and teach in an inclusive environment). I admit, I am pragmatic about these things, so I realize if this isn&#39;t my time, that it will happen eventually. But right now I am going to sit and soak in the positives and enjoy this experience. <a href="https://twitter.com/hashtag/500queersci?src=hash&amp;ref_src=twsrc%5Etfw">#500queersci</a> <a href="https://twitter.com/hashtag/LGBTQtwitter?src=hash&amp;ref_src=twsrc%5Etfw">#LGBTQtwitter</a> <a href="https://twitter.com/hashtag/LGBTSTEM?src=hash&amp;ref_src=twsrc%5Etfw">#LGBTSTEM</a></p>&mdash; Dr Joel Slade 🏳️‍🌈 (@EvoEcoJoel) <a href="https://twitter.com/EvoEcoJoel/status/1068930600076288000?ref_src=twsrc%5Etfw">December 1, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## Invite discussion
