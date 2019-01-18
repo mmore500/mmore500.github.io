@@ -33,13 +33,6 @@ date:   2018-01-17
 
 in another small world incident, my brother met at a funk concert in California and I had met when my brother visited Ann Arbor.
 
-### get those citations, dawg
-
-Positive association... maybe not causality.
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Studies suggest that papers that are shared more get cited more and that after 1000 followers you reach a broader audience outside of your field. <br>Thus, with scientific evidence to support me, I will continue to make absurd jokes and say ‘fuck’ a lot online <a href="https://t.co/PCDJyuYTeX">https://t.co/PCDJyuYTeX</a></p>&mdash; Dr Lauren M Robinson (@Laurenmrobin) <a href="https://twitter.com/Laurenmrobin/status/1048673117126762497?ref_src=twsrc%5Etfw">October 6, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ### Why A Bestiary?
 
 The functional framework for analysis of religion we will employ was developed by evolutionary biologist David Sloan Wilson.
@@ -79,7 +72,34 @@ Does it matter?
 
 ### Academic Ends
 
-TODO
+scicomm/academic twitter/reddit
+
+* helping other people feel not alone/more positive work culture
+* being aware of relevant papers
+* building connections/networking
+  * collaborators for projects
+  * getting people to extend your work
+  * getting people to cite you
+* getting feedback
+* job opportunities
+* funding opportunities
+* ask questions
+* tutorials
+* public engagement
+* we're real people
+* recruiting people into science
+* public perception
+* RE: policy
+  * not an elitist cabal
+
+Randy Olson
+
+get those citations, dawg
+
+Positive association... maybe not causality.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Studies suggest that papers that are shared more get cited more and that after 1000 followers you reach a broader audience outside of your field. <br>Thus, with scientific evidence to support me, I will continue to make absurd jokes and say ‘fuck’ a lot online <a href="https://t.co/PCDJyuYTeX">https://t.co/PCDJyuYTeX</a></p>&mdash; Dr Lauren M Robinson (@Laurenmrobin) <a href="https://twitter.com/Laurenmrobin/status/1048673117126762497?ref_src=twsrc%5Etfw">October 6, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## Be a Community Asset
@@ -628,9 +648,22 @@ R Ladies
 
 Ergodox EZ
 
-## Bad Things :poop: :rotating_light: :no_good:
+## Faux Pas
 
-TODO
+not having a twitter so that collaborators or interested people can't mention you
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thanks Jay! Will do. The secret to tweetness is sweetness.</p>&mdash; Adam T. Ford (@adamthomasford) <a href="https://twitter.com/adamthomasford/status/984598814815211520?ref_src=twsrc%5Etfw">April 13, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+overwhelmed
+quote/downvote (level of filtering)
+moderating versus censoring
+time consumption / getting you hooked
+* https://medium.com/thrive-global/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3
+
+not replying
+* temporarily stepping into a conference
+* being self conscious/worried about generating more work for yourself
 
 ## Interactive Exercise
 
