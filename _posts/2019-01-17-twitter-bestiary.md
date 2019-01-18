@@ -79,15 +79,42 @@ Does it matter?
 
 ### Academic Ends
 
-* brag
-* promote
-*
+TODO
+
 
 ## Be a Community Asset
 
-### Follow and retweet content your field/following might appreciate
+### Facilitate Community Interactions
 
-e.x. Calvin and Hobbes or xkcd
+make introductions/be a nexus
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Pretty much all of the <a href="https://twitter.com/MSUDevolab?ref_src=twsrc%5Etfw">@MSUDevolab</a> and affiliates are making the trek, including me, <a href="https://twitter.com/amlalejini?ref_src=twsrc%5Etfw">@amlalejini</a>, <a href="https://twitter.com/MorenoMatthewA?ref_src=twsrc%5Etfw">@MorenoMatthewA</a>, <a href="https://twitter.com/AnyaEVostinar?ref_src=twsrc%5Etfw">@AnyaEVostinar</a>, and <a href="https://twitter.com/leg2015?ref_src=twsrc%5Etfw">@leg2015</a></p>&mdash; Emily Dolson (@emilyldolson) <a href="https://twitter.com/emilyldolson/status/1019739359782637568?ref_src=twsrc%5Etfw">July 19, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I’ll be recruiting PhD student(s) to work on developing popgen methods that focus on the role of geography in structuring genealogies. Lab website: <a href="https://t.co/j4uSy1urvF">https://t.co/j4uSy1urvF</a>.  Thanks for organizing this thread <a href="https://twitter.com/iochromaland?ref_src=twsrc%5Etfw">@iochromaland</a>!</p>&mdash; Gideon Bradburd (@gbradburd) <a href="https://twitter.com/gbradburd/status/1041681067571326978?ref_src=twsrc%5Etfw">September 17, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I am constantly impressed by the grad students and postdocs who are on twitter courageously speaking out against toxic behavior in academia and taking a stand for diversity and equity. If you want to celebrate someone who does this, tag them in the comments!</p>&mdash; Jen Heemstra (@jenheemstra) <a href="https://twitter.com/jenheemstra/status/1071766525835665408?ref_src=twsrc%5Etfw">December 9, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Appeal to Community
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Attention everyone! A few people are gathering photos taken at the <a href="https://twitter.com/hashtag/MuseuNacional?src=hash&amp;ref_src=twsrc%5Etfw">#MuseuNacional</a> in Rio. Anyone with photos from their visits is encouraged to send them to:<br>thg.museo@gmail.com Here is my friend João Luiz Gasparini there in 1980! Please RT! <a href="https://t.co/2mRC3PZZHn">pic.twitter.com/2mRC3PZZHn</a></p>&mdash; Dr. Luiz Rocha (@CoralReefFish) <a href="https://twitter.com/CoralReefFish/status/1036729109676666880?ref_src=twsrc%5Etfw">September 3, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hey <a href="https://twitter.com/hashtag/phylogenetics?src=hash&amp;ref_src=twsrc%5Etfw">#phylogenetics</a> Twitter: is there a name for the chunk of a phylogeny that evolved after a given time point (e.g. the circled region)? All of the terms I know are based on topology rather than absolute time. Also, if there&#39;s not, can it be (<a href="https://twitter.com/MorenoMatthewA?ref_src=twsrc%5Etfw">@MorenoMatthewA</a>&#39;s idea) the canopy? <a href="https://t.co/0YMjdwlzR5">pic.twitter.com/0YMjdwlzR5</a></p>&mdash; Emily Dolson (@emilyldolson) <a href="https://twitter.com/emilyldolson/status/1038128729388670977?ref_src=twsrc%5Etfw">September 7, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hey <a href="https://twitter.com/hashtag/evolution?src=hash&amp;ref_src=twsrc%5Etfw">#evolution</a> twitter! We&#39;re writing a paper on summary statistics for phylogenies/individual lineages and suspect people have come up with cool analyses that we aren&#39;t finding because they weren&#39;t the focus of the paper. Know of any? Let us know so we can cite you!</p>&mdash; Emily Dolson (@emilyldolson) <a href="https://twitter.com/emilyldolson/status/979042347303436288?ref_src=twsrc%5Etfw">March 28, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+### Be a Positive Influence
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Also put dates on any updates you make to your posts. <a href="https://t.co/EpM5hRjulp">https://t.co/EpM5hRjulp</a></p>&mdash; Ben Jack 🏳️‍🌈👨‍💻 (@benrjack) <a href="https://twitter.com/benrjack/status/1011619791495450627?ref_src=twsrc%5Etfw">June 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">An editor at PLOS One just asked me — an evolutionary biologist, and a theorist no less — to review this paper: &quot;Stability of commercial parenteral lipid emulsions repacking to polypropylene syringes&quot;. <br><br>If you want to be taken seriously, <a href="https://twitter.com/PLOSONE?ref_src=twsrc%5Etfw">@PLOSOne</a>, you&#39;ve got to do better.</p>&mdash; Carl T. Bergstrom (@CT_Bergstrom) <a href="https://twitter.com/CT_Bergstrom/status/1083112104746311680?ref_src=twsrc%5Etfw">January 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Send Someone a Compliment
 
@@ -114,11 +141,6 @@ e.x. Calvin and Hobbes or xkcd
 especially clever: used a custom url to redirect from the google poll to a video summarizing the results of the poll
 
 https://business.twitter.com/en/blog/4-ways-businesses-can-use-Twitter-Polls.html
-
-### Take A "Group Photo"
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Faces of <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>, <a href="https://twitter.com/WeAreRLadies?ref_src=twsrc%5Etfw">@WeAreRLadies</a><br>followers in 2018. I followed this tutorial by <a href="https://twitter.com/ma_salmon?ref_src=twsrc%5Etfw">@ma_salmon</a>. <br>Enjoy your holiday - good night <a href="https://t.co/gw0IwIE4La">https://t.co/gw0IwIE4La</a> <a href="https://t.co/SoCgF7PZ07">pic.twitter.com/SoCgF7PZ07</a></p>&mdash; We are R-Ladies (@WeAreRLadies) <a href="https://twitter.com/WeAreRLadies/status/1076208150821433344?ref_src=twsrc%5Etfw">December 21, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Change Your Profile Name
 
@@ -155,37 +177,10 @@ https://business.twitter.com/en/blog/4-ways-businesses-can-use-Twitter-Polls.htm
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">we got <a href="https://twitter.com/emilyldolson?ref_src=twsrc%5Etfw">@emilyldolson</a> running that fold-out evolutionary timeline🏃‍♀️🏃‍♂️ <a href="https://t.co/tWZFUnFuHu">pic.twitter.com/tWZFUnFuHu</a></p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/1068319120192667649?ref_src=twsrc%5Etfw">November 30, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Facilitate Community Interactions
+### Take A "Group Photo"
 
-make introductions/be a nexus
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Pretty much all of the <a href="https://twitter.com/MSUDevolab?ref_src=twsrc%5Etfw">@MSUDevolab</a> and affiliates are making the trek, including me, <a href="https://twitter.com/amlalejini?ref_src=twsrc%5Etfw">@amlalejini</a>, <a href="https://twitter.com/MorenoMatthewA?ref_src=twsrc%5Etfw">@MorenoMatthewA</a>, <a href="https://twitter.com/AnyaEVostinar?ref_src=twsrc%5Etfw">@AnyaEVostinar</a>, and <a href="https://twitter.com/leg2015?ref_src=twsrc%5Etfw">@leg2015</a></p>&mdash; Emily Dolson (@emilyldolson) <a href="https://twitter.com/emilyldolson/status/1019739359782637568?ref_src=twsrc%5Etfw">July 19, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Faces of <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>, <a href="https://twitter.com/WeAreRLadies?ref_src=twsrc%5Etfw">@WeAreRLadies</a><br>followers in 2018. I followed this tutorial by <a href="https://twitter.com/ma_salmon?ref_src=twsrc%5Etfw">@ma_salmon</a>. <br>Enjoy your holiday - good night <a href="https://t.co/gw0IwIE4La">https://t.co/gw0IwIE4La</a> <a href="https://t.co/SoCgF7PZ07">pic.twitter.com/SoCgF7PZ07</a></p>&mdash; We are R-Ladies (@WeAreRLadies) <a href="https://twitter.com/WeAreRLadies/status/1076208150821433344?ref_src=twsrc%5Etfw">December 21, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I’ll be recruiting PhD student(s) to work on developing popgen methods that focus on the role of geography in structuring genealogies. Lab website: <a href="https://t.co/j4uSy1urvF">https://t.co/j4uSy1urvF</a>.  Thanks for organizing this thread <a href="https://twitter.com/iochromaland?ref_src=twsrc%5Etfw">@iochromaland</a>!</p>&mdash; Gideon Bradburd (@gbradburd) <a href="https://twitter.com/gbradburd/status/1041681067571326978?ref_src=twsrc%5Etfw">September 17, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I am constantly impressed by the grad students and postdocs who are on twitter courageously speaking out against toxic behavior in academia and taking a stand for diversity and equity. If you want to celebrate someone who does this, tag them in the comments!</p>&mdash; Jen Heemstra (@jenheemstra) <a href="https://twitter.com/jenheemstra/status/1071766525835665408?ref_src=twsrc%5Etfw">December 9, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## Appeal to Community
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Attention everyone! A few people are gathering photos taken at the <a href="https://twitter.com/hashtag/MuseuNacional?src=hash&amp;ref_src=twsrc%5Etfw">#MuseuNacional</a> in Rio. Anyone with photos from their visits is encouraged to send them to:<br>thg.museo@gmail.com Here is my friend João Luiz Gasparini there in 1980! Please RT! <a href="https://t.co/2mRC3PZZHn">pic.twitter.com/2mRC3PZZHn</a></p>&mdash; Dr. Luiz Rocha (@CoralReefFish) <a href="https://twitter.com/CoralReefFish/status/1036729109676666880?ref_src=twsrc%5Etfw">September 3, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hey <a href="https://twitter.com/hashtag/phylogenetics?src=hash&amp;ref_src=twsrc%5Etfw">#phylogenetics</a> Twitter: is there a name for the chunk of a phylogeny that evolved after a given time point (e.g. the circled region)? All of the terms I know are based on topology rather than absolute time. Also, if there&#39;s not, can it be (<a href="https://twitter.com/MorenoMatthewA?ref_src=twsrc%5Etfw">@MorenoMatthewA</a>&#39;s idea) the canopy? <a href="https://t.co/0YMjdwlzR5">pic.twitter.com/0YMjdwlzR5</a></p>&mdash; Emily Dolson (@emilyldolson) <a href="https://twitter.com/emilyldolson/status/1038128729388670977?ref_src=twsrc%5Etfw">September 7, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hey <a href="https://twitter.com/hashtag/evolution?src=hash&amp;ref_src=twsrc%5Etfw">#evolution</a> twitter! We&#39;re writing a paper on summary statistics for phylogenies/individual lineages and suspect people have come up with cool analyses that we aren&#39;t finding because they weren&#39;t the focus of the paper. Know of any? Let us know so we can cite you!</p>&mdash; Emily Dolson (@emilyldolson) <a href="https://twitter.com/emilyldolson/status/979042347303436288?ref_src=twsrc%5Etfw">March 28, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-### Be a Positive Influence
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Also put dates on any updates you make to your posts. <a href="https://t.co/EpM5hRjulp">https://t.co/EpM5hRjulp</a></p>&mdash; Ben Jack 🏳️‍🌈👨‍💻 (@benrjack) <a href="https://twitter.com/benrjack/status/1011619791495450627?ref_src=twsrc%5Etfw">June 26, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">An editor at PLOS One just asked me — an evolutionary biologist, and a theorist no less — to review this paper: &quot;Stability of commercial parenteral lipid emulsions repacking to polypropylene syringes&quot;. <br><br>If you want to be taken seriously, <a href="https://twitter.com/PLOSONE?ref_src=twsrc%5Etfw">@PLOSOne</a>, you&#39;ve got to do better.</p>&mdash; Carl T. Bergstrom (@CT_Bergstrom) <a href="https://twitter.com/CT_Bergstrom/status/1083112104746311680?ref_src=twsrc%5Etfw">January 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Be a Reporter
 
@@ -194,6 +189,13 @@ make introductions/be a nexus
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;We can assume that if you are my son, you are similar to me and I will kill you&quot; - diversity maintenance can be so brutal! From the excellent tutorial on diversity by <a href="https://twitter.com/squillero?ref_src=twsrc%5Etfw">@squillero</a> at <a href="https://twitter.com/hashtag/GECCO2018?src=hash&amp;ref_src=twsrc%5Etfw">#GECCO2018</a></p>&mdash; Emily Dolson (@emilyldolson) <a href="https://twitter.com/emilyldolson/status/1018662575246958593?ref_src=twsrc%5Etfw">July 16, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Kohji Robert Yamamoto&#39;s beautiful thesis on the Development of Japanese Kana typeface generated using stroke data. His generated typeface brings back handwriting character expressions lost in printed media when letterpress printing was introduced in Japan. <a href="https://t.co/xysIgRP4Z5">https://t.co/xysIgRP4Z5</a> <a href="https://t.co/s4umnHhHR0">pic.twitter.com/s4umnHhHR0</a></p>&mdash; hardmaru (@hardmaru) <a href="https://twitter.com/hardmaru/status/1086094759590912000?ref_src=twsrc%5Etfw">January 18, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Follow and retweet content your field/following might appreciate
+
+e.x. Calvin and Hobbes or xkcd
 
 ## Be Known (Favorably)
 
