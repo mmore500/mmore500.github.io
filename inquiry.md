@@ -21,7 +21,7 @@ permalink: /inquiry/
   </p>
   <p>
     If you want a copy of a picture I already took, we can make that happen.
-    The going rate is $75 per image, negotiable.
+    The going rate is $75 per image.
     I can send along a digital high-resolution copy or, for a little extra, order a print on your behalf.
   </p>
   <p>
@@ -38,7 +38,7 @@ permalink: /inquiry/
   <div class="hideflex">
   <div style="text-align:center">
     <div style="display: inline-block;">
-      <img src="/img/welcome_clouds.jpg"  style="max-width:100%; max-height:100%;" alt="cloud">
+      <img src="/img/welcome-clouds.jpg"  style="max-width:100%; max-height:100%;" alt="cloud">
     </div>
   </div>
 </div>

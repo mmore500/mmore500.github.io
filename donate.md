@@ -38,7 +38,7 @@ permalink: /donate/
   <li> sorting and archiving (a chore!) </li>
   <li> camera cleaning supplies </li>
   <li> Ansel Adams books </li>
-  <li> sharing + caring </li>
+  <li> film & developer </li>
   <li> etcetera </li>
   </ul>
   </div>
@@ -71,7 +71,7 @@ permalink: /donate/
   </p>
 
   <p>
-    If this sounds like you, please consider supporting my own care + feeding + devwork + photos and/or the Greenbelt Land Trust via a link below.
+    If this sounds like you, please consider buying me a roll of film (maybe several!) and/or supporting the Greenbelt Land Trust via the links below.
   </p>
 
   <p>
@@ -96,9 +96,9 @@ permalink: /donate/
   <div class="hideflex" style="max-width:35%;">
   <div style="text-align:center">
     <div style="display: inline-block;">
-    <img src="/img/welcome_fernspine.jpg" style="width:75%; max-height:100%;" alt="fern">
-    <img src="/img/welcome_hawk.jpg" style="width:75%; max-height:100%;" alt="fern">
-    <img src="/img/welcome_crenelations.jpg" style="width:75%; max-height:100%;" alt="fern">
+    <img src="/img/welcome-catwindow.jpg" style="width:75%; max-height:100%;" alt="cat">
+    <img src="/img/welcome-grain.jpg" style="width:75%; max-height:100%;" alt="lester ave">
+    <img src="/img/welcome-ivy.jpg" style="width:75%; max-height:100%;" alt="ivy">
     </div>
   </div>
   </div>
