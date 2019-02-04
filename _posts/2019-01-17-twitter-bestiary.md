@@ -106,6 +106,9 @@ Positive association... maybe not causality.
 
 ### Facilitate Community Interactions
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Peer-reviewed journal but it&#39;s a queer-reviewed journal. Who wants to be on the editorial board?</p>&mdash; Shaun O&#39;Boyle (@shaunoboyle) <a href="https://twitter.com/shaunoboyle/status/1086625537567715328?ref_src=twsrc%5Etfw">January 19, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 make introductions/be a nexus
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Pretty much all of the <a href="https://twitter.com/MSUDevolab?ref_src=twsrc%5Etfw">@MSUDevolab</a> and affiliates are making the trek, including me, <a href="https://twitter.com/amlalejini?ref_src=twsrc%5Etfw">@amlalejini</a>, <a href="https://twitter.com/MorenoMatthewA?ref_src=twsrc%5Etfw">@MorenoMatthewA</a>, <a href="https://twitter.com/AnyaEVostinar?ref_src=twsrc%5Etfw">@AnyaEVostinar</a>, and <a href="https://twitter.com/leg2015?ref_src=twsrc%5Etfw">@leg2015</a></p>&mdash; Emily Dolson (@emilyldolson) <a href="https://twitter.com/emilyldolson/status/1019739359782637568?ref_src=twsrc%5Etfw">July 19, 2018</a></blockquote>
@@ -246,6 +249,10 @@ be *~relatable~*
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Repurpose Arts and Crafts
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I love this! Crafting social ties <a href="https://t.co/Uk2A4PHie2">https://t.co/Uk2A4PHie2</a></p>&mdash; Dalila Rendon (@Dr_DalilaRendon) <a href="https://twitter.com/Dr_DalilaRendon/status/1091213385369214977?ref_src=twsrc%5Etfw">February 1, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Going to start a women in STEM knitting and needlepoint group as a radical reclamation of what are traditionally regarded as worthless feminine arts where we sit around and sew and knit and science inspired pieces</p>&mdash; The Jupiter Girl (@upulie) <a href="https://twitter.com/upulie/status/1048344336151138304?ref_src=twsrc%5Etfw">October 5, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -388,6 +395,9 @@ Bonus points: make a video, package as a slick blog post, include a graphic or v
 ### Use Emoji and Vertical Space
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">🎉 New formula breseq in Brewsci/bio for Linux and macOS!<br>ℹ️ Find mutations in microbes from short reads<br>🍺 brew install brewsci/bio/breseq<br>🏡 <a href="https://t.co/P45d0w51RG">https://t.co/P45d0w51RG</a><br>🔬 <a href="https://t.co/aaJgJTeT2y">https://t.co/aaJgJTeT2y</a><br>🐧 <a href="https://t.co/lyKHNJu5CN">https://t.co/lyKHNJu5CN</a> <a href="https://twitter.com/hashtag/bioinformatics?src=hash&amp;ref_src=twsrc%5Etfw">#bioinformatics</a></p>&mdash; Brewsci (@brew_sci) <a href="https://twitter.com/brew_sci/status/1031614505296359425?ref_src=twsrc%5Etfw">August 20, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We<br>really<br>  really<br>    really<br>      really<br>        really<br>        really<br>       really<br>     really<br>   really<br> really<br> really<br>  really<br>   really<br>    really<br>      really<br>        really<br>       really<br>     really<br>   really<br> really<br>really<br>want you to stop shaming rape victims <a href="https://t.co/jQU3mA4tt7">https://t.co/jQU3mA4tt7</a></p>&mdash; Happy Heretic (@NathanaelLyman) <a href="https://twitter.com/NathanaelLyman/status/1091459468997480449?ref_src=twsrc%5Etfw">February 1, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Got my <a href="https://twitter.com/fitbit?ref_src=twsrc%5Etfw">@Fitbit</a> One as a Father&#39;s Day gift in 2013.  <br>Now I just passed 20 million steps while wearing it. <br>That beats my target of 10,000 steps per day by ~7% 🍻 <br>I&#39;m not sure I&#39;ll last to 100 million, but I&#39;ll try 🦶🦶</p>&mdash; Richard E. Lenski (@RELenski) <a href="https://twitter.com/RELenski/status/1024039935303671808?ref_src=twsrc%5Etfw">July 30, 2018</a></blockquote>
@@ -687,6 +697,10 @@ Now comes the fun & a little creepy part.
 Got through someone else's likes.
 
 ## Let's Chat
+
+section: embed tweets... quote yourself or others (your own, gives people a cue that you're on twitter and they might want to follow you)
+
+put your twitter handle on your slides
 
 Doubles as a final clever idea: use twitter as a comments section.
 
