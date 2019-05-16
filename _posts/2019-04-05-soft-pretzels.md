@@ -6,6 +6,7 @@ recipe:
   servings: 12 pretzels
   prep: 40 min.
   cook: 15 min.
+  preheat: 450 F
   source_publisher: Food Network
   source_url: https://www.foodnetwork.com/recipes/alton-brown/homemade-soft-pretzels-recipe-1948242
   source_name: Alton Brown
