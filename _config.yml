@@ -15,7 +15,7 @@ url: "https://mmore500.github.io" # the base hostname & protocol for your site
 twitter_username: morenomatthewa
 github_username:  mmore500
 
-plugins:
+plugins_dir:
   - jemoji
 
 # Build settings
