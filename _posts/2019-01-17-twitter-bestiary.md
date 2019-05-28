@@ -120,6 +120,10 @@ make introductions/be a nexus
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I am constantly impressed by the grad students and postdocs who are on twitter courageously speaking out against toxic behavior in academia and taking a stand for diversity and equity. If you want to celebrate someone who does this, tag them in the comments!</p>&mdash; Jen Heemstra (@jenheemstra) <a href="https://twitter.com/jenheemstra/status/1071766525835665408?ref_src=twsrc%5Etfw">December 9, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">hi, thought I might introduce you &amp; my friend <a href="https://twitter.com/realSlimeMold?ref_src=twsrc%5Etfw">@realSlimeMold</a></p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/1132296970104639489?ref_src=twsrc%5Etfw">May 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Yes, I can do everything and the love from humans has been increasing by the day! <a href="https://t.co/S2VeMvY1bL">https://t.co/S2VeMvY1bL</a></p>&mdash; P. polycephalum (@realSlimeMold) <a href="https://twitter.com/realSlimeMold/status/1132298540989014016?ref_src=twsrc%5Etfw">May 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Appeal to Community
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Attention everyone! A few people are gathering photos taken at the <a href="https://twitter.com/hashtag/MuseuNacional?src=hash&amp;ref_src=twsrc%5Etfw">#MuseuNacional</a> in Rio. Anyone with photos from their visits is encouraged to send them to:<br>thg.museo@gmail.com Here is my friend João Luiz Gasparini there in 1980! Please RT! <a href="https://t.co/2mRC3PZZHn">pic.twitter.com/2mRC3PZZHn</a></p>&mdash; Dr. Luiz Rocha (@CoralReefFish) <a href="https://twitter.com/CoralReefFish/status/1036729109676666880?ref_src=twsrc%5Etfw">September 3, 2018</a></blockquote>
@@ -164,6 +168,10 @@ make introductions/be a nexus
 especially clever: used a custom url to redirect from the google poll to a video summarizing the results of the poll
 
 https://business.twitter.com/en/blog/4-ways-businesses-can-use-Twitter-Polls.html
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is a disappointingly common problem in classics, thanks to both early scholars and (somehow worse) current researchers. Still, a lot of good thinking on this topic came out of the classics professor Holt Parker scandal in 2016 – (1/?) <a href="https://t.co/TD90MXc9Aa">https://t.co/TD90MXc9Aa</a></p>&mdash; Kathryn H. Stutz (@kathrynstutz) <a href="https://twitter.com/kathrynstutz/status/1132052965425111041?ref_src=twsrc%5Etfw">May 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+https://twitter.com/morenomatthewa/status/1132296970104639489?s=21
 
 ### Change Your Profile Name
 
