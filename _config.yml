@@ -18,6 +18,9 @@ github_username:  mmore500
 plugins_dir:
   - jemoji
 
+plugins:
+  - jemoji
+
 # Build settings
 markdown: kramdown
 
