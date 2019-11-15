@@ -91,11 +91,11 @@ int main(int argc, char* argv[])
     );
     return res;
   }();
-  const std::array<int, ndim> dimension{{
+  const std::array<int, ndim> dimension{ {
     static_cast<int>(std::sqrt(nprocs)),
     static_cast<int>(std::sqrt(nprocs))
-  }};
-  const std::array<int, ndim> periodic{{1, 1}}; // toroidal wraparound
+  } };
+  const std::array<int, ndim> periodic{ {1, 1} }; // toroidal wraparound
 
   MPI_Cart_create(
     MPI_COMM_WORLD,
