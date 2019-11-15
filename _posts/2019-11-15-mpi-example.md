@@ -173,10 +173,10 @@ int main(int argc, char* argv[])
     MPI_Isend(
       send_data.data(),
       i + 1, // message length
-      MPI_BYTE,
-      neighs[i],
+      MPI_BYTE, // message data type
+      neighs[i], // message destination
       i, // tag represents outgoing direction
-      comm_grid,
+      comm_grid, // use the grid communicator group
       &send_requests[i] // use later to check up if send completed
     );
   }
@@ -192,9 +192,8 @@ int main(int argc, char* argv[])
   // receive messages from each neighbor, in any order
   for (size_t i = 0; i < Cardi::Dir::NumDirs; ++i) {
 
+    // block until we get any message
     MPI_Status status;
-
-    // block for a message
     MPI_Probe(
       MPI_ANY_SOURCE,
       MPI_ANY_TAG,
@@ -202,7 +201,7 @@ int main(int argc, char* argv[])
       &status
     );
 
-    // how long is the message and who sent it from what direction
+    // how long is the message, who sent it, and from what direction
     const int msg_len = [&](){
       int res;
       MPI_Get_count(
@@ -225,13 +224,13 @@ int main(int argc, char* argv[])
 
     // copy down data from message
     MPI_Recv(
-      received.at(incoming_direction).data(),
-      msg_len,
-      MPI_BYTE,
-      msg_source,
-      MPI_ANY_TAG,
-      comm_grid,
-      MPI_STATUS_IGNORE
+      received.at(incoming_direction).data(), // where to put it
+      msg_len, // how long is the message
+      MPI_BYTE, // message data type
+      msg_source, // who sent it, makes sure we grab the right message!
+      msg_tag, // what it's tagged, makes sure we grab the right message!
+      comm_grid, // use the grid communicator group
+      MPI_STATUS_IGNORE // yup
     );
 
   }
