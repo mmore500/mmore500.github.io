@@ -19,10 +19,10 @@ Assume the number of available MPi processes is a perfect square.
 
 Every MPI process selects a unique character (e.g., `A`) based on their MPI rank and then sends messages containing their to unique character to all four grid neighbors.
 Messages are variable-length:
-* send a 1 character message to the North neighbor (e.g., `A`)
-* send a 2 character message to the South neighbor (e.g., `AA`)
-* send a 3 character message to the South neighbor (e.g., `AAA`)
-* send a 4 character message to the South neighbor (e.g., `AAAA`)
+* send a 1 character message to the North neighbor (e.g., `A`),
+* send a 2 character message to the South neighbor (e.g., `AA`),
+* send a 3 character message to the East neighbor (e.g., `AAA`), and
+* send a 4 character message to the West neighbor (e.g., `AAAA`).
 
 Wait for all messages to be received.
 
