@@ -24,9 +24,7 @@ Messages are variable-length:
 * send a 3 character message to the East neighbor (e.g., `AAA`), and
 * send a 4 character message to the West neighbor (e.g., `AAAA`).
 
-Wait for all messages to be received.
-
-Processes print out their location, ID, and received messages so we know everything worked!
+Wait for all messages to be received then print out own location, ID, and received messages so we know everything worked!
 
 
 ## The Algorithm
