@@ -60,11 +60,13 @@ Each MPI process performs the following steps.
 
 #include "mpi.h"
 
+// some slick book-keeping for cardinal directionality
 struct Cardi {
 
   // cardinal directions
   enum Dir { N, S, E, W, NumDirs };
 
+  // transforms
   static constexpr Dir Opp[] { S, N, W, E };
   static constexpr Dir Cw[] { E, W, S, N };
   static constexpr Dir Ccw[] { W, E, N, S };
@@ -90,7 +92,7 @@ int main(int argc, char* argv[])
       &res
     );
     return res;
-  }();
+  }(); // use immediately-invoked lambda for consty goodness
   const std::array<int, ndim> dimension{ {
     static_cast<int>(std::sqrt(nprocs)),
     static_cast<int>(std::sqrt(nprocs))
@@ -106,7 +108,8 @@ int main(int argc, char* argv[])
     &comm_grid
   );
 
-  // world info
+  // get world rank info
+  // which MPI proc am I in the ?
   const int w_rank = [&](){
     int res;
     MPI_Comm_rank(
@@ -114,9 +117,10 @@ int main(int argc, char* argv[])
       &res
     );
     return res;
-  }();
+  }(); // use immediately-invoked lambda for consty goodness
 
-  // comm_grid info
+  // get comm_grid info
+  // where am I (x,y) in the grid?
   const std::array<int, ndim> coords = [&](){
     std::array<int, ndim> res;
     MPI_Cart_coords(
@@ -126,7 +130,8 @@ int main(int argc, char* argv[])
       res.data()
     );
     return res;
-  }();
+  }(); // use immediately-invoked lambda for consty goodness
+  // what is my rank in the grid?
   const int g_rank = [&](){
     int res;
     MPI_Cart_rank(
@@ -138,6 +143,7 @@ int main(int argc, char* argv[])
   }();
 
   // calculate neighboring ranks
+  // store in array, indexed by cardinal direction
   const std::array<int, Cardi::Dir::NumDirs> neighs = [&](){
     std::array<int, Cardi::Dir::NumDirs> res;
     for (size_t i = 0; i < Cardi::Dir::NumDirs; ++i) {
@@ -151,7 +157,7 @@ int main(int argc, char* argv[])
 
     }
     return res;
-  }();
+  }(); // use immediately-invoked lambda for consty goodness
 
   // GOAL:
   // everyone broadcasts a unique character to each cartesian neighbor
@@ -171,7 +177,7 @@ int main(int argc, char* argv[])
       neighs[i],
       i, // tag represents outgoing direction
       comm_grid,
-      &send_requests[i]
+      &send_requests[i] // use later to check up if send completed
     );
   }
 
@@ -179,10 +185,11 @@ int main(int argc, char* argv[])
   // DO COMPUTE WORK HERE
   // while messages are en route
 
+  // data structure to store incoming message data
   // incoming direction -> result
   std::unordered_map<int, std::vector<unsigned char>> received;
 
-  // receive in any order
+  // receive messages from each neighbor, in any order
   for (size_t i = 0; i < Cardi::Dir::NumDirs; ++i) {
 
     MPI_Status status;
@@ -204,12 +211,12 @@ int main(int argc, char* argv[])
         &res
       );
       return res;
-    }();
+    }(); // use immediately-invoked lambda for consty goodness
     const int msg_source = status.MPI_SOURCE;
     const int msg_tag = status.MPI_TAG;
     const int incoming_direction = Cardi::Opp[msg_tag];
 
-    // make space for received data
+    // make space for incoming data
     received.emplace(
       std::piecewise_construct,
       std::forward_as_tuple(incoming_direction),
@@ -236,6 +243,7 @@ int main(int argc, char* argv[])
     MPI_STATUSES_IGNORE
   );
 
+  // print my results!
   std::ostringstream oss;
   // who am I...
   oss << "rank " << g_rank << ", id " << id
