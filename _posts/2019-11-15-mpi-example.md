@@ -47,6 +47,12 @@ Each MPI process performs the following steps.
 
 ## The Code Snippet
 
+Note: MPI API calls are somewhat byzantine and cryptic.
+(Hello, out params.)
+However, their names are usually kind of descriptive at a high level.
+If you're new to MPI, I'd recommend just focusing on the big picture while reading the code below.
+But if you really want to dig in to the details, here's the [API reference](https://www.mpich.org/static/docs/latest/www3/) for all of the MPI calls made in the code.
+
 `main.cc`:
 ```c++
 #include <iostream>
