@@ -59,7 +59,7 @@ Dalmatians are more lucrative when they are small (for... wholesome, non-fur coa
 Here's what zipping up one data file looks like.
 
 ```
-tar -czvf doggo-1.data.tar.gz doggo-101.data
+tar -czf doggo-1.data.tar.gz doggo-101.data
 ```
 
 But we want to do this to *all* 101 of our dalmations.
@@ -104,7 +104,7 @@ Enter `srun`, which will schedule a lil' SLURM job for you.
 Tell it how many minutes the job will last (e.g., `-t 20`) and then what you want it to do right after that.
 
 ```bash
-for f in *.data; do srun -t 20 bash -c "cd ${PWD} && tar -czvf ${f}.tar.gz ${f}" &; done
+for f in *.data; do srun -t 20 bash -c "cd ${PWD} && tar -czf ${f}.tar.gz ${f}" &; done
 ```
 
 Note that `srun` blocks until the requested job is complete, so we just fork off in to the backround all our `srun`s with an `&` at the end of the inside bit.
@@ -122,7 +122,7 @@ Let's wrap the `srun` do-work part in an if statement that checks --- for each w
 If the relevant output file DOES exist, then skip the request to `srun` with that output's work item.
 
 ```bash
-for f in *.data; do if ! ls *.tar.gz | grep -q $f; then srun -t 20 bash -c "cd ${PWD} && tar -czvf ${f}.tar.gz ${f}" &; fi; done
+for f in *.data; do if ! ls *.tar.gz | grep -q $f; then srun -t 20 bash -c "cd ${PWD} && tar -czf ${f}.tar.gz ${f}" &; fi; done
 ```
 
 We use `grep -q` to [`grep` quietly](https://www.tiktok.com/@mandymathews8/video/6754593887798529286) so that we only see the exit status (i.e., did it successfully find a match) and don't get distracting tidbits printed out to the screen.
@@ -134,22 +134,22 @@ ls *.data | wc -l
 ls *.data.tar.gz | wc -l
 ```
 
-If your parallelized work item doesn't generate a file output on success (or one that's easy to relate back to the original file name), you can conditionally append the name of each operand file to a log file (here, `log.log`) on successful completion of the work item by chaining another command on with `&&`.
+If your parallelized work item doesn't generate a file output on success (or one that's easy to relate back to the original file name), you can conditionally append the name of each operand file to a log file (here, `success.log`) on successful completion of the work item by chaining another command on with `&&`.
 
 ```bash
-for f in *.data; do srun -t 20 bash -c "cd ${PWD} && tar -czvf ${f}.tar.gz ${f} && echo ${f} >> log.log" &; done
+for f in *.data; do srun -t 20 bash -c "cd ${PWD} && tar -czf ${f}.tar.gz ${f} && echo ${f} >> success.log" &; done
 ```
 
 Then, to round up the stragglers, we `grep` through the log file for the source file of the work item under consideration.
 
 ```bash
-for f in *.data; do if ! cat log.log | grep -q $f; then srun -t 20 bash -c "cd ${PWD} && tar -czvf ${f}.tar.gz ${f} && echo ${f} >> log.log" &; fi; done
+for f in *.data; do if ! cat success.log | grep -q $f; then srun -t 20 bash -c "cd ${PWD} && tar -czf ${f}.tar.gz ${f} && echo ${f} >> success.log" &; fi; done
 ```
 
 Working with a log file like this, you can `cat` the log file to count the number of *successful* work items.
 
 ```bash
-cat log.log | wc -l
+cat success.log | wc -l
 ```
 
 ## Let's Chat
