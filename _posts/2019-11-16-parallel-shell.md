@@ -11,7 +11,7 @@ no_toc: true
 > In fact, if it were one data file I'd just get the thing going, grab a chocolate milk from the third-floor vending machine, & then get on with my dab.
 >
 > But it's not just one data file.
-> It's never just one data file
+> It's never just one data file.
 > It's threeve-bazillion of them.
 >
 > I could make the thing go one at a time, but then I'd have to figure out something else to start doing while the things do the thing one thing at a time.
@@ -55,8 +55,8 @@ doggo-21.data
 ...
 ```
 
-Dalmatians are more lucrative when they are small (for... wholesome non-fur coat reasons), so we want to use `tar` to zip up our data.
-Here's what a zipping up one data file looks like.
+Dalmatians are more lucrative when they are small (for... wholesome, non-fur coat reasons), so we want to use `tar` to zip up our data.
+Here's what zipping up one data file looks like.
 
 ```
 tar -czvf doggo-1.data.tar.gz doggo-101.data
@@ -69,20 +69,20 @@ But we want to do this to *all* 101 of our dalmations.
 We could use a bash for loop (over `*.data`) to zip up each data file one at a time...
 
 ```bash
-for f in *.data; do tar -czvf $f.tar.gz $f; done
+for f in *.data; do tar -czf $f.tar.gz $f; done
 ```
 
 ## Bash Loop With Backgrounding For Great Good
 
-... *or* we could fork off each piece of the inner loop (by appending an `&` to the inside bit) as soon as we hit it so all the data files get processed simultaneously.
+... *or* we could fork off each piece of the inner loop (by appending an `&` to the inside bit) as soon as we hit it, so all the data files get processed simultaneously.
 
 ```bash
-for f in *.data; do tar -czvf $f.tar.gz $f &; done
+for f in *.data; do tar -czf $f.tar.gz $f &; done
 ```
 
 This works great until the number of work items begins to outstrip the available compute cores.
 If you're working on a shared dev node, it's probably not polite to hog up all the cores for more than maybe a few minutes or so.
-Use `salloc` to request an interactive job where you'll have the compute resources all to yourself and you won't be bothering anybody else.
+Use `salloc` to request an interactive job where you'll have the compute resources all to yourself, and you won't be bothering anybody else.
 Here we're asking for 24 cores `-n 24` on one node `-N 1`.
 
 ```bash
@@ -115,7 +115,7 @@ Inside the command, we have to start by `cd`ing to our current working directory
 ## Bonus Round: Get A `grep` On The Cluster Gremlin
 
 Intermittent failures, especially when you start using `srun`, are inevitable.
-Thank u, cluster gremlin.
+Thank you, cluster gremlin.
 
 So, we're going to want to quickly re-do the bits that failed.
 Let's wrap the `srun` do-work part in an if statement that checks --- for each work item --- whether the relevant output file exists.
@@ -140,7 +140,7 @@ If your parallelized work item doesn't generate a file output on success (or one
 for f in *.data; do srun -t 20 bash -c "cd ${PWD} && tar -czvf ${f}.tar.gz ${f} && echo ${f} >> log.log" &; done
 ```
 
-Then, to round up the stragglers we `grep` through the log file for the source file of the work item under consideration.
+Then, to round up the stragglers, we `grep` through the log file for the source file of the work item under consideration.
 
 ```bash
 for f in *.data; do if ! cat log.log | grep -q $f; then srun -t 20 bash -c "cd ${PWD} && tar -czvf ${f}.tar.gz ${f} && echo ${f} >> log.log" &; fi; done
@@ -154,7 +154,7 @@ cat log.log | wc -l
 
 ## Let's Chat
 
-I would love to chat about your thoughts, questions, and comments RE: SLURM shell kung fu!!!
+I would love to hear your thoughts, questions, and comments RE: SLURM shell kung fu!!!
 
 I started a twitter thread (right below) so we can chat :phone: :phone: :phone:
 
