@@ -728,7 +728,11 @@ This works kind of like [broadcast spawning](https://en.wikipedia.org/wiki/Spawn
 
 ### Twitter Lists
 
-TODO
+Want to find a set of people who tweet about a specific topic? Want to keep an eye on some people without actually following them? That's what Twitter List are for! A Twitter list is basically just a list that you add Twitter accounts to. You can then go to the list (get there through the "Lists" tab on the left) to view recent tweets by people on the list. For example, here's a list of people who tweet about Artificial Life:
+
+<a class="twitter-timeline" data-height="200" href="https://twitter.com/emilyldolson/lists/artificial-life?ref_src=twsrc%5Etfw">A Twitter List by emilyldolson</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+You can make a Twitter list to help others find relevant accounts (e.g. the Artificial Life list above) or just to help organize accounts for your own benefit. If you're doing it with the latter purpose in mind, be aware that lists are public by default, although you can make them private. If you add someone to a public list, they will generally recieve a notification. The "Lists" tab will let you see all the lists you have created, subscribed to, or are a member of.
 
 ### Pre-Hype and Post-Hype
 
