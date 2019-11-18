@@ -304,3 +304,28 @@ pre {
 .gist .type-csv {
   overflow:hidden !important;
 }
+
+/**
+ * Collapsible div
+ */
+
+ .collapsible {
+   background-color: #777;
+   color: white;
+   cursor: pointer;
+   padding: 18px;
+   width: 100%;
+   border: none;
+   text-align: left;
+   outline: none;
+   font-size: 15px;
+ }
+
+ .active, .collapsible:hover {
+ }
+
+ .content {
+   padding: 0 18px;
+   display: none;
+   overflow: hidden;
+ }
