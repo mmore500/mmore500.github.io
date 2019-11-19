@@ -728,6 +728,8 @@ This works kind of like [broadcast spawning](https://en.wikipedia.org/wiki/Spawn
 
 ### Twitter Lists
 
+*Thank you to [@emilyldolson](https://twitter.com/emilyldolson) for contributing this section!*
+
 Want to find a set of people who tweet about a specific topic? Want to keep an eye on some people without actually following them? That's what Twitter List are for! A Twitter list is basically just a list that you add Twitter accounts to. You can then go to the list (get there through the "Lists" tab on the left) to view recent tweets by people on the list. For example, here's a list of people who tweet about Artificial Life:
 
 <a class="twitter-timeline" data-height="200" href="https://twitter.com/emilyldolson/lists/artificial-life?ref_src=twsrc%5Etfw">A Twitter List by emilyldolson</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
