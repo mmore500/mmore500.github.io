@@ -732,7 +732,7 @@ Want to find a set of people who tweet about a specific topic? Want to keep an e
 
 <a class="twitter-timeline" data-height="200" href="https://twitter.com/emilyldolson/lists/artificial-life?ref_src=twsrc%5Etfw">A Twitter List by emilyldolson</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-You can make a Twitter list to help others find relevant accounts (e.g. the Artificial Life list above) or just to help organize accounts for your own benefit. If you're doing it with the latter purpose in mind, be aware that lists are public by default, although you can make them private. If you add someone to a public list, they will generally recieve a notification. The "Lists" tab will let you see all the lists you have created, subscribed to, or are a member of.
+You can make a Twitter list to help others find relevant accounts (e.g. the Artificial Life list above) or just to help organize accounts for your own benefit. If you're doing it with the latter purpose in mind, be aware that lists are public by default, although you can make them private. If you add someone to a public list, they will generally receive a notification. The "Lists" tab will let you see all the lists you have created, subscribed to, or are a member of.
 
 ### Pre-Hype and Post-Hype
 
