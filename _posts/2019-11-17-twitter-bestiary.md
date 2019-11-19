@@ -357,6 +357,7 @@ Just like effective talks prompt audience members to make comments and ask quest
 Throw a question on to the end of your tweet.
 Or, instead of just sharing something about yourself, reframe your content around the opportunity for *others* to share.
 Then, getting the party started by answering your own question.
+You might even tack a twitter poll for responses to your question to make the opportunity for engagement obvious and easy to readers.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">After one month of offering access to <a href="https://twitter.com/lynda?ref_src=twsrc%5Etfw">@lynda</a>, people have accessed all sorts of courses and trainings. Can you guess which course was the most popular? <br><br>Access our subscription to Lynda and login with your library card # at <a href="https://t.co/fYVzSKGTSs">https://t.co/fYVzSKGTSs</a></p>&mdash; Corvallis Library (@corvallislib) <a href="https://twitter.com/corvallislib/status/1060653902926737408?ref_src=twsrc%5Etfw">November 8, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -433,7 +434,7 @@ Or, get more creative!
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We<br>really<br>  really<br>    really<br>      really<br>        really<br>        really<br>       really<br>     really<br>   really<br> really<br> really<br>  really<br>   really<br>    really<br>      really<br>        really<br>       really<br>     really<br>   really<br> really<br>really<br>want you to stop shaming rape victims <a href="https://t.co/jQU3mA4tt7">https://t.co/jQU3mA4tt7</a></p>&mdash; Happy Heretic (@NathanaelLyman) <a href="https://twitter.com/NathanaelLyman/status/1091459468997480449?ref_src=twsrc%5Etfw">February 1, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Use a Thread to Tell A Story
+### Use a Thread to Tell a Story
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">He was talking about AIDS, in a scholarly way. About how it had galvanized the gay community. How it had spurred change. Paved the way to make things better, in the long run.</p>&mdash; Tucker Shaw (@tucker_shaw) <a href="https://twitter.com/tucker_shaw/status/1041839518217842690?ref_src=twsrc%5Etfw">September 18, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -449,7 +450,7 @@ Or, get more creative!
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">So they&#39;re yelling &quot;please send us more people&quot; but you could barely get an interview, and once you did, you didn&#39;t hear back.<br><br>So I got a postdoc by the skin of my teeth, and started building a consulting business. This is pretty common for crop scientists.</p>&mdash; Dr Sarah Taber (@SarahTaber_bww) <a href="https://twitter.com/SarahTaber_bww/status/1171895669826695168?ref_src=twsrc%5Etfw">September 11, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Package It As A Meme
+### Package It as a Meme
 
 Memes aren't just spongebob screengrabs with superimposed text.
 Twitter is full of text-only meme formats that are easy to play along with, no microsoft paint required.
@@ -760,7 +761,7 @@ Consider expanding your network by engaging in other circles (for example, with 
 ## ... Companionship?
 
 The functional impact of tweets isn't always just on the readership.
-Academics are people too [[1]](https://en.wikipedia.org/wiki/Help:Footnotes), so writing and sharing on social media can provide emotional and creative gratification to the author, too.
+Academics are people too [[citation needed]](https://en.wikipedia.org/wiki/Help:Footnotes), so writing and sharing on social media can provide emotional and creative gratification to the author, too.
 Support from peers is a valuable resource in hard and/or annoying moments.
 The (creative?) act of thinking up something clever to say is satisfying, too.
 
