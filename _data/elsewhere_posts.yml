@@ -1,3 +1,8 @@
+- title: "std::bitset plus -msse4.2 equals popcnt"
+  url: "https://mmore500.github.io/cse-891/blog/2019/11/20/bitset-popcnt.html"
+  where: "CSE 891 Advanced C++ Seminar Blog"
+  where_url: "https://mmore500.github.io/cse-891/"
+  date: 2019-11-20
 - title: "iCER Student Highlights: Matthew Andres Moreno"
   url: "https://icer.msu.edu/about/announcements/icer-student-highlights-matthew-moreno"
   where: "iCER News"
