@@ -7,10 +7,8 @@ permalink: /blog/
 <h2> <a href="#here">🔗</a> here {% include icon-rss.html %} </h2>
 
 <ul class="posts">
-  {% for post in site.posts %}
-  {% if post.layout == "post" %}
+  {% for post in site.categories.blog_professional %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endif %}
   {% endfor %}
 </ul>
 
@@ -29,11 +27,16 @@ permalink: /blog/
   {% endfor %}
 </ul>
 
+## <a href="#personal">🔗</a> personal
+<ul class="posts">
+  {% for post in site.categories.blog_personal %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
 ## <a href="#recipes">🔗</a> recipes
 <ul class="posts">
-  {% for post in site.posts %}
-  {% if post.layout == "recipe" %}
+  {% for post in site.categories.blog_recipes %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endif %}
   {% endfor %}
 </ul>
