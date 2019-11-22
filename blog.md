@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-<h2> <a href="#here">🔗</a> here {% include icon-rss.html %} </h2>
+<h2> <a href="#here">🔗</a> here </h2>
 
 <ul class="posts">
   {% for post in site.categories.blog_professional %}
