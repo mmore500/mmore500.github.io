@@ -405,6 +405,13 @@ Bonus points: instead of linking to your preprint PDF, make a video or write a s
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Paper: <a href="https://t.co/oSFs1kzAkM">https://t.co/oSFs1kzAkM</a><br><br>Video: <a href="https://t.co/0HKqCwLVif">https://t.co/0HKqCwLVif</a><br><br>Gif: <a href="https://t.co/nvLGg7BeJv">https://t.co/nvLGg7BeJv</a><br><br>Code: <a href="https://t.co/iwrcZVIeXD">https://t.co/iwrcZVIeXD</a></p>&mdash; Sam Kriegman (@Kriegmerica) <a href="https://twitter.com/Kriegmerica/status/1042028220730826758?ref_src=twsrc%5Etfw">September 18, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### Pad Images to Fit Preview Dimensions
+
+If your images display fully within the twitter preview window, the user doesn't have to click to expand the image preview.
+Services like [fotor](https://www.fotor.com/), which provide twitter preview dimensions as a preset, make it easy.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">hey <a href="https://twitter.com/Experian?ref_src=twsrc%5Etfw">@experian</a> seems legit <a href="https://t.co/4v7Ol9UU6w">pic.twitter.com/4v7Ol9UU6w</a></p>&mdash; mmore500 (@mmore500) <a href="https://twitter.com/mmore500/status/1198763261014839296?ref_src=twsrc%5Etfw">November 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Use Emoji
 
 Twitter lets you search the emoji keyboard by keyword.
