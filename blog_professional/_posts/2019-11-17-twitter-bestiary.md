@@ -25,7 +25,7 @@ Buckle up!
 I suspect that if you clicked through and read this far, you don't need convincing on this front.
 So, I broke this section out into a separate post [elsewhere on my blog](/2019/11/16/why-tweet.html).
 
-The primary point I push there is that developing a widespread following or generating viral content go viral are orthogonal (not particularly aligned with nor contrary to) many of the professional objectives of academics on social media.
+The primary point I push there is that developing a widespread following or generating viral content are orthogonal to (not particularly aligned with nor contrary to) many of the professional objectives of academics on social media.
 Instead, I've found it's more helpful to focus on connecting to just a few of the *right* people.
 
 ## Why a Bestiary?
