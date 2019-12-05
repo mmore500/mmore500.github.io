@@ -716,6 +716,9 @@ Using @mentions alerts others involved in your tweet (who might share it around)
 
 Twitter handles tweets that start with an @mention in a special way (more like a direct message) so that fewer people see it.
 So, unless that's what you're going after, try to avoid starting with an @mention.
+An easy and relatively unobtrusive way to avoid starting with a mention is to just put a "." in front of it.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/AndrewYang?ref_src=twsrc%5Etfw">@AndrewYang</a> seems to understand that we need to reinvent what constitutes a “job” in this century and what is worth a paycheck. Your old job got taken over by a robot/machine? Great! Now you can get paid to be a stay-at-home parent or to clean your neighborhood park or...</p>&mdash; Stacey Vaughn (@StaceyVaughn) <a href="https://twitter.com/StaceyVaughn/status/1202670292021043200?ref_src=twsrc%5Etfw">December 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Most conferences provide a suggested hashtag and/or an account to mention @.
 
