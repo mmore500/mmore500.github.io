@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "So You Want an Uninitialized Vector?""
+title:  "So You Want a vector of Uninitialized Elements?"
 date:   2019-12-11
 no_toc: true
 ---
