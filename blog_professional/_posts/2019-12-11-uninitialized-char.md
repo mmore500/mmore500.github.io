@@ -20,12 +20,14 @@ So, to reduce unnecessary copying (for time and space efficiency), we want a str
 
 ## The Problem
 
-Under the hood, our `ContiguousStream` implementation keeps streamed-in data in a `std::vector<char>`.
+Under the hood, our `ContiguousStream` implementation puts streamed-in data into a `std::vector<char>`.
 That way, we can increase capacity in [a happy modern C++-y way](http://www.stroustrup.com/bs_faq2.html#realloc).
+
 But, we do a little unnecessary work here: when we create the vector and each time we call `.resize()` on it C++ helpfully zero-initializes the fresh space.
 (Translation: it runs through that memory and sets it all to zero).
-But that's not actually helpful for us because we only ever care about what's in memory after we've streamed data into it.
-We don't care about memory we've allocated but haven't streamed to yet.
+This zero-initialization work's not actually helpful for us because we only ever care about what's in memory after we've streamed data into it.
+(We don't care about memory we've allocated but haven't streamed to yet.)
+
 If a user were to use fresh `ContiguousStream` for each output task (instead of `.Reset()`-ing an existing `ContiguousStream`), the amount of wasted zero-initialization work done would be roughly proportional to the amount of data written.
 Yuck!
 
@@ -36,7 +38,7 @@ We want a vector that doesn't waste time zero-initializing members.
 What to do, what to do?
 
 We could write an entire vector implementation that *doesn't* default-initialize elements when constructed with a size parameter or extended with `.resize()`.
-(Andre Offringa actually did do this and wrote it up as [a great blog post with extensive profiling results](http://andreoffringa.org/?q=uvector).)
+Andre Offringa actually did do this and wrote it up as [a great blog post with extensive profiling results](http://andreoffringa.org/?q=uvector).
 It's an effective solution, but it's also [1.2k lines of neither easy nor simple](http://andreoffringa.org/p/uvector/uvector.h) (and in this case, also copyleft-licensed :man_shrugging:).
 
 What if we just wrapped our data members in a struct that didn't zero-initialize them?
