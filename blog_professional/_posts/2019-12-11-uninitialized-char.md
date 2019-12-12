@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "So you want an uninitialized vector?"
+title:  "So You Want an Uninitialized Vector?""
 date:   2019-12-11
 no_toc: true
 ---
