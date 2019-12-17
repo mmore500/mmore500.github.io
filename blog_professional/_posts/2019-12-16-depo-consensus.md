@@ -49,8 +49,6 @@ Sometimes to get engineering things to work good you have to the boring thing wh
 Sorry to say, but to some extent this is that.
 But, if you stick around, there'll also be some interesting evolutionary contingency, a cool (challenging?) distributed systems benchmarking problem, and maybe even some speculation on how evolved solutions are actually functioning.
 
-Plus, I promise at least one dank meme.
-
 ## Methods
 
 This is the part where we chit-chat about the specifics of what we compared and how we compared them.
