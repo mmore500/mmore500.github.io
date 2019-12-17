@@ -494,14 +494,14 @@ Any opinions, findings, and conclusions or recommendations expressed in this mat
 
 ## Let's Chat!
 
-What are the most unexpected and/or rewarding interactions that you've had on social media?
-What have you gotten out of using social media as an academic?
+Questions?
+Comments?
+Ideas on where we should take this work next?
+(Especially'd love to hear your ideas about applications!)
 
 I started a twitter thread (right below) so we can chat :phone: :phone: :phone:
-... I know y'all got stories!!!
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">nothing to see here, just a placeholder tweet 🐦</p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/1054071480512843776?ref_src=twsrc%5Etfw">October 21, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">working w/ <a href="https://twitter.com/amlalejini?ref_src=twsrc%5Etfw">@amlalejini</a> on program module regulation for <a href="https://twitter.com/hashtag/SignalGP?src=hash&amp;ref_src=twsrc%5Etfw">#SignalGP</a> &amp; wrote up some first results showing how it helps evolve good solutions to a distributed sensing/consensus problem (explained w/ bad D&amp;D analogy🤷‍♂️)<a href="https://t.co/T8gku0eQ1Y">https://t.co/T8gku0eQ1Y</a><br><br>excited where this work is headed next!</p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/1207047614299959296?ref_src=twsrc%5Etfw">December 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Supplementary Figures
 
