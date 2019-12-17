@@ -4,8 +4,6 @@ title:  "Evaluating Function Dispatch Methods in SignalGP"
 date:   2019-12-16
 ---
 
-:warning: :construction: WORKING DRAFT, UNDER CONSTRUCTION!  :construction: :warning:
-
 ## Introduction
 
 Way back before we both joined the halfway-to-fifty club, fellow-DEVOLAB student [Alexander Lalejini](https://lalejini.com/) started developing an event-driven genetic programming system called SignalGP.
