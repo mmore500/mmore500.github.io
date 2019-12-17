@@ -28,7 +28,7 @@ Pretty much since rubber hit the road with SignalGP, Alex has patiently entertai
 
 * What if we use different types of tags besides bitstrings?
 * What if we use different tag-matching metrics?
-* What if match(es) were returned based on a match score cutoff?
+* What if match(es) were returned based on a match distance cutoff?
 * What if tags were returned probabilistically based on match quality?
 * What if tag-matching could be adjusted (e.g., "regulated") at runtime?
 
@@ -36,9 +36,9 @@ These questions have been prominent on the SignalGP road map since the very begi
 I had been interested in using tag-matching for other ends, so we decided to build an abstracted tag-matching tool that could be plugged in to SignalGP.
 
 The tool is composed of three swappable modules,
-1. Metric: generates a raw match score for each query/tag pair,
-2. Regulator: performs runtime adjustment of a tag's match scores (e.g., a tag might be upregulated so that across the board it enjoys higher match scores or downregulated so that across the board it suffers lower match scores), and
-3. Selector: returns a subset of tags based on regulated match scores.
+1. Metric: generates a raw match distance for each query/tag pair,
+2. Regulator: performs runtime adjustment of a tag's match distances (e.g., a tag might be upregulated so that across the board it enjoys higher match distances or downregulated so that across the board it suffers lower match distances), and
+3. Selector: returns a subset of tags based on regulated match distances.
 
 (If you use C++ and want to match some tags, the [MatchBin](https://github.com/devosoft/Empirical/blob/master/source/tools/MatchBin.h) class is available as a tool in our lab's [Empirical software library](https://github.com/devosoft/Empirical).)
 
@@ -139,7 +139,7 @@ Roll a d6 for initiative.
 Tag-match regulation allows the SignalGP program module that will be returned by a particular query to be switched up at run time.
 A SignalGP program module can be "upregulated," meaning that it will match *better* with every query against it.
 A program module can also be "downregulated," meaning that it will match *worse* with every query against it.
-If a module is neither upregulated or downregulated, its raw match score with queries is unaffected.
+If a module is neither upregulated or downregulated, its raw match distance with queries is unaffected.
 
 Each tag designating a SignalGP program module has an associated regulation state.
 In this work, we use an unbounded floating point value.
@@ -157,45 +157,45 @@ We provide an instruction, *Extend Regulator*, that performs an unregulated quer
 
 In this work, we compare a control no-operation regulation module with two functional regulation variants.
 
-1. additive regulator: adjust raw match score by a fixed amount, with the result clamped between 0.0 and 1.0.
+1. additive regulator: adjust raw match distance by a fixed amount, with the result clamped between 0.0 and 1.0.
   ```c++
 return std::clamp(
-  std::tanh(regulation_state) + raw_score,
+  std::tanh(regulation_state) + raw_distance,
   0.0,
   1.0
 );
   ```
-2. mulitiplicative regulator: adjust raw match score a fixed fraction towards 0.0 (upreglated) or 1.0 (downregulated).
+2. mulitiplicative regulator: adjust raw match distance a fixed fraction towards 0.0 (upreglated) or 1.0 (downregulated).
   ```c++
-return raw_score + std::tanh(state) * (
+return raw_distance + std::tanh(state) * (
   state < 0
-  ? raw_score
-  : 1.0 - raw_score
+  ? raw_distance
+  : 1.0 - raw_distance
 );
   ```
-3. no-op regulator: perform no adjustments to raw match score.
+3. no-op regulator: perform no adjustments to raw match distance.
   ```c++
-return raw_score;
+return raw_distance;
   ```
 
 The following figure compares these three regulation methods.
 
 ![](/resources/depo-consensus-regulator-functions.png){:width="100%"}
 *[Additive](https://www.desmos.com/calculator/ovsgt3zcjh) (left), [multiplicative](https://www.desmos.com/calculator/emsdigzdhv) (center), and [no-op](https://www.desmos.com/calculator/w5hj0guqix) (right) regulators.*
-*In this depiction,* x *represents raw match score and* y *represents regulated match score.*
+*In this depiction,* x *represents raw match distance and* y *represents regulated match distance.*
 *Dashed red lines are weakly downregulated and dotted red lines are strongly downregulated.*
 *Dashed green lines are weakly upregulated and dotted green lines are strongly upregulated.*
 
 ### Selectors
 
-Selectors receive the match scores of tagged SignalGP program components with respect to the current query and determine which program component is returned.
+Selectors receive the match distances of tagged SignalGP program components with respect to the current query and determine which program component is returned.
 
 In this work, we compare three selectors,
 
 1. *depo selector*: if a query matches with a program component beyond a cutoff threshold, increase the component's cumulative activation score based on match quality and an extra "query strength" runtime parameter; return all program components with cumulative activations that surpass a threshold and set the components' cumulative activation to a negative (suppressed) starting-point.
 Intermittently decay all cumulative activation scores back to zero.
-2. *ranked selector*: sort all program components by match score and return the best-matching program component if it surpasses a cutoff threshold.
-3. *sieve selector*: return all program components with match scores that surpass a cutoff threshold.
+2. *ranked selector*: sort all program components by match distance and return the best-matching program component if it surpasses a cutoff threshold.
+3. *sieve selector*: return all program components with match distances that surpass a cutoff threshold.
 
 The depo ("depolarization") selector is the odd one out here.
 Unlike other selectors, which are stateless query-to-query, the depo selector's behavior in response to a current query may be influenced by past queries.
@@ -208,7 +208,7 @@ The sieve selector, like the depo selector, may potentially return more than res
 The following figure overviews schematics of these three selectors.
 
 ![](/resources/depo-consensus-selectors.png){:width="100%"}
-*A schematic comparing selectors.*
+*Schematic comparing selectors.*
 
 In all experiments, the ranked selector was used to for function calls and regulation instruction lookups.
 Depending on the treatment, other selectors handled incoming messages, environmental cues, and function forks.
