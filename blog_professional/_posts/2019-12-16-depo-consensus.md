@@ -487,7 +487,7 @@ Pratt, Stephen C., et al. "Quorum sensing, recruitment, and collective decision-
 
 ## Acknowledgements
 
-Thanks to members of the DEVOLAB, in particular Nathan Rizik for help implementing gene regulation features in SignalGP.
+Thanks to members of the DEVOLAB, in particular Nathan Rizik for help implementing gene regulation features in SignalGP and Alexander Lalejini for his comments on my draft of this blog.
 This research was supported in part by NSF grants DEB-1655715 and DBI-0939454, and by Michigan State University through the computational resources provided by the Institute for Cyber-Enabled Research.
 This material is based upon work supported by the National Science Foundation Graduate Research Fellowship under Grant No. DGE-1424871.
 Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
