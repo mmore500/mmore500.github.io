@@ -457,6 +457,24 @@ Or, get more creative!
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">So they&#39;re yelling &quot;please send us more people&quot; but you could barely get an interview, and once you did, you didn&#39;t hear back.<br><br>So I got a postdoc by the skin of my teeth, and started building a consulting business. This is pretty common for crop scientists.</p>&mdash; Dr Sarah Taber (@SarahTaber_bww) <a href="https://twitter.com/SarahTaber_bww/status/1171895669826695168?ref_src=twsrc%5Etfw">September 11, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### Use a Thread to Live Tweet
+
+Live tweeting provides an engaging --- and sometimes even cathartic --- means to share a slice of professional or personal life.
+The idea of live tweeting is to describe (& share your hot take) on whatever's happening while it happens.
+However, generating ten or twenty independent tweets in an hour will overwhelm your followers feeds.
+If they're not interested in whatever you're spewing about, this can be annoying.
+
+Prefer to live tweet in a thread, so that instead of appearing one-by-one your tweets are organized into a package that followers can open up or, alternately, just scroll past.
+Organizing live tweets as a thread also makes it easy for followers checking in midway through your tweet-storm to catch up with what's already happened.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I was supposed to go on a long hike with my sister this afternoon to celebrate her birthday. I hope she enjoys this stream of asinine tweets just as much 🎉</p>&mdash; Adam Cole (@cadamole) <a href="https://twitter.com/cadamole/status/992769662634078208?ref_src=twsrc%5Etfw">May 5, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+At some point, you will be stuck in an airport and, because nobody else has ever been stuck in an airport before, you will want to tweet your Original Thoughts about the Unprecedented Situation.
+Revel with abandonment in modern society's last shared experience but please, for the love of God, sew it up with a thread.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">ngl he does have a v festive seasonal tie doe</p>&mdash; mmore500 (@mmore500) <a href="https://twitter.com/mmore500/status/1208192804867977216?ref_src=twsrc%5Etfw">December 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 ### Package It as a Meme
 
 Memes aren't just spongebob screengrabs with superimposed text.
