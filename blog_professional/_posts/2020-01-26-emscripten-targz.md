@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "So You Want To Retrieve and Extract .tar.gz Archive with Empscripten"
+title:  "So You Want To Retrieve and Extract .tar.gz Archives with Empscripten"
 date:   2020-01-26
 no_toc: true
 ---
@@ -12,16 +12,16 @@ Emscripten's nifty [file packaging](https://emscripten.org/docs/porting/files/pa
 However, it became necessary to be able to swap out file contents without recompiling so this no longer cut the mustard.
 
 The configuration and data files I work with are organized in a hierarchical structure with meaningful filenames that have unpredictable components.
-I could try to have the user specify the filenames one by one in the browser and have the user copy them down one by one, but that would be brittle and annoying.
+I could try to have the user specify the filenames one by one in the browser then copy them down one by one, but that would be brittle and annoying.
 
 Instead, I'd like to grab them all at once.
-A [tar archive](https://en.wikipedia.org/wiki/Tar_(computing)) which allows entire directory structures to be packaged into a single file are an appealing choice.
+A [tar archive](https://en.wikipedia.org/wiki/Tar_(computing)), which allows entire directory structures to be packaged into a single file, seems an appealing option here.
 
-My files are big and repetitive, so I'd like to use [gzip compression](https://en.wikipedia.org/wiki/Gzip) so they'll load up faster.
+My files are big and repetitive, so I'd like to use [gzip compression](https://en.wikipedia.org/wiki/Gzip) so they'll serve up over the internets faster.
 
 Compressing and extracting `.tar.gz` archives at the terminal is easy[-ish](https://xkcd.com/1168/).
 Getting it going from a C++ program inside Emscripten's browser sandbox?
-A little harder, but once I found the right pieces to slot together not actually too bad.
+A little harder, but once I found the right pieces to slot together not actually too bad!
 
 In this blog, I'll briefly discuss each the components I assembled and tweaked to create a minimal working example of retrieving and extracting a `.tar.gz` archive with Emscripten.
 Then, I'll walk you through getting the minimal working example actually running on your own machine.
