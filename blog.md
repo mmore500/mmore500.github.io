@@ -27,6 +27,13 @@ permalink: /blog/
   {% endfor %}
 </ul>
 
+## <a href="#mentees_collaborators">🔗</a> mentees & collaborators
+<ul class="posts">
+  {% for post in site.data.mentees_collaborators_posts %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a> by <a href="{{ post.who_url }}">{{ post.who }}</a> @ <a href="{{ post.where_url }}">{{ post.where }}</a></li>
+  {% endfor %}
+</ul>
+
 ## <a href="#personal">🔗</a> personal
 <ul class="posts">
   {% for post in site.categories.blog_personal %}
