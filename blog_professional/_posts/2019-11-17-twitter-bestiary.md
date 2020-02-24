@@ -169,6 +169,10 @@ Bonus points to [@tonynorthrup](https://twitter.com/tonynorthrup) for cleverly u
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Inspired by a recent poll from <a href="https://twitter.com/cjdb_ns?ref_src=twsrc%5Etfw">@cjdb_ns</a> <br><br>C++ is a multi-paradigm language, you can do nearly anything with it.<br><br>But I primarily think of it as:</p>&mdash; Jason Turner (@lefticus) <a href="https://twitter.com/lefticus/status/1119944156602703875?ref_src=twsrc%5Etfw">April 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+Note [@mxwlj](https://twitter.com/mxwlj)'s clever addition of a "click to see results" button to let ambivalent users check the results without muddying the waters with random clicks.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Alright <a href="https://twitter.com/hashtag/academictwitter?src=hash&amp;ref_src=twsrc%5Etfw">#academictwitter</a>, let&#39;s get to the bottom of this. <br><br>When using LaTeX for academic writing ✍️, each line represents</p>&mdash; Maxwell Joseph 🍩 (@mxwlj) <a href="https://twitter.com/mxwlj/status/1231604356807397376?ref_src=twsrc%5Etfw">February 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Just Ask a Question
 
 Efforts to gather information from across the community need not be strictly quantitative.
