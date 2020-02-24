@@ -371,7 +371,7 @@ You might even tack a twitter poll for responses to your question to make the op
 ### Flat Out Ask for It
 
 Directly ask readers to respond and share.
-Without tact, though, this come off as spammy.
+Without tact, though, this can come off as spammy.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Happy Friday! We almost say goodbye to 2018, what have you done this year that make you proud? R projects / blogs, first time speakers, writing R packages. Plz RT and share your story :) As for me, im excited to form a R study at my work, hope the group continue to grow in ‘19!</p>&mdash; We are R-Ladies (@WeAreRLadies) <a href="https://twitter.com/WeAreRLadies/status/1076082822585176064?ref_src=twsrc%5Etfw">December 21, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
