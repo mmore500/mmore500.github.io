@@ -86,6 +86,7 @@ Well, being a [Good C++ Dilettante](https://www.quora.com/Why-do-some-famous-pro
 Wow.
 Much [core guideline](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) ["ES.23: Prefer the `{}`-initializer syntax"](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#es23-prefer-the--initializer-syntax).
 Good job me.
+After a few months of using braces in place of parens without incident I slid into the alluring notion that they were *basically* close enought the same thing so I could just not think about using braces.
 
 But, as with all things C++, in ES.23 there is also a clearly documented...
 > **Exception**
@@ -108,9 +109,9 @@ Anyways, here's your "so-called promised fable:"
 doing things to Follow The Rule will only get you so far if you don't also Understand The Rule.
 
 As [Kate Gregory eloquently points out](https://www.youtube.com/watch?v=tTexD26jIN4), writing good C++ is an exercise in continually learning C++.
-In C++ and other (?) parts of life (??), keeping alert for the things we do but don't really understand can be a launching point to gaining understanding!
+In C++ and other (?) parts of life (??), keeping alert for things we do without really understanding should be a launching point to seek out understanding!
 
-Braces and parens are not the same thing.
+Also, braces and parens are not the same thing.
 
 ![](/resources/char-to-string-initializations.gif){:width="100%"}
 
