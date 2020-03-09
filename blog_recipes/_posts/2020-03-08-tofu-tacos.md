@@ -13,6 +13,7 @@ recipe:
     * avocado
     * scallions
     * green apple slices
+    * shredded dried seaweed
     * sauteed mushrooms OR bread and butter pickles
     * corn tortillas
   directions_markdown: |-
