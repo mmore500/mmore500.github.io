@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: "Crispy Tofu"
+title: "Tofu Tacos"
 date: 2020-03-08
 recipe:
   prep: 30 min.
