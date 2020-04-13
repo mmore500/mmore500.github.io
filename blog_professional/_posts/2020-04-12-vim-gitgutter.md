@@ -14,7 +14,7 @@ In particular, I really tweaked out over git diff symbols in the gutter.
 
 I felt that the the default `+` and `-` symbols don't efficiently show the
 spatial structure of the diffs they represented.
-I addressed this by using full-width underscore elements for the deletion diffs (where the deleted lines are just below) and a mirrored L shape for the deletion plus modification diffs (representing changes to the current line in addition to deletion below).
+I addressed this by using full-width underscore elements for the deletion diffs (where the deleted lines are just below) and a mirrored L shape for the deletion plus modification diffs (representing changes to the focal line in addition to deletion below).
 
 I also felt the diff symbols lacked visual weight necessary to make their color coding pop.
 I fixed this by prepending the diff symbols with a full-character box.
