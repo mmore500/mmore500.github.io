@@ -253,6 +253,8 @@ In the first experiment, we assessed all combinations of the following condition
   1. depo
   2. ranked
   3. sieve
+* tag-matching metric
+  1. streak [[Downing, 2015; p. 226]](#Downing2015Intelligence)
 
 (The second experiment revealed qualitatively similar results evolving on small and large grid sizes and that ~11% and ~44% faulty problem difficulties exhibited qualitatively different evolutionary outcomes).
 
@@ -272,6 +274,8 @@ In the second experiment, we assessed all combinations of the following conditio
   1. depo
   2. ranked
   3. sieve
+* tag-matching metric
+  1. streak [[Downing, 2015; p. 226]](#Downing2015Intelligence)
 
 (The first experiment revealed that additive and multiplicative regulators both significantly outperformed the no-op regulator.
 Additive and multiplicative regulators exhibited similar performance with multiplicative regulation slightly, but not significantly, outperforming additive regulation.)
@@ -459,6 +463,11 @@ The buffet paradigm allows evolving agents to rely on computational representati
 With the addition of dynamic module dispatch via selector and regulator components, "Multi-representation SignalGP" promises not only to realize the benefits of the Buffet Method in interactive, event-driven agents but also provide a framework for module-level plasticity.
 
 ## References
+
+<a name="Downing2015Intelligence"
+href="https://mitpress.mit.edu/books/intelligence-emerging">
+Downing, Keith L. Intelligence emerging: adaptivity and search in evolving neural systems. MIT Press, 2015.
+</a>
 
 <a name="Hintze2019evolutionarymethod"
 href="https://link.springer.com/chapter/10.1007/978-3-030-04735-1_2">
