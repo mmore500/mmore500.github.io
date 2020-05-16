@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: "Sesame Garlic Tofu"
+title: "Tofu Strips"
 date: 2020-05-12
 recipe:
   prep: 20 min.
