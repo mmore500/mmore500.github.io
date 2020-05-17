@@ -261,8 +261,7 @@ Not so well?
 I started a twitter thread (right below) so we can chat :phone: :phone: :phone:
 ... I know y'all got stories!!!
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">nothing to see here, just a placeholder tweet 🐦</p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/1054071480512843776?ref_src=twsrc%5Etfw">October 21, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">WAVES workshop call had an amazing response: 92 applications in all 🌟💻😸<br><br>we&#39;re proud of the crew we assembled but (as always) things could have gone a little smoother behind the scenes... 🙄 🤷<br><br>blog post on Logistical Lessons Learned 💪<a href="https://t.co/zH0aSdNs9U">https://t.co/zH0aSdNs9U</a></p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/1262152205924134913?ref_src=twsrc%5Etfw">May 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Appendix A: ASCII Call for Participants
 
