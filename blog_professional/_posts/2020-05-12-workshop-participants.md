@@ -191,14 +191,14 @@ Several reviewers mentioned difficulty rating candidates that they felt fell bet
 
 To ensure reviewers provided comparable ratings, we put together a rubric and discussed it as a group before performing reviews.
 
+|             | Experience          | Statement                         | Project                                | Interest                          | Recommendation |
+|-------------|---------------------|-----------------------------------|----------------------------------------|-----------------------------------|------------------|
+| Concern     | red flags           | red flags or missing              | red flags                              | red flags                         | do not support   |
+| Neutral     | no experience       | insufficient content or quality   | not mentioned                          | no evidence                       | neutral          |
+| Adequate    | coursework only     | adequate                          | basic proficiency and initiative       | expresses interest                | support          |
+| Strong      | significant project | effective, engaging, and detailed | strong proficiency and initiative      | demonstrates interest             | strongly support |
+| Outstanding | exceptional         | exceptional                       | exceptional proficiency and initiative | demonstrates exceptional interest | want to mentor   |
 
-| | Experience | Interest | StatementQuality | ProjectQuality | Recommendation |
-|-------------|---------------------|------------------|-----------------------------------|----------------------------------------|-----------------------------------|---------------|--------------|-----------------|--------------------|-----------------------|------------------|----------------|------------------|-----------------------|--------------------|
-| Concern | red flags | red flags | red flags or missing | red flags | do not support |
-| Neutral | no experience | no evidence | insufficient content or quality | not mentioned | neutral |
-| Adequate | coursework only |  expresses interest | adequate | basic proficiency and initiative | support |
-| Strong | significant project | demonstrates interest | effective, engaging, and detailed | strong proficiency and initiative | strongly support |
-| Outstanding | exceptional | demonstrates exceptional interest | exceptional | exceptional proficiency and initiative | want to mentor |
 <br/>
 <br/>
 
