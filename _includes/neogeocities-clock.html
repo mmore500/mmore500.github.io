@@ -1,0 +1,80 @@
+<script>
+
+var dn;
+c1=new Image(); c1.src="/resources/neogeocities-clock/c1.gif"
+c2=new Image(); c2.src="/resources/neogeocities-clock/c2.gif"
+c3=new Image(); c3.src="/resources/neogeocities-clock/c3.gif"
+c4=new Image(); c4.src="/resources/neogeocities-clock/c4.gif"
+c5=new Image(); c5.src="/resources/neogeocities-clock/c5.gif"
+c6=new Image(); c6.src="/resources/neogeocities-clock/c6.gif"
+c7=new Image(); c7.src="/resources/neogeocities-clock/c7.gif"
+c8=new Image(); c8.src="/resources/neogeocities-clock/c8.gif"
+c9=new Image(); c9.src="/resources/neogeocities-clock/c9.gif"
+c0=new Image(); c0.src="/resources/neogeocities-clock/c0.gif"
+cb=new Image(); cb.src="/resources/neogeocities-clock/cb.gif"
+cam=new Image(); cam.src="/resources/neogeocities-clock/cam.gif"
+cpm=new Image(); cpm.src="/resources/neogeocities-clock/cpm.gif"
+
+function extract(h,m,s,type){
+  if (!document.images) return
+
+  if (h<=9){
+    document.images.a.src=cb.src;
+    document.images.b.src=eval("c"+h+".src");
+  } else {
+    document.images.a.src=eval("c"+Math.floor(h/10)+".src");
+    document.images.b.src=eval("c"+(h%10)+".src");
+  }
+
+  if (m<=9){
+    document.images.d.src=c0.src;
+    document.images.e.src=eval("c"+m+".src");
+  } else {
+    document.images.d.src=eval("c"+Math.floor(m/10)+".src");
+    document.images.e.src=eval("c"+(m%10)+".src");
+  }
+
+  if (s<=9){
+    document.images.g.src=c0.src;
+    document.images.h.src=eval("c"+s+".src");
+  } else {
+    document.images.g.src=eval("c"+Math.floor(s/10)+".src")
+    document.images.h.src=eval("c"+(s%10)+".src")
+  }
+
+  if (dn=="AM") document.images.j.src=cam.src
+  else document.images.j.src=cpm.src
+
+}
+
+function show3(){
+  if (!document.images) return;
+  var Digital=new Date();
+  var hours=Digital.getHours();
+  var minutes=Digital.getMinutes();
+  var seconds=Digital.getSeconds();
+  dn="AM";
+  if ((hours>=12)&&(minutes>=1)||(hours>=13)) {
+    dn="PM";
+    hours=hours-12;
+  }
+  if (hours==0) hours=12;
+  extract(hours,minutes,seconds,dn);
+}
+
+window.onload = function(){
+  window.setInterval(show3, 1000);
+};
+</script>
+
+<p align="center">
+  <img id="a" src="/resources/neogeocities-clock/c0.gif" width="40" height="40">
+  <img id="b" src="/resources/neogeocities-clock/c0.gif" width="40" height="40">
+  <img id="c" src="/resources/neogeocities-clock/colon.gif" width="35" height="75">
+  <img id="d" src="/resources/neogeocities-clock/c0.gif" width="40" height="40">
+  <img id="e" src="/resources/neogeocities-clock/c0.gif" width="40" height="40">
+  <img id="f" src="/resources/neogeocities-clock/colon.gif" width="35" height="75">
+  <img id="g" src="/resources/neogeocities-clock/c0.gif" width="40" height="40">
+  <img id="h" src="/resources/neogeocities-clock/c0.gif" width="40" height="40">
+  <img id="j" src="/resources/neogeocities-clock/cam.gif" width="82" height="62">
+</p>
