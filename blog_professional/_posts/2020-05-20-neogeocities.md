@@ -114,7 +114,7 @@ Although we don't want GIFs GIF-ing all the time, we probably also don't just wa
 What about the juicy GIFs at the bottom of a page that would be all played out before web visitors get a chance to chance upon them?
 
 I've found that re-triggering GIF animation on scroll provides a suitable solution.
-GIFs can be their fun selves while you're navigating and moving, but once you actually want to look closely at something they tone right down.
+GIFs can be their fun selves while you're navigating and moving, but once you actually want to focus in on something they tone right down.
 
 ![A title.](/resources/neogeocities-insanity.gif){:width="100%"}
 *[source](https://web.archive.org/web/20091027012852/http://geocities.com/greekstyle121/)*
