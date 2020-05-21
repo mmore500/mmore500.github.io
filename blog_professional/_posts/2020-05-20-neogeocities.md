@@ -67,7 +67,7 @@ GIFs constituted precious treasures, not throwaway commodities.
 
 See also this [virtual stamp collection](http://geocities.com/angellovepsp/Stamp_Collection1.html) and this ["Free Mouse ,Hamster & more Blinkies and Gifs collection"](https://web.archive.org/web/20090829164804/http://geocities.com/victoriais2cute//index.htm)
 
-## Toward Neo-Geocity: Finding Gifs
+## Toward Neogeocities: Finding Gifs
 
 How can tap into the former glory of GIFs?
 The first step is to find some glorious vintage GIFs.
@@ -78,7 +78,7 @@ Some tips:
 * Steel yourself: there's no SFW filter... there are some truly fascinatingly horrible entries in there.
 (I, for example, accidentally ran into Mr. Bean erotica.)
 
-## Toward Neo-Geocity: Finite Looping
+## Toward Neogeocities: Finite Looping
 
 <marquee> Is this distracting? </marquee>
 
@@ -108,7 +108,7 @@ gifsicle infinite.gif --no-loopcount > finite.gif
 
 There are also plenty of [in-browser tools](https://ezgif.com/loop-count) that do the same.
 
-## Toward Neo-Geocity: Restart on Scroll
+## Toward Neogeocities: Restart on Scroll
 
 Although we don't want GIFs GIF-ing all the time, we probably also don't just want them to once and done.
 What about the juicy GIFs at the bottom of a page that would be all played out before web visitors get a chance to chance upon them?
@@ -134,7 +134,7 @@ window.onscroll = function () {
 </script>
 ```
 
-## Toward Neo-Geocity: Tiling Gifs
+## Toward Neogeocities: Tiling Gifs
 
 I find that GIFs make for super-cute section breaks in otherwise dry documents.
 GIFs with a wide aspect ratio work best here.
@@ -143,7 +143,7 @@ You'll want to
 [This web tool](https://ezgif.com/combine) makes horizontally tiling GIFs super easy.
 (The UI doesn't work super great with wide images, but you can pop open your browser's web inspector and throw "style=width:2000px" into the GIF-staging table tag to crack it open if you run into issues).
 
-## Neo-Geocity: A Prototype
+## Neogeocities: A Prototype
 
 Has all this piqued your interest?
 Go give neogeocities a vibe check [here](http://mmore500.com/waves/tutorials/lesson04.html).
