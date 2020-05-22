@@ -146,7 +146,7 @@ You'll want to
 ## Neogeocities: A Prototype
 
 Has all this piqued your interest?
-Go give neogeocities a vibe check [here](http://mmore500.com/waves/tutorials/lesson04.html).
+Go give neogeocities a vibe check [here](http://mmore500.com/waves/tutorials/lesson03.html).
 :sunglasses:
 
 ## Let's Chat!
