@@ -10,7 +10,7 @@ date:   2020-05-20
 *[source](https://web.archive.org/web/20091027020322im_/http://geocities.com/breakdancing2000/)*
 
 In this erudite thinkpiece, originally prepared for a spoof presentation, I will
-1. dig into argue that GIFs today are a mere shadow of GIFs of yesteryear,
+1. argue that GIFs today represent a mere shadow of GIFs of yesteryear,
 2. propose a neogeocities renaissance for contemporary websites in which we extract the benefits of [geocities](https://en.wikipedia.org/wiki/Yahoo!_GeoCities)-style GIFs while avoiding the pitfall of sensory overload and distraction,
 3. lay out a set of tools that make it possible.
 
