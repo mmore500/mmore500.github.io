@@ -6,6 +6,18 @@ date:   2020-05-20
 
 {% include gifscroll.html %}
 
+<script>
+GifDisable = function () {
+  var allGifs = document.querySelectorAll('img[src$=".gif"]');
+  for (gif of allGifs) {
+    gif.src = "";
+  }
+  window.clearInterval(window.disableID);
+}
+</script>
+
+*([Click here](javascript:GifDisable();) to strip animations from this page.)*
+
 ![A cool gif.](/resources/neogeocities-earth_mill.gif){:width="100%"}
 *[source](https://web.archive.org/web/20091027020322im_/http://geocities.com/breakdancing2000/)*
 
@@ -142,6 +154,60 @@ You'll want to
 
 [This web tool](https://ezgif.com/combine) makes horizontally tiling GIFs super easy.
 (The UI doesn't work super great with wide images, but you can pop open your browser's web inspector and throw "style=width:2000px" into the GIF-staging table tag to crack it open if you run into issues).
+
+## Toward Neogeocities: Accessibility
+
+Animations can introduce accessibility issues for some of web visitors.
+If you're using them ornamentally, it's a good idea to allow visitors to strip out animations if they need to.
+Here's some HTML for a cute little button to do just that.
+
+```
+<script>
+GifDisable = function () {
+  var allGifs = document.querySelectorAll('img[src$=".gif"]');
+  for (gif of allGifs) {
+    gif.src = "";
+  }
+}
+</script>
+
+<a
+  style="float: left; padding: 5px; position: relative;"
+  href="javascript:GifDisable();"
+  alt="Disable Animations"
+>
+  <span
+    style="position:absolute; opacity: 0.2;"
+  >
+    :x:
+  </span>
+  <span
+    style="opacity: 0.4; -webkit-filter: grayscale(1);"
+  >
+    :movie_camera:
+  </span>
+</a>
+```
+
+<blockquote>
+  <a
+    style="float: left; padding: 5px; position: relative;"
+    href="javascript:GifDisable();"
+    alt="Disable Animations"
+  >
+    <span
+      style="position:absolute; opacity: 0.2;"
+    >
+      :x:
+    </span>
+    <span
+      style="opacity: 0.4; -webkit-filter: grayscale(1);"
+    >
+      :movie_camera:
+    </span>
+  </a>
+  <br/>
+</blockquote>
 
 ## Neogeocities: A Prototype
 
