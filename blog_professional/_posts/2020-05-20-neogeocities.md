@@ -219,7 +219,7 @@ Go give neogeocities a vibe check [here](http://mmore500.com/waves/tutorials/les
 
 What's your hot take on neogeocities?
 What other aspects of the 90s internet should we revive?
-Also, what is the adorable GIF subgenre of wholesome floating blog things called?
+Also, what is the adorable GIF subgenre of wholesome floating blob things called?
 (I can't figure out how to Google them to find more!)
 
 ![what are these things called?](/resources/neogeocities-school.gif){:width="100%"}
