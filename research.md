@@ -19,7 +19,7 @@ Find links to access materials (PDFs and more) from my scientific publications a
 
 **templ**. Open-source Python package for organizing a Markdown notebook or journal. [[github]](https://github.com/mmore500/templ) [[blog post]](https://mmore500.github.io/2018/01/21/my-record-keeping-setup.html)
 
-**Information Theory Through Toy Examples**. Devolab blog post. Matthew Andres Moreno. October 26, 2017. [[pdf]](/resources/october_26_2017.pdf) [[blog post]](http://devosoft.org/information-theory-through-toy-examples/)
+**Information Theory Through Toy Examples**. Devolab blog post. Matthew Andres Moreno. October 26, 2017. [[pdf]](/resources/october_26_2017.pdf) [[blog post]](http://devolab.org/information-theory-through-toy-examples/)
 
 **CWLT Sunman**. Sticker Pack via MojiLaLa. Matthew Andres Moreno. August 30, 2017. [[MojiLaLa listing]]( https://mojilala.com/stickers-emojis/packages/1822f266-e798-424c-8bf6-5c386273a939) [[repository]](https://github.com/cwlt/cwlt-sunman)
 

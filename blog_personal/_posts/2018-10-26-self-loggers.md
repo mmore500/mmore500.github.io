@@ -20,7 +20,7 @@ When I finish up my dissertation, I'd like to be able to tell a neat story about
 I hope that documenting and sharing my own experience might help make graduate school less mysterious and more approachable, particularly for underrepresented students.
 Plus, I hope *anticipating* performing a reflection on my own challenges and growth --- through the magic of [preemptive retrospection](https://scholarsarchive.byu.edu/etd/1688) --- will help me experience [the latter "joys"](http://phdcomics.com/comics/archive.php?comicid=1420) of graduate school as patiently and positively as possible.
 
-I'm a big believer in the utility of [narrative reflection](http://devosoft.org/reflections-on-my-first-semester-at-macdonald-middle-school/).
+I'm a big believer in the utility of [narrative reflection](http://devolab.org/reflections-on-my-first-semester-at-macdonald-middle-school/).
 (Shout-out to [the CWLT](https://pugetsound.edu/cwlt)!)
 Sitting down to write a paragraph about pretty much anything can make you discover *something* meaningful about it you didn't know before.
 Usually, I start hacking out a reflection like "Sure... that's bit of a reach... whatever" but then this weird thing happens where, a few minutes or months later, I actually believe whatever I came up with.
@@ -361,7 +361,7 @@ I've already rambled about my journaling tool elsewhere [on my blog](https://mmo
 I'm pleasantly surprised with how well my system seems to be working out for me.
 A bit more than a year after I started, I still do things the same way.
 
-I've returned to my journal to dig up details I had otherwise forgotten for [anecdotes I wanted to re-tell](http://devosoft.org/reflections-on-my-first-semester-at-macdonald-middle-school/).
+I've returned to my journal to dig up details I had otherwise forgotten for [anecdotes I wanted to re-tell](http://devolab.org/reflections-on-my-first-semester-at-macdonald-middle-school/).
 
 ## Social Media
 

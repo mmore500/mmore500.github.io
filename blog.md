@@ -17,7 +17,7 @@ permalink: /blog/
   {% for post in site.data.devolab_posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
-  <a href="http://devosoft.org/author/mmore500/">[all Devolab posts]</a>
+  <a href="http://devolab.org/author/mmore500/">[all Devolab posts]</a>
 </ul>
 
 ## <a href="#elsewhere">🔗</a> elsewhere

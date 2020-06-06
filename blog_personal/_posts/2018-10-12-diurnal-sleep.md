@@ -307,7 +307,7 @@ I ended up using a combination of IFTTT and proprietary triggers because the pro
 
 ![](https://osf.io/n659e/download){:width="100%"}
 
-There are a lot of [things I like](https://en.wikipedia.org/wiki/Aeron_chair) about [our lab](http://devosoft.org/)'s [office space](https://www3.beacon-center.org/).
+There are a lot of [things I like](https://en.wikipedia.org/wiki/Aeron_chair) about [our lab](http://devolab.org/)'s [office space](https://www3.beacon-center.org/).
 Unfortunately, we have no windows.
 
 So, I have lots of lights at my desktop try to get myself to physiologically register that it is indeed daytime when it is daytime, including:
