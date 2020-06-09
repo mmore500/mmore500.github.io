@@ -36,6 +36,7 @@ more broadly,
 * [Google Doc: Anti-racism resources](https://bit.ly/ANTIRACISMRESOURCES)
 * [Google Doc: Justice in June](https://bit.ly/junejustice)
 * [Cardd: Ways You Can Help](https://blacklivesmatters.carrd.co/)
+* [Police: Last Week Tonight with John Oliver (HBO)](https://www.youtube.com/watch?v=Wf4cea5oObY)
 
 ## Signators
 
