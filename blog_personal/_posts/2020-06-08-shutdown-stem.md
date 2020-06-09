@@ -41,3 +41,4 @@ more broadly,
 * Anya Vostinar
 * Katherine Skocelas
 * Emily Dolson
+* Jose Guadalupe Hernandez
