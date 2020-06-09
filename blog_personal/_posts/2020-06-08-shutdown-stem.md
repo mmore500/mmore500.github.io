@@ -41,3 +41,4 @@ more broadly,
 * Anya Vostinar
 * Katherine Skocelas
 * Austin J. Ferguson
+* Emily Dolson
