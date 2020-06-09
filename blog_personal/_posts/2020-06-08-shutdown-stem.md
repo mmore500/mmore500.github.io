@@ -40,4 +40,5 @@ more broadly,
 * Acacia Lee Ackles
 * Anya Vostinar
 * Katherine Skocelas
+* Austin J. Ferguson
 * Emily Dolson
