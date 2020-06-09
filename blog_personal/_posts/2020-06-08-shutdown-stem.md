@@ -9,6 +9,8 @@ The undersigned will be ceasing our workshop activities related to the [WAVES Wo
 To this end, I will no longer be presenting the [Enrichment Seminar](https://mmore500.com/waves/discussion/week2.html) planned for that day.
 The undersigned encourage [WAVES Workshop](https://github.com/mmore500/waves) mentors and participants to consider suspending their own meetings and development work.
 
+You can read more about the #ShutDownAcademia #ShutDownSTEM #Strike4BlackLives movement [here](https://www.shutdownstem.com/).
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’mma need eager allies to get tooled up before they charge in.<br><br>Stop. Stop. Reflect. Listen and learn first. <br><br>We have a whole day set aside for you <a href="https://t.co/wmIpRgvtxW">pic.twitter.com/wmIpRgvtxW</a></p>&mdash; DNLee (@DNLee5) <a href="https://twitter.com/DNLee5/status/1269465652802326528?ref_src=twsrc%5Etfw">June 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Materials
@@ -30,6 +32,10 @@ more broadly,
 * [13TH / FULL FEATURE / Netflix](https://www.youtube.com/watch?v=krfcq5pF8u8)
 * [Campaign Zero](https://www.joincampaignzero.org/)
 * [NPR Code Switch A Decade Of Watching Black People Die](https://www.npr.org/2020/05/29/865261916/a-decade-of-watching-black-people-die)
+* [Medium: 75 Things White People Can Do for Racial Justice](https://medium.com/equality-includes-you/what-white-people-can-do-for-racial-justice-f2d18b0e0234)
+* [Google Doc: Anti-racism resources](https://bit.ly/ANTIRACISMRESOURCES)
+* [Google Doc: Justice in June](https://bit.ly/junejustice)
+* [Cardd: Ways You Can Help](https://blacklivesmatters.carrd.co/)
 
 ## Signators
 
@@ -43,3 +49,4 @@ more broadly,
 * Austin J. Ferguson
 * Emily Dolson
 * Jose Guadalupe Hernandez
+* Oliver Baldwin Edwards
