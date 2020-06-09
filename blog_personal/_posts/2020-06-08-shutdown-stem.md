@@ -39,3 +39,4 @@ more broadly,
 * Alexander Lalejini
 * Acacia Lee Ackles
 * Anya Vostinar
+* Katherine Skocelas
