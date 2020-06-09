@@ -42,3 +42,4 @@ more broadly,
 * Katherine Skocelas
 * Austin J. Ferguson
 * Emily Dolson
+* Jose Guadalupe Hernandez
