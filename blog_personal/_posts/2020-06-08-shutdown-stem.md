@@ -2,6 +2,7 @@
 layout: post
 title: "#ShutDownAcademia #ShutDownSTEM"
 date: 2020-06-08
+no_toc: true
 ---
 
 The undersigned will be ceasing our workshop activities related to the [WAVES Workshop](https://github.com/mmore500/waves) on Wednesday, June 10th in support of [#ShutDownAcademia](https://twitter.com/hashtag/ShutDownAcademia), [#ShutDownSTEM](https://twitter.com/hashtag/ShutDownSTEM), and the [Black Lives Matter movement](https://blacklivesmatter.com/).
