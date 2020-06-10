@@ -53,3 +53,4 @@ more broadly,
 * Oliver Baldwin Edwards
 * Diane J Blackwood
 * Santiago Rodriguez-Papa
+* Maria Berry
