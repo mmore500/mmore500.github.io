@@ -27,6 +27,7 @@ RE: academia and STEM,
 * [#Strike4BlackLives](https://twitter.com/hashtag/Strike4BlackLives)
 * [What do white educators need to do tomorrow?](https://threadreaderapp.com/thread/1267333391604527104.html)
 * [White Supremacy Culture in Organizations](https://www.thc.texas.gov/public/upload/preserve/museums/files/White_Supremacy_Culture.pdf)
+* [Medium: Decolonising Science Reading List](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f#.om5w2ivfq)
 
 more broadly,
 * [13TH / FULL FEATURE / Netflix](https://www.youtube.com/watch?v=krfcq5pF8u8)
