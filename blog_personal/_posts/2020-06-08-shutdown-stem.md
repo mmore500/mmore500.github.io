@@ -21,6 +21,7 @@ We have collected a few here, but suggest that mentees and participants also see
 *Create a pull request to suggest materials or email [m.more500@gmail.com](mailto:m.more500@gmail.com).*
 
 RE: academia and STEM,
+* [#BlackAFinSTEM](https://twitter.com/hashtag/BlackAFinSTEM)
 * [#BlackintheIvory](https://twitter.com/hashtag/BlackintheIvory)
 * [#ShutDownAcademia](https://twitter.com/hashtag/ShutDownAcademia)
 * [#ShutDownSTEM](https://twitter.com/hashtag/ShutDownSTEM)
