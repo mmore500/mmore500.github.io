@@ -337,8 +337,6 @@ I am not a medical doctor.
 (I'm not even a philosophy doctor.)
 Consult your physician, yo.
 
-![](https://osf.io/7ap8q/download){:width="100%"}
-
 Since I started playing around with pills and such RE: sleeping, my approach has switched from trying to concoct an elixir to use every night to lining up a series of pills and such, [falling back](https://en.wikipedia.org/wiki/Concentric_castle) to more extreme/disruptive options if I keep awake.
 
 My go-to pill is melatonin.
@@ -352,10 +350,6 @@ Based on how I feel the next day, I suspect that these pills reduce the quality 
 In particular, it can feel more difficult to break through [sleep inertia](https://en.wikipedia.org/wiki/Sleep_inertia) and get out of bed.
 In my calculation, though, that beats tossing and turning through 5 a.m. (followed, of course) by several days of sleep schedule anarchy.
 Lately, I've only been using these every week or two.
-
-My final resort is two or three shots of whatever hard alcohol is in the fridge.
-Again, [not ideal](https://www.webmd.com/sleep-disorders/news/20130118/alcohol-sleep#1) but IMO better than the alternative.
-I've only gotten to this point a handful of times.
 
 ## Caffeine
 
