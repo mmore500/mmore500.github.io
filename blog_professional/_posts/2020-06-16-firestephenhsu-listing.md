@@ -4,7 +4,7 @@ title: "Informative Discourse Related to the #FireStephenHsu Matter"
 date: 2020-06-16
 ---
 
-*Last updated 8pm on June 16th, 2020.*
+*Last updated {{ page.last_modified_at | date: '%b %e, %Y %R %Z' }}.*
 
 This blog post assembles a listing of materials I have found useful in understanding the [#FireStephenHsu](https://twitter.com/hashtag/FireStephenHsu) controversy surrounding Michigan State University's Senior Vice President for Research and Innovation, Stephen Hsu.
 I intend to update it periodically as the situation develops.
