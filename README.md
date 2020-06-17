@@ -9,4 +9,4 @@ Recipe components taken from [treat-jekyll-template](https://github.com/CloudCan
 
 Matthew Andres Moreno
 
-[mmore.500@gmail.com](mailto:mmore.500@gmail.com)
+[m.more500@gmail.com](mailto:m.more500@gmail.com)
