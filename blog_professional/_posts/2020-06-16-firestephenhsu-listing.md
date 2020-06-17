@@ -2,7 +2,7 @@
 layout: post
 title: "Informative Discourse Related to the #FireStephenHsu Matter"
 date: 2020-06-16
-last_modified_at: 2020-06-17 10:06:45 -0400
+last_modified_at: 2020-06-17 14:53:04 -0400
 ---
 
 <!-- Time.now.getlocal() -->
@@ -67,6 +67,11 @@ Unrolled view via [Thread reader](https://threadreaderapp.com/) app [here](https
 Unrolled view via [Thread reader](https://threadreaderapp.com/) app [here](https://threadreaderapp.com/thread/1271187190265942021.html).
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The professor, Steve Hsu, has now threated to sue grad students and others involved with this petition. It&#39;s tough to argue you&#39;re creating an environment for critical thinking by meeting grad students in court <a href="https://t.co/2KyP9Z9hGH">https://t.co/2KyP9Z9hGH</a> <a href="https://t.co/pX3FQFru6t">pic.twitter.com/pX3FQFru6t</a></p>&mdash; Matias Kaplan (@matias_kaplan) <a href="https://twitter.com/matias_kaplan/status/1272726632634015745?ref_src=twsrc%5Etfw">June 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Stephen Hsu: “These horrible people will stop at nothing.”<br><br>“These horrible people” are faculty at the uni where he is VP Research. <br><br>“These horrible people” are graduate students where he is VP Research.<br><br>He doesn’t have their trust. <br><br>He is in a leadership positions over them. <a href="https://t.co/2UHMSn17db">https://t.co/2UHMSn17db</a></p>&mdash; Katja Thieme 👀 (@Katja_Thieme) <a href="https://twitter.com/Katja_Thieme/status/1272901617092829185?ref_src=twsrc%5Etfw">June 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+:arrow_up:
+Unrolled view via [Thread reader](https://threadreaderapp.com/) app [here](https://threadreaderapp.com/thread/1272901617092829185.html).
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">As VP for the GEU, I can tell you the GEU published this bc individuals &amp; academic units were afraid to do so out of fear of retribution, either from Hsu himself or racists on twitter. <br><br>Now it is out there and needs your support. Faculty, please speak up to <a href="https://twitter.com/hashtag/FireStephenHsu?src=hash&amp;ref_src=twsrc%5Etfw">#FireStephenHsu</a>. <a href="https://t.co/ZpmT9t6a5R">https://t.co/ZpmT9t6a5R</a></p>&mdash; Acacia Ackles (@alackles) <a href="https://twitter.com/alackles/status/1271075972008292352?ref_src=twsrc%5Etfw">June 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
