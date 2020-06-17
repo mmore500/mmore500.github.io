@@ -12,7 +12,7 @@ I intend to update it periodically as the situation develops.
 ## Graduate Employee Union Thread
 
 The Graduate Employee Union's statement on twitter appears to have ignited the current outcry over Hsu's leadership position at Michigan State University.
-It unpacks concerns from blog posts and video interviews involving Hsu related to:
+It unpacks concerns from blog posts and video interviews involving Hsu related to
 * racism,
 * eugenics,
 * sexism, and
