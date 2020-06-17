@@ -147,4 +147,5 @@ What materials have you found useful in understanding the current controversy su
 
 The twitter thread below is a good option to reach out.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">nothing to see here, just a placeholder tweet 🐦</p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/1054071480512843776?ref_src=twsrc%5Etfw">October 21, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">assembled a collection of materials I&#39;ve found useful in understanding the <a href="https://twitter.com/hashtag/FireStephenHsu?src=hash&amp;ref_src=twsrc%5Etfw">#FireStephenHsu</a> movement that&#39;s arisen around MSU&#39;s Senior VP for Research &amp; Innovation<br><br>hope this might be useful to others as well<br><br>will push updates as the situation develops<a href="https://t.co/jFFusI2bIV">https://t.co/jFFusI2bIV</a></p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/1273073253016145922?ref_src=twsrc%5Etfw">June 17, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
