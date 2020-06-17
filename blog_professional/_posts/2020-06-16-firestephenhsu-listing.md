@@ -2,7 +2,7 @@
 layout: post
 title: "Informative Discourse Related to the #FireStephenHsu Matter"
 date: 2020-06-16
-last_modified_at: 2020-06-16 21:11:49 -0400
+last_modified_at: 2020-06-16 22:42:19 -0400
 ---
 
 <!-- Time.now.getlocal() -->
@@ -75,6 +75,8 @@ Unrolled view via [Thread reader](https://threadreaderapp.com/) app [here](https
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The VP of Research and Innovation at <a href="https://twitter.com/michiganstateu?ref_src=twsrc%5Etfw">@michiganstateu</a> referring to a woman as a &quot;modestly attractive blonde&quot; on his blog also does not make an inclusive environment. <a href="https://t.co/dXR2R5cp79">https://t.co/dXR2R5cp79</a></p>&mdash; Dan Turner (@danbtweeter) <a href="https://twitter.com/danbtweeter/status/1272697308048551936?ref_src=twsrc%5Etfw">June 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The blogs under the &quot;dating&quot; tag that were written while a professor also fall into the &quot;controversial&quot; category.<br><br>An example:<a href="https://t.co/4XOLEmR7Gn">https://t.co/4XOLEmR7Gn</a> <a href="https://t.co/C9TFDfQ3Z8">https://t.co/C9TFDfQ3Z8</a></p>&mdash; Dan Turner (@danbtweeter) <a href="https://twitter.com/danbtweeter/status/1272693398676242432?ref_src=twsrc%5Etfw">June 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;d have to say (as is blockquoted from elsewhere further down the same page)<br><br>&quot;it all sounds cheesy, tedious, manipulative, obvious, condescending to women&quot;<br><br>but I guess not (as the blockquote continues) &quot;maybe kind of gay&quot; <a href="https://t.co/DFbuHzQx8H">https://t.co/DFbuHzQx8H</a></p>&mdash; mmore500 (@mmore500) <a href="https://twitter.com/mmore500/status/1273081443535605760?ref_src=twsrc%5Etfw">June 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/GradEmpUnion?ref_src=twsrc%5Etfw">@GradEmpUnion</a> is calling for removal of Stephen Hsu as VP of Research &amp; Graduate Studies at <a href="https://twitter.com/michiganstateu?ref_src=twsrc%5Etfw">@michiganstateu</a>. We&#39;ve been tracking Hsu&#39;s eugenicist actions and ideas steeped in scientific racism for years. Some are included in this thread. <a href="https://twitter.com/hashtag/FireStephenHsu?src=hash&amp;ref_src=twsrc%5Etfw">#FireStephenHsu</a>.</p>&mdash; Genetics and Society (@C_G_S) <a href="https://twitter.com/C_G_S/status/1272939598650343426?ref_src=twsrc%5Etfw">June 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
