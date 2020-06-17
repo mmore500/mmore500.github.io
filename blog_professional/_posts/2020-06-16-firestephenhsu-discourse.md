@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Informative Discourse Related to the #FireStephenHsu Controversy"
+title: "Informative Discourse Related to the #FireStephenHsu Matter"
 date: 2020-06-16
 ---
 
