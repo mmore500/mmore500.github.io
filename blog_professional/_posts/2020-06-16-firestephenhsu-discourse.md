@@ -4,6 +4,8 @@ title: "Informative Discourse Related to the #FireStephenHsu Controversy"
 date: 2020-06-16
 ---
 
+*Last updated 8pm on June 16th, 2020.*
+
 This blog post assembles a listing of materials I have found useful in understanding the [#FireStephenHsu](https://twitter.com/hashtag/FireStephenHsu) controversy surrounding Michigan State University's Senior Vice President for Research and Innovation, Stephen Hsu.
 I intend to update it periodically as the situation develops.
 
@@ -24,27 +26,34 @@ Unrolled view via [Thread reader](https://threadreaderapp.com/) app [here](https
 
 * [With Friends Like These: Comments on the Uproar over Stephen Hsu](https://kevinabird.github.io/2020/06/16/With-Friends-Like-These-Comments-On-the-Uproar-Over-Stephen-Hsu.html)
   * by [Kevin Bird](https://kevinabird.github.io/)
+  * dated June 16th, 2020
 * [Stephen Hsu and Ronald Unz and Holocaust Denial](https://altrightorigins.com/2020/06/11/tin-foil-hats-holocaust-denial/)
 	* by [John Jackson](https://lbc.msu.edu/about/directory/jackson-j.html)
 	* published on [Fardels Bear, A History of the Alt-Right](https://lbc.msu.edu/about/directory/jackson-j.html)
+  * dated June 11th, 2020
 * [Stephen Hsu and the Ethical Responsibility of Scientists](https://altrightorigins.com/2020/06/13/hsu-ethical-responsibility/)
 	* by [John Jackson](https://lbc.msu.edu/about/directory/jackson-j.html)
 	* published on [Fardels Bear, A History of the Alt-Right](https://lbc.msu.edu/about/directory/jackson-j.html)
+  * dated June 13th, 2020
 * [Stephen Hsu and academic freedom](https://altrightorigins.com/2020/06/16/hsu-academic-freedom/)
 	* by [John Jackson](https://lbc.msu.edu/about/directory/jackson-j.html)
 	* published on [Fardels Bear, A History of the Alt-Right](https://lbc.msu.edu/about/directory/jackson-j.html)
+  * dated June 16th, 2020
 * [Quest for 'Genius Babies'?](https://www.insidehighered.com/news/2013/05/29/wake-controversy-over-harvard-dissertation-race-and-iq-scrutiny-michigan-state)
 	* by [Colleen Flaherty](https://www.insidehighered.com/users/colleen-flaherty)
 	* published on [Inside Higher Ed](https://www.insidehighered.com/)
+  * dated May 29th, 2013
 
 ## Press Coverage
 
 * [Hundreds of MSU professors, GEU call to remove VP of research Stephen Hsu](https://statenews.com/article/2020/06/michigan-state-geu-calls-to-remove-vp-research-administrator-stephen-hsu)
 	* by [Wendy Guzman](https://statenews.com/staff/wendy_guzman)
 	* published on [The State News](https://statenews.com/)
+  * dated June 15th, 2020
 * [Petition seeks removal of MSU VP of research over controversial comments, research](https://www.lansingstatejournal.com/story/news/2020/06/15/michigan-state-msu-stephen-hsu-research-removal-petition-graduate-employees-union/5345120002/)
 	* by [Craig Lyons](https://www.lansingstatejournal.com/staff/4395832002/craig-lyons/)
 	* published on [Lansing State Journal](https://www.lansingstatejournal.com/)
+  * dated June 15th, 2020
 
 ## Tweets
 
@@ -73,9 +82,11 @@ Unrolled view via [Thread reader](https://threadreaderapp.com/) app [here](https
 * [The Disturbing Resilience of Scientific Racism](https://www.smithsonianmag.com/science-nature/disturbing-resilience-scientific-racism-180972243/)
   * by [Ramin Skibba](https://raminskibba.net/)
   * published on [Smithsonian Magazine](https://www.smithsonianmag.com/)
+  * dated May 20, 2019
 * [ASHG Denounces Attempts to Link Genetics and Racial Supremacy](https://www.cell.com/ajhg/pdf/S0002-9297(18)30363-X.pdf)
 	* by [American Society of Human Genetics](https://www.ashg.org/)
 	* published on [The American Journal of Human Genetics](https://www.cell.com/AJHG/home)
+  * dated November 1, 2018
 * [Michigan State University Statement on Diversity and Inclusion](https://trustees.msu.edu/about/statement-diversity-inclusion.html)
 	* by [Michigan State University Board of Trustees](https://trustees.msu.edu/index.html)
 
