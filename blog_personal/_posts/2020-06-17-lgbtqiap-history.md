@@ -169,4 +169,5 @@ Happy :rainbow_flag: everyone!
 
 I started a twitter thread (right below) so we can chat :phone: :phone: :phone:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">nothing to see here, just a placeholder tweet 🐦</p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/1054071480512843776?ref_src=twsrc%5Etfw">October 21, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">recent Supreme events inspired me to write a blog about my own experience learning <a href="https://twitter.com/hashtag/lgbtqiap?src=hash&amp;ref_src=twsrc%5Etfw">#lgbtqiap</a> history<br><br>complete with a reading, viewing, &amp; listening list I&#39;ve been curating for a while now!<a href="https://t.co/qhs57whGc1">https://t.co/qhs57whGc1</a><br><br>happy 🏳️‍🌈 everyone :)</p>&mdash; mmore500 (@mmore500) <a href="https://twitter.com/mmore500/status/1273657430581248000?ref_src=twsrc%5Etfw">June 18, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
