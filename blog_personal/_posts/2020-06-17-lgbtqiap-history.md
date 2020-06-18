@@ -6,13 +6,13 @@ no_toc: true
 ---
 
 When the last major piece of Supreme LGBTQIAP history --- [Obergefell v. Hodges](https://en.wikipedia.org/wiki/Obergefell_v._Hodges) --- came down in 2015, I literally woke up to it.
-My radio alarm switched on to the newscast presenter saying that same-sex marriage had been legalized in all fifty states.
+My radio alarm switched on to the newscast presenter announcing that same-sex marriage had been legalized in all fifty states.
 It was settled.
 
 I had been peripherally aware of, but never particularly familiar with, political movements to advance LGBTQIAP liberties.
-Like everyone else in high school, I was in the bleachers when the GSA made announcements during assemblies.
-I heard about passing LGBTQIAP controversies and snippets of interviews with activists the same as everyone else when they occasionally rotated through the news cycle.
-But, laying there with society fundamentally altered basically having done nothing but roll over and adjust my pillow, I began to realize gears in society outside of my comprehension were turning --- and had already been grinding along for a long time.
+Like most everyone else in high school, I was in the bleachers when the Gay-Straignt Alliance made announcements during assemblies.
+I heard about passing LGBTQIAP controversies and caught snippets of interviews with activists the same as everyone else when they occasionally rotated through the news cycle.
+But, laying there with society fundamentally altered basically having done nothing but roll over and adjust my pillow, I began to realize gears in society outside of my range of sight were turning --- and had already been grinding along for a long time.
 
 Soon after, I got tapped on the shoulder by an older gentleman in a salmon v-neck t-shirt.
 My partner and I were walking across the Tacoma Mall, not too far from the infamous Pokemon vending machine.
@@ -21,15 +21,16 @@ He continued, "I never could have even dreamed of dating in public when I was yo
 He disappeared back into the crowd.
 
 I had been peripherally aware of LGBTQIAP people who lived through other times, who had not come up and come out in my generation.
-I'm pretty sure I could've probably associate the AIDS crisis, maybe the Stonewall riots, with the LGBTQIAP community.
+I'm guess I could've associated the AIDS crisis, maybe the Stonewall riots, with the LGBTQIAP community.
 But not much more than that.
+My blind spot wasn't just contemporary context of the LGBTQIAP politics.
+I also knew next to nothing of LGBTQIAP cultural and political history.
 
-My blind spot wasn't just contemporary context of the LGBTQIAP politics, I also knew next to nothing of LGBTQIAP cultural and political history.
 [Recent Supreme events](https://en.wikipedia.org/wiki/Bostock_v._Clayton_County) inspired me to take stock of my own experience over the intervening half-decade of becoming acquainted with LGBTQIAP history.
 
 ## Fish Out of Water
 
-To the extent that LGBTQIAP history is learned, I suspect that haphazardly and informally among relevant adjectives.
+To the extent that LGBTQIAP history is learned, I suspect that haphazardly and informally rank highly among pertinent adjectives.
 (In part, the reason I wrote all this.)
 
 I grew up in a [liberal-ass town](https://getmortified.com/episode/20-lizzy-my-semester-in-south-africa/)
@@ -47,13 +48,13 @@ Nonetheless, I proved rather much of a rube of contemporary LGBTQIAP culture, mu
 I went to my very first pride parade during that same summer of 2015.
 I optimistically wore my red, white, & blue polo shirt.
 This was subsequently supplemented with some red, white, & blue face paint.
-Whiplashed between the Microsoft corporate float and [The Sisters of Perpetual Indulgence](https://www.thesisters.org/), I learned that the earnest patriotic vibe was repped by exactly nobody there.
+Whiplashed between the Microsoft corporate float and [The Sisters of Perpetual Indulgence](https://www.thesisters.org/), I learned that the earnest patriotic vibe was in common with exactly nobody there.
 My lesbian friends who took me along found this very amusing.
 
-The next summer, I went out to Columbus, Ohio's Short North with my REU's LGBTQIAP mafia.
-It was a weekday, on-site promoters were still on-site to hand out shitty plastic mouthwash-size cups of free Bud Lite and rainbow headbands.
+The next summer, I went out on Columbus, Ohio's Short North with my REU's LGBTQIAP mafia.
+It was a weekday, but on-site promoters were still on-site to hand out shitty plastic mouthwash-size cups of free Bud Lite and rainbow headbands.
 To earn the aforementioned free beer I had to fill out a nametag that read something like "#pride I'm unafriad to..."
-After a full minute just staring at it and drawing a total blank I scribbled something even I knew was super lame and tame on there, probably like "have fun with my friends" or "do my taxes."
+After a full minute just staring at it and drawing a total blank I scribbled something even *I* knew was super lame and tame on there, probably like "have fun with my friends" or "do my taxes."
 
 Following the cynical branding of my cultural moment by corporate America, I was (righteously) roasted by the drag queen on duty for my fugly Croc flip flops.
 
@@ -61,7 +62,7 @@ Following the cynical branding of my cultural moment by corporate America, I was
 
 As I dipped my toes in, my early experiences with LGBTQIAP culture were jarring and honestly --- as in the case of the penis fairy (??) roving Seattle Pride to grace spectators by the tap of a wand affixed with a tiny plastic pointer --- sometimes a little disconcerting.
 
-By no coincidence, I knew next to nothing of the conditions LGBTQIAP culture had arisen from.
+By no coincidence to my befuddlement, I knew next to nothing of the conditions LGBTQIAP culture had arisen out of.
 The connection is summed up nicely by, of all things, this excerpt from a [satirical piece](https://www.theonion.com/gay-pride-parade-sets-mainstream-acceptance-of-gays-bac-1819566014) on [The Onion](https://www.theonion.com/).
 
 > "After centuries of oppression as an 'invisible' segment of society, gays, emboldened by the 1969 Stonewall uprising, took to the streets in the early '70s with an 'in-your-face' attitude.
@@ -85,14 +86,15 @@ Knowing history helps make sense of those experiences.
 
 When I introduced my partner to my dad, we basically only made it through a warm hug and some "so nice to meet you"s before launching into half an hour of The AIDS Talk.
 It was confusing --- for the life of me, I could not understand why dad kept going on and on about it --- and also felt somewhat pejorative.
-What a strange (but memorable!) way to kick off bringing someone new home to meet the family.
+What a strange way to kick off bringing someone new home to meet the family.
+Memorable, at least, I guess.
 
 My dad worked as a pilot for American Airlines for nearly his entire career.
 During the oil crisis he was laid off as a pilot, but later hired back on as for a time as flight attendant.
 He went on to see many of his male flight attendant co-workers cleared out by AIDS.
-As he eventually went on to explain to us that day, that experience had left an indelible impression.
+As he eventually went on to explain that day, that experience had left an indelible impression.
 
-My dad --- who attends mass several times a week and owns the rattiest imaginable t-shirt with a picture of a lawn mower on it and some inane text I can't even remember about his  lawn probably needing to be mowed --- understands the experience of the AIDS crisis in ways I probably will never be able to.
+My dad --- who attends mass several times a week and owns the rattiest imaginable t-shirt with a picture of a lawn mower on it and some inane text I can't even remember about his lawn probably needs to be mowed --- understands the experience of the AIDS crisis in ways I probably will never be able to.
 
 This moving contemporary account from another voice, though, helped me better appreciate the magnitude of that time.
 
@@ -104,11 +106,11 @@ Unrolled view via [Thread Reader](https://threadreaderapp.com/) app [here](https
 
 ## My Reading, Viewing, & Listening List
 
-Even as I've taken some proactive steps to better educate myself on LGBTQIAP history, I've found that many of the most compelling and eye-opening materials still arise as chance encounters.
+Even as I've taken some proactive steps to better educate myself on LGBTQIAP history, I've found that many of the most compelling and eye-opening materials still arise by chance encounters.
 At some point, I started keeping track of media pieces where I felt that I learned something new or heard a new voice.
 I've provided a version of my record below.
 
-Hopefully some of these materials might prove interesting to LGBTQIAP generations coming up (as [a certain friend](https://twitter.com/alackles) might endearingly term it, "baby gays"), allies looking to better understand the LGBTQIAP community, or --- I guess --- anyone who just hasn't chanced on them yet.
+Hopefully some of these materials might prove interesting to members of rising LGBTQIAP generations (as [a certain friend](https://twitter.com/alackles) might endearingly term it, "baby gays"), allies looking to better understand the LGBTQIAP community, or --- I guess --- anyone who just hasn't chanced on them yet.
 
 :bangbang:
 Outdated terminology and antiquated beliefs surface in some materials.
