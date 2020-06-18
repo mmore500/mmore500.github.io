@@ -21,7 +21,7 @@ He continued, "I never could have even dreamed of dating in public when I was yo
 He disappeared back into the crowd.
 
 I had been peripherally aware of LGBTQIAP people who lived through other times, who had not come up and come out in my generation.
-I'm guess I could've associated the AIDS crisis, maybe the Stonewall riots, with the LGBTQIAP community.
+I think I could've associated the AIDS crisis, maybe the Stonewall riots, with the LGBTQIAP community.
 But not much more than that.
 My blind spot wasn't just contemporary context of the LGBTQIAP politics.
 I also knew next to nothing of LGBTQIAP cultural and political history.
@@ -73,7 +73,7 @@ The connection is summed up nicely by, of all things, this excerpt from a [satir
 
 ## Brushes with History
 
-Having come of age well into the 21st century and cocooned at most half a mile from an institution of higher learning at any point in time, prejudices and barriers I've faced mostly pale in comparison, well, many things.
+Having come of age well into the 21st century and cocooned at most half a mile from an institution of higher learning at any point in time, prejudices and barriers I've faced mostly pale in comparison to, well, many things.
 Say, to plain yogurt in a well-lit room.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">technically shouldn&#39;t take Holy communion or donate blood but who wanted to anyways amirite</p>&mdash; Matthew Andres Moreno (@mmore500) <a href="https://twitter.com/mmore500/status/1077649004815675392?ref_src=twsrc%5Etfw">December 25, 2018</a></blockquote>
@@ -90,11 +90,11 @@ What a strange way to kick off bringing someone new home to meet the family.
 Memorable, at least, I guess.
 
 My dad worked as a pilot for American Airlines for nearly his entire career.
-During the oil crisis he was laid off as a pilot, but later hired back on as for a time as flight attendant.
+During the oil crisis he was laid off as a pilot, but later hired back on for a time as a flight attendant.
 He went on to see many of his male flight attendant co-workers cleared out by AIDS.
 As he eventually went on to explain that day, that experience had left an indelible impression.
 
-My dad --- who attends mass several times a week and owns the rattiest imaginable t-shirt with a picture of a lawn mower on it and some inane text I can't even remember about his lawn probably needs to be mowed --- understands the experience of the AIDS crisis in ways I probably will never be able to.
+My dad --- who attends mass several times a week and owns the rattiest imaginable t-shirt with a picture of a lawn mower on it and some inane text I can't even remember about his lawn probably needing to be mowed --- understands the experience of the AIDS crisis in ways I probably will never be able to.
 
 This moving contemporary account from another voice, though, helped me better appreciate the magnitude of that time.
 
