@@ -10,7 +10,7 @@ My radio alarm switched on to the newscast presenter announcing that same-sex ma
 It was settled.
 
 I had been peripherally aware of, but never particularly familiar with, political movements agitating for LGBTQIAP liberation.
-Like most everyone else in high school, I was in the bleachers when the Gay-Straignt Alliance made announcements during assemblies.
+Like most everyone else in high school, I was in the bleachers when the Gay-Straight Alliance made announcements during assemblies.
 I heard about passing LGBTQIAP controversies and caught snippets of interviews with activists the same as everyone else when they occasionally rotated through the news cycle.
 But, laying there with society fundamentally altered basically having done nothing but roll over and adjust my pillow, I began to realize gears in society outside of my range of sight were turning --- and had already been grinding along for a long time.
 
