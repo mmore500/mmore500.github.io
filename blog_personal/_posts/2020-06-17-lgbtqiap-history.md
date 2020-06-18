@@ -126,12 +126,15 @@ I curated this list based historical interest, not social or political endorseme
     * letters
       [[1]](/resources/lgbtqiap-history-b-1.jpg)
       [[2]](/resources/lgbtqiap-history-b-2.jpg)
+      [[3]](/resources/lgbtqiap-history-b-3.jpg)
+      [[4]](/resources/lgbtqiap-history-b-4.jpg)
   * Let's Push Homophile Marriage
     * article
       [[cover]](/resources/lgbtqiap-history-c-0.jpg)
       [[1]](/resources/lgbtqiap-history-c-1.jpg)
       [[2]](/resources/lgbtqiap-history-c-2.jpg)
       [[3]](/resources/lgbtqiap-history-c-3.jpg)
+      [[4]](/resources/lgbtqiap-history-c-4.jpg)
     * letters
       [[1]](/resources/lgbtqiap-history-d-1.jpg)
       [[2]](/resources/lgbtqiap-history-d-2.jpg)
