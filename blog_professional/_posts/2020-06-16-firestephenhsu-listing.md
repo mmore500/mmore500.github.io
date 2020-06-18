@@ -2,7 +2,7 @@
 layout: post
 title: "Informative Discourse Related to the #FireStephenHsu Matter"
 date: 2020-06-16
-last_modified_at: 2020-06-17 21:39:39 -0400
+last_modified_at: 2020-06-17 21:44:05 -0400
 ---
 
 <!-- Time.now.getlocal() -->
@@ -118,6 +118,7 @@ Two active petitions call for Hsu's removal from his position as Vice President 
 ### College of Engineering
 
 > Subject: Message from The Dean and Chairpersons in the College of Engineering
+> Date: Monday, June 15, 2020
 >
 > Dear Spartan Engineers,
 >
