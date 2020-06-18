@@ -162,7 +162,7 @@ I curated this list based historical interest, not social or political endorseme
 What has your expedience getting acquainted with LGBTQIAP culture and history been like?
 What voices and stories should we be hearing?
 
-Happy :rainbow_flag:, everyone!
+Happy :rainbow_flag: everyone!
 
 I started a twitter thread (right below) so we can chat :phone: :phone: :phone:
 
