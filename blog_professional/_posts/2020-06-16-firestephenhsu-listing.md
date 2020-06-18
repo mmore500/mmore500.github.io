@@ -2,7 +2,7 @@
 layout: post
 title: "Informative Discourse Related to the #FireStephenHsu Matter"
 date: 2020-06-16
-last_modified_at: 2020-06-17 14:53:04 -0400
+last_modified_at: 2020-06-17 21:05:01 -0400
 ---
 
 <!-- Time.now.getlocal() -->
@@ -41,6 +41,10 @@ Unrolled view via [Thread reader](https://threadreaderapp.com/) app [here](https
 	* by [John Jackson](https://lbc.msu.edu/about/directory/jackson-j.html)
 	* published on [Fardels Bear, A History of the Alt-Right](https://lbc.msu.edu/about/directory/jackson-j.html)
   * dated June 16th, 2020
+* [Stephen Hsu and the Upside-Down World](https://altrightorigins.com/2020/06/17/hsu-defenders/)
+  * by [John Jackson](https://lbc.msu.edu/about/directory/jackson-j.html)
+  * published on [Fardels Bear, A History of the Alt-Right](https://lbc.msu.edu/about/directory/jackson-j.html)
+  * dated June 17th, 2020
 * [Quest for 'Genius Babies'?](https://www.insidehighered.com/news/2013/05/29/wake-controversy-over-harvard-dissertation-race-and-iq-scrutiny-michigan-state)
 	* by [Colleen Flaherty](https://www.insidehighered.com/users/colleen-flaherty)
 	* published on [Inside Higher Ed](https://www.insidehighered.com/)
