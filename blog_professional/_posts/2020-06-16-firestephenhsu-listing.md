@@ -22,6 +22,7 @@ It unpacks concerns from blog posts and video interviews involving Hsu related t
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today for <a href="https://twitter.com/hashtag/ShutDownAcademia?src=hash&amp;ref_src=twsrc%5Etfw">#ShutDownAcademia</a> <a href="https://twitter.com/hashtag/ShutDownSTEM?src=hash&amp;ref_src=twsrc%5Etfw">#ShutDownSTEM</a>, the GEU and its coalition partners in the STEM community are calling for the removal of Stephen Hsu as VP of Research and Graduate Studies at <a href="https://twitter.com/michiganstateu?ref_src=twsrc%5Etfw">@michiganstateu</a>.</p>&mdash; Michigan State GEU (@GradEmpUnion) <a href="https://twitter.com/GradEmpUnion/status/1270829003130261504?ref_src=twsrc%5Etfw">June 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+:arrow_up:
 Unrolled view via [Thread reader](https://threadreaderapp.com/) app [here](https://threadreaderapp.com/thread/1270829003130261504.html).
 
 ## Blog Pieces
