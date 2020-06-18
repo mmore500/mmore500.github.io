@@ -2,7 +2,7 @@
 layout: post
 title: "Informative Discourse Related to the #FireStephenHsu Matter"
 date: 2020-06-16
-last_modified_at: 2020-06-17 21:05:01 -0400
+last_modified_at: 2020-06-17 21:39:39 -0400
 ---
 
 <!-- Time.now.getlocal() -->
@@ -91,8 +91,6 @@ Unrolled view via [Thread reader](https://threadreaderapp.com/) app [here](https
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/GradEmpUnion?ref_src=twsrc%5Etfw">@GradEmpUnion</a> is calling for removal of Stephen Hsu as VP of Research &amp; Graduate Studies at <a href="https://twitter.com/michiganstateu?ref_src=twsrc%5Etfw">@michiganstateu</a>. We&#39;ve been tracking Hsu&#39;s eugenicist actions and ideas steeped in scientific racism for years. Some are included in this thread. <a href="https://twitter.com/hashtag/FireStephenHsu?src=hash&amp;ref_src=twsrc%5Etfw">#FireStephenHsu</a>.</p>&mdash; Genetics and Society (@C_G_S) <a href="https://twitter.com/C_G_S/status/1272939598650343426?ref_src=twsrc%5Etfw">June 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Critiques of our campaign frame the issue to <a href="https://twitter.com/michiganstateu?ref_src=twsrc%5Etfw">@michiganstateu</a> as one of academic freedom. This is wrong! Hsu is free to do his research &amp; writing as a tenured faculty in the Physics department. The problem at hand is Hsu&#39;s beliefs make him unable to uphold University values as VP</p>&mdash; Michigan State GEU (@GradEmpUnion) <a href="https://twitter.com/GradEmpUnion/status/1272586955193225218?ref_src=twsrc%5Etfw">June 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are aware of recent bad faith actions to undermine our message to MSU. We are acting within our best power to maintain the legitimacy and clarity of our message. Please continue to sign and share the open letter so MSU will give a response <a href="https://t.co/AIDIybMpth">https://t.co/AIDIybMpth</a></p>&mdash; Michigan State GEU (@GradEmpUnion) <a href="https://twitter.com/GradEmpUnion/status/1271925758555021318?ref_src=twsrc%5Etfw">June 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Context
 
