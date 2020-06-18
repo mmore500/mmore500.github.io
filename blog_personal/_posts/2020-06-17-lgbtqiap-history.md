@@ -83,8 +83,7 @@ Say, to plain yogurt in a well-lit room.
 In my own life, though, I have brushed up against echoes of the trauma and struggles of previous LGBTQIAP generations.
 Knowing history helps make sense of those experiences.
 
-When I introduced my partner to my dad, we basically only made it through a warm hug and some "so nice to meet you"s before launching into The AIDS Talk.
-Suffice it to say the next twenty minutes strayed into some extremely sensitive uncomfortable territory.
+When I introduced my partner to my dad, we basically only made it through a warm hug and some "so nice to meet you"s before launching into half an hour of The AIDS Talk.
 It was confusing --- for the life of me, I could not understand why dad kept going on and on about it --- and also felt somewhat pejorative.
 What a strange (but memorable!) way to kick off bringing someone new home to meet the family.
 
