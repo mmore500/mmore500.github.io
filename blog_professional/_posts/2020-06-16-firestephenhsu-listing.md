@@ -2,7 +2,7 @@
 layout: post
 title: "Informative Discourse Related to the #FireStephenHsu Matter"
 date: 2020-06-16
-last_modified_at: 2020-06-19 18:39:56 -0400
+last_modified_at: 2020-06-19 19:03:49 -0400
 ---
 
 <!-- Time.now.getlocal() -->
@@ -138,8 +138,9 @@ Two active petitions call for Hsu's removal from his position as Vice President 
 
 ### College of Engineering
 
-> Subject: Message from The Dean and Chairpersons in the College of Engineering
-> Date: Monday, June 15, 2020
+> **Subject:** Message from The Dean and Chairpersons in the College of Engineering
+>
+> **Date:** Monday, June 15, 2020
 >
 > Dear Spartan Engineers,
 >
@@ -175,8 +176,9 @@ Two active petitions call for Hsu's removal from his position as Vice President 
 
 ### Ecology, Evolutionary Biology, and Behavior Graduate Student Group
 
-> Subject: EGG Stance on the Removal of Stephen Hsu
-> Date: Thursday, June 18, 2020
+> **Subject:** EGG Stance on the Removal of Stephen Hsu
+>
+> **Date:** Thursday, June 18, 2020
 >
 > Dear EEBB Community,
 >
@@ -219,8 +221,9 @@ calling for the removal of Stephen Hsu as MSU’s VP of Research and Innovation.
 
 ### Associated Students of Michigan State University
 
-> Bill 57-08: Advocate for the removal of Senior VP of Research and Innovation Stephen Hsu and to conduct further investigations into his decisions
-> Date: June 18, 2020
+> **Bill 57-08:** Advocate for the removal of Senior VP of Research and Innovation Stephen Hsu and to conduct further investigations into his decisions
+>
+> **Date:** June 18, 2020
 >
 > This bill was introduced by the Asian Pacific American Student Organization Representative and seconded by the Black Students' Alliance Representative, advocating for MSU to conduct an investigation on possible biases by Hsu that might have affected research related decisions.
 >
