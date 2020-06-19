@@ -217,6 +217,15 @@ calling for the removal of Stephen Hsu as MSU’s VP of Research and Innovation.
 >
 > Maggie Sawdy, EGG Treasurer
 
+### Associated Students of Michigan State University
+
+> Bill 57-08: Advocate for the removal of Senior VP of Research and Innovation Stephen Hsu and to conduct further investigations into his decisions
+> Date: June 18, 2020
+>
+> This bill was introduced by the Asian Pacific American Student Organization Representative and seconded by the Black Students' Alliance Representative, advocating for MSU to conduct an investigation on possible biases by Hsu that might have affected research related decisions.
+>
+> *The bill passed by a voice majority.*
+
 ## Let's Chat
 
 What materials have you found useful in understanding the current controversy surrounding Hsu's leadership role at Michigan State or its context with respect to the history of scientific racism, eugenics, pseudoscience, etc.?
