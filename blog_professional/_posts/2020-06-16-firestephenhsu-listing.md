@@ -2,7 +2,7 @@
 layout: post
 title: "Informative Discourse Related to the #FireStephenHsu Matter"
 date: 2020-06-16
-last_modified_at: 2020-06-19 18:12:47 -0400
+last_modified_at: 2020-06-19 18:39:56 -0400
 ---
 
 <!-- Time.now.getlocal() -->
@@ -172,6 +172,50 @@ Two active petitions call for Hsu's removal from his position as Vice President 
 > John Papapolymerous, Chairperson, Electrical and Computer Engineering
 >
 > James Klausner, Chairperson, Mechanical Engineering
+
+### Ecology, Evolutionary Biology, and Behavior Graduate Student Group
+
+> Subject: EGG Stance on the Removal of Stephen Hsu
+> Date: Thursday, June 18, 2020
+>
+> Dear EEBB Community,
+>
+> As members of the EGG leadership board, we are expressing our support for the GEU, graduate students, postdoctoral researchers, staff, and faculty
+calling for the removal of Stephen Hsu as MSU’s VP of Research and Innovation.
+> We believe that Hsu's long-standing unscientific views on race, gender, and eugenics make him incompatible with MSU’s commitments to Diversity, Equity, and Inclusion.
+> Hsu's position gives him immense power to direct decisions on tenure, promotions, and funding across MSU.
+> His role as a gate-keeper is especially troubling given its effects on the members of the MSU community most disparaged by his prejudiced views, and the risk that these members incur when asking for his removal.
+>
+> As John Stuart Mill said, “Bad men need nothing more to compass their ends, than that good men should look on and do nothing.”
+> Our stance is that, despite potential backlash affecting EEBB funding, Hsu's removal is vital to making EEBB, and the university as a whole, a diverse and inclusive community.
+> We support efforts by EEBB community members, especially faculty, to call for Hsu’s removal, despite potential risks to EEBB funding.
+> If you would like to join us, please consider signing two petitions calling for Hsu’s removal: one from the GEU, and another organized by faculty.
+>
+> We look forward to working with you all to take actions that make MSU a safe environment for everyone to learn and conduct research.
+>
+> Best regards,
+>
+> EGG Board
+>
+> Meaghan Clark, EGG Secretary
+>
+> Kevin Bird, EGG Executive Committee member
+>
+> Miranda Wade, EGG President
+>
+> Julie Jarvey, EGG Recruiting Liaison
+>
+> Isabela Borges, EGG Seminar Committee member
+>
+> Bruce Martin, EGG Recruiting Liaison
+>
+> Olivia Fitch, EGG Social Media Chair
+>
+> Allison Young, EGG Outreach Co-Chair
+>
+>Emily Conway, EGG Academic Program and Executive Committee member
+>
+> Maggie Sawdy, EGG Treasurer
 
 ## Let's Chat
 
