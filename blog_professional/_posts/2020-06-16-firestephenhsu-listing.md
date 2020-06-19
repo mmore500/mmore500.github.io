@@ -2,7 +2,7 @@
 layout: post
 title: "Informative Discourse Related to the #FireStephenHsu Matter"
 date: 2020-06-16
-last_modified_at: 2020-06-19 00:06:44 -0400
+last_modified_at: 2020-06-19 18:12:47 -0400
 ---
 
 <!-- Time.now.getlocal() -->
@@ -50,6 +50,10 @@ Unrolled view via [Thread reader](https://threadreaderapp.com/) app [here](https
   * by [John Jackson](https://lbc.msu.edu/about/directory/jackson-j.html)
   * published on [Fardels Bear, A History of the Alt-Right](https://lbc.msu.edu/about/directory/jackson-j.html)
   * dated June 18th, 2020
+* [Stephen Hsu: An Irresponsible Leader](https://altrightorigins.com/2020/06/19/hsu-irresponsible/)
+  * by [John Jackson](https://lbc.msu.edu/about/directory/jackson-j.html)
+  * published on [Fardels Bear, A History of the Alt-Right](https://lbc.msu.edu/about/directory/jackson-j.html)
+  * dated June 19th, 2020
 * [#FireStephenHsu](https://www.geneticsandsociety.org/biopolitical-times/firestephenhsu)
   * by [Pete Shanks](https://www.geneticsandsociety.org/user/32)
   * published on [The Center for Genetics and Society Biopolitical Times](https://www.geneticsandsociety.org/biopolitical-times)
@@ -87,6 +91,11 @@ Unrolled view via [Thread reader](https://threadreaderapp.com/) app [here](https
 Unrolled view via [Thread reader](https://threadreaderapp.com/) app [here](https://threadreaderapp.com/thread/1272901617092829185.html).
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">As VP for the GEU, I can tell you the GEU published this bc individuals &amp; academic units were afraid to do so out of fear of retribution, either from Hsu himself or racists on twitter. <br><br>Now it is out there and needs your support. Faculty, please speak up to <a href="https://twitter.com/hashtag/FireStephenHsu?src=hash&amp;ref_src=twsrc%5Etfw">#FireStephenHsu</a>. <a href="https://t.co/ZpmT9t6a5R">https://t.co/ZpmT9t6a5R</a></p>&mdash; Acacia Ackles (@alackles) <a href="https://twitter.com/alackles/status/1271075972008292352?ref_src=twsrc%5Etfw">June 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">after initial shock seeing a senior MSU VP<br>- appear alongside a noted white supremacist<br>- dismiss systemic racism as an “unscientific hypothesis” <br>- insinuate genetic differences in intelligence between racial groups<br> <br>... I was left with the question, “So what?”<br> <br>cont. ⬇️</p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/1274100353496039424?ref_src=twsrc%5Etfw">June 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+:arrow_up:
+Unrolled view via [Thread reader](https://threadreaderapp.com/) app [here](https://threadreaderapp.com/thread/1274100353496039424.html).
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Stephen Hsu has a blog titled &quot;In the land of autistics, the aspie is king&quot;, how does that foster an inclusive environment at Michigan State? <a href="https://t.co/EnSCuvrYwL">https://t.co/EnSCuvrYwL</a></p>&mdash; Elizeth Cinto Mejia (@Elizethcm) <a href="https://twitter.com/Elizethcm/status/1272690538660020224?ref_src=twsrc%5Etfw">June 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
