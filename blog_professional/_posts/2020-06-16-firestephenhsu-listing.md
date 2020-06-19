@@ -2,7 +2,7 @@
 layout: post
 title: "Informative Discourse Related to the #FireStephenHsu Matter"
 date: 2020-06-16
-last_modified_at: 2020-06-18 20:55:10 -0400
+last_modified_at: 2020-06-19 00:06:44 -0400
 ---
 
 <!-- Time.now.getlocal() -->
@@ -46,6 +46,10 @@ Unrolled view via [Thread reader](https://threadreaderapp.com/) app [here](https
   * by [John Jackson](https://lbc.msu.edu/about/directory/jackson-j.html)
   * published on [Fardels Bear, A History of the Alt-Right](https://lbc.msu.edu/about/directory/jackson-j.html)
   * dated June 17th, 2020
+* [Stephen Hsu and Guilt by Association](https://altrightorigins.com/2020/06/18/hsu-guilt-by-association/)
+  * by [John Jackson](https://lbc.msu.edu/about/directory/jackson-j.html)
+  * published on [Fardels Bear, A History of the Alt-Right](https://lbc.msu.edu/about/directory/jackson-j.html)
+  * dated June 18th, 2020
 * [#FireStephenHsu](https://www.geneticsandsociety.org/biopolitical-times/firestephenhsu)
   * by [Pete Shanks](https://www.geneticsandsociety.org/user/32)
   * published on [The Center for Genetics and Society Biopolitical Times](https://www.geneticsandsociety.org/biopolitical-times)
