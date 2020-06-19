@@ -2,7 +2,7 @@
 layout: post
 title: "Informative Discourse Related to the #FireStephenHsu Matter"
 date: 2020-06-16
-last_modified_at: 2020-06-18 15:03:05 -0400
+last_modified_at: 2020-06-18 20:55:10 -0400
 ---
 
 <!-- Time.now.getlocal() -->
@@ -98,6 +98,10 @@ Unrolled view via [Thread reader](https://threadreaderapp.com/) app [here](https
 
 ## Context
 
+* [Sabisky row: Dominic Cummings criticised over 'designer babies' post](https://www.theguardian.com/politics/2020/feb/19/sabisky-row-dominic-cummings-criticised-over-designer-babies-post)
+  * by [Rowena Mason](https://www.theguardian.com/profile/rowena-mason) and [Ian Sample](https://www.theguardian.com/profile/iansample)
+  * published on [The Guardian](https://www.theguardian.com/)
+  * dated Feb 19, 2020
 * [The Disturbing Resilience of Scientific Racism](https://www.smithsonianmag.com/science-nature/disturbing-resilience-scientific-racism-180972243/)
   * by [Ramin Skibba](https://raminskibba.net/)
   * published on [Smithsonian Magazine](https://www.smithsonianmag.com/)
