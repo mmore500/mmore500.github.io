@@ -2,7 +2,7 @@
 layout: post
 title: "Informative Discourse Related to the #FireStephenHsu Matter"
 date: 2020-06-16
-last_modified_at: 2020-06-19 19:03:49 -0400
+last_modified_at: 2020-06-19 21:06:20 -0400
 ---
 
 <!-- Time.now.getlocal() -->
@@ -228,6 +228,21 @@ calling for the removal of Stephen Hsu as MSU’s VP of Research and Innovation.
 > This bill was introduced by the Asian Pacific American Student Organization Representative and seconded by the Black Students' Alliance Representative, advocating for MSU to conduct an investigation on possible biases by Hsu that might have affected research related decisions.
 >
 > *The bill passed by a voice majority.*
+
+### President Stanley
+
+> [President Stanley's statement on resignation of Senior Vice President Stephen Hsu](https://msu.edu/issues-statements/2020-06-19-statement-hsu-resignation.php)
+>
+> **Date:** June 19, 2020
+>
+> President Samuel L. Stanley Jr., M.D., announced today that Stephen Hsu, senior vice president, research and innovation, is resigning from his leadership position and returning to a tenured faculty position, effective July 1.
+>
+> “I believe this is what is best for our university to continue our progress forward.
+> The exchange of ideas is essential to higher education, and I fully support our faculty and their academic freedom to address the most difficult and controversial issues.
+> But when senior administrators at MSU choose to speak out on any issue, they are viewed as speaking for the university as a whole.
+> Their statements should not leave any room for doubt about their, or our, commitment to the success of faculty, staff and students.”
+>
+> Stanley plans to appoint an interim senior vice president in the coming days and will consult with the Academic Governance Steering Committee on this selection in accordance with university policies.
 
 ## Let's Chat
 
