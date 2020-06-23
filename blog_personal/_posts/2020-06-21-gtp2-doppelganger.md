@@ -84,7 +84,7 @@ This might not be as funny without being familiar with the source account, but `
 
 > I'm going to burn down your house to make room for Barbie
 
-> The idea that women can't get laid is true for all religions.f
+> The idea that women can't get laid is true for all religions.
 
 ## Window Dressing
 
