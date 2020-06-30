@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reflecting on Strange & Hurtful Comments in the Workplace"
+title:  "Gauche Statements Considered Harmful"
 date:   2020-06-28
 ---
 
