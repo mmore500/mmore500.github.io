@@ -8,8 +8,8 @@ date:   2020-06-23
 
 Studying how artificial evolutionary systems can continually produce novel artifacts of increasing complexity has proven to be a rich vein for practical, scientific, philosophical, and artistic innovations.
 Unfortunately, existing computational artificial life systems appear constrained by practical limitations on simulation scale.
-Ackley's concept of indefinite scalability describes constraints on open-ended systems necessary to incorporate theoretically unbounded computational resources.
-Here, we argue that as on the path to indefinite scalability, we should consider practical scalability: how can we design open-ended evolutionary systems that make effective use of existing, commercially-available distributed-computing hardware?
+The concept of indefinite scalability describes constraints on open-ended systems necessary to incorporate theoretically unbounded computational resources.
+Here, we argue that along the path to indefinite scalability, we must consider practical scalability: how can we design open-ended evolutionary systems that make effective use of existing, commercially-available distributed-computing hardware?
 We highlight log-time hardware interconnects as a potentially fruitful tool for practical scalability and describe how digital evolution systems might be constructed to exploit physical log-time interconnects.
 We extend the DISHTINY digital multicellularity framework to allow cells to establish long-distance cell-cell interconnects that, in implementation, could take advantage of log-time physical interconnects.
 We examine two case studies of evolved strains, demonstrating how evolved cells adaptively exploit these interconnects.
@@ -143,7 +143,7 @@ In Sections
 [WAISW](#wiring-an-ideal-space-filling-hierarchical-tree-with-log-time-physical-interconnects),
 and [WAWSG](#wiring-a-watts-strogatz-graph),
 we analyze the scaling relationship between system size and expected node-to-node hops traversed between computational elements interacting as part of an emergent small-world network.
-[[Footnote WDWC]](#why-do-we-consider)
+[[Footnote WDWCM]](#footnote-wdwcm)
 
 1. with and without hierarchical log-time physical interconnects between computational nodes, and
 2. with computational nodes embedded on one-, two-, or three-dimensional computational meshes.
@@ -912,7 +912,7 @@ Pop on there and drop me a line :fishing_pole_and_fish: or make a comment :raisi
 
 ## Footnotes
 
-[Footnote WDWCM](#why-do-we-consider-mean){:id="why-do-we-consider-mean"}
+[Footnote WDWCM](#footnote-wdwcm){:id="footnote-wdwcm"}
 Why do we consider mean node-to-node hops per connection?
 
 Although relativistic concerns do ultimately limit latency between spatially-distributed computational elements, with respect to contemporary hardware co-located at a single physical site at foreseeable scales, we expect node-to-node hops to represent an important bottleneck on system performance.
