@@ -35,7 +35,7 @@ I've curated a few of my favorites here.
 
 Or, at least, email itself.
 
-David Knuth --- of complexity analysis & LaTeX fame --- notoriously [forswore email](https://www-cs-faculty.stanford.edu/~knuth/email.html) circa 1990.
+Don Knuth --- of complexity analysis & LaTeX fame --- notoriously [forswore email](https://www-cs-faculty.stanford.edu/~knuth/email.html) circa 1990.
 
 Instead, his secretary collates messages for him to sort through, say, every six months or so.
 Really.
