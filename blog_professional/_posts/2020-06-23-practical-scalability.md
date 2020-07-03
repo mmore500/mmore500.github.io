@@ -1254,7 +1254,13 @@ Nguyen, A. M., Yosinski, J., and Clune, J. (2015). Innovation engines: Automated
 <a
   href="http://doi.org/10.5281/zenodo.2575607"
   id="charles_ofria_2019_2575607">
-Ofria, C., Dolson, E., Lalejini, A., Fenton, J., Moreno, M. A., Jorgensen, S., Miller, R., Stredwick, J., Zaman, L., Schossau, J., Gillespie, L., G, N. C., and Vostinar, A. (2019). Empirical. Packard, N., Bedau, M. A., Channon, A., Ikegami, T., Rasmussen, S., Stanley, K. O., and Taylor, T. (2019). An overview of open-ended evolution: Editorial introduction to the openended evolution ii special issue. Artificial life, 25(2):93–103.
+Ofria, C., Dolson, E., Lalejini, A., Fenton, J., Moreno, M. A., Jorgensen, S., Miller, R., Stredwick, J., Zaman, L., Schossau, J., Gillespie, L., G, N. C., and Vostinar, A. (2019). Empirical.
+</a>
+
+<a
+  href="https://doi.org/10.1162/artl_a_00291"
+  id="packard2019overview">
+Packard, N., Bedau, M. A., Channon, A., Ikegami, T., Rasmussen, S., Stanley, K. O., and Taylor, T. (2019). An overview of open-ended evolution: Editorial introduction to the open-ended evolution ii special issue. Artificial life, 25(2):93–103.
 </a>
 
 <a
