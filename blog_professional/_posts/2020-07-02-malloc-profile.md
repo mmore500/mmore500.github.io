@@ -44,6 +44,7 @@ Timing data was collected at three "load" (work per thread) levels: 1, 4, and 16
 Six replicate measurements of each timing were recorded.
 
 I profiled version 53vgh of the DISHTINY software [[Moreno and Ofria, 2020]](#Moreno_Ofria_2020), compiled with data collection disabled.
+This software is built using the Empirical C++ Library [[Ofria et al., 2019]](#charles_ofria_2019_2575607).
 
 I performed one data collection session using a variant of [Script OEFFA](#script-oeffa) for each of default malloc, mimalloc, and Hoard.
 Then, I knit the data files from each session together using [Script IFDFD](#script-ifdfd).
@@ -151,6 +152,13 @@ Pop on there and drop me a line :fishing_pole_and_fish: or make a comment :raisi
   id="Moreno_Ofria_2020">
 Moreno, M. A. and Ofria, C. (2020). Practical steps toward indefinite scalability: In pursuit of robust computational substrates for open-ended evolution. DOI: 10.17605/OSF.IO/53VGH; URL: https://osf.io/53vgh.
 </a>
+
+<a
+  href="http://doi.org/10.5281/zenodo.2575607"
+  id="charles_ofria_2019_2575607">
+Ofria, C., Dolson, E., Lalejini, A., Fenton, J., Moreno, M. A., Jorgensen, S., Miller, R., Stredwick, J., Zaman, L., Schossau, J., Gillespie, L., G, N. C., and Vostinar, A. (2019). Empirical.
+</a>
+
 
 ## Acknowledgements
 
