@@ -468,10 +468,10 @@ Generated via [Script DUMFD](#script-dumfd).*
 ```bash
 OUT_FILE="malloc=mimalloc+ext=.csv"
 echo "Threads,Work,Load,Replicate,Time" > $OUT_FILE
-for NUM_THREADS in 1 4 16; do
-  for LOAD_PER in 1 4 16; do
+for NUM_THREADS in 1 2 4 8 16; do
+  for LOAD_PER in 1 2 4 8 16; do
     AMT_WORK=$(( $NUM_THREADS * $LOAD_PER ))
-    for REP in {0..5}; do
+    for REP in {0..9}; do
       echo "NUM_THREADS: ${NUM_THREADS}"
       echo "AMT_WORK: ${AMT_WORK}"
       echo "LOAD_PER: ${LOAD_PER}"
