@@ -144,20 +144,20 @@ For your personal blog, see their information on [getting started](https://www.m
 ## Code Bocks
 
 This is a code block.
-```python3
+```python
 # The Answer to the Ultimate Question of Life, The Universe, and Everything
 print(42)
 ```
 
 Here's how to make it happen in Markdown.
 ~~~markdown
-```python3
+```python
 # The Answer to the Ultimate Question of Life, The Universe, and Everything
 print(42)
 ```
 ~~~
 
-Note the language name (`python3`) following the backticks.
+Note the language name (`python`) following the backticks.
 Specifying the language name enables syntax highlighting, which makes the code block *a lot* more readable.
 See [here](https://github.com/highlightjs/highlight.js/blob/master/SUPPORTED_LANGUAGES.md) for a list of supported languages.
 
@@ -205,7 +205,7 @@ I've found [this web tool](https://www.fotor.com/) useful for throwing images to
 
 When you generate graphs, save them as high-resolution (300 DPI) `.png`'s with transparency enabled.
 Here's how to do that with Matplotlib.
-```python3
+```python
 ...
 plt.savefig(
   'title-slug-descriptor.png',
