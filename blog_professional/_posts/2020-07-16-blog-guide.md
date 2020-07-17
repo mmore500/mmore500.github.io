@@ -427,10 +427,14 @@ Mentors: why not add a section to your own blog or professional site where you l
 You can use a service like [Disqus](https://disqus.com/) to embed a proper comment section in your post.
 
 I've found that embedding a tweet about the blog post can serve a similar function well enough.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">nothing to see here, just a placeholder tweet 🐦</p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/1054071480512843776?ref_src=twsrc%5Etfw">October 21, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 Plus, it's an easy way to plug your twitter!
+
+If you have any questions, comments, etc., about *this* post, hop on the twitter thread right below so we can chat.
+Asking a few questions is good for prmopting engagement, so... how have you incorporated Jekyll and/or GitHub into your classroom?
+What's worked well and what hasn't?
+I'm actually curious to hear more about others' experience with these tools.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">new blog post covering <br>* 🧑‍🏫how &amp; why I use class blogs as a teaching tool<br>* practical tips for effective professional Jekyll blog posts 🛠️<br>* oh &amp; slipped in the middle some assignment criteria 4 my students😈<br><br>so hopefully, something there for everyone?<a href="https://t.co/OsEZVES6Lu">https://t.co/OsEZVES6Lu</a></p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/1283944901017653248?ref_src=twsrc%5Etfw">July 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Supplementary Information
 
