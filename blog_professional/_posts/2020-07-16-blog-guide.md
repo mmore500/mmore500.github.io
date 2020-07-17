@@ -231,7 +231,7 @@ For example, to reference [Section mY `eXAmPlE`  SUBSECTION!? :cat:](#my-example
 
 Sections and subsections work exactly the same way.
 
-If you're unsure what the anchor key will be for a
+If you're unsure what the anchor ID will be for a subsection, serve a local copy of the site and click on the anchor link next to the subsection title to reveal the anchor ID in your browser's url bar.
 
 ### mY `eXAmPlE` SUBSECTION!? :cat:
 
