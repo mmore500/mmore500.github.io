@@ -410,7 +410,7 @@ Fortunately, there's a secret way to blog on WordPress without actually having t
   <br />
   <br />
   ```
-9. Unfortunately, you might have to fix embedded images urls manually.
+9. Unfortunately, you might have to fix embedded images' urls manually.
   * but everything else should just work automatically :upside_down_face:
   * you can find the address they're hosted on at your site and fix all the `<img src="">`'s to point there
   * the Better (but Even More Annoying) Thing, though, would be to upload all the images to the WordPress server and then update the image urls to point there
