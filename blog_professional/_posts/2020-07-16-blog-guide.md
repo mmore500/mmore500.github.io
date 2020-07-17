@@ -451,7 +451,8 @@ Consider making use of
 Some references --- like Stack Overflow answers, magical GitHub gists, talk recordings, or non-academic blog posts --- are fine to just link to in the text without a proper citation.
 
 For papers and other more formal resources, you'll want to use inline citations with a reference section at the end.
-Try your very best to cite the software you use, too.
+
+Try your very best to formally cite the software you use, too.
 This might be a corresponding paper or a DOI that has been set up for the software itself via a service like [Zenodo](https://zenodo.org/).
 Citing software very important for the researchers who take the time to package up and distribute software for the community.
 Many projects will include information on how to cite them on their `README.md`.
