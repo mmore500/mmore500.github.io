@@ -206,7 +206,8 @@ I've found [this web tool](https://www.fotor.com/) useful for throwing images to
 When you generate graphs, save them as high-resolution (300 DPI) `.png`'s with transparency enabled.
 Here's how to do that with Matplotlib.
 ```python
-...
+# ... all your seaborn & Matplotlib junk
+# then,
 plt.savefig(
   'title-slug-descriptor.png',
   transparent=True,
