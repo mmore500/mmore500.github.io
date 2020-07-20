@@ -27,6 +27,7 @@ I hope that other instructors, in particular, may find this a useful resource fo
 Jekyll runs on Markdown.
 If you've never used Markdown before, here's a [good tutorial](https://www.markdowntutorial.com/) to get you started.
 It should only take about ten minutes.
+This [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) comes in handy for touch-and-go reference when you're just getting started writing using markdown.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Alright <a href="https://twitter.com/hashtag/academictwitter?src=hash&amp;ref_src=twsrc%5Etfw">#academictwitter</a>, let&#39;s get to the bottom of this. <br><br>When using LaTeX for academic writing ✍️, each line represents</p>&mdash; Maxwell Joseph 🍩 (@mxwlj) <a href="https://twitter.com/mxwlj/status/1231604356807397376?ref_src=twsrc%5Etfw">February 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
