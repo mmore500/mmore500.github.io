@@ -104,6 +104,8 @@ In order to refactor your walls of text,
   * you can even [draw](https://jvns.ca/blog/2019/02/10/a-few-networking-tool-comics/) or otherwise concoct your own
   * :bangbang:
   [Be sure to limit the loop count on GIFs and understand accessibility concerns.](http://mmore500.com/2020/05/20/neogeocities.html)
+* Use bolding to highlight important points and boost skimmability.
+  For a good example of this in action, check out Sean Kennedey's [blog post for CSE 491](http://mmore500.com/cse-491/blog/2020/03/05/data-oriented-design.html).
 
 Prefer embeds to links if you really want your audience to check something out.
 Even if you resort to CAPS LOCK to STRONGLY ENCOURAGE your audience to check out a link, your click-through rate will probably still be disappointing.
