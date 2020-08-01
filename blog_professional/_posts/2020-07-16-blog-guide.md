@@ -384,7 +384,18 @@ Check out my [cool cool source file]({{page.lcb}}{ site.baseurl }}/assets/userna
 
 :bangbang:
 If you're not comfortable with Git on the command line, all of the tasks necessary to write and publish a blog post can be accomplished using GitHub's web interface!
-However, working on your own machine allows you to use `jekyll serve` (or, alternately `bundle exec jekyll serve`) to throw up a live local preview of your post at [https://127.0.0.1:4000/](https://127.0.0.1:4000/), which is super handy.
+However, working on your own machine allows you to throw up a live local preview of your post, which is super handy.
+
+## Previewing Your Post
+
+In order to preview your site from your own machine, you'll have to install Jekyll.
+Depending on the platform and whim of the install gremlins, sometimes this can be easy & sometimes it turns tricky.
+Then, you would just run `jekyll serve` (or, alternately `bundle exec jekyll serve`) and point your browser to at [https://127.0.0.1:4000/](https://127.0.0.1:4000/).
+
+As [@uma-sethuraman](https://github.com/uma-sethuraman) figured out, you can actually have GitHub run Jekyll for you and preview your fork via GitHub pages.
+
+> You can pull your blogpost branch into your fork’s master branch and then if you go to your fork’s settings, there’s a “github pages” section.
+> There, you can set the source to your fork’s master and then it will give you your local github url where your blog post should be hosted, so at that url, you can see what your post would look like once published.
 
 ## Cross-Posting onto WordPress
 
