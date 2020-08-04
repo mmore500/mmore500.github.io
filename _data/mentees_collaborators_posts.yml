@@ -1,7 +1,7 @@
 - title: "Profiling Empirical’s BitSet and BitVector"
-  url: "https://mmore500.github.io/cse-491/blog/2019/11/20/bitset-popcnt.html"
+  url: "https://devolab.org/profiling-empirical-bitset-bitvector/"
   where: "Devolab Blog"
-  where_url: "http://devolab.org/so-you-want-to-retrieve-and-extract-tar-gz-archives-with-empscripten/"
+  where_url: "http://devolab.org/"
   who: "Santiago Rodriguez-Papa"
   who_url: "https://github.com/rodsan0"
   date: 2020-01-24
