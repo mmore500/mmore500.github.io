@@ -177,14 +177,14 @@ If you can help it, keep code lines short to prevent annoying your readers with 
 [Figure MVIFC](#fig-mvifc) demonstrates a figure with full-width image content, an anchor-linked title, and a brief caption.
 
 ![example collage](/resources/blog-guide-collage.jpg){:style="width: 100%;"}
-[**Figure MVIFC.**](#fig-mvifc){:id="fig-mvifc}
+[**Figure MVIFC.**](#fig-mvifc){:id="fig-mvifc"}
 *My very important ferret collage.
 Total cuties.*
 
 Here's how to write that in Markdown.
 ```markdown
 ![example collage]({{page.lcb}}{ site.baseurl }}/resources/blog-guide-collage.jpg){:style="width: 100%;"}
-[**Figure MVIFC.**](#fig-mvifc){:id="fig-mvifc}
+[**Figure MVIFC.**](#fig-mvifc){:id="fig-mvifc"}
 *My very important ferret collage.
 Total cuties.*
 ```
