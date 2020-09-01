@@ -39,15 +39,6 @@ Oh well, we can’t have everything.
 In this particular case, we collect metadata about the run, as well as each of the state of each square of the grid.
 A detailed overview can be found [here](link to github gist with list of datasets).
 
-While space-time is (probably) a continuum, dishtiny deals with time in discrete intervals.
-These cough, “update intervals,” are bound by the computer in which the program runs.
-Upgrade to a faster computer and you will have more updates per second.
-
-Something interesting about the digital world, is that, much like the real one, change happens slowly.
-The state of the cells remains relatively unchanged from update to update, and evolution can only be appreciated when analysing a bigger timeframe.
-Due to this, we can safely store the change that happens between each update, in turn decreasing the data stored significantly.
-However, deltas like these are hard to implement manually.
-
 Why HDF5?
 
 Interestingly, one does not have many choices when it comes to storing data for scientific purposes.
