@@ -12,3 +12,8 @@
   who: "Sara Boyd"
   who_url: "https://github.com/kayakingcellist/"
   date: 2020-07-31
+- title: "Optimizing HDF5 files for better storage and IO"
+  url: "../2020/08/04/optimizing-hdf5.html"
+  who: "Santiago Rodriguez-Papa"
+  who_url: "https://github.com/rodsan0"
+  date: 2020-08-04
