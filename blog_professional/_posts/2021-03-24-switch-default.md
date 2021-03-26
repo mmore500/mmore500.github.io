@@ -77,7 +77,7 @@ Compiling with Clang, adding an unreachable default case gives ~1.3x speedup [on
 Even though I was able to see some changes in the compiler output (so `_unreachable_default()` was doing *something*) [I wasn't able to see any speedup on GCC, though](https://quick-bench.com/q/ycTTednxWKAsGKd3JsRG9YH9bx8).
 
 Kind of a nifty trick!
-I've gone ahead and pasted it in to some of my projects, like [signagp-lite](https://github.com/mmore500/signalgp-lite), that do byte-code interpretation in a tight loop.
+I've gone ahead and pasted it in to some of my projects, like [signalgp-lite](https://github.com/mmore500/signalgp-lite), that do byte-code interpretation in a tight loop.
 I did add a (debug-mode only) assert in right before the `__builtin_unreachable()`... you know, in order to properly check myself when I inevitably wreck myself.
 :man_shrugging:
 
