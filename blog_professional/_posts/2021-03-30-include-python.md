@@ -52,13 +52,12 @@ Where it is going is that we're going to shove the C++ raw string literal syntax
 ```python
 R"delimiter(" # allows us to #include this script into C++ source
 
-import antigravity
 import sys
 
 # doing all my normal python stuff
 
 def greet(who):
-  print( "hello world", who )
+  print( "hello", who )
 
 if __name__ == '__main__':
 
