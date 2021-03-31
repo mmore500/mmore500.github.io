@@ -29,6 +29,7 @@ There's some [finagling in the standards committee](http://www.open-std.org/jtc1
 
 Turns out that Python also has raw string literal syntax.
 Conveniently, these strings also start out with `R"`.
+:thinking:
 
 Also, Python is perfectly happy to ignore any loose strings you may have floating around.
 For example,
@@ -39,12 +40,13 @@ print( "boop boop it's python time" )
 ```
 
 Indeed, Python will happily ignore any loose strings, say, you might happen to position the beginning and end of a script.
+:monocle_face:
 
 See where this is going?
 
 ## The Abomination
 
-We're going to shove the C++ raw string literal syntax *into* our python script and then `#include` that.
+Where it is going is that we're going to shove the C++ raw string literal syntax *into* our python script and then `#include` that.
 
 `example.py`:
 ```python
