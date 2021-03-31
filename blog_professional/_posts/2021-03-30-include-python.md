@@ -139,3 +139,5 @@ Does this post inspire you to write all your comments as loose strings???
 I'd love to hear about any related hacks you're up to!
 
 I started a twitter thread (right below) so we can chat :phone: :phone: :phone:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">new blog post!!! <br><br>in which I follow <a href="https://twitter.com/LilNasX?ref_src=twsrc%5Etfw">@LilNasX</a> str8 into the fiery pits of hell w/ an unholy hack to <a href="https://twitter.com/hashtag/include?src=hash&amp;ref_src=twsrc%5Etfw">#include</a> python scripts into C++ source<br><br>🙃 &lt;-- me<br>⬇️<br><br> 👑 &lt;-- <a href="https://twitter.com/LilNasX?ref_src=twsrc%5Etfw">@LilNasX</a><br>🔥🔥🔥🔥😈🔥&lt;-- hell<a href="https://t.co/U9MvAIDzWm">https://t.co/U9MvAIDzWm</a></p>&mdash; mmore500 (@mmore500) <a href="https://twitter.com/mmore500/status/1377067495694172170?ref_src=twsrc%5Etfw">March 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
