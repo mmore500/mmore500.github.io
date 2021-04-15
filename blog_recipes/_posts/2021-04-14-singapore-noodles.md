@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: "Fried Rice"
+title: "Singapore Noodles"
 date: 2021-04-14
 recipe:
   prep: 20 min.
