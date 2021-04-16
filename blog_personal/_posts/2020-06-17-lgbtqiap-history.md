@@ -94,7 +94,7 @@ During the oil crisis he was laid off as a pilot, but later hired back on for a 
 He went on to see many of his male flight attendant co-workers cleared out by AIDS.
 As he eventually went on to explain that day, that experience had left an indelible impression.
 
-My dad --- who attends mass several times a week and owns the rattiest imaginable t-shirt with a picture of a lawn mower on it and some inane text I can't even remember about his lawn probably needing to be mowed --- understands the experience of the AIDS crisis in ways I probably will never be able to.
+My dad --- who attends mass several times a week and owns the rattiest imaginable t-shirt with a picture of a lawn mower on it and some inane text I can't even remember about his lawn probably needing to be mowed which he regularly wears while mowing his lawn --- understands the experience of the AIDS crisis in ways I probably will never be able to.
 
 This moving contemporary account from another voice, though, helped me better appreciate the magnitude of that time.
 
