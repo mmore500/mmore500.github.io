@@ -152,6 +152,16 @@ Working with a log file like this, you can `cat` the log file to count the numbe
 cat success.log | wc -l
 ```
 
+## Bonus Bonus: Migrating Fat Directories
+
+a hacky way,
+```bash
+find source_directory -maxdepth 1 -type f | xargs -n 128 -P 32 mv -v -t destination_directory
+```
+
+a better way,
+<https://github.com/jbd/msrsync>
+
 ## Let's Chat
 
 I would love to hear your thoughts, questions, and comments RE: SLURM shell kung fu!!!
