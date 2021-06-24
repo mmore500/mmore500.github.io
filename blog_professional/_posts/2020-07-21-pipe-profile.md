@@ -259,17 +259,25 @@ Stay tuned!
 ## Cite This Post
 
 **APA**
-> TODO
+> Moreno, M. A. (2020, July 7). Profiling Foundations for Scalable Digital Evolution Methods. Retrieved from osf.io/tcjfy
 
 **MLA**
-> TODO
+> Moreno, Matthew A. “Profiling Foundations for Scalable Digital Evolution Methods.” OSF, 7 July 2020. Web.
 
 **Chicago**
-> TODO
+> Moreno, Matthew A. 2020. “Profiling Foundations for Scalable Digital Evolution Methods.” OSF. July 7. doi:10.17605/OSF.IO/TCJFY.
 
 **BibTeX**
 ```
-TODO
+  @misc{Moreno_2020,
+  title={Profiling Foundations for Scalable Digital Evolution Methods},
+  url={osf.io/tcjfy},
+  DOI={10.17605/OSF.IO/TCJFY},
+  publisher={OSF},
+  author={Moreno, Matthew A},
+  year={2020},
+  month={Jul}
+}
 ```
 
 ## Let's Chat!
