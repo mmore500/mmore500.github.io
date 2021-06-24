@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Profiling Foundations for Scalable Digital Evolution Methods (Part 1)"
+title: "Profiling Foundations for Scalable Digital Evolution Methods"
 date: 2020-07-21
 ---
 
