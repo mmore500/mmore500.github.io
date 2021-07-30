@@ -50,8 +50,8 @@ High-end clusters already make [hundreds of thousands or millions](https://top50
 More loosely-affiliated banks of servers can also muster significant computational power.
 For example, Sentient Technologies notably employed a distributed network of over a million CPUs to run evolutionary algorithms [[Miikkulainen et al., 2019]](#miikkulainen2019evolving).
 
-The availability of orders of magnitude greater parallel computing resources in ten and twenty years' time seems probable, whether through incremental advances with traditional silicon-based technology or via emerging, unconventional technologies such as bio-computing [[Benenson, 2009]](#benenson2009biocomputers) and molecular electronics [[Xiang et al., 2016]](#xiang2016molecular.
-Such emerging technologies could make greatly vaster collections of computing devices feasible, albeit at the potential cost of component-wise speed [[Bonnet et al., 2013](#bonnet2013amplifying); Ellenbogen and Love, 2000](#ellenbogen2000architectures)] and perhaps also component-wise reliability.
+The availability of orders of magnitude greater parallel computing resources in ten and twenty years' time seems probable, whether through incremental advances with traditional silicon-based technology or via emerging, unconventional technologies such as bio-computing [[Benenson, 2009]](#benenson2009biocomputers) and molecular electronics [[Xiang et al., 2016](#xiang2016molecular)].
+Such emerging technologies could make greatly vaster collections of computing devices feasible, albeit at the potential cost of component-wise speed [[Bonnet et al., 2013](#bonnet2013amplifying); [Ellenbogen and Love, 2000](#ellenbogen2000architectures)] and perhaps also component-wise reliability.
 
 ## What of Scale?
 
