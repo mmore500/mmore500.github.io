@@ -313,7 +313,7 @@ If you're looking to keep a draft copletely under wraps, though,
   * `git remote add secret https://github.com/username/secret`
 3. branch out `my-draft`, commit your draft,  & push it up to `secret`.
   * i.e., instead of `git push origin my-draft`
-  * you'd do `git push origin my-draft`
+  * you'd do `git push secret my-draft`
 
 I usually just go ahead and push up drafts in progress to `master` though.
 It's not like anyone's really trawling your blog before you share something around anyways.
