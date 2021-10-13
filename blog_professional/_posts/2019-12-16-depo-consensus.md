@@ -462,6 +462,34 @@ In their work, agents connectivity between modules is genetically determined and
 The buffet paradigm allows evolving agents to rely on computational representations best-suited to a problem at hand, but also to hybridize representations to efficacious ends.
 With the addition of dynamic module dispatch via selector and regulator components, "Multi-representation SignalGP" promises not only to realize the benefits of the Buffet Method in interactive, event-driven agents but also provide a framework for module-level plasticity.
 
+## Cite This Post
+
+### APA
+
+> Moreno, M. A.(2021, March 3). Evaluating Function Dispatch Methods in SignalGP. https://doi.org/10.17605/OSF.IO/RMKCV
+
+### MLA
+
+> Moreno, Matthew A. Evaluating Function Dispatch Methods in SignalGP. OSF, 3 Mar. 2021, doi:10.17605/OSF.IO/RMKCV.
+
+### Chicago
+
+> Moreno, Matthew A. 2021. “Evaluating Function Dispatch Methods in SignalGP.” OSF. March 3. doi:10.17605/OSF.IO/RMKCV.
+
+### BibTeX
+
+```
+@misc{Moreno_2021,
+  title={Evaluating Function Dispatch Methods in SignalGP},
+  url={osf.io/rmkcv},
+  DOI={10.17605/OSF.IO/RMKCV},
+  publisher={OSF},
+  author={Moreno, Matthew A},
+  year={2021},
+  month={Mar}
+}
+```
+
 ## References
 
 <a name="Downing2015Intelligence"
