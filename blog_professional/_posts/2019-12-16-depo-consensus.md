@@ -466,27 +466,27 @@ With the addition of dynamic module dispatch via selector and regulator componen
 
 ### APA
 
-> Moreno, M. A.(2021, March 3). Evaluating Function Dispatch Methods in SignalGP. https://doi.org/10.17605/OSF.IO/RMKCV
+> Moreno, M. A.(2019, December 16). Evaluating Function Dispatch Methods in SignalGP. https://doi.org/10.17605/OSF.IO/RMKCV
 
 ### MLA
 
-> Moreno, Matthew A. Evaluating Function Dispatch Methods in SignalGP. OSF, 3 Mar. 2021, doi:10.17605/OSF.IO/RMKCV.
+> Moreno, Matthew A. Evaluating Function Dispatch Methods in SignalGP. OSF, 16 Dec. 2019, doi:10.17605/OSF.IO/RMKCV.
 
 ### Chicago
 
-> Moreno, Matthew A. 2021. “Evaluating Function Dispatch Methods in SignalGP.” OSF. March 3. doi:10.17605/OSF.IO/RMKCV.
+> Moreno, Matthew A. 2019. “Evaluating Function Dispatch Methods in SignalGP.” OSF. December 16. doi:10.17605/OSF.IO/RMKCV.
 
 ### BibTeX
 
 ```
-@misc{Moreno_2021,
+@misc{moreno2019evaluating,
   title={Evaluating Function Dispatch Methods in SignalGP},
   url={osf.io/rmkcv},
   DOI={10.17605/OSF.IO/RMKCV},
   publisher={OSF},
   author={Moreno, Matthew A},
-  year={2021},
-  month={Mar}
+  year={2019},
+  month={Dec}
 }
 ```
 
