@@ -25,8 +25,8 @@ recipe:
     5. sprinkle with salt
     6. brush with remaining butter mixture
     7. bake 75 min.
-    7. add thyme
-    8. bake about 35 min. Longer, until cooked through and crisp
+    8. add thyme
+    9. bake about 35 min. longer, until cooked through and crisp
       
   notes_markdown: |-
     Thinner slices will be crispier.
