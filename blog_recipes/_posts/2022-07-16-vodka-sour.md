@@ -1,6 +1,6 @@
 —--
 layout: recipe
-title: “Vodka Sour”
+title: "Vodka Sour"
 date: 2022-07-16
 recipe:
   source_name: Mariah McIntosh
