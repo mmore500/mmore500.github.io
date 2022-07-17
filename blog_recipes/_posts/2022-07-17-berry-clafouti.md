@@ -1,4 +1,4 @@
-—
+---
 layout: recipe
 title: “Berry Clafouti”
 date: 2022-07-17
@@ -33,4 +33,4 @@ recipe:
     Makes 6 servings.
     Bake longer, especially if berries are frozen.
     Recipe via mom.
-—
+---
