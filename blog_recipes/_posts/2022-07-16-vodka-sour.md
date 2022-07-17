@@ -1,4 +1,4 @@
-—
+—--
 layout: recipe
 title: “Vodka Sour”
 date: 2022-07-16
@@ -18,4 +18,4 @@ recipe:
   notes_markdown: |-
     Makes two drinks.
     Good with strawberry basil.
-—
+—--
