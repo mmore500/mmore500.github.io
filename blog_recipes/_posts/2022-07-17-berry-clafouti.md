@@ -6,7 +6,8 @@ recipe:
   cook: 1 hr.
   preheat: 350 F
   source_name: Jessica Seinfeld
-  source_publisher: Food Swings  ingredients_markdown: |-
+  source_publisher: Food Swings  
+  ingredients_markdown: |-
     * unsalted butter
     * 1/2 c. sugar
     * 3 tbsp. sugar
