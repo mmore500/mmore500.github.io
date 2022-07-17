@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: “Roast Potatoes with Thyme”
+title: "Roast Potatoes with Thyme"
 date: 2022-01-05
 recipe:
   prep: 30 min.
