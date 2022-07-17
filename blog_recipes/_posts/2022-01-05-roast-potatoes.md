@@ -31,4 +31,4 @@ recipe:
   notes_markdown: |-
     Thinner slices will be crispier.
     Recipe from dad.
-—--
+---
