@@ -1,6 +1,6 @@
-—
+---
 layout: recipe
-title: “Rhubarb Dessert”
+title: "Rhubarb Dessert"
 date: 2022-07-17
 recipe:
   preheat: 350 F
@@ -35,4 +35,4 @@ recipe:
     Can sprinkle merengue with coconut before baking.
     Original recipe has 1 tsp. salt and  1/2 tsp. baking powder in meringue.
     Mariah adds more sugar and butter to shortbread crust.
-—
+---
