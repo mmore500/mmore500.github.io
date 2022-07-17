@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: “Berry Clafouti”
+title: "Berry Clafouti"
 date: 2022-07-17
 recipe:
   cook: 1 hr.
