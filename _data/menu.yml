@@ -1,10 +1,7 @@
-- title: "About Me"
+- title: "Me (bio, CV, etc.)"
   href: "/about/"
 
-- title: "CV"
-  href: "/resources/curriculum_vitae.pdf"
-
-- title: "Research & Projects"
+- title: "Works (pubs, code, etc.)"
   href: "/research/"
 
 - title: "Blog"

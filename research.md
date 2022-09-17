@@ -4,6 +4,49 @@ title: Research & Projects
 permalink: /research/
 ---
 
+<details>
+<summary>Journal Publications</summary>
+
+
+</details>
+
+<details>
+<summary>Conference Papers</summary>
+
+
+</details>
+
+<details>
+<summary>Preprint</summary>
+
+
+</details>
+
+<details>
+<summary>Research Software</summary>
+
+
+</details>
+
+<details>
+<summary>CommunityTODO Software</summary>
+
+
+</details>
+
+<details>
+<summary>Presentations</summary>
+
+
+</details>
+
+<details>
+<summary>Student Work</summary>
+
+
+</details>
+
+
 *A listing of my scientific publications is available on [my google scholar profile](https://scholar.google.com/citations?user=xROn8y4AAAAJ).
 Find links to access materials (PDFs and more) from my scientific publications and other projects below.*
 
