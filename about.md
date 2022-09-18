@@ -59,7 +59,7 @@ details[open] > summary {
   border-left: solid 2px;
   padding-left: 10px;
   padding-top: 12px;
-  cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" style="font-size: 25px; font-weight: bold;">  <circle cx="15" cy="15" r="10" fill="white" stroke="white"/> <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">⎋</text></svg>'), auto;}
+  cursor: url('data:image/svg+xml;utf8,%3Csvg xmlns="http://www.w3.org/2000/svg" width="30" height="30" style="font-size: 25px; font-weight: bold; paint-order: stroke; stroke: %23ffffff; stroke-width: 5px; stroke-linecap: butt; stroke-linejoin: miter; font-weight: 800;"%3E%3Ctext x="50%25" y="50%25" dominant-baseline="middle" text-anchor="middle"%3E⎋%3C/text%3E%3C/svg%3E'), auto;}
 
 @keyframes details-show {
   from {
