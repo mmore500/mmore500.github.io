@@ -72,48 +72,52 @@ details[open] > *:not(summary) {
 }
 </style>
 
-<details onclick="if (event.target.tagName != 'A') this.removeAttribute('open');" open>
+<details open>
 <summary>Bio<span style="width:1em;"></span> <a href="/bio"><i class="fa fa-external-link"></i></a></summary>
 
-<div class="detail">
+<div class="detail" onclick="if (event.target.tagName != 'A') this.parentElement.removeAttribute('open');">
+
 {% capture bio_include %}{% include bio.md %}{% endcapture %}
 {{ bio_include | markdownify }}
 </div>
 
 </details>
 
-<details onclick="if (event.target.tagName != 'A') this.removeAttribute('open');">
+<details>
 <summary><i>Curriculum Vitae</i><span style="width:1em;"></span> <a href="{{site.baseurl}}/resources/curriculum_vitae.pdf"><i class="fa fa-external-link"></i></a></summary>
 
-<div class="detail">
+<div class="detail" onclick="if (event.target.tagName != 'A') this.parentElement.removeAttribute('open');">
 <a href="{{site.baseurl}}/resources/curriculum_vitae.pdf">PDF <i class="fa fa-external-link"></i></a>
 </div>
 
 </details>
 
-<details onclick="if (event.target.tagName != 'A') this.removeAttribute('open');">
+<details>
 <summary>Diversity, Equity, and Inclusion Statement<span style="width:1em;"></span> <a href="{{site.baseurl}}/dei-statement/"><i class="fa fa-external-link"></i></a></summary>
 
-<div class="detail">
+<div class="detail" onclick="if (event.target.tagName != 'A') this.parentElement.removeAttribute('open');">
+
 {% capture deis_include %}{% include professional-statements/dei.md %}{% endcapture %}
 {{ deis_include | markdownify }}
 </div>
 
 </details>
 
-<details onclick="if (event.target.tagName != 'A') this.removeAttribute('open');">
+<details>
 <summary>Research Statement<span style="width:1em;"></span> <a href="{{site.baseurl}}/research-statement/"><i class="fa fa-external-link"></i></a></summary>
-<div class="detail">
+<div class="detail" onclick="if (event.target.tagName != 'A') this.parentElement.removeAttribute('open');">
+
 {% capture rs_include %}{% include professional-statements/research.md %}{% endcapture %}
 {{ rs_include | markdownify }}
 </div>
 
 </details>
 
-<details onclick="if (event.target.tagName != 'A') this.removeAttribute('open');">
+<details>
 <summary>Teaching Statement<span style="width:1em;"></span> <a href="{{site.baseurl}}/teaching-statement/"><i class="fa fa-external-link"></i></a></summary>
 
-<div class="detail">
+<div class="detail" onclick="if (event.target.tagName != 'A') this.parentElement.removeAttribute('open');">
+
 {% capture ts_include %}{% include professional-statements/teaching.md %}{% endcapture %}
 {{ ts_include | markdownify }}
 </div>
