@@ -59,7 +59,7 @@ details[open] > summary {
   border-left: solid 2px;
   padding-left: 10px;
   padding-top: 12px;
-}
+  cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" style="font-size: 25px; font-weight: bold;">  <circle cx="15" cy="15" r="10" fill="white" stroke="white"/> <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">⎋</text></svg>'), auto;}
 
 @keyframes details-show {
   from {
@@ -72,7 +72,7 @@ details[open] > *:not(summary) {
 }
 </style>
 
-<details open>
+<details onclick="if (event.target.tagName != 'A') this.removeAttribute('open');" open>
 <summary>Bio<span style="width:1em;"></span> <a href="/bio"><i class="fa fa-external-link"></i></a></summary>
 
 <div class="detail">
@@ -82,7 +82,7 @@ details[open] > *:not(summary) {
 
 </details>
 
-<details>
+<details onclick="if (event.target.tagName != 'A') this.removeAttribute('open');">
 <summary><i>Curriculum Vitae</i><span style="width:1em;"></span> <a href="{{site.baseurl}}/resources/curriculum_vitae.pdf"><i class="fa fa-external-link"></i></a></summary>
 
 <div class="detail">
@@ -91,7 +91,7 @@ details[open] > *:not(summary) {
 
 </details>
 
-<details>
+<details onclick="if (event.target.tagName != 'A') this.removeAttribute('open');">
 <summary>Diversity, Equity, and Inclusion Statement<span style="width:1em;"></span> <a href="{{site.baseurl}}/dei-statement/"><i class="fa fa-external-link"></i></a></summary>
 
 <div class="detail">
@@ -101,7 +101,7 @@ details[open] > *:not(summary) {
 
 </details>
 
-<details>
+<details onclick="if (event.target.tagName != 'A') this.removeAttribute('open');">
 <summary>Research Statement<span style="width:1em;"></span> <a href="{{site.baseurl}}/research-statement/"><i class="fa fa-external-link"></i></a></summary>
 <div class="detail">
 {% capture rs_include %}{% include professional-statements/research.md %}{% endcapture %}
@@ -110,7 +110,7 @@ details[open] > *:not(summary) {
 
 </details>
 
-<details>
+<details onclick="if (event.target.tagName != 'A') this.removeAttribute('open');">
 <summary>Teaching Statement<span style="width:1em;"></span> <a href="{{site.baseurl}}/teaching-statement/"><i class="fa fa-external-link"></i></a></summary>
 
 <div class="detail">
