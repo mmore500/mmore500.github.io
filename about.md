@@ -72,7 +72,7 @@ details[open] > *:not(summary) {
 }
 </style>
 
-<details>
+<details open>
 <summary>Bio<span style="width:1em;"></span> <a href="/bio"><i class="fa fa-external-link"></i></a></summary>
 
 <div class="detail">
