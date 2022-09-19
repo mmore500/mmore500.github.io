@@ -4,82 +4,44 @@ title: Research & Projects
 permalink: /research/
 ---
 
-<style>
-details > summary {
-  list-style-type: "";
-  display: -webkit-flex;
-  display: flex;
-  align-items: center;
-  cursor: pointer;
-  transition: margin 150ms ease-out;
-  margin-bottom: 0px;
-}
-
-details summary > * {
-  display: inline;
-}
-
-details > summary:before {
-  content: url("data:image/svg+xml; utf8, %3Csvg xmlns='http://www.w3.org/2000/svg' height='2em' width='1.25em' %3E%3Ctext x='50%25' y='50%25' font-size='1.9em' dominant-baseline='middle' text-anchor='middle'%3E⎉%3C/text%3E%3C/svg%3E");
-  margin-right: 5px;
-  display: -webkit-flex;
-  display: flex;
-  align-items: center;
-  font-weight: bold;
-}
-
-details[open] > summary:before {
-  content: url("data:image/svg+xml; utf8, %3Csvg xmlns='http://www.w3.org/2000/svg' height='2em' width='1.25em' %3E%3Ctext x='50%25' y='50%25' font-weight='bold' font-size='x-large' dominant-baseline='middle' text-anchor='middle'%3E◉%3C/text%3E%3C/svg%3E");
-  margin-right: 5px;
-  display: -webkit-flex;
-  display: flex;
-  align-items: center;
-}
-
-summary::-webkit-details-marker {
-  list-style-type: "";
-}
-
-details[open] > summary {
-  list-style-type: "";
-  transition: margin 150ms ease-out;
-  margin-bottom: 10px;
-}
-
-.detail {
-  margin-top: -18px;
-  margin-left: 0.5em;
-  border-left: solid 2px;
-  padding-left: 10px;
-  padding-top: 12px;
-}
-
-@keyframes details-show {
-  from {
-    opacity: 0;
-  }
-}
-
-details[open] > *:not(summary) {
-  animation: details-show 150ms ease-in-out;
-}
-</style>
-
 <details>
 <summary>Journal Publications</summary>
-
 
 </details>
 
 <details>
 <summary>Conference Papers</summary>
 
-
 </details>
 
 <details>
 <summary>Preprint</summary>
 
+</details>
+
+<details class="lollipop">
+<summary class="lollipop">Preprint</summary>
+
+<div class="lollipop-detail">
+{% for post in site.categories.blog_efflux %}
+  <details class="lollipop">
+  <summary class="lollipop">
+  <div style="display:flex;flex-direction:row">
+  <span style="margin-left: 0.5em; align-self:center;">{{ post.date | date: "%Y" }}</span>
+  <!-- <span style="margin:0 1em 0 1em;border-left:1px solid #000;align-self:stretch;"></span> -->
+  <span style="margin: 0 1em 0 0;"></span>
+  <span>{{ post.title }} <br/> venue</span>
+  <span style="width:1em;"></span>
+  <span style="align-self:center;"><a href="{{ post.url }}"> <i class="icon-web-page-click"></i></a></span>
+  </div>
+  </summary>
+  <div class="lollipop-detail">
+  {{ post.content | markdownify }}
+  </div>
+  </details>
+  <br/>
+{% endfor %}
+</div>
 
 </details>
 
