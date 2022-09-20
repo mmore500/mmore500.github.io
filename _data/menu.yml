@@ -1,7 +1,10 @@
-- title: "Me (bio, CV, etc.)"
+- title: "About"
   href: "/about/"
 
-- title: "Works (pubs, code, etc.)"
+- title: "Efflux"
+  href: "/efflux/"
+
+- title: "Research"
   href: "/research/"
 
 - title: "Blog"
