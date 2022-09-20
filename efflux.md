@@ -26,7 +26,7 @@ My publications can also be viewed on [my google scholar profile](https://schola
   </div>
   </summary>
   <div class="lollipop-detail">
-  {{ post.content | markdownify }}
+  {% include efflux_content.html page=post %}
   </div>
   </details>
   <br/>
@@ -49,7 +49,7 @@ My publications can also be viewed on [my google scholar profile](https://schola
   <span style="align-self:center;"><a href="{{ post.url }}"> <i class="icon-web-page-click"></i></a></span>
   </summary>
   <div class="lollipop-detail">
-  {{ post.content | markdownify }}
+  {% include efflux_content.html page=post %}
   </div>
   </details>
 {% endfor %}

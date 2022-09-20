@@ -1,0 +1,122 @@
+{% assign page = include.page %}
+
+<span style="display:inline-flex;width:100%;">
+{% if page.download %}<button class="efflux" onclick="location.href='{{ page.download }}';">
+Download
+<br/>
+<i class="icon-download"></i>
+</button>{% endif %}
+{% if page.view_publisher %}<button class="efflux" onclick="location.href='{{ page.view_publisher }}';">
+<span sytle="font-weight:450;">View at Publisher</span>
+<br/>
+<i style="font-weight:800" class="icon-link-ext"></i>
+</button>{% endif %}
+</span>
+
+<table>
+
+{% if page.authors %}
+<tr>
+<td>
+<span markdown="1">
+__Authors__
+</span>
+</td>
+<td>
+<span>
+{% for author in page.authors %}
+<span itemprop="author" itemscope itemtype="http://schema.org/Person">
+  {% if author == "Matthew Andres Moreno" %}<i>{% endif %}<span itemprop="name">{{ author }}</span>{% if author == "Matthew Andres Moreno" %}</i>{% endif %}{% if forloop.last != true %},{% endif %}
+</span>
+{% endfor %}
+</span>
+</td>
+</tr>
+{% endif %}
+
+{% if page.date %}
+<tr>
+<td>
+<span markdown="1">
+__Date__
+</span>
+</td>
+<td>
+<span markdown="1">
+{{ page.date | date_to_long_string: "ordinal", "US" }}
+</span>
+</td>
+</tr>
+{% endif %}
+
+{% if page.doi %}
+<tr>
+<td>
+<span markdown="1">
+__DOI__
+</span>
+</td>
+<td>
+<span markdown="1">
+{{ page.doi }}
+</span>
+</td>
+</tr>
+{% endif %}
+
+{% if page.venue %}
+<tr>
+<td>
+<span markdown="1">
+__Venue__
+</span>
+</td>
+<td>
+<span markdown="1">
+{{ page.venue }}
+</span>
+</td>
+</tr>
+{% endif %}
+
+</table>
+
+<details class="lollipop" markdown="1">
+<summary class="lollipop">Abstract</summary>
+
+<div class="lollipop-detail" markdown="1">
+{{ page.abstract | markdownify }}
+</div>
+
+</details>
+
+<details class="lollipop" markdown="1">
+<summary class="lollipop">BibTeX</summary>
+
+<div class="lollipop-detail" markdown="1">
+  {% capture bibtex_include %}
+  ```bibtex
+  {{ page.bibtex }}
+  ```
+  {% endcapture %}
+  {{ bibtex_include | markdownify }}
+</div>
+</details>
+
+<details class="lollipop" markdown="1">
+<summary class="lollipop">Citation</summary>
+
+<div class="lollipop-detail" markdown="1">
+{% capture citation_include %}
+> {{ page.citation }}
+{% endcapture %}
+{{ citation_include | markdownify }}
+</div>
+</details>
+
+<details class="lollipop" markdown="1">
+<summary class="lollipop">Supporting Materials</summary>
+<div class="lollipop-detail" markdown="1">
+{{ page.supporting_materials | markdownify }}
+</div>
+</details>
