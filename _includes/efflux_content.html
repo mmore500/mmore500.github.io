@@ -1,6 +1,11 @@
 {% assign page = include.page %}
 
 <span style="display:inline-flex;width:100%;">
+{% if page.view_github %}<button class="efflux" onclick="location.href='{{ page.view_github }}';">
+View on GitHub
+<br/>
+<i class="icon-github-1"></i>
+</button>{% endif %}
 {% if page.download %}<button class="efflux" onclick="location.href='{{ page.download }}';">
 Download
 <br/>
@@ -58,7 +63,7 @@ __DOI__
 </td>
 <td>
 <span markdown="1">
-{{ page.doi }}
+<a href="https://doi.org/{{ page.doi }}">{{ page.doi }}</a>
 </span>
 </td>
 </tr>
@@ -81,6 +86,7 @@ __Venue__
 
 </table>
 
+{% if page.abstract %}
 <details class="lollipop" markdown="1">
 <summary class="lollipop">Abstract</summary>
 
@@ -89,20 +95,24 @@ __Venue__
 </div>
 
 </details>
+{% endif %}
 
+{% if page.bibtex %}
 <details class="lollipop" markdown="1">
 <summary class="lollipop">BibTeX</summary>
 
 <div class="lollipop-detail" markdown="1">
-  {% capture bibtex_include %}
-  ```bibtex
-  {{ page.bibtex }}
-  ```
-  {% endcapture %}
-  {{ bibtex_include | markdownify }}
+{% capture bibtex_include %}
+```bibtex
+{{ page.bibtex }}
+```
+{% endcapture %}
+{{ bibtex_include | markdownify }}
 </div>
 </details>
+{% endif %}
 
+{% if page.citation %}
 <details class="lollipop" markdown="1">
 <summary class="lollipop">Citation</summary>
 
@@ -113,10 +123,13 @@ __Venue__
 {{ citation_include | markdownify }}
 </div>
 </details>
+{% endif %}
 
+{% if page.supporting_materials %}
 <details class="lollipop" markdown="1">
 <summary class="lollipop">Supporting Materials</summary>
 <div class="lollipop-detail" markdown="1">
 {{ page.supporting_materials | markdownify }}
 </div>
 </details>
+{% endif %}

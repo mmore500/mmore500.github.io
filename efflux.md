@@ -20,7 +20,7 @@ My publications can also be viewed on [my google scholar profile](https://schola
   <div style="display:flex;flex-direction:row">
   <span style="margin-left: 0.5em; align-self:center;">{{ post.date | date: "%Y" }}</span>
   <span style="margin: 0 1em 0 0;"></span>
-  <span>{{ post.title }} <br/> {{ post.venue }} </span>
+  <span>{{ post.title }} <br/> <i>{{ post.venue }}</i> </span>
   <span style="width:1em;"></span>
   <span style="align-self:center;"><a href="{{ post.url }}"> <i class="icon-web-page-click"></i></a></span>
   </div>
@@ -46,6 +46,7 @@ My publications can also be viewed on [my google scholar profile](https://schola
   <details class="lollipop">
   <summary class="lollipop">
   <span>{{ post.title }}</span>
+  <span style="width:1em;"></span>
   <span style="align-self:center;"><a href="{{ post.url }}"> <i class="icon-web-page-click"></i></a></span>
   </summary>
   <div class="lollipop-detail">
