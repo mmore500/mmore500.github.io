@@ -42,5 +42,5 @@ citation: "Matthew Andres Moreno, Santiago Rodriguez Papa, and Charles Ofria. 20
 supporting_materials: |
   - [data](https://osf.io/7jkgp/) [via Open Science Framework ❋](https://osf.io)
   - [source code](https://github.com/mmore500/signalgp-lite) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
-  - [slides](https://docs.google.com/presentation/d/1VkqDi7xSG63mFnS-Ox6C4Nel6uS5AvTQB9r9kKnSS0o/)
+  - [slides](https://docs.google.com/presentation/d/1VkqDi7xSG63mFnS-Ox6C4Nel6uS5AvTQB9r9kKnSS0o/) [via Google Slides](https://workspace.google.com/products/slides/)
 ---

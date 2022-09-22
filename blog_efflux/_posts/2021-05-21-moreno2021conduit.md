@@ -43,6 +43,6 @@ supporting_materials: |
   - [interactive data notebooks](https://mybinder.org/v2/gh/mmore500/conduit/HEAD?filepath=binder%2F) [via MyBinder ❋](https://mybinder.org/)
   - [graph coloring benchmark source code](https://github.com/mmore500/conduit) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [digital evolution benchmark source code](https://github.com/mmore500/dishtiny) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
-  - [slides](https://docs.google.com/presentation/d/1iGgwiYkIzetOejq92ykxUcQFSLNCWzA65txObL2x0Sw)
+  - [slides](https://docs.google.com/presentation/d/1iGgwiYkIzetOejq92ykxUcQFSLNCWzA65txObL2x0Sw) [via Google Slides](https://workspace.google.com/products/slides/)
   - [LaTeX source](https://github.com/mmore500/2021-gecco-conduit/) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
 ---
