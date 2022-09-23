@@ -1,21 +1,21 @@
 {% assign page = include.page %}
 
 <span style="display:inline-flex;width:100%;">
-{% if page.view_github %}<button class="efflux" onclick="location.href='{{ page.view_github }}';">
+{% if page.view_github %}<a href="{{ page.view_github }}" class="button efflux">
 View on GitHub
 <br/>
 <i class="icon-github-1"></i>
-</button>{% endif %}
-{% if page.download %}<button class="efflux" onclick="location.href='{{ page.download }}';">
+</a>{% endif %}
+{% if page.download %}<a href="{{ page.download }}" class="button efflux">
 Download
 <br/>
 <i class="icon-download"></i>
-</button>{% endif %}
-{% if page.view_publisher %}<button class="efflux" onclick="location.href='{{ page.view_publisher }}';">
+</a>{% endif %}
+{% if page.view_publisher %}<a href="{{ page.view_publisher }}" class="button efflux">
 <span sytle="font-weight:450;">View at Publisher</span>
 <br/>
 <i style="font-weight:800" class="icon-link-ext"></i>
-</button>{% endif %}
+</a>{% endif %}
 </span>
 
 <table>
