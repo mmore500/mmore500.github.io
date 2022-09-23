@@ -56,3 +56,24 @@ My publications can also be viewed on [my google scholar profile](https://schola
 {% endfor %}
 </div>
 </details>
+
+<details class="lollipop">
+<summary class="lollipop">Chronological Listing</summary>
+<div class="lollipop-detail">
+{% assign sorted_posts = site.categories.blog_efflux | sort: 'date' | reverse %}
+{% for post in sorted_posts  %}
+  <details class="lollipop">
+  <summary class="lollipop">
+  <span style="margin-left: 0.5em; align-self:center;">{{ post.date | date: "%Y" }}</span>
+  <span style="margin: 0 1em 0 0;"></span>
+  <span>{{ post.title }}</span>
+  <span style="width:1em;"></span>
+  <span style="align-self:center;"><a href="{{ post.url }}"> <i class="icon-web-page-click"></i></a></span>
+  </summary>
+  <div class="lollipop-detail">
+  {% include efflux_content.html page=post %}
+  </div>
+  </details>
+{% endfor %}
+</div>
+</details>
