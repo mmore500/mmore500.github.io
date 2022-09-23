@@ -6,6 +6,7 @@ category: prosocial
 view_github: https://github.com/mmore500/reinterpretive-label
 authors:
   - Matthew Andres Moreno
+venue: containerized workflow hosted via SingularityHub
 description: |
   Anything can become art by the addition of a sufficiently clever interpretive label, even really lame things.
   So, let's reinterpret lame things and make them awesome by adding interpretive label stickers!
