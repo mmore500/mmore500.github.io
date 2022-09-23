@@ -9,7 +9,7 @@ authors:
   - Santiago Rodriguez Papa
   - Alexander Lalejini
   - Charles Ofria
-abstract: |
+description: |
   A genetic programming implementation designed for large-scale artificial life applications.
   Organized as a header-only C++ library. Inspired by Alex Lalejini's SignalGP.
 ---

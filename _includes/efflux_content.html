@@ -86,6 +86,10 @@ __Venue__
 
 </table>
 
+{% if page.description %}
+{{ page.description | markdownify }}
+{% endif %}
+
 {% if page.abstract %}
 <details class="lollipop" markdown="1">
 <summary class="lollipop">Abstract</summary>

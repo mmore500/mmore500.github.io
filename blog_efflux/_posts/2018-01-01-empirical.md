@@ -4,8 +4,8 @@ title: "Empirical"
 date: 2018-01-01
 category: research
 view_github: https://github.com/devosoft/Empirical
-abstract: |
-  Empirical is a library of tools for developing useful, efficient, reliable, and available scientific software. The provided code is header-only and encapsulated into the emp namespace, so it is simple to incorporate into existing projects.
+description: |
+  Empirical is a library of tools for developing useful, efficient, reliable, and available scientific software. The provided code is header-only and encapsulated into the `emp` namespace, so it is simple to incorporate into existing projects.
 bibtex: |-
   @software{Ofria_Empirical_C_library_2020,
     author = {Ofria, Charles and Moreno, Matthew Andres and Dolson, Emily and Lalejini, Alex and Rodriguez Papa, Santiago and Fenton, Jake and Perry, Katherine and Jorgensen, Steven and hoffmanriley and grenewode and Baldwin Edwards, Oliver and Stredwick, Jason and cgnitash and theycallmeHeem and Vostinar, Anya and Moreno, Ryan and Schossau, Jory and Zaman, Luis and djrain},
