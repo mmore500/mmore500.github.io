@@ -144,7 +144,7 @@ You'll have to include their JavaScript at the top of your page.
 It's probably already taken care of on class or workshop blogs that I set up.
 For your personal blog, see their information on [getting started](https://www.mathjax.org/#gettingstarted).
 
-## Code Bocks
+## Code Blocks
 
 This is a code block.
 ```python
