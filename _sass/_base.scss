@@ -478,7 +478,7 @@ a.button {
     background:linear-gradient(transparent 150px, white);
 }
 
-.peek_details.lollipop[open] .peek-lollipop-mask {
+.peek_details.lollipop[open] > * > .peek-lollipop-mask {
     width: initial;
     margin-bottom: initial;
     padding-bottom: initial;
@@ -489,7 +489,7 @@ a.button {
     content: "";
     position: initial;
 }
-.peek_details.lollipop[open] .peek-lollipop-mask:before {
+.peek_details.lollipop[open] > * > .peek-lollipop-mask:before {
     content:'';
     width:initial;
     height:initial;
