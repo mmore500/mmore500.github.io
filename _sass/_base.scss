@@ -350,7 +350,7 @@ a.button.efflux:hover {
   color: white; */
 }
 
-details.lollipop > summary {
+details.lollipop > summary, .peek_details.lollipop > .peek_summary {
   list-style-type: "";
   display: -webkit-flex;
   display: flex;
@@ -362,16 +362,15 @@ details.lollipop > summary {
   border-left: 2px solid transparent;
 }
 
-details.lollipop > summary:hover {
+details.lollipop > summary:hover, .peek_details.lollipop > .peek_summary:hover {
   text-decoration: underline;
 }
 
-
-details.lollipop summary > * {
+details.lollipop summary > *, .peek_details.lollipop .peek_summary > * {
   display: inline;
 }
 
-details.lollipop > summary:before {
+details.lollipop > summary:before, .peek_details.lollipop > .peek_summary:before {
   content: url("data:image/svg+xml; utf8, %3Csvg xmlns='http://www.w3.org/2000/svg' height='2em' width='1.25em' %3E%3Ctext x='50%25' y='50%25' font-size='1.9em' dominant-baseline='middle' text-anchor='middle'%3E⎉%3C/text%3E%3C/svg%3E");
   margin-right: 5px;
   display: -webkit-flex;
@@ -381,7 +380,7 @@ details.lollipop > summary:before {
   margin-left: -0.625em;
 }
 
-details[open].lollipop > summary:before {
+details[open].lollipop > summary:before, .peek_details[open].lollipop > .peek_summary:before {
   content: url("data:image/svg+xml; utf8, %3Csvg xmlns='http://www.w3.org/2000/svg' height='2em' width='1.25em' %3E%3Ctext x='50%25' y='50%25' font-weight='bold' font-size='x-large' dominant-baseline='middle' text-anchor='middle'%3E◉%3C/text%3E%3C/svg%3E");
   display: -webkit-flex;
   display: flex;
@@ -390,14 +389,17 @@ details[open].lollipop > summary:before {
   margin-left: -0.625em;
 }
 
-summary.lollipop::-webkit-details-marker {
+summary.lollipop::-webkit-details-marker, .peek_summary.lollipop::-webkit-details-marker {
   list-style-type: "";
 }
 
 details.lollipop[open] > summary {
-  list-style-type: "";
   transition: padding 150ms ease-out;
   padding-bottom: 10px;
+}
+
+details.lollipop[open] > summary, .peek_details.lollipop[open] > .peek_summary {
+  list-style-type: "";
   margin-left: 0.625em;
   border-left: 2px solid;
   border-image: linear-gradient(to top, black 0 50%, transparent 50% 100%) 1 100%;
@@ -405,10 +407,18 @@ details.lollipop[open] > summary {
 
 .lollipop-detail {
   margin-left: 0.625em;
-  border-left: solid 2px;
+  border-left: dashed 2px;
   padding-left: 0.9em;
-  margin-top: -10px;
   margin-bottom: 10px;
+}
+
+details.lollipop[open] > .lollipop-detail {
+  margin-top: -10px;
+}
+
+
+details.lollipop[open] > .lollipop-detail, .peek_details.lollipop[open] > .lollipop-detail {
+  border-left: solid 2px;
 }
 
 @keyframes details-show {
@@ -419,6 +429,15 @@ details.lollipop[open] > summary {
 
 details[open].lollipop > *:not(summary) {
   animation: details-show 150ms ease-in-out;
+}
+
+.peek_details.lollipop > * > .peek-lollipop-mask {
+  transition: max-height 0.2s cubic-bezier(0, 1, 0, 1) -.05s;
+}
+
+.peek_details[open].lollipop > * > .peek-lollipop-mask {
+  transition-timing-function: cubic-bezier(0.5, 0, 1, 0);
+  transition-delay: 0s;
 }
 
 .exit-cursor {
@@ -436,4 +455,50 @@ a.button {
 
   text-decoration: none;
   color: initial;
+}
+
+.peek-lollipop-mask{
+    width: 100%;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    /* border-bottom: 3px solid #777; */
+    max-height:200px;
+    overflow:hidden;
+    text-overflow: ellipsis;
+    content: "";
+    position:relative;
+}
+.peek-lollipop-mask:before {
+    content:'';
+    width:100%;
+    height:100%;
+    position:absolute;
+    left:0;
+    top:0;
+    background:linear-gradient(transparent 150px, white);
+}
+
+.peek_details.lollipop[open] .peek-lollipop-mask {
+    width: initial;
+    margin-bottom: initial;
+    padding-bottom: initial;
+    /* border-bottom: 3px solid #777; */
+    max-height: 99999px; /* need fixed cap for animation */
+    overflow: initial;
+    text-overflow: initial;
+    content: "";
+    position: initial;
+}
+.peek_details.lollipop[open] .peek-lollipop-mask:before {
+    content:'';
+    width:initial;
+    height:initial;
+    position:initial;
+    left:initial;
+    top:initial;
+    background: initial;
+}
+
+html {
+  overflow-y: scroll;
 }
