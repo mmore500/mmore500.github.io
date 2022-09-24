@@ -1,13 +1,15 @@
 - title: "Scaling Up Artificial Life Systems"
   slug: "scaling-up"
   description: |
-    ![](/resources/cover-scaling-up.png){:width="100%"}{:height="200px"}{:style="object-fit:cover; object-position:top;"}
-    lots of text
-- title: "Building a Software Foundation for Accessible, Extendable, and Maintainable Artificial Life Research"
+    ![PCA visualization of gene regulation activity in DISHTINY](/resources/cover-scaling-up.png){:width="100%"}{:height="200px"}{:style="object-fit:cover; object-position:top;"}
+    _PCA visualization of gene regulation activity in DISHTINY._
+- title: "Building Accessible, Extendable, and Maintainable Artificial Life Research Software"
   slug: "software"
   description: |
-    ![](/resources/cover-software.png){:width="100%"}{:height="200px"}{:style="object-fit:cover; object-position:top;"}
-- title: "Evolvability"
+    ![group photo of participants in 2020 and 2021 Workshops for Avida-ED Software Development](/resources/cover-software.png){:width="100%"}{:height="200px"}{:style="object-fit:cover; object-position:top;"}
+    _Group photo of participants in 2020 and 2021 Workshops for Avida-ED Software Development._
+- title: "Unverstainding Evolvability and Improving It in Digital Evolution Systems"
   slug: "evolvability"
   description: |
-    ![](/resources/cover-evolvability.png){:width="100%"}{:height="200px"}{:style="object-fit:cover; object-position:top;"}
+    ![evolvability signatures from developmental genotype-phenotype map models](/resources/cover-evolvability.png){:width="100%"}{:height="200px"}{:style="object-fit:cover; object-position:top;"}
+    _Evolvability signatures from developmental genotype-phenotype map models._
