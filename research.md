@@ -33,7 +33,7 @@ permalink: /research/
     </div>
     <div class="lollipop-detail">
     <div class="peek-lollipop-mask">
-    {{ post.content | markdownify }}
+    {% include project_content.html page=post %}
     </div>
     </div>
     </div>

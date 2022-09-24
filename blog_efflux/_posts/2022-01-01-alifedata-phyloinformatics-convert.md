@@ -9,6 +9,8 @@ authors:
   - Matthew Andres Moreno
   - Emily Dolson
 venue: Python package published via PyPI
+projects:
+  - libraries
 description: |
   alifedata-phyloinformatics-convert helps apply traditional phyloinformatics software to alife standardized data.
 ---

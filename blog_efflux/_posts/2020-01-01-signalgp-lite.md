@@ -10,6 +10,8 @@ authors:
   - Alexander Lalejini
   - Charles Ofria
 venue: header-only C++ library
+projects:
+  - libraries
 description: |
   A genetic programming implementation designed for large-scale artificial life applications.
   Organized as a header-only C++ library. Inspired by Alex Lalejini's SignalGP.

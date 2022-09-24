@@ -11,6 +11,8 @@ authors:
   - Charles Ofria
 venue: The Genetic and Evolutionary Computation Conference
 doi: 10.1145/3205455.3205597
+projects:
+  - automap
 abstract: |
   We present AutoMap, a pair of methods for automatic generation of evolvable genotype-phenotype mappings.
   Both use an artificial neural network autoencoder trained on phenotypes harvested from fitness peaks as the basis for a genotype-phenotype mapping.

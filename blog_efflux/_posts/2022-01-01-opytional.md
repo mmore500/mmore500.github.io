@@ -8,6 +8,8 @@ view_publisher: https://pypi.org/project/opytional/
 authors:
   - Matthew Andres Moreno
 venue: Python package published via PyPI
+projects:
+  - libraries
 description: |
   opytional makes working with values that might be None safer and easier.
 ---

@@ -11,6 +11,8 @@ authors:
   - Emily Dolson
   - Charles Ofria
 venue: The 2022 Conference on Artificial Life
+projects:
+  - hstrat
 abstract: |
   Phylogenies provide direct accounts of the evolutionary trajectories behind evolved artifacts in genetic algorithm and artificial life systems.
   Phylogenetic analyses can also enable insight into evolutionary and ecological dynamics such as selection pressure and frequency-dependent selection.

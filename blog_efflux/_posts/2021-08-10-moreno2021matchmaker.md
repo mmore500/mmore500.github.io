@@ -11,6 +11,8 @@ authors:
   - Alexander Lalejini
   - Charles Ofria
 venue: arXiv
+projects:
+  - tag
 abstract: |
     Genetic programming and artificial life systems commonly employ tag-matching schemes to determine interactions between model components.
     However, the implications of criteria used to determine affinity between tags with respect to constraints on emergent connectivity, canalization of changes to connectivity under mutation, and evolutionary dynamics have not been considered.

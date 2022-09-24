@@ -10,6 +10,8 @@ authors:
   - Matthew Andres Moreno
   - Charles Ofria
 venue: Frontiers in Ecology and Evolution
+projects:
+  - dishtiny
 abstract: |
   Evolutionary transitions occur when previously-independent replicating entities unite to form more complex individuals.
   Such transitions have profoundly shaped natural evolutionary history and occur in two forms: fraternal transitions involve lower-level entities that are kin (e.g., transitions to multicellularity or to eusocial colonies), while egalitarian transitions involve unrelated individuals (e.g., the origins of mitochondria).

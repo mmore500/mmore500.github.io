@@ -8,6 +8,8 @@ view_publisher: http://soundideas.pugetsound.edu/honors_program_theses/22/
 authors:
   - Matthew Andres Moreno
 venue: Otis C. Chapman Honors Program Thesis
+projects:
+  - evolvability-survey
 abstract: |
   Biological organisms exhibit spectacular adaptation to their environments.
   However, another marvel of biology lurks behind the adaptive traits that organisms exhibit over the course of their lifespans: it is hypothesized that biological organisms also exhibit adaptation to the evolutionary process itself.

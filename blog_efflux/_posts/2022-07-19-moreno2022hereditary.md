@@ -11,6 +11,8 @@ authors:
   - Emily Dolson
   - Charles Ofria
 venue: The Genetic and Evolutionary Computation Conference
+projects:
+  - hstrat
 abstract: |
   Phylogenetic analyses can also enable insight into evolutionary and ecological dynamics such as selection pressure and frequency dependent selection in digital evolution systems.
   Traditionally digital evolution systems have recorded data for phylogenetic analyses through perfect tracking where each birth event is recorded in a centralized data structures.

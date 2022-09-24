@@ -9,6 +9,8 @@ authors:
   - Matthew Andres Moreno
   - Emily Dolson
 venue: Python package published via PyPI
+projects:
+  - libraries
 description: |
   phylotrackpy is a Python phylogeny tracker.
 ---

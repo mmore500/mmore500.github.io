@@ -11,6 +11,8 @@ authors:
   - Santiago Rodriguez Papa
   - Charles Ofria
 venue: ACM Workshop on Parallel and Distributed Evolutionary Inspired Methods
+projects:
+  - conduit
 abstract: |
   Developing software to effectively take advantage of growth in parallel and distributed processing capacity poses significant challenges.
   Traditional programming techniques allow a user to assume that execution, message passing, and memory are always kept synchronized.

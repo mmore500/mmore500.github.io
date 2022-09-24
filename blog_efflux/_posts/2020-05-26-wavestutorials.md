@@ -8,6 +8,8 @@ authors:
   - Santiago Rodriguez Papa
 venue: Workshop for Avida-ED Software Development
 view_publisher: http://mmore500.com/waves/tutorials.html
+projects:
+  - libraries
 description: |
   Hands-on, asynchronous 4 day tutorial series covering foundational web development competencies, C++ development with the Empirical library, and compiling for the web with Emscripten.
 ---

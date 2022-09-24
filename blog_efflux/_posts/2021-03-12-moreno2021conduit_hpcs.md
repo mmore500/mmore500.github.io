@@ -10,6 +10,8 @@ authors:
   - Santiago Rodriguez Papa
   - Charles Ofria
 venue: The 6th International Workshop on Modeling and Simulation of and by Parallel and Distributed Systems (MSPDS 2020)
+projects:
+  - conduit
 abstract: |
   Developing software to effectively take advantage of growth in parallel and distributed processing capacity poses significant challenges.
   Best-effort computing models, which relax synchronization requirements, have been proposed as a strategy to overcome challenges harness high performance computing at extreme scale.

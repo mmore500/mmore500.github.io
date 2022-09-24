@@ -1,0 +1,31 @@
+{% if include.page.description %}
+{{ include.page.description | markdownify }}
+{% endif %}
+
+<details class="lollipop">
+<summary class="lollipop">Publications & Software</summary>
+<div class="lollipop-detail">
+
+  {% for post in site.categories.blog_efflux %}
+
+  {% if post.projects contains include.page.slug %}
+    <details class="lollipop">
+    <summary class="lollipop">
+    <div style="display:flex;flex-direction:row">
+    <span style="margin-left: 0.5em; align-self:center;">{{ post.date | date: "%Y" }}</span>
+    <span style="margin: 0 1em 0 0;"></span>
+    <span>{{ post.title }} <br/> <i>{{ post.venue }}</i> </span>
+    <span style="width:1em;"></span>
+    <span style="align-self:center;"><a href="{{ post.url }}"> <i class="icon-web-page-click"></i></a></span>
+    </div>
+    </summary>
+    <div class="lollipop-detail">
+    {% include efflux_content.html page=post %}
+    </div>
+    </details>
+    <br/>
+  {% endif %}
+  {% endfor %}
+
+</div>
+</details>
