@@ -1,7 +1,7 @@
 ---
 layout: efflux
 title: "Zero to Sixty: Onboarding Tutorials for Native & Web Software Development with C++"
-date: 2017-05-26
+date: 2020-05-26
 category: teaching
 authors:
   - Matthew Andres Moreno
