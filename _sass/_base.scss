@@ -502,3 +502,23 @@ a.button {
 html {
   overflow-y: scroll;
 }
+
+@-webkit-keyframes target-fade {
+	from { background-color: $grey-color-light; } /* [1] */
+	to { background-color: transparent; }
+}
+
+@-moz-keyframes target-fade {
+	from { background-color: $grey-color-light; } /* [1] */
+	to { background-color: transparent; }
+}
+
+@-o-keyframes target-fade {
+	from { background-color: $grey-color-light; } /* [1] */
+	to { background-color: transparent; }
+}
+
+@keyframes target-fade {
+	from { background-color: $grey-color-light; } /* [1] */
+	to { background-color: transparent; }
+}
