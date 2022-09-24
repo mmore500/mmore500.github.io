@@ -1,18 +1,13 @@
 - title: "Scaling Up Artificial Life Systems"
   slug: "scaling-up"
   description: |
-    <img src="/resources/depo-consensus-problem-difficulty.png" width="100%">
-    <img src="/resources/depo-consensus-problem-difficulty.png" width="100%">
+    ![](/resources/cover-scaling-up.png){:width="100%"}{:height="200px"}{:style="object-fit:cover; object-position:top;"}
     lots of text
 - title: "Building a Software Foundation for Accessible, Extendable, and Maintainable Artificial Life Research"
   slug: "software"
   description: |
-    <img src="/resources/depo-consensus-problem-difficulty.png" width="100%">
-    <img src="/resources/depo-consensus-problem-difficulty.png" width="100%">
-    lots of text
+    ![](/resources/cover-software.png){:width="100%"}{:height="200px"}{:style="object-fit:cover; object-position:top;"}
 - title: "Evolvability"
   slug: "evolvability"
   description: |
-    <img src="/resources/depo-consensus-problem-difficulty.png" width="100%">
-    <img src="/resources/depo-consensus-problem-difficulty.png" width="100%">
-    lots of text
+    ![](/resources/cover-evolvability.png){:width="100%"}{:height="200px"}{:style="object-fit:cover; object-position:top;"}
