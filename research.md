@@ -10,7 +10,7 @@ permalink: /research/
 <div class="peek_summary lollipop" onclick="this.parentElement.toggleAttribute('open');">
 <div>
 <div style="display:flex;flex-direction:row;">
-<span style="margin-left: 0.5em;">{{ theme.title }} </span>
+<span style="margin-left: 0.5em;">Theme: {{ theme.title }} </span>
 </div>
 </div>
 </div>
@@ -25,7 +25,7 @@ permalink: /research/
     <div class="peek_summary lollipop" onclick="this.parentElement.toggleAttribute('open');">
     <div>
     <div style="display:flex;flex-direction:row;">
-    <span style="margin-left: 0.5em;">{{ post.title }} </span>
+    <span style="margin-left: 0.5em;">Project: {{ post.title }} </span>
     <span style="width:1em;"></span>
     <span style="align-self:center;"><a href="{{ post.url }}"> <i class="icon-web-page-click"></i></a></span>
     </div>
