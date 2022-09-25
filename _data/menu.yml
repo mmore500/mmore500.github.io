@@ -1,10 +1,10 @@
-- title: "About Me"
+- title: "About"
   href: "/about/"
 
-- title: "CV"
-  href: "/resources/curriculum_vitae.pdf"
+- title: "Efflux"
+  href: "/efflux/"
 
-- title: "Research & Projects"
+- title: "Research"
   href: "/research/"
 
 - title: "Blog"

@@ -1,79 +1,57 @@
 ---
 layout: default
-title: About Me
+title: About
 permalink: /about/
 ---
 
-<style>
-  .img-group{
-  	display:flex;
-    width:100%;
-    margin:auto;
-  }
+<details class="lollipop" open>
+<summary class="lollipop">Bio<span style="width:1em;"></span> <a href="/bio"><i class="icon-web-page-click"></i></a></summary>
 
-  .flex-container{
-  	display:flex;
-  }
+<div class="lollipop-detail exit-cursor" onclick="if (event.target.tagName != 'A') this.parentElement.removeAttribute('open');">
 
-  .flex-aspect .img-container1{
-	   flex:0.7748;
-  }
-
-  .flex-aspect .img-container2{
-	   flex:0.9282;
-  }
-
-  .flex-aspect .img-container3{
-	   flex:1.5;
-  }
-
-  .flex-aspect .img-container4{
-	   flex:1.5;
-  }
-
-  .padding {
-	padding: 0px 5px 20px 5px;
-}
-
-</style>
-
-<div class="img-group flex-container flex-aspect">
-
-  <div class = "img-container1 padding">
-    <img src="/resources/personal_photo_1.jpg" alt="Headshot by Hanna McIntosh" class = "baseimg"/>
-  </div>
-
-  <div class = "img-container3 padding">
-  <img src="/resources/personal_photo_3.jpeg" alt="Headshot by Adele Han" class = "baseimg"/>
-  </div>
-
+{% capture bio_include %}{% include bio.md %}{% endcapture %}
+{{ bio_include | markdownify }}
 </div>
 
-I am currently a doctoral student at the [Michigan State University](https://msu.edu/) [Department of Computer Science and Engineering](http://www.cse.msu.edu/).
-My research interest is in using digital evolution techniques to investigate scientific questions about evolution.
-I currently study major transitions in evolution and evolvability.
-I work with the [Digital Evolution Lab](http://devolab.msu.edu/), led by [Dr. Charles Ofria](http://www.ofria.com/).
-Our group is associated with the [BEACON Center for Evolution in Action](http://beacon-center.org/).
+</details>
 
-I grew up in Corvallis, Oregon then moved to Tacoma, Washington to attend the [University of Puget Sound](https://www.pugetsound.edu/).
-In 2017, I graduated as a Coolidge Otis Chapman Honors Scholar with majors in Mathematics and Computer Science and a minor in Chemistry.
-My undergraduate thesis and capstone work, respectively, investigated theoretical aspects of evolvability and probed the relationship between evolvability and plasticity through computational experimentation.
-[Dr. America Chambers](http://mathcs.pugetsound.edu/~alchambers/) served as my thesis advisor.
+<details class="lollipop">
+<summary class="lollipop"><i>Curriculum Vitae</i><span style="width:1em;"></span> <a href="{{site.baseurl}}/resources/curriculum_vitae.pdf"><i class="icon-web-page-click"></i></a></summary>
 
-<div class="img-group flex-container flex-aspect">
-
-  <div class = "img-container4 padding">
-    <img src="/resources/personal_photo_4.jpg" alt="selfie at Grandma's" class = "baseimg"/>
-  </div>
-
-  <div class = "img-container2 padding">
-    <img src="/resources/personal_photo_2.jpg" alt="Skiing with Nathan" class = "baseimg"/>
-  </div>
-
+<div class="lollipop-detail exit-cursor" onclick="if (event.target.tagName != 'A') this.parentElement.removeAttribute('open');">
+<a href="{{site.baseurl}}/resources/curriculum_vitae.pdf">PDF <i class="icon-web-page-click"></i></a>
 </div>
 
-In my spare time, I like to take pictures.
-You can look at a few of them [here](http://mmore500.tumblr.com).
-I particularly love the green spaces around Corvallis, which appear frequently in my photographs.
-As an undergraduate, I played oboe with the University of Puget Sound Wind Ensemble and tutored at the [Center for Writing, Learning, and Teaching](https://www.pugetsound.edu/cwlt).
-I also wrote for the University of Puget Sound Sound Economics Blog, which you can read [here](https://blogs.pugetsound.edu/econ/).
+</details>
+
+<!-- <details class="lollipop">
+<summary class="lollipop">Diversity, Equity, and Inclusion Statement<span style="width:1em;"></span> <a href="{{site.baseurl}}/dei-statement/"><i class="icon-web-page-click"></i></a></summary>
+
+<div class="lollipop-detail exit-cursor" onclick="if (event.target.tagName != 'A') this.parentElement.removeAttribute('open');">
+
+{% capture deis_include %}{% include professional-statements/dei.md %}{% endcapture %}
+{{ deis_include | markdownify }}
+</div>
+
+</details>
+
+<details class="lollipop">
+<summary class="lollipop">Research Statement<span style="width:1em;"></span> <a href="{{site.baseurl}}/research-statement/"><i class="icon-web-page-click"></i></a></summary>
+<div class="lollipop-detail exit-cursor" onclick="if (event.target.tagName != 'A') this.parentElement.removeAttribute('open');">
+
+{% capture rs_include %}{% include professional-statements/research.md %}{% endcapture %}
+{{ rs_include | markdownify }}
+</div>
+
+</details> -->
+
+<details class="lollipop">
+<summary class="lollipop">Teaching Statement<span style="width:1em;"></span> <a href="{{site.baseurl}}/teaching-statement/"><i class="icon-web-page-click"></i></a></summary>
+
+<div class="lollipop-detail exit-cursor" onclick="if (event.target.tagName != 'A') this.parentElement.removeAttribute('open');">
+
+{% capture ts_include %}{% include professional-statements/teaching.md %}{% endcapture %}
+{{ ts_include | markdownify }}
+</div>
+
+</details>

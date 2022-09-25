@@ -1,0 +1,23 @@
+- title: "Journal Papers"
+  slug: "journal"
+  open: true
+- title: "Conference Papers"
+  slug: "conference"
+  open: true
+- title: "Workshop Papers"
+  slug: "workshop"
+  open: true
+- title: "Extended Abstracts"
+  slug: "abstract"
+- title: "Preprints"
+  slug: "preprint"
+- title: "Miscellanea"
+  slug: "misc"
+- title: "Research Software"
+  slug: "research"
+- title: "Prosocial Software"
+  slug: "prosocial"
+- title: "Incidental Software"
+  slug: "incidental"
+- title: "Teaching Materials"
+  slug: "teaching"

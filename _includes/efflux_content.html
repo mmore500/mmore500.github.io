@@ -1,0 +1,138 @@
+<span style="display:inline-flex;width:100%;">
+{% if include.page.view_github %}<a href="{{ include.page.view_github }}" class="button efflux">
+View on GitHub
+<br/>
+<i class="icon-github-1"></i>
+</a>{% endif %}
+{% if include.page.download %}<a href="{{ include.page.download }}" class="button efflux">
+Download
+<br/>
+<i class="icon-download"></i>
+</a>{% endif %}
+{% if include.page.view_publisher %}<a href="{{ include.page.view_publisher }}" class="button efflux">
+<span sytle="font-weight:450;">View at Publisher</span>
+<br/>
+<i style="font-weight:800" class="icon-link-ext"></i>
+</a>{% endif %}
+</span>
+
+<table>
+
+{% if include.page.authors %}
+<tr>
+<td>
+<b>Authors</b>
+</td>
+<td>
+<span>
+{% for author in include.page.authors %}
+<span itemprop="author" itemscope itemtype="http://schema.org/Person">
+  {% if author == "Matthew Andres Moreno" %}<i>{% endif %}<span itemprop="name">{{ author }}</span>{% if author == "Matthew Andres Moreno" %}</i>{% endif %}{% if forloop.last != true %},{% endif %}
+</span>
+{% endfor %}
+</span>
+</td>
+</tr>
+{% endif %}
+
+{% if include.page.date %}
+<tr>
+<td>
+<span markdown="1">
+<b>Date</b>
+</span>
+</td>
+<td>
+<span markdown="1">
+{{ include.page.date | date_to_long_string: "ordinal", "US" }}
+</span>
+</td>
+</tr>
+{% endif %}
+
+{% if include.page.doi %}
+<tr>
+<td>
+<span markdown="1">
+<b>DOI</b>
+</span>
+</td>
+<td>
+<span markdown="1">
+<a href="https://doi.org/{{ include.page.doi }}">{{ include.page.doi }}</a>
+</span>
+</td>
+</tr>
+{% endif %}
+
+{% if include.page.venue %}
+<tr>
+<td>
+<span markdown="1">
+<b>Venue</b>
+</span>
+</td>
+<td>
+<span markdown="1">
+{{ include.page.venue }}
+</span>
+</td>
+</tr>
+{% endif %}
+
+</table>
+
+{% if include.page.description %}
+{{ include.page.description | markdownify }}
+{% endif %}
+
+{% if include.page.abstract %}
+<details class="lollipop" markdown="1">
+<summary class="lollipop">Abstract</summary>
+
+<div class="lollipop-detail" markdown="1">
+{{ include.page.abstract | markdownify }}
+</div>
+
+</details>
+{% endif %}
+
+{% if include.page.bibtex %}
+<details class="lollipop" markdown="1">
+<summary class="lollipop">BibTeX</summary>
+
+<div class="lollipop-detail" markdown="1">
+{% capture bibtex_include %}
+```bibtex
+{{ include.page.bibtex }}
+```
+{% endcapture %}
+{% include copy_to_clipboard.html content=include.page.bibtex %}
+{{ bibtex_include | markdownify }}
+</div>
+</details>
+{% endif %}
+
+{% if include.page.citation %}
+<details class="lollipop" markdown="1">
+<summary class="lollipop">Citation</summary>
+
+<div class="lollipop-detail" markdown="1">
+{% capture citation_include %}
+> {{ include.page.citation }}
+{% endcapture %}
+{% include copy_to_clipboard.html content=include.page.citation %}
+{{ citation_include | markdownify }}
+
+</div>
+</details>
+{% endif %}
+
+{% if include.page.supporting_materials %}
+<details class="lollipop" markdown="1">
+<summary class="lollipop">Supporting Materials</summary>
+<div class="lollipop-detail" markdown="1">
+{{ include.page.supporting_materials | markdownify }}
+</div>
+</details>
+{% endif %}
