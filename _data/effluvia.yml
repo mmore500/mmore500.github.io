@@ -1,9 +1,12 @@
 - title: "Journal Papers"
   slug: "journal"
+  open: true
 - title: "Conference Papers"
   slug: "conference"
+  open: true
 - title: "Workshop Papers"
   slug: "workshop"
+  open: true
 - title: "Extended Abstracts"
   slug: "abstract"
 - title: "Preprints"

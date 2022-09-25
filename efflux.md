@@ -9,7 +9,7 @@ My publications can also be viewed on [my google scholar profile](https://schola
 
 {% for effluvium in site.data.effluvia %}
 
-<details class="lollipop">
+<details class="lollipop" {% if effluvium.open %}open{% endif %}>
 <summary class="lollipop">{{ effluvium.title }}</summary>
 
 <div class="lollipop-detail">
