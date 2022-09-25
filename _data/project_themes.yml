@@ -3,6 +3,16 @@
   description: |
     ![PCA visualization of gene regulation activity in DISHTINY](/resources/cover-scaling-up.png){:width="100%"}{:height="200px"}{:style="object-fit:cover; object-position:top;"}
     _PCA visualization of gene regulation activity in DISHTINY._
+
+    Studying how artificial evolutionary systems can continually produce novel artifacts of increasing complexity has proven to be a rich vein for practical, scientific, philosophical, and artistic innovations. Unfortunately, existing computational artificial life systems appear constrained by practical limitations on simulation scale.
+    While by no means certain, the idea that orders-of-magnitude increases in compute power will open up qualitatively different possibilities with respect to open-ended evolution is well founded.
+
+    Until fundamental changes to computing technology transpire, scaling up artificial life compute power will require taking advantage of parallel and distributed computing systems.
+    Modern high-performance scientific computing clusters appear perhaps the best target to start down this path.
+
+    Unlike most existing applications of distributed computing in digital evolution, open-ended evolution researchers must prioritize dynamic interactions among distributed simulation elements.
+    Ecologies, co-evolutionary dynamics, and social behavior all necessitate such dynamic interactions.
+    The question of how to design artificial life simulations and engineer artifical life software at scale will be paramount for the field.
 - title: "Building Accessible, Extendable, and Maintainable Artificial Life Research Software"
   slug: "software"
   description: |
