@@ -107,7 +107,7 @@ Download
 {{ include.page.bibtex }}
 ```
 {% endcapture %}
-<a onclick="navigator.clipboard.writeText(`{{ include.page.bibtex  | replace: '"', '\"' }}`); this.style.setProperty('animation', 'initial'); this.style.setProperty('-webkit-animation', 'initial'); this.style.setProperty('-moz-animation', 'initial'); this.style.setProperty('-o-animation', 'initial'); void this.offsetWidth; this.style.setProperty('animation', 'target-fade 1s'); this.style.setProperty('-webkit-animation', 'target-fade 1s'); this.style.setProperty('-moz-animation', 'target-fade 1s'); this.style.setProperty('-o-animation', 'target-fade 1s');" style="cursor: pointer;">⎘ copy to clipboard</a>
+{% include copy_to_clipboard.html content=include.page.bibtex %}
 {{ bibtex_include | markdownify }}
 </div>
 </details>
@@ -121,7 +121,7 @@ Download
 {% capture citation_include %}
 > {{ include.page.citation }}
 {% endcapture %}
-<a onclick="navigator.clipboard.writeText(`{{ include.page.citation | replace: '"', '\"' }}`); this.style.setProperty('animation', 'initial'); this.style.setProperty('-webkit-animation', 'initial'); this.style.setProperty('-moz-animation', 'initial'); this.style.setProperty('-o-animation', 'initial'); void this.offsetWidth; this.style.setProperty('animation', 'target-fade 1s'); this.style.setProperty('-webkit-animation', 'target-fade 1s'); this.style.setProperty('-moz-animation', 'target-fade 1s'); this.style.setProperty('-o-animation', 'target-fade 1s');" style="cursor: pointer;">⎘ copy to clipboard</a>
+{% include copy_to_clipboard.html content=include.page.citation %}
 {{ citation_include | markdownify }}
 
 </div>
