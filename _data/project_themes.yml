@@ -8,6 +8,15 @@
   description: |
     ![group photo of participants in 2020 and 2021 Workshops for Avida-ED Software Development](/resources/cover-software.png){:width="100%"}{:height="200px"}{:style="object-fit:cover; object-position:top;"}
     _Group photo of participants in 2020 and 2021 Workshops for Avida-ED Software Development._
+
+    Open source software supercharges the rate of scientific progress and the applied praxis of those advances.
+    Interdisciplinary fields like artificial life, which thrive due to contributions from those without formal training in computing such as biologists and mathematicians, especially benefit from published applications and software packages.
+
+    Open source devleopment of research software holds core priority within my work, with particular emphasis on maximizing its broader usefullness to the broader community outside of its original context.
+    Teaching and mentorship also constitues a core aspect of this work, empowering researchers with development capabilities and promoting best practices in the community.
+    I led the 2020 and 2021 Workshop for Avida-ED Software Development, which paired 27 early-career participants mentored 10 week hands-on projects, most related to writing, testing, and documenting software.
+    I have also mentored five undergraduates on scientific software development projects.
+
 - title: "Unverstainding Evolvability and Improving It in Digital Evolution Systems"
   slug: "evolvability"
   description: |
