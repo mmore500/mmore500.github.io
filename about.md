@@ -24,7 +24,7 @@ permalink: /about/
 
 </details>
 
-<details class="lollipop">
+<!-- <details class="lollipop">
 <summary class="lollipop">Diversity, Equity, and Inclusion Statement<span style="width:1em;"></span> <a href="{{site.baseurl}}/dei-statement/"><i class="icon-web-page-click"></i></a></summary>
 
 <div class="lollipop-detail exit-cursor" onclick="if (event.target.tagName != 'A') this.parentElement.removeAttribute('open');">
@@ -43,7 +43,7 @@ permalink: /about/
 {{ rs_include | markdownify }}
 </div>
 
-</details>
+</details> -->
 
 <details class="lollipop">
 <summary class="lollipop">Teaching Statement<span style="width:1em;"></span> <a href="{{site.baseurl}}/teaching-statement/"><i class="icon-web-page-click"></i></a></summary>
