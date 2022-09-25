@@ -13,3 +13,15 @@
   description: |
     ![evolvability signatures from developmental genotype-phenotype map models](/resources/cover-evolvability.png){:width="100%"}{:height="200px"}{:style="object-fit:cover; object-position:top;"}
     _Evolvability signatures from developmental genotype-phenotype map models._
+
+    Successful evolutionary search depends on the production of meaningful phenotypic variation that can be inherited by offspring.
+    Without useful heritable variation evolution stagnates.
+    The concept of evolvability describes a population's capacity to generate useful heritable phenotypic variation is  of evolvability.
+    Different evolving systems can exhibit different degrees of evolvability.
+
+    Natural systems, in particular, are usually considered to have a capability to continuously generate interesting variation compared to computational
+    systems.
+    Understanding --- and replicating -- the evolvability of natural evolution is an open problem in computational evolution research.
+
+    Evolvability is desirable in artificial evolution systems for practical ends -- more evolvable systems will help evolutionary algorithms to tackle sophisticated problems more effectively and efficiently.
+    Understanding evolvability is of great scientific interest for both evolutionary biologists and evolutionary computing researchers, not only for optimization but also with respect to questions related to the evolution of complexity and open-ended evolution.
