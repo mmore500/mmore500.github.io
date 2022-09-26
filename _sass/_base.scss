@@ -351,6 +351,7 @@ a.button.efflux:hover {
 }
 
 details.lollipop > summary, .peek_details.lollipop > .peek_summary {
+  list-style: none;
   list-style-type: "";
   display: -webkit-flex;
   display: flex;
@@ -389,8 +390,9 @@ details[open].lollipop > summary:before, .peek_details[open].lollipop > .peek_su
   margin-left: -0.625em;
 }
 
-summary.lollipop::-webkit-details-marker, .peek_summary.lollipop::-webkit-details-marker {
+summary.lollipop::-webkit-details-marker, .peek_summary.lollipop::-webkit-details-marker, summary.lollipop::marker, .peek_summary.lollipop::marker {
   list-style-type: "";
+  display: none;
 }
 
 details.lollipop[open] > summary {
