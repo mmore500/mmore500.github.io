@@ -2,6 +2,7 @@
 layout: efflux
 title: "Matchmaker, Matchmaker, Make Me a Match: Geometric, Variational, and Evolutionary Implications of Criteria for Tag Affinity"
 date: 2021-08-10
+permalink: "/pubs/:title"
 category: preprint
 download: https://github.com/mmore500/tag-olympics-writeup/releases/download/v1.0.0/tag-olympics-writeup.pdf
 view_publisher: https://doi.org/10.48550/arXiv.2108.04507

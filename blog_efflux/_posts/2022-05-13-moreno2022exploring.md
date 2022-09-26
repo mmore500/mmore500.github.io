@@ -2,6 +2,7 @@
 layout: efflux
 title: "Exploring Evolved Multicellular Life Histories in a Open-Ended Digital Evolution System"
 date: 2022-05-13
+permalink: "/pubs/:title"
 category: journal
 download: https://github.com/mmore500/frontiers-2021/releases/download/v2.0.0/frontiers-2021.pdf
 view_publisher: https://doi.org/10.3389/fevo.2022.750837

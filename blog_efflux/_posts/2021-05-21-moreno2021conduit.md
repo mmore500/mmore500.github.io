@@ -2,6 +2,7 @@
 layout: efflux
 title: "Conduit: A C++ Library for Best-effort High Performance Computing"
 date: 2021-05-21
+permalink: "/pubs/:title"
 category: workshop
 download: https://github.com/mmore500/2021-gecco-conduit/releases/download/1.0.0/2021-gecco-conduit.pdf
 view_publisher: https://doi.org/10.1145/3449726.3463205

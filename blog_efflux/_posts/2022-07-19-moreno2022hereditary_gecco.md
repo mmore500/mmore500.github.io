@@ -2,6 +2,7 @@
 layout: efflux
 title: "Hereditary stratigraphy: genome annotations to enable phylogenetic inference over distributed populations"
 date: 2022-05-13
+permalink: "/pubs/:title"
 category: abstract
 download: https://github.com/mmore500/hereditary-stratigraph-concept/releases/download/v0.2.0/hereditary-stratigraph-concept.pdf
 view_publisher: https://doi.org/10.1145/3520304.3533937

@@ -2,6 +2,7 @@
 layout: efflux
 title: "Learning an Evolvable Genotype-Phenotype Mapping"
 date: 2018-07-15
+permalink: "/pubs/:title"
 category: conference
 download: https://github.com/mmore500/gecco-2018/releases/download/v3.1.4/sample-sigconf.pdf
 view_publisher: https://doi.org/10.1145/3205455.3205597

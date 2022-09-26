@@ -2,6 +2,7 @@
 layout: efflux
 title: "Understanding Fraternal Transitions in Individuality"
 date: 2018-07-22
+permalink: "/pubs/:title"
 category: workshop
 download: https://github.com/mmore500/alife-2018/releases/download/v2.0.2/alife-2018-draft.pdf
 view_publisher: http://workshops.alife.org/oee3/

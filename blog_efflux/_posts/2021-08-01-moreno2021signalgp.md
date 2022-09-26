@@ -2,6 +2,7 @@
 layout: efflux
 title: "SignalGP-Lite: Event Driven Genetic Programming Library for Large-Scale Artificial Life Applications "
 date: 2022-08-01
+permalink: "/pubs/:title"
 category: preprint
 download: https://arxiv.org/pdf/2108.00382
 view_publisher: https://doi.org/10.48550/arXiv.2108.00382

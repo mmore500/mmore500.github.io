@@ -2,6 +2,7 @@
 layout: efflux
 title: "Evolvability: What Is It and How Do We Get It?"
 date: 2017-04-17
+permalink: "/pubs/:title"
 category: misc
 download: https://github.com/mmore500/honors-thesis/releases/download/v1.0.0/Evolvability__What_Is_It_and_How_Do_We_Get_It_.pdf
 view_publisher: http://soundideas.pugetsound.edu/honors_program_theses/22/
