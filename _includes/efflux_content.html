@@ -38,12 +38,12 @@ Download
 {% if include.page.date %}
 <tr>
 <td>
-<span markdown="1">
+<span>
 <b>Date</b>
 </span>
 </td>
 <td>
-<span markdown="1">
+<span>
 {{ include.page.date | date_to_long_string: "ordinal", "US" }}
 </span>
 </td>
@@ -53,12 +53,12 @@ Download
 {% if include.page.doi %}
 <tr>
 <td>
-<span markdown="1">
+<span>
 <b>DOI</b>
 </span>
 </td>
 <td>
-<span markdown="1">
+<span>
 <a href="https://doi.org/{{ include.page.doi }}">{{ include.page.doi }}</a>
 </span>
 </td>
@@ -68,12 +68,12 @@ Download
 {% if include.page.venue %}
 <tr>
 <td>
-<span markdown="1">
+<span>
 <b>Venue</b>
 </span>
 </td>
 <td>
-<span markdown="1">
+<span>
 {{ include.page.venue }}
 </span>
 </td>
@@ -87,10 +87,10 @@ Download
 {% endif %}
 
 {% if include.page.abstract %}
-<details class="lollipop" markdown="1">
+<details class="lollipop">
 <summary class="lollipop">Abstract</summary>
 
-<div class="lollipop-detail" markdown="1">
+<div class="lollipop-detail">
 {{ include.page.abstract | markdownify }}
 </div>
 
@@ -98,10 +98,10 @@ Download
 {% endif %}
 
 {% if include.page.bibtex %}
-<details class="lollipop" markdown="1">
+<details class="lollipop">
 <summary class="lollipop">BibTeX</summary>
 
-<div class="lollipop-detail" markdown="1">
+<div class="lollipop-detail">
 {% capture bibtex_include %}
 ```bibtex
 {{ include.page.bibtex }}
@@ -114,10 +114,10 @@ Download
 {% endif %}
 
 {% if include.page.citation %}
-<details class="lollipop" markdown="1">
+<details class="lollipop">
 <summary class="lollipop">Citation</summary>
 
-<div class="lollipop-detail" markdown="1">
+<div class="lollipop-detail">
 {% capture citation_include %}
 > {{ include.page.citation }}
 {% endcapture %}
@@ -129,9 +129,9 @@ Download
 {% endif %}
 
 {% if include.page.supporting_materials %}
-<details class="lollipop" markdown="1">
+<details class="lollipop">
 <summary class="lollipop">Supporting Materials</summary>
-<div class="lollipop-detail" markdown="1">
+<div class="lollipop-detail">
 {{ include.page.supporting_materials | markdownify }}
 </div>
 </details>
