@@ -9,7 +9,7 @@ My publications can also be viewed on [my google scholar profile](https://schola
 
 
 <details class="lollipop">
-<summary class="lollipop">Selected Highlights</summary>
+<summary class="lollipop">🌟 Selected Highlights</summary>
 <div class="lollipop-detail">
 {% for which in site.data.highlights  %}
 {% for post in site.categories.blog_efflux  %}
@@ -68,7 +68,7 @@ My publications can also be viewed on [my google scholar profile](https://schola
 {% endfor %}
 
 <details class="lollipop">
-<summary class="lollipop">Alphabetical Listing</summary>
+<summary class="lollipop">🔤 Alphabetical Listing</summary>
 <div class="lollipop-detail">
 {% assign sorted_posts = site.categories.blog_efflux | sort: 'title' %}
 {% for post in sorted_posts  %}
@@ -87,7 +87,7 @@ My publications can also be viewed on [my google scholar profile](https://schola
 </details>
 
 <details class="lollipop">
-<summary class="lollipop">Chronological Listing</summary>
+<summary class="lollipop">🆕 Chronological Listing</summary>
 <div class="lollipop-detail">
 {% assign sorted_posts = site.categories.blog_efflux | sort: 'date' | reverse %}
 {% for post in sorted_posts  %}
