@@ -7,6 +7,35 @@ permalink: /works/
 This page provides unrestricted downloads and supporting materials for my publications and other professional works.
 My publications can also be viewed on [my google scholar profile](https://scholar.google.com/citations?user=xROn8y4AAAAJ).
 
+
+<details class="lollipop">
+<summary class="lollipop">Selected Highlights</summary>
+<div class="lollipop-detail">
+{% for which in site.data.highlights  %}
+{% for post in site.categories.blog_efflux  %}
+{% if post.slug == which  %}
+  <details class="lollipop">
+  <summary class="lollipop">
+  <div style="display:flex;flex-direction:row">
+  <span style="margin-left: 0.5em; align-self:center;">{{ post.date | date: "%Y" }}</span>
+  <span style="margin: 0 1em 0 0;"></span>
+  <span>{{ post.title }} <br/> <i>{{ post.venue }}</i> </span>
+  <span style="width:1em;"></span>
+  <span style="align-self:center;"><a href="{{ post.url }}"> <i class="icon-web-page-click"></i></a></span>
+  </div>
+  </summary>
+  <div class="lollipop-detail">
+  {% include efflux_content.html page=post %}
+  </div>
+  </details>
+  <br/>
+{% endif %}
+{% endfor %}
+{% endfor %}
+</div>
+</details>
+
+
 {% for effluvium in site.data.effluvia %}
 
 <details class="lollipop" {% if effluvium.open %}open{% endif %}>
