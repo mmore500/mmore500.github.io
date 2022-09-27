@@ -16,10 +16,10 @@ permalink: /about/
 </details>
 
 <details class="lollipop">
-<summary class="lollipop"><i>Curriculum Vitae</i><span style="width:1em;"></span> <a href="{{site.baseurl}}/resources/curriculum_vitae.pdf"><i class="icon-web-page-click"></i></a></summary>
+<summary class="lollipop"><i>Curriculum Vitae</i><span style="width:1em;"></span> <a href="https://mmore500.com/cv/moreno_cv.pdf"><i class="icon-web-page-click"></i></a></summary>
 
 <div class="lollipop-detail exit-cursor" onclick="if (event.target.tagName != 'A') this.parentElement.removeAttribute('open');">
-<a href="{{site.baseurl}}/resources/curriculum_vitae.pdf">PDF <i class="icon-web-page-click"></i></a>
+<a href="https://mmore500.com/cv/moreno_cv.pdf">PDF <i class="icon-web-page-click"></i></a>
 </div>
 
 </details>
