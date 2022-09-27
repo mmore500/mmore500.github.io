@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Efflux
-permalink: /efflux/
+title: Professional Works
+permalink: /works/
 ---
 
 This page provides unrestricted downloads and supporting materials for my publications and other professional works.
