@@ -3,7 +3,7 @@ layout: efflux
 title: "Conduit: A C++ Library for Best-effort High Performance Computing"
 date: 2021-03-12
 permalink: "/pubs/:title"
-category: workshop
+category: abstract
 download: https://github.com/mmore500/2020-hpsc-conduit-poster/releases/download/1.0.0/2020-spsc-extended-abstract-word.pdf
 view_publisher: https://hpcs2020.cisedu.info/2-conference/workshops-hpcs2020/workshop19-mspds
 authors:
