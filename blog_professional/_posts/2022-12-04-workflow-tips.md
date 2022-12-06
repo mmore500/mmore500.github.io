@@ -44,6 +44,8 @@ don't invent your own serialization format
 
 ## Save SLURM logs to one folder, named with the JOB ID
 
+Consider using symlinks
+
 ## Also save a copy of SLURM scripts to a separate folder, named with the JOB ID
 
 This makes it easy to debug, rerun, or make small manual changes and rerun.
