@@ -3,7 +3,7 @@ layout: post
 title: "Hard-won Research Workflow Tips"
 date: 2022-12-04
 no_toc: true
-hidden: true
+published: false
 ---
 
 ## Number Seeds Starting at 1,000
