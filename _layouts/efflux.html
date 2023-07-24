@@ -8,6 +8,6 @@ layout: default
     <span class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished"></time></span>
   </header>
 
-  {% include efflux_content.html page=page %}
+  {% include efflux_content.html page=page is_post=true %}
 
 </article>

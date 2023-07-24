@@ -129,7 +129,7 @@ Download
 {% endif %}
 
 {% if include.page.supporting_materials %}
-<details class="lollipop">
+<details class="lollipop" {% if include.is_post %}open{% endif %}>
 <summary class="lollipop">Supporting Materials</summary>
 <div class="lollipop-detail">
 {{ include.page.supporting_materials | markdownify }}
