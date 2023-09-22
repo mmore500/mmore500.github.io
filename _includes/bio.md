@@ -43,8 +43,8 @@
 
 </div>
 
-I am currently a postdoctoral scholar at the [University of Michigan](https://umich.edu/) associated with the [Ecology and Evolutionary Biology department](https://lsa.umich.edu/eeb) and the [Complex Systems](https://lsa.umich.edu/cscs/) and [Michigan Institute for Data Science](https://midas.umich.edu/).
-I am a member of the [Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](https://www.schmidtfutures.com/our-work/schmidt-ai-in-science-postdocs/).
+I am currently a postdoctoral scholar at the [University of Michigan](https://umich.edu/) associated with the [Ecology and Evolutionary Biology department](https://lsa.umich.edu/eeb) and the [Complex Systems](https://lsa.umich.edu/cscs/) and [Michigan Institute for Data Science](https://midas.umich.edu/) programs.
+I am a member of the [Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](https://www.schmidtfutures.com/our-work/schmidt-ai-in-science-postdocs/) program.
 My research interest is in using digital evolution techniques to investigate scientific questions about evolution.
 I currently study major transitions in evolution and evolvability.
 
