@@ -42,4 +42,5 @@ supporting_materials: |
   - [source code](https://github.com/mmore500/tag-olympics/releases/tag/v1.1.0) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [source code](https://github.com/mmore500/tag-olympics/releases/tag/v1.1.0) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [LaTeX source](https://github.com/mmore500/tag-olympics-writeup/) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
+  - [twitter thread](https://twitter.com/MorenoMatthewA/status/1680904494991933443)
 ---
