@@ -15,12 +15,12 @@ venue: Genetic Programming and Evolvable Machines
 projects:
   - tag
 abstract: |
-Genetic programming and artificial life systems commonly use tag matching to decide interactions between system components.
-However, the implications of criteria used to determine affinity between tags with respect evolutionary dynamics have not been directly studied.
-We investigate differences between tag-matching criteria with respect to geometric constraint and variation generated under mutation.
-In experiments, we find that tag-matching criteria can influence the rate of adaptive evolution and the quality of evolved solutions.
-Better understanding of the geometric, variational, and evolutionary properties of tag-matching criteria will facilitate more effective incorporation of tag matching into genetic programming and artificial life systems.
-By showing that tag-matching criteria influence connectivity patterns and evolutionary dynamics, our findings also raise fundamental questions about the properties of tag-matching systems in nature.
+  Genetic programming and artificial life systems commonly use tag matching to decide interactions between system components.
+  However, the implications of criteria used to determine affinity between tags with respect evolutionary dynamics have not been directly studied.
+  We investigate differences between tag-matching criteria with respect to geometric constraint and variation generated under mutation.
+  In experiments, we find that tag-matching criteria can influence the rate of adaptive evolution and the quality of evolved solutions.
+  Better understanding of the geometric, variational, and evolutionary properties of tag-matching criteria will facilitate more effective incorporation of tag matching into genetic programming and artificial life systems.
+  By showing that tag-matching criteria influence connectivity patterns and evolutionary dynamics, our findings also raise fundamental questions about the properties of tag-matching systems in nature.
 bibtex: |-
   @article{moreno2023matchmaker,
     author = {Moreno, Matthew Andres and Lalejini, Alexander and Ofria, Charles},
