@@ -1,6 +1,9 @@
 - title: "📚 Journal Publications"
   slug: "journal"
   open: true
+- title: "📖 Book Chapters"
+  slug: "chapter"
+  open: true
 - title: "🧳 Conference Papers"
   slug: "conference"
   open: true
