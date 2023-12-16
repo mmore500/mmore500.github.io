@@ -5,7 +5,7 @@ date: 2021-06-03
 no_toc: true
 ---
 
-Not quite a full blog post, but a usefull tidbit nonetheless.
+Not quite a full blog post, but a useful tidbit nonetheless.
 
 Open up developer view (`ctrl-I`, usually) and paste this into your JavaScript console to untruncate long filenames on GitHub's tree view.
 
