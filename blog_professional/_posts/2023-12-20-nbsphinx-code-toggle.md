@@ -28,7 +28,7 @@ Sphinx has a straightforward hook for this.
 
 After a little styling and animation fiddling, here's what it looks like in action.
 
-![toggling notebook cell in sphinx docs](/resources/2023-12-20-nbsphinx-code-toggle.gif){:style="width: 40%;display:block; margin-left:auto; margin-right:auto;"}
+![toggling notebook cell in sphinx docs](/resources/2023-12-20-nbsphinx-code-toggle.gif){:style="width: 80%;display:block; margin-left:auto; margin-right:auto;"}
 
 To get things readable, I ended up adding `<hline>` breaks around code cells and hiding the cell numbers.
 
