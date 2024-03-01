@@ -5,7 +5,7 @@ date: 2023-07-24
 permalink: "/pubs/:title"
 category: chapter
 download: https://github.com/mmore500/hstrat-recomb-concept/releases/download/v1.1.1/hstrat-recomb-concept.pdf
-view_publisher: https://link.springer.com/book/9789819984121
+view_publisher: [https://link.springer.com/book/9789819984121](https://doi.org/10.1007/978-981-99-8413-8_7)
 authors:
   - Matthew Andres Moreno
 venue: Genetic Programming Theory and Practice XX
@@ -22,19 +22,22 @@ abstract: |
   Such capabilities anticipate continued growth of computational resources available to EC.
   Accompanying open source software aims to expedite application of reconstruction-based phylogenetic analysis where pertinent.
 bibtex: |-
-  @inproceedings{moreno2024methods,
+@inbook{moreno2024methods,
     author    = {Moreno, Matthew Andres},
     editor    = {Winkler, Stephan
-                and Trujillo, Leonardo
-                and Ofria, Charles
-                and Hu, Ting},
+                 and Trujillo, Leonardo
+                 and Ofria, Charles
+                 and Hu, Ting},
     title     = {Methods for Rich Phylogenetic Inference Over Distributed Sexual Populations},
     booktitle = {Genetic Programming Theory and Practice XX},
-    year      = {in print},
+    year      = 2024,
+    pages     = {125--141},
     publisher = {Springer International Publishing},
-    isbn      = {978-981-99-8413-8}
+    isbn      = {978-981-99-8413-8},
+    doi       = {10.1007/978-981-99-8413-8_7},
+    url       = {https://doi.org/10.1007/978-981-99-8413-8_7},
   }
-citation: in print
+citation: "Moreno, M.A. (2024). Methods for Rich Phylogenetic Inference Over Distributed Sexual Populations. In: Winkler, S., Trujillo, L., Ofria, C., Hu, T. (eds) Genetic Programming Theory and Practice XX. Genetic and Evolutionary Computation. Springer, Singapore. https://doi.org/10.1007/978-981-99-8413-8_7"
 supporting_materials: |
   - [data](https://osf.io/xj5pn/) [via Open Science Framework ❋](https://osf.io)
   - [source code](https://github.com/mmore500/hstrat-recomb-concept/tree/master) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
