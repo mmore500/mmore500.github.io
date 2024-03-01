@@ -1,7 +1,7 @@
 ---
 layout: efflux
 title: "Methods for Rich Phylogenetic Inference Over Distributed Sexual Populations"
-date: 2023-07-24
+date: 2024-02-18
 permalink: "/pubs/:title"
 category: chapter
 download: https://github.com/mmore500/hstrat-recomb-concept/releases/download/v1.1.1/hstrat-recomb-concept.pdf
