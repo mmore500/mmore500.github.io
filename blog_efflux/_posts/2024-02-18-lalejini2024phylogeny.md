@@ -24,7 +24,7 @@ abstract: |
   However, the extent to which phylogeny-informed fitness estimation improves problem-solving success for GP varies by problem, subsampling method, and subsampling level.
   This work serves as an initial step toward improving evolutionary algorithms by exploiting runtime phylogenetic analysis.
 bibtex: |-
-  @inbook{lalejini2024phylogeny,
+  @incollection{lalejini2024phylogeny,
     title    = {Phylogeny-Informed Fitness Estimation for Test-Based Parent Selection},
     author   = {Lalejini, Alexander
                 and Moreno, Matthew Andres
