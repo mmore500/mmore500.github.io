@@ -22,7 +22,7 @@ abstract: |
   Such capabilities anticipate continued growth of computational resources available to EC.
   Accompanying open source software aims to expedite application of reconstruction-based phylogenetic analysis where pertinent.
 bibtex: |-
-@inbook{moreno2024methods,
+  @inbook{moreno2024methods,
     author    = {Moreno, Matthew Andres},
     editor    = {Winkler, Stephan
                  and Trujillo, Leonardo
