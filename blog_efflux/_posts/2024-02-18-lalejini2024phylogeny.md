@@ -1,7 +1,7 @@
 ---
 layout: efflux
 title: "Phylogeny-Informed Fitness Estimation for Test-Based Parent Selection"
-date: 2024-02-29
+date: 2024-02-18
 permalink: "/pubs/:title"
 category: chapter
 download: https://arxiv.org/pdf/2306.03970.pdf
