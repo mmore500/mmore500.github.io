@@ -5,7 +5,7 @@ date: 2023-07-24
 permalink: "/pubs/:title"
 category: chapter
 download: https://github.com/mmore500/hstrat-recomb-concept/releases/download/v1.1.1/hstrat-recomb-concept.pdf
-view_publisher: [https://link.springer.com/book/9789819984121](https://doi.org/10.1007/978-981-99-8413-8_7)
+view_publisher: https://doi.org/10.1007/978-981-99-8413-8_7
 authors:
   - Matthew Andres Moreno
 venue: Genetic Programming Theory and Practice XX
