@@ -34,5 +34,5 @@ bibtex: |-
   }
 citation: "Moreno, M. A., Rodriguez Papa, S., & Dolson, E. (2024). Algorithms for Efficient, Compact Online Data Stream Curation. arXiv preprint arXiv:2403.00266."
 supporting_materials: |
-  - [manuscript source](https://github.com/mmore500/hstrat-algo-analysis) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
+  - [manuscript source](https://github.com/mmore500/hstrat-algorithm-analysis) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
 ---
