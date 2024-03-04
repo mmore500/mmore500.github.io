@@ -4,8 +4,8 @@ title: "Analysis of Phylogeny Tracking Algorithms for Serial and Multiprocess Ap
 date: 2024-03-03
 permalink: "/pubs/:title"
 category: preprint
-download: https://arxiv.org/pdf/2403.00266.pdf
-view_publisher: https://arxiv.org/abs/2403.00266
+download: https://arxiv.org/pdf/2403.00246.pdf
+view_publisher: https://arxiv.org/abs/2403.00246
 authors:
   - Matthew Andres Moreno
   - Santiago Rodriguez Papa
@@ -14,15 +14,14 @@ venue: arXiv
 projects:
   - hstrat
 abstract: |
-  Data stream algorithms tackle operations on high-volume sequences of read-once data items.
-  Data stream scenarios include inherently real-time systems like sensor networks and financial markets.
-  They also arise in purely-computational scenarios like ordered traversal of big data or long-running iterative simulations.
-  In this work, we develop methods to maintain running archives of stream data that are temporally representative, a task we call "stream curation."
-  Our approach contributes to rich existing literature on data stream binning, which we extend by providing stateless (i.e., non-iterative) curation schemes that enable key optimizations to trim archive storage overhead and streamline processing of incoming observations.
-  We also broaden support to cover new trade-offs between curated archive size and temporal coverage.
-  We present a suite of five stream curation algorithms that span O(n), O(logn), and O(1) orders of growth for retained data items.
-  Within each order of growth, algorithms are provided to maintain even coverage across history or bias coverage toward more recent time points.
-  More broadly, memory-efficient stream curation can boost the data stream mining capabilities of low-grade hardware in roles such as sensor nodes and data logging devices. 
+  Since the advent of modern bioinformatics, the challenging, multifaceted problem of reconstructing phylogenetic history from biological sequences has hatched perennial statistical and algorithmic innovation.
+  Studies of the phylogenetic dynamics of digital, agent-based evolutionary models motivate a peculiar converse question: how to best engineer tracking to facilitate fast, accurate, and memory-efficient lineage reconstructions?
+  Here, we formally describe procedures for phylogenetic analysis in both serial and distributed computing scenarios.
+  With respect to the former, we demonstrate reference-counting-based pruning of extinct lineages.
+  For the latter, we introduce a trie-based phylogenetic reconstruction approach for "hereditary stratigraphy" genome annotations.
+  This process allows phylogenetic relationships between genomes to be inferred by comparing their similarities, akin to reconstruction of natural history from biological DNA sequences.
+  Phylogenetic analysis capabilities significantly advance distributed agent-based simulations as a tool for evolutionary research, and also benefit application-oriented evolutionary computing.
+  Such tracing could extend also to other digital artifacts that proliferate through replication, like digital media and computer viruses.
 bibtex: |-
   @misc{moreno2024analysis,
         title={Analysis of Phylogeny Tracking Algorithms for Serial and Multiprocess Applications}, 
@@ -32,7 +31,7 @@ bibtex: |-
         archivePrefix={arXiv},
         primaryClass={cs.DS}
   }
-citation: "Moreno, M. A., Rodriguez Papa, S., & Dolson, E. (2024). Analysis of Phylogeny Tracking Algorithms for Serial and Multiprocess Applications. arXiv preprint arXiv:2403.00266."
+citation: "Moreno, M. A., Rodriguez Papa, S., & Dolson, E. (2024). Analysis of Phylogeny Tracking Algorithms for Serial and Multiprocess Applications. arXiv preprint arXiv:2403.00246."
 supporting_materials: |
-  - [manuscript source](https://github.com/mmore500/hstrat-algo-analysis) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
+  - [manuscript source](https://github.com/mmore500/phylotrack-algorithm-analysis) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
 ---
