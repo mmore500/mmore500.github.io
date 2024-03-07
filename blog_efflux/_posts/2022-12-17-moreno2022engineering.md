@@ -45,7 +45,7 @@ abstract: |
   Coupled with shrewd software engineering and innovative model design informed by evolutionary theory, contemporary hardware systems could plausibly already suffice to realize paradigm-shifting advances in open-ended evolution and, ultimately, scientific understanding of major transitions themselves.
   This work establishes important new tools and methodologies to support continuing progress in this direction.
 bibtex: |-
-  @phdthesis{
+  @phdthesis{moreno2022engineering,
     author={Moreno,Matthew A.},
     year={2022},
     title={Engineering Scalable Digital Models to Study Major Transitions in Evolution},
