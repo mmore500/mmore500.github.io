@@ -4,8 +4,9 @@ title: "Analysis of Phylogeny Tracking Algorithms for Serial and Multiprocess Ap
 date: 2024-03-03
 permalink: "/pubs/:title"
 category: preprint
+doi: 10.48550/arXiv.2403.00246
 download: https://arxiv.org/pdf/2403.00246.pdf
-view_publisher: https://arxiv.org/abs/2403.00246
+view_publisher: https://doi.org/10.48550/arXiv.2403.00246
 authors:
   - Matthew Andres Moreno
   - Santiago Rodriguez Papa
@@ -24,6 +25,8 @@ abstract: |
   Such tracing could extend also to other digital artifacts that proliferate through replication, like digital media and computer viruses.
 bibtex: |-
   @misc{moreno2024analysis,
+        doi={10.48550/arXiv.2403.00246},
+        url={https://arxiv.org/abs/2403.00246},
         title={Analysis of Phylogeny Tracking Algorithms for Serial and Multiprocess Applications}, 
         author={Matthew Andres Moreno and Santiago Rodriguez Papa and Emily Dolson},
         year={2024},
