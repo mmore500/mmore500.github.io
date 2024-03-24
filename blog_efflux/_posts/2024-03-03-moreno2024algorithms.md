@@ -28,7 +28,7 @@ bibtex: |-
   @misc{moreno2024algorithms,
         doi = {10.48550/arXiv.2403.00266},
         url = {https://arxiv.org/abs/2403.00246},
-        title={Algorithms for Efficient, Compact Online Data Stream Curation}, 
+        title={Algorithms for Efficient, Compact Online Data Stream Curation},
         author={Matthew Andres Moreno and Santiago Rodriguez Papa and Emily Dolson},
         year={2024},
         eprint={2403.00266},
