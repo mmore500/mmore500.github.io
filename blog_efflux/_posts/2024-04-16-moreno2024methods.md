@@ -24,15 +24,15 @@ bibtex: |-
   @misc{moreno2024methods,
         doi={10.48550/arXiv.2404.10854},
         url={https://arxiv.org/abs/2404.10854},
-        title={Analysis of Phylogeny Tracking Algorithms for Serial and Multiprocess Applications},
+        title={Methods to Estimate Cryptic Sequence Complexity},
         author={Matthew Andres Moreno},
         year={2024},
         eprint={2404.10854},
         archivePrefix={arXiv},
-        primaryClass={cs.DS}
+        primaryClass={q-bio.PE}
   }
 citation: "Moreno, M. A. (2024). Methods to Estimate Cryptic Sequence Complexity. arXiv preprint arXiv:2404.10854."
 supporting_materials: |
   - [manuscript source and software](https://github.com/mmore500/cryptic-sequence-concept/tree/v0.2.0) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
-  - [data notebooks][(https://github.com/mmore500/cryptic-sequence-concept](https://github.com/mmore500/cryptic-sequence-concept/tree/dfaed0ced3e088ae32c1cee96a9381e6a182a65e)) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
+  - [data notebooks][https://github.com/mmore500/cryptic-sequence-concept/tree/dfaed0ced3e088ae32c1cee96a9381e6a182a65e) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
 ---
