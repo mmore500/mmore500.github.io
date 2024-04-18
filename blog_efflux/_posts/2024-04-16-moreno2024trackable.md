@@ -30,11 +30,11 @@ abstract: |
   Together, these benchmark and validation trials reflect strong potential for highly scalable agent-based evolution simulation that is both efficient and observable.
   Developed capabilities will bring entirely new classes of previously intractable research questions within reach, benefiting further explorations within the evolutionary biology and artificial life communities across a variety of emerging high-performance computing platforms.
 bibtex: |-
-  @misc{moreno2024methods,
+  @misc{moreno2024trackable,
         doi={10.48550/arXiv.2404.10861},
         url={https://arxiv.org/abs/2404.10861},
         title={Trackable Agent-based Evolution Models at Wafer Scale},
-        author={Matthew Andres Moreno},
+        author={Matthew Andres Moreno and Connor Yang and Emily Dolson and Luis Zaman},
         year={2024},
         eprint={2404.10861},
         archivePrefix={arXiv},
