@@ -5,8 +5,8 @@ date: 2024-05-06
 permalink: "/pubs/:title"
 category: abstract
 doi: 10.1145/3638530.3664090
-download: https://github.com/mmore500/hstrat-wafer-scale/releases/download/v0.2.4/tex-extended-abstract.pdf
-view_publisher: https://github.com/mmore500/hstrat-wafer-scale/releases/download/v0.2.4/tex-extended-abstract.pdf
+download: https://arxiv.org/pdf/2405.03605
+view_publisher: https://arxiv.org/abs/2405.03605
 authors:
   - Matthew Andres Moreno
   - Connor Yang
