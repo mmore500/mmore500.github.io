@@ -1,6 +1,6 @@
 ---
 layout: efflux
-title: "Trackable Island-model Genetic Algorithms at Wafer Scale"
+title: "Traceable Island-model Genetic Algorithms at Wafer Scale"
 date: 2024-05-06
 permalink: "/pubs/:title"
 category: abstract
@@ -31,7 +31,7 @@ abstract: |
 bibtex: |-
   @inproceedings{moreno2024trackable_gecco,
     author={Matthew Andres Moreno and Connor Yang and Emily Dolson and Luis Zaman},
-    title = {Trackable Island-model Genetic Algorithms at Wafer Scale},
+    title = {Traceable Island-model Genetic Algorithms at Wafer Scale},
     isbn = {979-8-4007-0495-6/24/07},
     year = {2024},
     publisher= {Association for Computing Machinery},
@@ -43,7 +43,7 @@ bibtex: |-
     location = {Melbourne, VIC, Australia},
     series = {GECCO '24}
   }
-citation: "Matthew Andres Moreno, Connor Yang, Emily Dolson, and Luis Zaman. 2024. Trackable Island-model Genetic Algorithms at Wafer Scale. In Proceedings of the Companion Conference on Genetic and Evolutionary Computation (GECCO '24 Companion). Association for Computing Machinery, New York, NY, USA. https://doi.org/10.1145/3638530.3664090"
+citation: "Matthew Andres Moreno, Connor Yang, Emily Dolson, and Luis Zaman. 2024. Traceable Island-model Genetic Algorithms at Wafer Scale. In Proceedings of the Companion Conference on Genetic and Evolutionary Computation (GECCO '24 Companion). Association for Computing Machinery, New York, NY, USA. https://doi.org/10.1145/3638530.3664090"
 supporting_materials: |
   - [LaTeX source](https://github.com/mmore500/hstrat-wafer-scale/tree/tex-extended-abstract) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [primary publication](https://doi.org/10.48550/arXiv.2404.10861)
