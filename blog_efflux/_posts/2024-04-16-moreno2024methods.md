@@ -19,7 +19,7 @@ abstract: |
   Here, we propose three knockout-based assay procedures designed to quantify cryptic adaptive sites within digital genomes.
   We report initial tests of these methods on a simple genome model with explicitly configured site fitness effects.
   In these limited tests, estimation results reflect ground truth cryptic sequence complexities well.
-  Presented work provides initial steps toward development of new methods and software tools that improve the resolution, rigor, and tractability of complexity analyses across alife systems, particularly those requiring expensive in situ assessments of organism fitness. 
+  Presented work provides initial steps toward development of new methods and software tools that improve the resolution, rigor, and tractability of complexity analyses across alife systems, particularly those requiring expensive in situ assessments of organism fitness.
 bibtex: |-
   @misc{moreno2024methods,
         doi={10.48550/arXiv.2404.10854},

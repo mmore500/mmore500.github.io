@@ -30,7 +30,7 @@ bibtex: |-
   @misc{lalejini2024runtime,
       doi = {h10.48550/arXiv.2402.01610},
       url = {https://arxiv.org/abs/2402.01610},
-      title={Runtime phylogenetic analysis enables extreme subsampling for test-based problems}, 
+      title={Runtime phylogenetic analysis enables extreme subsampling for test-based problems},
       author={Alexander Lalejini and Marcos Sanson and Jack Garbus and Matthew Andres Moreno and Emily Dolson},
       year={2024},
       eprint={2402.01610},

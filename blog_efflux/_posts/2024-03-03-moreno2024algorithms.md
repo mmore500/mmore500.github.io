@@ -23,7 +23,7 @@ abstract: |
   We also broaden support to cover new trade-offs between curated archive size and temporal coverage.
   We present a suite of five stream curation algorithms that span O(n), O(logn), and O(1) orders of growth for retained data items.
   Within each order of growth, algorithms are provided to maintain even coverage across history or bias coverage toward more recent time points.
-  More broadly, memory-efficient stream curation can boost the data stream mining capabilities of low-grade hardware in roles such as sensor nodes and data logging devices. 
+  More broadly, memory-efficient stream curation can boost the data stream mining capabilities of low-grade hardware in roles such as sensor nodes and data logging devices.
 bibtex: |-
   @misc{moreno2024algorithms,
         doi = {10.48550/arXiv.2403.00266},
