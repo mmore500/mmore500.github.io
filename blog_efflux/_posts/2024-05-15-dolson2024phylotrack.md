@@ -14,6 +14,7 @@ authors:
 venue: arXiv
 projects:
   - hstrat
+  - libraries
 abstract: |
   *In silico* evolution instantiates the processes of heredity, variation, and differential reproductive success (the three "ingredients" for evolution by natural selection) within digital populations of computational agents.
   Consequently, these populations undergo evolution, and can be used as virtual model systems for studying evolutionary dynamics.
