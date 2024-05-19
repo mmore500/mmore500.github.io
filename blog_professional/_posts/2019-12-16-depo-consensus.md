@@ -42,9 +42,9 @@ The tool is composed of three swappable modules,
 In this work we explore the implications of two components of the MatchBin trifecta: Regulation and Selection.
 We're investigating the implications of Metrics in other separate work.
 
-Sometimes to get engineering things to work good you have to the boring thing where you try different things to see which one thing of all the things works the most good.
-Sorry to say, but to some extent this is that.
-But, if you stick around, there'll also be some interesting evolutionary contingency, a cool (challenging?) distributed systems benchmarking problem, and maybe even some speculation on how evolved solutions are actually functioning.
+Sometimes to get engineering things to work you have to try different things to see which one works best.
+This work is to some extent an exercise in fine tuning.
+But, if you stick around, there'll also be some interesting evolutionary contingency, a cool (challenging?) distributed systems benchmarking problem, and some speculation on how evolved solutions are actually functioning.
 
 ## Methods
 
