@@ -15,7 +15,7 @@ His work aims to enable practitioners to better evolve agents that exhibit respo
 
 The idea is organize instruction into tagged program sub-components and provide signal-dispatch infrastructure that accepts messages from other agents, environmental cues, and internally-generated signals (thread forks, function calls, etc.) and then boots up relevant program sub-component(s) in response.
 
-(If you're interested in more/better info here check out [Alex's super SignalGP blog post](https://web.archive.org/web/20181210065052/http://devolab.org/signal-gp-an-introduction/) or even idk read the paper or something [[Lalejini & Ofria, 2018]](#Lalejini2018EvolvingSignalGP).)
+(If you're interested in more/better info here check out [Alex's super SignalGP blog post](https://web.archive.org/web/20181210065052/http://devolab.org/signal-gp-an-introduction/) or [[Lalejini & Ofria, 2018]](#Lalejini2018EvolvingSignalGP).)
 
 The original implementation of SignalGP uses bitstring tags to match signals with responses.
 It takes a bitstring query, computes the query's [hamming distance](https://en.wikipedia.org/wiki/Hamming_distance) (i.e., fraction aligned 0's and 1's) to all subcomponents' tags, and then dispatches a single best match if half or more of that match's tag's 0's and 1's are aligned with the query.
