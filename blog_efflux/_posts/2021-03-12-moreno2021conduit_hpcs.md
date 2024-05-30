@@ -21,7 +21,7 @@ abstract: |
   Here, we describe the motivation, objectives, design, and implementation of the library.
 bibtex: |
   @inproceedings{moreno2021conduit_hpcs,
-    author = {Moreno, Matthew Andres and Papa, Santiago Rodriguez and Ofria, Charles},
+    author = {Moreno, Matthew Andres and Rodriguez Papa, Santiago and Ofria, Charles},
     title = {Conduit: A C++ Library for Best-Effort High Performance Computing},
     year = {2021},
     booktitle = {The 6th International Workshop on Modeling and Simulation of and by Parallel and Distributed Systems (MSPDS 2020)},

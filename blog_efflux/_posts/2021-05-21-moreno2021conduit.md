@@ -25,7 +25,7 @@ abstract: |
   Benchmarks on a communication-intensive graph coloring problem and a compute-intensive digital evolution simulation show that Conduit's best-effort model can improve scaling efficiency and solution quality, particularly in a distributed, multi-node context.
 bibtex: |-
   @inproceedings{moreno2021conduit,
-    author = {Moreno, Matthew Andres and Papa, Santiago Rodriguez and Ofria, Charles},
+    author = {Moreno, Matthew Andres and Rodriguez Papa, Santiago and Ofria, Charles},
     title = {Conduit: A C++ Library for Best-Effort High Performance Computing},
     year = {2021},
     isbn = {9781450383516},

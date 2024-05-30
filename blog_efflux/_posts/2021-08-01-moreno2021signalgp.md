@@ -30,7 +30,7 @@ bibtex: |-
 
     url = {https://arxiv.org/abs/2108.00382},
 
-    author = {Moreno, Matthew Andres and Papa, Santiago Rodriguez and Lalejini, Alexander and Ofria, Charles},
+    author = {Moreno, Matthew Andres and Rodriguez Papa, Santiago and Lalejini, Alexander and Ofria, Charles},
 
     keywords = {Neural and Evolutionary Computing (cs.NE), FOS: Computer and information sciences, FOS: Computer and information sciences},
 

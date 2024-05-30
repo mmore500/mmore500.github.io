@@ -15,7 +15,7 @@ description: |
   alifedata-phyloinformatics-convert helps apply traditional phyloinformatics software to alife standardized data.
 bibtex: |-
   @software{moreno2024apc,
-    author = {Matthew Andres Moreno AND Santiago Rodriguez Papa},
+    author = {Matthew Andres Moreno AND Santiago {Rodriguez Papa}},
     title = {mmore500/alifedata-phyloinformatics-convert},
     month = feb,
     year = 2024,
