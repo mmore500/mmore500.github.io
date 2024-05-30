@@ -27,17 +27,17 @@ abstract: |
 bibtex: |-
   @inproceedings{moreno2022hereditary,
       author = {Moreno, Matthew Andres and Dolson, Emily and Ofria, Charles},
-      title = "{Hereditary Stratigraphy: Genome Annotations to Enable Phylogenetic Inference over Distributed Populations}",
-      volume = {ALIFE 2022: The 2022 Conference on Artificial Life},
-      series = {ALIFE 2022: The 2022 Conference on Artificial Life},
+      title = {Hereditary Stratigraphy: Genome Annotations to Enable Phylogenetic Inference over Distributed Populations},
+      booktitle = {The 2022 Conference on Artificial Life},
+      collection = {ALIFE 2022}
       year = {2022},
       month = {07},
       doi = {10.1162/isal_a_00550},
       url = {https://doi.org/10.1162/isal\_a\_00550},
-      note = {64},
+      pages = {418-428},
       eprint = {https://direct.mit.edu/isal/proceedings-pdf/isal/34/64/2035363/isal\_a\_00550.pdf},
   }
-citation: 'Matthew Andres Moreno, Emily Dolson, Charles Ofria; July 18–22, 2022. "Hereditary Stratigraphy: Genome Annotations to Enable Phylogenetic Inference over Distributed Populations." Proceedings of the ALIFE 2022: The 2022 Conference on Artificial Life. ALIFE 2022: The 2022 Conference on Artificial Life. Online. (pp. 64). ASME. https://doi.org/10.1162/isal_a_00550'
+citation: 'Moreno, M. A., Dolson, E., & Ofria, C. (2022). Hereditary Stratigraphy: Genome Annotations to Enable Phylogenetic Inference over Distributed Populations. In The 2022 Conference on Artificial Life. MIT Press. https://doi.org/10.1162/isal_a_00550'
 supporting_materials: |
   - [data](https://osf.io/4sm72/) [via Open Science Framework ❋](https://osf.io)
   - [source code](https://github.com/mmore500/hereditary-stratigraph-concept/tree/v0.3.0) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
