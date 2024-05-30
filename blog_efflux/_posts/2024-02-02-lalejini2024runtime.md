@@ -39,7 +39,7 @@ bibtex: |-
       publisher = {arXiv},
       copyright = {arXiv.org perpetual, non-exclusive license}
   }
-citation: "Lalejini, A., Sanson, M., Garbus, J., Moreno, M. A., & Dolson, E. (2024). Runtime phylogenetic analysis enables extreme subsampling for test-based problems. arXiv preprint arXiv:2402.01610."
+citation: "Lalejini, A., Sanson, M., Garbus, J., Moreno, M. A., & Dolson, E. (2024). Runtime phylogenetic analysis enables extreme subsampling for test-based problems. arXiv preprint arXiv:2402.01610. https://doi.org/10.48550/arXiv.2402.01610"
 supporting_materials: |
 supporting_materials: |
   - [data 1](https://osf.io/h3f52/) [via Open Science Framework ❋](https://osf.io)

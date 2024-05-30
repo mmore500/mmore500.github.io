@@ -36,7 +36,7 @@ bibtex: |-
         archivePrefix={arXiv},
         primaryClass={q-bio.PE}
   }
-citation: "Moreno, M. A., Holder, M. T., & Sukumaran, J. (2024). DendroPy 5: a mature Python library for phylogenetic computing. arXiv preprint arXiv:2405.14120."
+citation: "Moreno, M. A., Holder, M. T., & Sukumaran, J. (2024). DendroPy 5: a mature Python library for phylogenetic computing. arXiv preprint arXiv:2405.14120. https://doi.org/10.48550/arXiv.2405.14120"
 supporting_materials: |
   - [repository](https://github.com/jeetsukumaran/DendroPy) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [documentation](https://jeetsukumaran.github.io/DendroPy/) [via GitHub Pages <i class="icon-github-1"></i>](https://pages.github.com/)

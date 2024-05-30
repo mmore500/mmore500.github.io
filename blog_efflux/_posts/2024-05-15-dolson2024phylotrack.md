@@ -39,7 +39,7 @@ bibtex: |-
         archivePrefix={arXiv},
         primaryClass={q-bio.PE}
   }
-citation: "Dolson, E., Rodriguez-Papa, S., & Moreno, M. A. (2024). Phylotrack: C++ and Python libraries for in silico phylogenetic tracking. arXiv preprint arXiv:2405.09389."
+citation: "Dolson, E., Rodriguez-Papa, S., & Moreno, M. A. (2024). Phylotrack: C++ and Python libraries for in silico phylogenetic tracking. arXiv preprint arXiv:2405.09389. https://doi.org/10.48550/arXiv.2405.09389"
 supporting_materials: |
   - [manuscript source](https://github.com/emilydolson/phylotrackpy/tree/5e5c219423f9e63be02e6a2dc1a64c186fa400e6/joss/) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [software repository](https://github.com/emilydolson/phylotrackpy/) [via GitHub <i class="icon-github-1"></i>](https://github.com/)

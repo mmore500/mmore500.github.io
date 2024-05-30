@@ -34,7 +34,7 @@ bibtex: |-
         archivePrefix={arXiv},
         primaryClass={cs.DS}
   }
-citation: "Moreno, M. A., Rodriguez Papa, S., & Dolson, E. (2024). Analysis of Phylogeny Tracking Algorithms for Serial and Multiprocess Applications. arXiv preprint arXiv:2403.00246."
+citation: "Moreno, M. A., Rodriguez Papa, S., & Dolson, E. (2024). Analysis of Phylogeny Tracking Algorithms for Serial and Multiprocess Applications. arXiv preprint arXiv:2403.00246 https://doi.org/10.48550/arXiv.2403.00246"
 supporting_materials: |
   - [manuscript source](https://github.com/mmore500/phylotrack-algorithm-analysis) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
 ---
