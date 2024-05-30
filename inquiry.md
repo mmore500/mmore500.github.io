@@ -17,7 +17,6 @@ permalink: /inquiry/
   <div class="fixed">
     Email me at
     <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
-  </p>
   </div>
   <div class="hideflex">
   <div style="text-align:center">
