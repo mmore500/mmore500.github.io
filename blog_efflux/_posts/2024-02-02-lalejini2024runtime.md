@@ -28,7 +28,7 @@ abstract: |
   Continued refinements of phylogeny-informed subsampling techniques offer a promising new direction for scaling up evolutionary systems to handle problems with many expensive-to-evaluate fitness criteria.
 bibtex: |-
   @misc{lalejini2024runtime,
-      doi = {h10.48550/arXiv.2402.01610},
+      doi = {10.48550/arXiv.2402.01610},
       url = {https://arxiv.org/abs/2402.01610},
       title={Runtime phylogenetic analysis enables extreme subsampling for test-based problems},
       author={Alexander Lalejini and Marcos Sanson and Jack Garbus and Matthew Andres Moreno and Emily Dolson},
