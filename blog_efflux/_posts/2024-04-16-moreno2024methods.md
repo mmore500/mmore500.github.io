@@ -3,7 +3,7 @@ layout: efflux
 title: "Methods to Estimate Cryptic Sequence Complexity"
 date: 2024-04-16
 permalink: "/pubs/:title"
-category: preprint
+category: abstract
 doi: 10.48550/arXiv.2404.10854
 download: https://arxiv.org/pdf/2404.10854.pdf
 view_publisher: https://doi.org/10.48550/arXiv.2404.10854
@@ -21,17 +21,20 @@ abstract: |
   In these limited tests, estimation results reflect ground truth cryptic sequence complexities well.
   Presented work provides initial steps toward development of new methods and software tools that improve the resolution, rigor, and tractability of complexity analyses across alife systems, particularly those requiring expensive in situ assessments of organism fitness.
 bibtex: |-
-  @misc{moreno2024methods,
-        doi={10.48550/arXiv.2404.10854},
-        url={https://arxiv.org/abs/2404.10854},
-        title={Methods to Estimate Cryptic Sequence Complexity},
-        author={Matthew Andres Moreno},
-        year={2024},
-        eprint={2404.10854},
-        archivePrefix={arXiv},
-        primaryClass={q-bio.PE}
+  @inproceedings{moreno2024methods,
+    title={Methods to Estimate Cryptic Sequence Complexity},
+    author={Matthew Andres Moreno},
+    booktitle = {The 2024 Conference on Artificial Life},
+    collection = {ALIFE 2024},
+    publisher = {MIT Press},
+    year = {2024},
+    month = {07},
+    doi={10.48550/arXiv.2404.10854},
+    url={https://arxiv.org/abs/2404.10854},
   }
-citation: "Moreno, M. A. (2024). Methods to Estimate Cryptic Sequence Complexity. arXiv preprint arXiv:2404.10854."
+# pages = {TODO},
+# eprint = {TODO},
+citation:  'Moreno, M. A. (2024). Methods to Estimate Cryptic Sequence Complexity. In The 2024 Conference on Artificial Life. MIT Press. https://doi.org/10.48550/arXiv.2404.10854'
 supporting_materials: |
   - [manuscript source and software](https://github.com/mmore500/cryptic-sequence-concept/tree/v0.2.0) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [data notebooks](https://github.com/mmore500/cryptic-sequence-concept/tree/dfaed0ced3e088ae32c1cee96a9381e6a182a65e) [via GitHub <i class="icon-github-1"></i>](https://github.com/)

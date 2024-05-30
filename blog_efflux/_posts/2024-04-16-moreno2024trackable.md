@@ -3,7 +3,7 @@ layout: efflux
 title: "Trackable Agent-based Evolution Models at Wafer Scale"
 date: 2024-04-16
 permalink: "/pubs/:title"
-category: preprint
+category: conference
 doi: 10.48550/arXiv.2404.10861
 download: https://arxiv.org/pdf/2404.10861.pdf
 view_publisher: https://doi.org/10.48550/arXiv.2404.10861
@@ -30,17 +30,20 @@ abstract: |
   Together, these benchmark and validation trials reflect strong potential for highly scalable agent-based evolution simulation that is both efficient and observable.
   Developed capabilities will bring entirely new classes of previously intractable research questions within reach, benefiting further explorations within the evolutionary biology and artificial life communities across a variety of emerging high-performance computing platforms.
 bibtex: |-
-  @misc{moreno2024trackable,
-        doi={10.48550/arXiv.2404.10861},
-        url={https://arxiv.org/abs/2404.10861},
-        title={Trackable Agent-based Evolution Models at Wafer Scale},
-        author={Matthew Andres Moreno and Connor Yang and Emily Dolson and Luis Zaman},
-        year={2024},
-        eprint={2404.10861},
-        archivePrefix={arXiv},
-        primaryClass={cs.NE}
+  @inproceedings{moreno2024trackable,
+    author={Matthew Andres Moreno and Connor Yang and Emily Dolson and Luis Zaman},
+    title = {Trackable Agent-based Evolution Models at Wafer Scale},
+    booktitle = {The 2024 Conference on Artificial Life},
+    collection = {ALIFE 2024},
+    publisher = {MIT Press},
+    year = {2024},
+    month = {07},
+    doi={10.48550/arXiv.2404.10861},
+    url={https://arxiv.org/abs/2404.10861},
   }
-citation: "Moreno, M. A., Yang, C., Dolson, E., & Zaman, L. (2024). Trackable Agent-based Evolution Models at Wafer Scale. arXiv preprint arXiv:2404.10861."
+# pages = {TODO},
+# eprint = {TODO},
+citation:  'Moreno, M. A., Yang, C., Dolson, E., & Zaman, L. (2024). Trackable Agent-based Evolution Models at Wafer Scale. In The 2024 Conference on Artificial Life. MIT Press. https://doi.org/10.48550/arXiv.2404.10861'
 supporting_materials: |
   - [manuscript source](https://github.com/mmore500/hstrat-wafer-scale/tree/v0.2.0) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [kernel software](https://github.com/mmore500/wse-sketches) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
