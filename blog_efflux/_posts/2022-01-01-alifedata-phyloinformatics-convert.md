@@ -7,7 +7,7 @@ view_github: https://github.com/mmore500/alifedata-phyloinformatics-convert
 view_publisher: https://pypi.org/project/alifedata-phyloinformatics-convert/
 authors:
   - Matthew Andres Moreno
-  - Emily Dolson
+  - Santiago Rodriguez Papa
 venue: Python package published via PyPI
 projects:
   - libraries
