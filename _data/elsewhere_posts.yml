@@ -1,3 +1,18 @@
+- title: "Let Your Data Breathe: Tips, tricks, & tools to level up your FacetGrid game"
+  url: "https://levelup.gitconnected.com/let-your-data-breathe-7a9129db7af9?source=friends_link&sk=d2502e33c4f929bb8112a3bca9ea8015"
+  where: "Level Up Coding"
+  where_url: "https://levelup.gitconnected.com/"
+  date: 2023-02-21
+- title: "A Comprehensive Guide to Inset Axes in Matplotlib"
+  url: "https://towardsdatascience.com/a-comprehensive-guide-to-inset-axes-in-matplotlib-87400e00a4e5?source=friends_link&sk=506baec0b6c22d89603c8cf34c450ab5"
+  where: Towards Data Science
+  where_url: "https://towardsdatascience.com"
+  date: 2023-01-30
+- title: "Tips and Tricks to Organize Jupyter Notebook Visualizations"
+  url: "https://towardsdatascience.com/an-easier-way-to-wrangle-jupyter-notebook-visualizations-620a86cd9279?source=friends_link&sk=6eca2ac2110dce5a903f1511227dae17"
+  where: Towards Data Science
+  where_url: "https://towardsdatascience.com"
+  date: 2023-01-23
 - title: "Nice Zigzag Traversal with Itertools"
   url: "https://levelup.gitconnected.com/nice-zigzag-traversal-with-itertools-39937b96b342?source=friends_link&sk=d6f6ba6c2c93e5e94b174166a503f6b7"
   where: "Level Up Coding"
