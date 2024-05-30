@@ -12,4 +12,6 @@ projects:
   - libraries
 description: |
   interval-search provides predicate-based binary and doubling search implementations.
+supporting_materials: |
+  - [documentation](https://interval-search.readthedocs.io/) [via ReadTheDocs 📖](https://readthedocs.org/)
 ---

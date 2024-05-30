@@ -15,4 +15,6 @@ projects:
 description: |
   A genetic programming implementation designed for large-scale artificial life applications.
   Organized as a header-only C++ library. Inspired by Alex Lalejini's SignalGP.
+supporting_materials: |
+  - [documentation](https://signalgp-lite.readthedocs.io/) [via ReadTheDocs 📖](https://readthedocs.org/)
 ---

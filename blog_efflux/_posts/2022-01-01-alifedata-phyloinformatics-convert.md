@@ -13,4 +13,6 @@ projects:
   - libraries
 description: |
   alifedata-phyloinformatics-convert helps apply traditional phyloinformatics software to alife standardized data.
+supporting_materials: |
+  - [documentation](https://alifedata-phyloinformatics-convert.readthedocs.io/) [via ReadTheDocs 📖](https://readthedocs.org/)
 ---

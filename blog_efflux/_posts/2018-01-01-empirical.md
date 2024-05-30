@@ -24,5 +24,6 @@ bibtex: |-
 citation: |
   Ofria, C., Moreno, M. A., Dolson, E., Lalejini, A., Rodriguez Papa, S., Fenton, J., Perry, K., Jorgensen, S., , H., , G., Baldwin Edwards, O., Stredwick, J., , C., , T., Vostinar, A., Moreno, R., Schossau, J., Zaman, L., & , D. (2020). Empirical: C++ library for efficient, reliable, and accessible scientific software (Version 0.0.4) [Computer software]. https://doi.org/10.5281/zenodo.4141943
 supporting_materials: |
+  - [documentation](https://empirical.readthedocs.io/) [via ReadTheDocs 📖](https://readthedocs.org/)
   - [poster](https://docs.google.com/presentation/d/1bOVX3yGh06XXPp5qVwpFK0EapEzFJcx_Mk0d_KakWR4/) [via Google Slides](https://workspace.google.com/products/slides/)
 ---

@@ -12,4 +12,6 @@ projects:
   - libraries
 description: |
   opytional makes working with values that might be None safer and easier.
+supporting_materials: |
+  - [documentation](https://opytional.readthedocs.io/) [via ReadTheDocs 📖](https://readthedocs.org/)
 ---
