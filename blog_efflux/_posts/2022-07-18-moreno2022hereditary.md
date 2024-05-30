@@ -4,7 +4,7 @@ title: "Hereditary stratigraphy: genome annotations to enable phylogenetic infer
 date: 2022-05-13
 permalink: "/pubs/:title"
 category: conference
-download: https://github.com/mmore500/hereditary-stratigraph-concept/releases/download/v0.3.0/hereditary-stratigraph-concept-manuscript.pdf
+download: https://direct.mit.edu/isal/proceedings-pdf/isal2022/34/64/2035363/isal_a_00550.pdf
 view_publisher: https://doi.org/10.1162/isal_a_00550
 doi: "10.1162/isal_a_00550"
 authors:
