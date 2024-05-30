@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: portfolio
 title: architecture
 description: the built environment
 img: /img/architecture-portfolio-firehydrant.jpg

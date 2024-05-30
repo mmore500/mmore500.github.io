@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: portfolio
 title: people
 description: <i> Homo sapiens sapiens </i>
 img: /img/people-portfolio-silhouettes.jpg
