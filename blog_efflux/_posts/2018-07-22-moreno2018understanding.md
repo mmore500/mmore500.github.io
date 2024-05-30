@@ -13,7 +13,8 @@ venue: The Third Workshop on Open-Ended Evolution (OEE3)
 projects:
   - dishtiny
 abstract: |
-  The emergence of new replicating entities from the union of existing entities represent some of the most profound events in natural evolutionary history. Facilitating such evolutionary transitions in individuality is essential to the derivation of the most complex forms of life.
+  The emergence of new replicating entities from the union of existing entities represent some of the most profound events in natural evolutionary history.
+  Facilitating such evolutionary transitions in individuality is essential to the derivation of the most complex forms of life.
   As such, understanding these transitions is critical for building artificial systems capable of open-ended evolution.
   Alas, these transitions are challenging to induce or detect, even with computational organisms.
   Here, we introduce the DISHTINY (DIStributed Hierarchical Transitions in IndividualitY) platform, which provides simple cell-like organisms with the ability and incentive to unite into new individuals in a manner that can continue to scale to subsequent transitions.
