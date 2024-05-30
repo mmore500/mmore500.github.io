@@ -40,7 +40,7 @@ citation: "Moreno, M. A., Holder, M. T., & Sukumaran, J. (2024). DendroPy 5: a m
 supporting_materials: |
   - [repository](https://github.com/jeetsukumaran/DendroPy) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [documentation](https://jeetsukumaran.github.io/DendroPy/) [via GitHub Pages <i class="icon-github-1"></i>](https://pages.github.com/)
-  # - [source archive](https://doi.org/TODO via [Zenodo *z*](https://zenodo.org)
   - [pre-review](https://github.com/openjournals/joss-reviews/issues/6789) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
-  # - [review](https://github.com/openjournals/joss-reviews/issues/TODO) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
+# - [review](https://github.com/openjournals/joss-reviews/issues/TODO) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
+# - [source archive](https://doi.org/TODO via [Zenodo *z*](https://zenodo.org)
 ---
