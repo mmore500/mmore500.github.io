@@ -3,7 +3,7 @@ layout: efflux
 title: "Runtime phylogenetic analysis enables extreme subsampling for test-based problems"
 date: 2024-02-02
 permalink: "/pubs/:title"
-category: preprint
+category: conference
 download: https://arxiv.org/pdf/2402.01610.pdf
 view_publisher: https://doi.org/10.48550/arXiv.2402.01610
 doi: 10.48550/arXiv.2402.01610
@@ -13,7 +13,7 @@ authors:
   - Jack Garbus
   - Matthew Andres Moreno
   - Emily Dolson
-venue: arXiv
+venue: The Genetic and Evolutionary Computation Conference
 projects:
 abstract: |
   A phylogeny describes the evolutionary history of an evolving population.
@@ -33,14 +33,16 @@ bibtex: |-
       title={Runtime phylogenetic analysis enables extreme subsampling for test-based problems},
       author={Alexander Lalejini and Marcos Sanson and Jack Garbus and Matthew Andres Moreno and Emily Dolson},
       year={2024},
-      eprint={2402.01610},
-      archivePrefix={arXiv},
-      primaryClass={cs.NE},
-      publisher = {arXiv},
-      copyright = {arXiv.org perpetual, non-exclusive license}
+      publisher= {Association for Computing Machinery},
+      address = {New York, NY, USA},
+      booktitle= {Proceedings of the Genetic and Evolutionary Computation Conference},
+      numpages = {4},
+      location = {Melbourne, VIC, Australia},
+      series = {GECCO '24}
   }
-citation: "Lalejini, A., Sanson, M., Garbus, J., Moreno, M. A., & Dolson, E. (2024). Runtime phylogenetic analysis enables extreme subsampling for test-based problems. arXiv preprint arXiv:2402.01610. https://doi.org/10.48550/arXiv.2402.01610"
-supporting_materials: |
+# isbn = {TODO},
+# pages = {TODO},
+citation: "Alexander Lalejini, Marcos Sanson, Jack Garbus, Matthew Andres Moreno, and Emily Dolson. 2024. Runtime phylogenetic analysis enables extreme subsampling for test-based problems. In Proceedings of the Conference on Genetic and Evolutionary Computation (GECCO '24). Association for Computing Machinery, New York, NY, USA. <https://doi.org/10.48550/arXiv.2402.01610>"
 supporting_materials: |
   - [data 1](https://osf.io/h3f52/) [via Open Science Framework ❋](https://osf.io)
   - [data 2](https://osf.io/p82cz/) [via Open Science Framework ❋](https://osf.io)
