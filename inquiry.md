@@ -15,23 +15,7 @@ permalink: /inquiry/
 </style>
 <div class="container">
   <div class="fixed">
-  <p>
-    Hey.
-    I'm an amateur, but always looking to expand my horizons.
-  </p>
-  <p>
-    If you want a copy of a picture I already took, we can make that happen.
-    The going rate is $75 per image.
-    I can send along a digital high-resolution copy or, for a little extra, order a print on your behalf.
-  </p>
-  <p>
-    If you want me to take new pictures, we can also make that happen.
-    Expect to pay $25 for image that you choose to purchase.
-    I'd be willing to talk about charging per hour or per event, too, if you prefer.
-  </p>
-
-  <p>
-    Either way --- or if you just want to say hi --- email me at
+    Email me at
     <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
   </p>
   </div>
