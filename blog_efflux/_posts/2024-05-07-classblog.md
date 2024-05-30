@@ -7,7 +7,7 @@ authors:
   - Acacia Ackles
   - Matthew Andres Moreno
 venue: Enriching Scholarship Conference
-description: |
+abstract: |
   Session participants will walk through an interactive, zero-code tutorial demonstrating how to create and manage a public-facing class blog using the Jekyll site framework and GitHub pages.
   We will also discuss milestone-based project structure to guide students to successful project completion and authorial strategies to create engaging scholarly web-based content.
 
