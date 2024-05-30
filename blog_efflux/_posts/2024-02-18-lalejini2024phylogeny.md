@@ -10,7 +10,7 @@ authors:
   - Alexander Lalejini
   - Matthew Andres Moreno
   - Jose Guadalupe Hernandez
-  - Emily Dolson 
+  - Emily Dolson
 venue: Genetic Programming Theory and Practice XX
 projects:
 abstract: |
