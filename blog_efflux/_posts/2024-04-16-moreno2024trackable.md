@@ -12,7 +12,7 @@ authors:
   - Connor Yang
   - Emily Dolson
   - Luis Zaman
-venue: arXiv
+venue: The 2024 Conference on Artificial Life
 projects:
   - hstrat
   - conduit

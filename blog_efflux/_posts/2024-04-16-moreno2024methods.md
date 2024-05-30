@@ -9,7 +9,7 @@ download: https://arxiv.org/pdf/2404.10854.pdf
 view_publisher: https://doi.org/10.48550/arXiv.2404.10854
 authors:
   - Matthew Andres Moreno
-venue: arXiv
+venue: The 2024 Conference on Artificial Life
 projects:
   - dishtiny
 abstract: |
