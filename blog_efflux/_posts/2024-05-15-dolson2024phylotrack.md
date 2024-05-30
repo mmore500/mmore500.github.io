@@ -44,5 +44,6 @@ supporting_materials: |
   - [manuscript source](https://github.com/emilydolson/phylotrackpy/tree/5e5c219423f9e63be02e6a2dc1a64c186fa400e6/joss/) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [software repository](https://github.com/emilydolson/phylotrackpy/) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [software package](https://pypi.org/project/phylotrackpy/) [via PyPI <i class="icon-github-1"></i>](https://github.com/)
+  - [software documentation](https://phylotrackpy.readthedocs.io/) [via ReadTheDocs 📖](https://readthedocs.org/)
   - [data](https://osf.io/52hzs/) [via Open Science Framework ❋](https://osf.io)
 ---
