@@ -27,7 +27,7 @@ abstract: |
   4. Distributability: Empirical is highly portable, uses common data formats, and facilitates compile-to-web app development with object-oriented bindings for Emscripten/WebAssembly GUI elements, all with the goal of building broadly accessible scientific software.
 bibtex: |-
   @article{vostinar2024empirical,
-    year = {in print},
+    year = {2024},
     publisher = {The Open Journal},
     author = {Vostinar, Anya and Lalejini, Alexander and Ofria, Charles and Dolson, Emily and Moreno, Matthew Andres},
     title = {Empirical: A scientific software library for research, education, and public engagement},
