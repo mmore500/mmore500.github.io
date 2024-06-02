@@ -38,7 +38,7 @@ bibtex: |-
     doi = {10.21105/joss.06617},
     url = {https://doi.org/10.21105/joss.06617},
   }
-citation: "Vostinar, A., Lalejini, A., Ofria, C., Dolson, E., & Moreno, M.A. (2024). Empirical: A scientific software library for research, education, and public engagement. Journal of Open Source Software, 9(96), 6617, https://doi.org/10.21105/joss.06617"
+citation: "Vostinar, A., Lalejini, A., Ofria, C., Dolson, E., & Moreno, M.A. (2024). Empirical: A scientific software library for research, education, and public engagement. Journal of Open Source Software, 9(98), 6617, https://doi.org/10.21105/joss.06617"
 supporting_materials: |
   - [repository](https://github.com/devosoft/Empirical) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [documentation](https://empirical.readthedocs.io/) [via ReadTheDocs 📖](https://readthedocs.org/)
