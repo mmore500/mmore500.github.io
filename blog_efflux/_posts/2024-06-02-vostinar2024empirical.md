@@ -1,7 +1,7 @@
 ---
 layout: efflux
 title: "Empirical: A scientific software library for research, education, and public engagement"
-date: 2024-05-30
+date: 2024-06-02
 permalink: "/pubs/:title"
 category: journal
 doi: "10.21105/joss.06617"
@@ -32,13 +32,13 @@ bibtex: |-
     author = {Vostinar, Anya and Lalejini, Alexander and Ofria, Charles and Dolson, Emily and Moreno, Matthew Andres},
     title = {Empirical: A scientific software library for research, education, and public engagement},
     journal = {Journal of Open Source Software},
+    volume = {9},
+    number = {98},
+    pages = {6617},
     doi = {10.21105/joss.06617},
     url = {https://doi.org/10.21105/joss.06617},
   }
-# volume = {7},
-# number = {80},
-# pages = {4866},
-citation: "Vostinar, A., Lalejini, A., Ofria, C., Dolson, E., & Moreno, M.A. (in print). Empirical: A scientific software library for research, education, and public engagement. Journal of Open Source Software. https://doi.org/10.21105/joss.06617"
+citation: "Vostinar, A., Lalejini, A., Ofria, C., Dolson, E., & Moreno, M.A. (2024). Empirical: A scientific software library for research, education, and public engagement. Journal of Open Source Software, 9(96), 6617, https://doi.org/10.21105/joss.06617"
 supporting_materials: |
   - [repository](https://github.com/devosoft/Empirical) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [documentation](https://empirical.readthedocs.io/) [via ReadTheDocs 📖](https://readthedocs.org/)
