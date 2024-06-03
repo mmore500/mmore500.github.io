@@ -21,7 +21,7 @@ abstract: |
   In these limited tests, estimation results reflect ground truth cryptic sequence complexities well.
   Presented work provides initial steps toward development of new methods and software tools that improve the resolution, rigor, and tractability of complexity analyses across alife systems, particularly those requiring expensive in situ assessments of organism fitness.
 bibtex: |-
-  @inproceedings{moreno2024methods,
+  @inproceedings{moreno2024cryptic,
     title={Methods to Estimate Cryptic Sequence Complexity},
     author={Matthew Andres Moreno},
     booktitle = {The 2024 Conference on Artificial Life},
