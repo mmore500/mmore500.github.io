@@ -48,4 +48,5 @@ supporting_materials: |
   - [manuscript source](https://github.com/mmore500/hstrat-wafer-scale/tree/v0.2.0) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [kernel software](https://github.com/mmore500/wse-sketches) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [data](https://osf.io/bfm2z/) [via Open Science Framework ❋](https://osf.io)
+  - [conference slides](https://docs.google.com/presentation/d/1mxOdbO7nnWkTjid5wmuwV3dqEa9O1T1DtcxRuxlsQSE) [via Google Slides](https://workspace.google.com/products/slides/)
 ---
