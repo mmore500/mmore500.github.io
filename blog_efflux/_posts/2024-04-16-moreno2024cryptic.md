@@ -38,4 +38,5 @@ citation:  'Moreno, M. A. (2024). Methods to Estimate Cryptic Sequence Complexit
 supporting_materials: |
   - [manuscript source and software](https://github.com/mmore500/cryptic-sequence-concept/tree/v0.2.0) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [data notebooks](https://github.com/mmore500/cryptic-sequence-concept/tree/dfaed0ced3e088ae32c1cee96a9381e6a182a65e) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
+  - [conference slides](https://docs.google.com/presentation/d/13DmxJ0sTF7XCNq1d6QCJ1GdQPyKIpbriPLyHxO3assg/) [via Google Slides](https://workspace.google.com/products/slides/)
 ---
