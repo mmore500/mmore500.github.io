@@ -5,8 +5,8 @@ date: 2024-05-06
 permalink: "/pubs/:title"
 category: abstract
 doi: 10.1145/3638530.3664090
-download: https://arxiv.org/pdf/2405.03605
-view_publisher: https://arxiv.org/abs/2405.03605
+download: https://dl.acm.org/doi/pdf/10.1145/3638530.3664090
+view_publisher: https://doi.org/10.1145/3638530.3664090
 authors:
   - Matthew Andres Moreno
   - Connor Yang
@@ -32,7 +32,8 @@ bibtex: |-
   @inproceedings{moreno2024trackable_gecco,
     author={Matthew Andres Moreno and Connor Yang and Emily Dolson and Luis Zaman},
     title = {Trackable Island-model Genetic Algorithms at Wafer Scale},
-    isbn = {979-8-4007-0495-6/24/07},
+    pages = {101-102},
+    isbn = {9798400704956},
     year = {2024},
     publisher= {Association for Computing Machinery},
     address = {New York, NY, USA},
