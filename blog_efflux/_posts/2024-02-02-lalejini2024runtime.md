@@ -27,7 +27,7 @@ abstract: |
   Our diagnostic experiments show that phylogeny-informed subsampling improves diversity maintenance relative to random subsampling, but its effects on a selection scheme's capacity to rapidly exploit fitness gradients varied by selection scheme.
   Continued refinements of phylogeny-informed subsampling techniques offer a promising new direction for scaling up evolutionary systems to handle problems with many expensive-to-evaluate fitness criteria.
 bibtex: |-
-  @misc{lalejini2024runtime,
+  @inproceedings{lalejini2024runtime,
       doi = {10.1145/3638530.3664090},
       url = {https://doi.org/10.1145/3638530.3664090},
       isbn = {9798400704956},
