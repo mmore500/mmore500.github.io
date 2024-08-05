@@ -4,9 +4,9 @@ title: "Trackable Agent-based Evolution Models at Wafer Scale"
 date: 2024-04-16
 permalink: "/pubs/:title"
 category: conference
-doi: 10.48550/arXiv.2404.10861
-download: https://arxiv.org/pdf/2404.10861.pdf
-view_publisher: https://doi.org/10.48550/arXiv.2404.10861
+doi: 10.1162/isal_a_00830
+download: https://direct.mit.edu/isal/proceedings-pdf/isal2024/36/87/2461093/isal_a_00830.pdf
+view_publisher: https://doi.org/10.1162/isal_a_00830
 authors:
   - Matthew Andres Moreno
   - Connor Yang
@@ -38,12 +38,12 @@ bibtex: |-
     publisher = {MIT Press},
     year = {2024},
     month = {07},
-    doi={10.48550/arXiv.2404.10861},
-    url={https://arxiv.org/abs/2404.10861},
+    doi={10.1162/isal_a_00830},
+    url={https://doi.org/10.1162/isal_a_00830},
+    numpages={12},
+    pages={87-98},
   }
-# pages = {TODO},
-# eprint = {TODO},
-citation:  'Moreno, M. A., Yang, C., Dolson, E., & Zaman, L. (2024). Trackable Agent-based Evolution Models at Wafer Scale. In The 2024 Conference on Artificial Life. MIT Press. https://doi.org/10.48550/arXiv.2404.10861'
+citation:  'Moreno, M. A., Yang, C., Dolson, E., & Zaman, L. (2024). Trackable Agent-based Evolution Models at Wafer Scale. In The 2024 Conference on Artificial Life. MIT Press. https://doi.org/10.1162/isal_a_00830'
 supporting_materials: |
   - [manuscript source](https://github.com/mmore500/hstrat-wafer-scale/tree/v0.2.0) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [kernel software](https://github.com/mmore500/wse-sketches) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
