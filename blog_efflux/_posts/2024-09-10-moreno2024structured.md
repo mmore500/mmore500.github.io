@@ -37,7 +37,7 @@ bibtex: |-
         year={2024},
         eprint={2409.06199},
         archivePrefix={arXiv},
-        primaryClass={q-bio.PE}
+        primaryClass={cs.DS}
   }
 citation: "Moreno, M. A., Zaman L., & Dolson E. (2024). Structured Downsampling for Fast, Memory-efficient Curation of Online Data Streams. arXiv preprint arXiv:2409.06199. https://doi.org/10.48550/arXiv.2409.06199"
 supporting_materials: |
