@@ -17,14 +17,14 @@ projects:
   - libraries
 abstract: |
   Operations over data streams typically hinge on efficient mechanisms to aggregate or summarize history on a rolling basis.
-  For high-volume data steams, it is critical to manage state in a manner that is fast and memory efficient -- particularly in resource-constrained or real-time contexts.
+  For high-volume data steams, it is critical to manage state in a manner that is fast and memory efficient --- particularly in resource-constrained or real-time contexts.
   Here, we address the problem of extracting a fixed-capacity, rolling subsample from a data stream.
-  Specifically, we explore ``data stream curation'' strategies to fulfill requirements on the composition of sample time points retained.
-  Our ``DStream'' suite of algorithms targets three temporal coverage criteria: (1) steady coverage, where retained samples should spread evenly across elapsed data stream history; (2) stretched coverage, where early data items should be proportionally favored; and (3) tilted coverage, where recent data items should be proportionally favored.
+  Specifically, we explore "data stream curation" strategies to fulfill requirements on the composition of sample time points retained.
+  Our "DStream" suite of algorithms targets three temporal coverage criteria: (1) steady coverage, where retained samples should spread evenly across elapsed data stream history; (2) stretched coverage, where early data items should be proportionally favored; and (3) tilted coverage, where recent data items should be proportionally favored.
   For each algorithm, we prove worst-case bounds on rolling coverage quality.
   We focus on the more practical, application-driven case of maximizing coverage quality given a fixed memory capacity.
-  As a core simplifying assumption, we restrict algorithm design to a single update operation: writing from the data stream to a calculated buffer site -- with data never being read back, no metadata stored (e.g., sample timestamps), and data eviction occurring only implicitly via overwrite.
-  Drawing only on primitive, low-level operations and ensuring full, overhead-free use of available memory, this ``DStream'' framework ideally suits domains that are resource-constrained, performance-critical, and fine-grained (e.g., individual data items as small as single bits or bytes).
+  As a core simplifying assumption, we restrict algorithm design to a single update operation: writing from the data stream to a calculated buffer site --- with data never being read back, no metadata stored (e.g., sample timestamps), and data eviction occurring only implicitly via overwrite.
+  Drawing only on primitive, low-level operations and ensuring full, overhead-free use of available memory, this "DStream" framework ideally suits domains that are resource-constrained, performance-critical, and fine-grained (e.g., individual data items as small as single bits or bytes).
   The proposed approach supports O(1) data ingestion via concise bit-level operations.
   To further practical applications, we provide plug-and-play open-source implementations targeting both scripted and compiled application domains.
 
