@@ -38,7 +38,7 @@ bibtex: |-
     title = {DendroPy 5: a mature Python library for phylogenetic computing},
     journal = {Journal of Open Source Software}
   }
-citation: "Moreno et al., (2024). DendroPy 5: a mature Python library for phylogenetic computing. Journal of Open Source Software, 9(101), 6943, https://doi.org/10.21105/joss.06943"
+citation: "Moreno, M. A., Holder, M. T., & Sukumaran, J. (2024). DendroPy 5: a mature Python library for phylogenetic computing. Journal of Open Source Software, 9(101), 6943, https://doi.org/10.21105/joss.06943"
 supporting_materials: |
   - [repository](https://github.com/jeetsukumaran/DendroPy) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [documentation](https://jeetsukumaran.github.io/DendroPy/) [via GitHub Pages <i class="icon-github-1"></i>](https://pages.github.com/)
