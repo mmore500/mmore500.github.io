@@ -1,7 +1,7 @@
 ---
 layout: efflux
 title: "DendroPy 5: a mature Python library for phylogenetic computing"
-date: 2024-05-23
+date: 2024-09-23
 permalink: "/pubs/:title"
 category: journal
 doi: 10.21105/joss.06943
