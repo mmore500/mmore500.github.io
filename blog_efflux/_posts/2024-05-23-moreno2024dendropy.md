@@ -3,15 +3,15 @@ layout: efflux
 title: "DendroPy 5: a mature Python library for phylogenetic computing"
 date: 2024-05-23
 permalink: "/pubs/:title"
-category: preprint
-doi: 10.48550/arXiv.2405.14120
-download: https://arxiv.org/pdf/2405.14120.pdf
-view_publisher: https://doi.org/10.48550/arXiv.2405.14120
+category: journal
+doi: 10.21105/joss.06943
+download: https://www.theoj.org/joss-papers/joss.06943/10.21105.joss.06943.pdf
+view_publisher: https://doi.org/10.21105/joss.06943
 authors:
   - Matthew Andres Moreno
   - Mark T. Holder
   - Jeet Sukumaran
-venue: arXiv
+venue: Journal of Open Source Software
 projects:
   - hstrat
   - libraries
@@ -26,21 +26,23 @@ abstract: |
   The software release represents a major milestone in transitioning the library to a sustainable long-term development and maintenance trajectory.
   As such, this work positions DendroPy to continue fulfilling a key supporting role in phyloinformatics infrastructure.
 bibtex: |-
-  @misc{moreno2024dendropy,
-        doi={10.48550/arXiv.2405.14120},
-        url={https://arxiv.org/abs/2405.14120},
-        title={DendroPy 5: a mature Python library for phylogenetic computing},
-        author={Matthew Andres Moreno and Mark T. Holder and Jeet Sukumaran},
-        year={2024},
-        eprint={2405.14120},
-        archivePrefix={arXiv},
-        primaryClass={q-bio.PE}
+  @article{moreno2024dendropy,
+    doi = {10.21105/joss.06943},
+    url = {https://doi.org/10.21105/joss.06943},
+    year = {2024},
+    publisher = {The Open Journal},
+    volume = {9},
+    number = {101},
+    pages = {6943},
+    author = {Matthew Andres Moreno and Mark T. Holder and Jeet Sukumaran},
+    title = {DendroPy 5: a mature Python library for phylogenetic computing},
+    journal = {Journal of Open Source Software}
   }
-citation: "Moreno, M. A., Holder, M. T., & Sukumaran, J. (2024). DendroPy 5: a mature Python library for phylogenetic computing. arXiv preprint arXiv:2405.14120. https://doi.org/10.48550/arXiv.2405.14120"
+citation: "Moreno et al., (2024). DendroPy 5: a mature Python library for phylogenetic computing. Journal of Open Source Software, 9(101), 6943, https://doi.org/10.21105/joss.06943"
 supporting_materials: |
   - [repository](https://github.com/jeetsukumaran/DendroPy) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [documentation](https://jeetsukumaran.github.io/DendroPy/) [via GitHub Pages <i class="icon-github-1"></i>](https://pages.github.com/)
   - [pre-review](https://github.com/openjournals/joss-reviews/issues/6789) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
-# - [review](https://github.com/openjournals/joss-reviews/issues/TODO) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
-# - [source archive](https://doi.org/TODO via [Zenodo *z*](https://zenodo.org)
+  - [review](https://github.com/openjournals/joss-reviews/issues/6943) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
+  - [source archive](https://doi.org/10.5281/zenodo.13340136) via [Zenodo *z*](https://zenodo.org)
 ---
