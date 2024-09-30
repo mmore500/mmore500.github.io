@@ -5,7 +5,7 @@ date: 2024-05-06
 permalink: "/pubs/:title"
 category: abstract
 doi: 10.1145/3638530.3664090
-download: https://dl.acm.org/doi/pdf/10.1145/3638530.3664090
+download: https://arxiv.org/pdf/2405.03605
 view_publisher: https://doi.org/10.1145/3638530.3664090
 authors:
   - Matthew Andres Moreno
