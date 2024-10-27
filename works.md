@@ -5,7 +5,7 @@ permalink: /works/
 ---
 
 This page provides unrestricted downloads and supporting materials for my publications and other professional works.
-My publications can also be viewed on [my google scholar profile](https://scholar.google.com/citations?user=xROn8y4AAAAJ).
+Publications can also be viewed on [my google scholar profile](https://scholar.google.com/citations?user=xROn8y4AAAAJ).
 
 
 <details class="lollipop">
