@@ -12,7 +12,7 @@ projects:
   - in-browser
 bibtex: |-
   @software{Ofria_Empirical_C_library_2020,
-    author = {Ofria, Charles and Moreno, Matthew Andres and Dolson, Emily and Lalejini, Alex and Rodriguez Papa, Santiago and Fenton, Jake and Perry, Katherine and Jorgensen, Steven and hoffmanriley and grenewode and Baldwin Edwards, Oliver and Stredwick, Jason and cgnitash and theycallmeHeem and Vostinar, Anya and Moreno, Ryan and Schossau, Jory and Zaman, Luis and djrain},
+    author = {Ofria, Charles and Moreno, Matthew Andres and Dolson, Emily and Lalejini, Alex and {Rodriguez Papa}, Santiago and Fenton, Jake and Perry, Katherine and Jorgensen, Steven and hoffmanriley and grenewode and Baldwin Edwards, Oliver and Stredwick, Jason and cgnitash and theycallmeHeem and Vostinar, Anya and Moreno, Ryan and Schossau, Jory and Zaman, Luis and djrain},
     doi = {10.5281/zenodo.4141943},
     license = {MIT},
     month = {10},

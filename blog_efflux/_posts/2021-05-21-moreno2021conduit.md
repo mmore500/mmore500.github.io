@@ -40,7 +40,7 @@ bibtex: |-
     location = {Lille, France},
     series = {GECCO '21}
   }
-citation: "Matthew Andres Moreno, Santiago Rodriguez Papa, and Charles Ofria. 2021. Conduit: a C++ library for best-effort high performance computing. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO '21). Association for Computing Machinery, New York, NY, USA, 1795–1800. https://doi.org/10.1145/3449726.3463205"
+citation: "Matthew Andres Moreno, Santiago {Rodriguez Papa}, and Charles Ofria. 2021. Conduit: a C++ library for best-effort high performance computing. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO '21). Association for Computing Machinery, New York, NY, USA, 1795–1800. https://doi.org/10.1145/3449726.3463205"
 supporting_materials: |
   - [data](https://osf.io/7jkgp/) [via Open Science Framework ❋](https://osf.io)
   - [interactive data notebooks](https://mybinder.org/v2/gh/mmore500/conduit/HEAD?filepath=binder%2F) [via MyBinder ❋](https://mybinder.org/)

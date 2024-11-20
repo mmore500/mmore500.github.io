@@ -33,7 +33,7 @@ bibtex: |-
 
     copyright = {arXiv.org perpetual, non-exclusive license}
   }
-citation: "Moreno, M. A., Rodriguez Papa, S., & Ofria, C. (2021). SignalGP-Lite: Event Driven Genetic Programming Library for Large-Scale Artificial Life Applications. arXiv preprint arXiv:2108.00382."
+citation: "Moreno, M. A., {Rodriguez Papa}, S., & Ofria, C. (2021). SignalGP-Lite: Event Driven Genetic Programming Library for Large-Scale Artificial Life Applications. arXiv preprint arXiv:2108.00382."
 supporting_materials: |
   - [documentation](https://signalgp-lite.readthedocs.io/) [via ReadTheDocs 📖](https://readthedocs.org/)
 ---
