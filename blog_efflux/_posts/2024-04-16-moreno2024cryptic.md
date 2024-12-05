@@ -22,15 +22,15 @@ abstract: |
   Presented work provides initial steps toward development of new methods and software tools that improve the resolution, rigor, and tractability of complexity analyses across alife systems, particularly those requiring expensive in situ assessments of organism fitness.
 bibtex: |-
   @inproceedings{moreno2024cryptic,
-    title={Methods to Estimate Cryptic Sequence Complexity},
-    author={Matthew Andres Moreno},
+    title = {Methods to Estimate Cryptic Sequence Complexity},
+    author = {Matthew Andres Moreno},
     booktitle = {The 2024 Conference on Artificial Life},
     collection = {ALIFE 2024},
     publisher = {MIT Press},
     year = {2024},
     month = {07},
-    doi={10.48550/arXiv.2404.10854},
-    url={https://arxiv.org/abs/2404.10854},
+    doi = {10.48550/arXiv.2404.10854},
+    url = {https://arxiv.org/abs/2404.10854},
   }
 # pages = {TODO},
 # eprint = {TODO},

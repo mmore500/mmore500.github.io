@@ -31,7 +31,7 @@ abstract: |
   Developed capabilities will bring entirely new classes of previously intractable research questions within reach, benefiting further explorations within the evolutionary biology and artificial life communities across a variety of emerging high-performance computing platforms.
 bibtex: |-
   @inproceedings{moreno2024trackable,
-    author={Matthew Andres Moreno and Connor Yang and Emily Dolson and Luis Zaman},
+    author = {Matthew Andres Moreno and Connor Yang and Emily Dolson and Luis Zaman},
     title = {Trackable Agent-based Evolution Models at Wafer Scale},
     booktitle = {The 2024 Conference on Artificial Life},
     collection = {ALIFE 2024},

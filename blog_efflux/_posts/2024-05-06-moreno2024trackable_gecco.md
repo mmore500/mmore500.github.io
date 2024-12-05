@@ -30,7 +30,7 @@ abstract: |
 
 bibtex: |-
   @inproceedings{moreno2024trackable_gecco,
-    author={Matthew Andres Moreno and Connor Yang and Emily Dolson and Luis Zaman},
+    author = {Matthew Andres Moreno and Connor Yang and Emily Dolson and Luis Zaman},
     title = {Trackable Island-model Genetic Algorithms at Wafer Scale},
     pages = {101-102},
     isbn = {9798400704956},
