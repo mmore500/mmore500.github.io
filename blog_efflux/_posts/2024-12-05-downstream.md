@@ -1,7 +1,7 @@
 ---
 layout: efflux
 title: "downstream"
-date: 2022-01-01
+date: 2024-12-05
 category: research
 view_github: https://github.com/mmore500/downstream
 view_publisher: https://pypi.org/project/downstream/
