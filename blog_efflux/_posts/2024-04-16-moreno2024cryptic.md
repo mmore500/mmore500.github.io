@@ -4,9 +4,9 @@ title: "Methods to Estimate Cryptic Sequence Complexity"
 date: 2024-04-16
 permalink: "/pubs/:title"
 category: abstract
-doi: 10.48550/arXiv.2404.10854
-download: https://arxiv.org/pdf/2404.10854.pdf
-view_publisher: https://doi.org/10.48550/arXiv.2404.10854
+doi: 10.1162/isal_a_00776
+download: https://direct.mit.edu/isal/proceedings-pdf/isal2024/36/51/2461101/isal_a_00776.pdf
+view_publisher: https://doi.org/10.1162/isal_a_00776
 authors:
   - Matthew Andres Moreno
 venue: The 2024 Conference on Artificial Life
@@ -26,15 +26,15 @@ bibtex: |-
     author = {Matthew Andres Moreno},
     booktitle = {The 2024 Conference on Artificial Life},
     collection = {ALIFE 2024},
+    pages = {51},
     publisher = {MIT Press},
     year = {2024},
     month = {07},
-    doi = {10.48550/arXiv.2404.10854},
-    url = {https://arxiv.org/abs/2404.10854},
+    doi = {10.1162/isal_a_00776},
+    url = {https://doi.org/10.1162/isal_a_00776},
+    eprint = {https://direct.mit.edu/isal/proceedings-pdf/isal2024/36/51/2461101/isal\_a\_00776.pdf},
   }
-# pages = {TODO},
-# eprint = {TODO},
-citation:  'Moreno, M. A. (2024). Methods to Estimate Cryptic Sequence Complexity. In The 2024 Conference on Artificial Life. MIT Press. https://doi.org/10.48550/arXiv.2404.10854'
+citation:  'Moreno, M. A. (2024). Methods to Estimate Cryptic Sequence Complexity. In The 2024 Conference on Artificial Life. MIT Press. https://doi.org/10.1162/isal_a_00776'
 supporting_materials: |
   - [manuscript source and software](https://github.com/mmore500/cryptic-sequence-concept/tree/v0.2.0) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [data notebooks](https://github.com/mmore500/cryptic-sequence-concept/tree/dfaed0ced3e088ae32c1cee96a9381e6a182a65e) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
