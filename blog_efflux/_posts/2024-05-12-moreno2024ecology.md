@@ -38,7 +38,7 @@ bibtex: |-
         archivePrefix={arXiv},
         primaryClass={q-bio.PE}
   }
-citation: "Moreno, M. A., Rodriguez-Papa, S., & Dolson, E. (2024). Ecology, Spatial Structure, and Selection Pressure Induce Strong Signatures in Phylogenetic Structure. arXiv preprint arXiv:2405.07245."
+citation: "Moreno, M. A., Rodriguez-Papa, S., & Dolson, E. (2024). Ecology, Spatial Structure, and Selection Pressure Induce Strong Signatures in Phylogenetic Structure. arXiv preprint arXiv:2405.07245. https://doi.org/10.48550/arXiv.2405.07245"
 supporting_materials: |
   - [manuscript source](https://github.com/mmore500/hstrat-evolutionary-inference/tree/tex) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [code and notebooks](https://github.com/mmore500/hstrat-evolutionary-inference/) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
