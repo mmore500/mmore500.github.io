@@ -5,8 +5,8 @@ date: 2024-06-02
 permalink: "/pubs/:title"
 category: journal
 doi: "10.21105/joss.06617"
-download: https://raw.githubusercontent.com/openjournals/joss-papers/joss.06617/joss.06617/10.21105.joss.06617.pdf
-view_publisher: https://github.com/openjournals/joss-reviews/issues/6617
+download: https://www.theoj.org/joss-papers/joss.06617/10.21105.joss.06617.pdf
+view_publisher: https://doi.org/10.21105/joss.06617
 authors:
   - Anya Vostinar
   - Alexander Lalejini
