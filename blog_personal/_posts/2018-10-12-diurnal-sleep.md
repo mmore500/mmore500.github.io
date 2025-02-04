@@ -2,6 +2,7 @@
 layout: post
 title:  "Things I Tried, and Some I Didn't, to Keep a Diurnal Sleep Cycle in Grad School"
 date:   2018-10-12
+published: false
 ---
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The future depends on some graduate student who is deeply suspicious of everything I have said. <br><br>--- Geoff Hinton <a href="https://t.co/OtRHyvk4Bc">https://t.co/OtRHyvk4Bc</a> via <a href="https://twitter.com/filippie509?ref_src=twsrc%5Etfw">@filippie509</a> <a href="https://t.co/gMT12Y9cut">https://t.co/gMT12Y9cut</a></p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/1040269503907725315?ref_src=twsrc%5Etfw">September 13, 2018</a></blockquote>

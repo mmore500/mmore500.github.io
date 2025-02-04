@@ -77,7 +77,8 @@ Because ████████ ███████████████�
 Although the residential floors were ostensibly protected with secondary keycard authentication, █████████ █████████ █████████ █████████ █████████ █████████ █████████ █████████ █████████ █████████ █████████ ███.
 Likewise, █████████ █████████ █████████ █████████ █████████ █████████ ████████ and gain access to residential floors without secondary keycard authentication.
 
-Although there was primary key card authentication on all exterior doors, ███████ ███████ ███████ made it easy enough to get in the building without a keycard. Before the pandemic, it became difficult to find space in the study areas ostensibly set aside for residents on the top floor because many undergraduates discovered how easy it was to access the swanky graduate facilities.
+Although there was primary key card authentication on all exterior doors, ███████ ███████ ███████ made it easy enough to get in the building without a keycard.
+Before the pandemic, it became difficult to find space in the study areas ostensibly set aside for residents on the top floor because many undergraduates discovered how easy it was to access the swanky graduate facilities.
 In fact, I had a job interview scheduled with an undergraduate with whom I arranged to meet up with at Munger.
 At our appointment time, I was surprised to find he had already arrived and picked out a choice spot for our meeting from among his favorites.
 

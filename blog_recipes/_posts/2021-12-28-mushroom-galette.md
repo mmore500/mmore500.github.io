@@ -41,7 +41,7 @@ recipe:
     6. lightly knead to eliminate dry spots
     7. pat into a disk and wrap in plastic
     8. chill at least 2 hr.
-    
+
     ## Galette
     1. heat 1 tbsp. oil in a large skillet over medium-high heat
     2. add mushrooms, salt, and pepper
@@ -50,7 +50,7 @@ recipe:
     5. heat 1 tbsp. oil in same skillet over medium heat
     6. cook garlic until fragrant (about 30 seconds), stirring frequently
     7. add half of chard, salt, and pepper
-    8. toss and cook until slightly wilted 
+    8. toss and cook until slightly wilted
     9. add remianing chard and cook, tossing occasionally until completely wilted (about 4 minutes)
     10. remove from heat then season wth salt and pepper
     11. roll out dough on lightly floured parchment sheet, until 14 in. round and 1/8 in. thick
@@ -58,14 +58,14 @@ recipe:
     13. spread 3/4 of ricotta over dough, leaving 1 1/2 in. border
     14. dollo remaining ricotta over vegetables
     15. bring edges of dough up over filling (overlapping as needed) to create 1 1/2 inch crust
-    16. brush crust with egg 
+    16. brush crust with egg
     17. bake until golden brown and cooked through (35 to 40 min.), rotating once
     18. cool slightly before serving
-    
+
     ## Topping
     1. toss herbs, lemon juice, pepper, and 1 tbsp. oil in small bowl
     2. top galette with herbs, zest, and salt
-  
+
   notes_markdown: |-
     Dough can be made two days ahead.
     Keep chilled.

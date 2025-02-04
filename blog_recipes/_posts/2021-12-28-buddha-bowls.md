@@ -17,14 +17,14 @@ recipe:
     * 1 tbsp. olive oil
     * salt
     * pepper
-  
+
     ## Roast
     * 1 head cauliflower, diced
     * 1 onion, diced
     * 1 tbsp. olive oil
     * salt
     * pepper
-   
+
     ## Dressing
     * 1 clove garlic, minced
     * 2 tbsp. peanut butter
@@ -49,4 +49,5 @@ recipe:
     6. whisk together dressing ingredients
     7. layer rice, cauliflower, sliced chicken, avocado, and spinach in each bowl
     8. top with sesame seeds and dressing
+published: false
 ---

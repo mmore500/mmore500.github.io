@@ -13,15 +13,15 @@ recipe:
     * 3 tbsp. vegetable oil
     * 6 scallions, sliced
     * 2 carrots, sliced
-    * 1 lb. mushrooms (maitake, shiitake, oyster, button, and/or cimini)    
+    * 1 lb. mushrooms (maitake, shiitake, oyster, button, and/or cimini)
     * salt
-    
+
     ## Tofu
-    * 375g firm tofu (1 pack) 
+    * 375g firm tofu (1 pack)
     * 1 1/2 tsp. cornstarch
     * pinch of salt
     * 1 tbsp. soy sauce
- 
+
     ## Sauce
     * 2 tbsp. rice vinegar
     * 2 tbsp. rice wine or mirin
@@ -39,7 +39,7 @@ recipe:
     5. toss tofu ingredients in medium bowl
     6. mix sauce ingredients
     7. warm 1 tbsp. oil in skillet over medium-high heat until shimmering
-    8. add mushrooms, scallions, and carrots 
+    8. add mushrooms, scallions, and carrots
     9. cook, stirring often until tender and slightly browned (5 to 7 minutes)
     10. season lightly with salt
     11. transfer to medium bowl

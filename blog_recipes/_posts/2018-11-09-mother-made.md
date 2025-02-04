@@ -26,4 +26,5 @@ recipe:
 
   notes_markdown: |-
     It only counts if mom makes it.
+published: false
 ---

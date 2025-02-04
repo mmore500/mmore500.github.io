@@ -2,6 +2,7 @@
 layout: post
 title:  "Gauche Statements Considered Harmful"
 date:   2020-06-28
+published: false
 ---
 
 Early in my graduate career, a colleague made a severely hurtful comment to me at a work event.

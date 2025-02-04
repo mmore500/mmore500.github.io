@@ -20,7 +20,8 @@ recipe:
       * oil
 
   directions_markdown: |-
-    1. Scald milk in a pan by heating until it boils and immediately stop.  Then pour over sieved squash.
+    1. Scald milk in a pan by heating until it boils and immediately stop.
+    Then pour over sieved squash.
     I don’t really sieve it for squash in a can.
     2. Add sugar, shortening (we use butter), and salt.
     3. Dissolve yeast in 1 1/2 C of warm water.

@@ -29,5 +29,5 @@ recipe:
     3. mix tuna salad ingredients in large Tupperware (for easy storage)
     3. toast bread
     4. serve with cheddar cheese
-    
+
 ---

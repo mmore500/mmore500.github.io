@@ -14,7 +14,7 @@ recipe:
   directions_markdown: |-
     1. shake together egg white, citrus juice, vodka, cardamom butters, and syrup
     2. strain and pour over ice
-      
+
   notes_markdown: |-
     Makes two drinks.
     Good with strawberry basil.

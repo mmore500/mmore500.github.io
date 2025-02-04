@@ -2,6 +2,7 @@
 layout: post
 title:  "My Record-Keeping Setup"
 date:   2018-01-21
+published: false
 ---
 
 > *March 25, 2000*

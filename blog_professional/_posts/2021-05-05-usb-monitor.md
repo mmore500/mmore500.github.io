@@ -3,6 +3,7 @@ layout: post
 title: "Dinky USB Monitor as a Good-Enough Smart Display"
 date: 2021-03-30
 no_toc: true
+published: false
 ---
 
 ## The Dream

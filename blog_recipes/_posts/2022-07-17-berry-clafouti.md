@@ -6,7 +6,7 @@ recipe:
   cook: 1 hr.
   preheat: 350 F
   source_name: Jessica Seinfeld
-  source_publisher: Food Swings  
+  source_publisher: Food Swings
   ingredients_markdown: |-
     * unsalted butter
     * 1/2 c. sugar
@@ -29,7 +29,7 @@ recipe:
     6. pour mixtture over berries
     7. sprinkle with 3 tbsp. sugar
     8. bake 55 min.
-      
+
   notes_markdown: |-
     Makes 6 servings.
     Bake longer, especially if berries are frozen.
