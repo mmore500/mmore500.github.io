@@ -33,11 +33,6 @@
   where: "WAVES Workshop Blog"
   where_url: "https://mmore500.com/waves/blog"
   date: 2020-08-03
-- title: "Sytemic Racism, Dispersed Harm, and #FireStephenHsu"
-  url: "https://threadreaderapp.com/thread/1274100353496039424.html"
-  where: "Thread reader"
-  where_url: "https://threadreaderapp.com/"
-  date: 2020-06-19
 - title: "std::bitset plus -msse4.2 equals popcnt"
   url: "https://mmore500.github.io/cse-491/blog/2019/11/20/bitset-popcnt.html"
   where: "CSE 491 Advanced C++ Seminar Blog"

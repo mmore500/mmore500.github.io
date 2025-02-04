@@ -2,6 +2,7 @@
 layout: post
 title:  "Setting Up Self-Loggers"
 date:   2018-10-26
+published: false
 ---
 
 A few weeks ago, I passed my comprehensive exam.

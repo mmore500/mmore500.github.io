@@ -2,6 +2,7 @@
 layout: post
 title: "not now sweetey, mommy's making gpt2 performance art on twitter"
 date: 2020-06-21
+published: false
 ---
 
 *All fun shenanigans described here were undertaken in a purely personal capacity.*
