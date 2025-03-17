@@ -39,4 +39,6 @@ supporting_materials: |
   - [manuscript source](https://github.com/mmore500/hstrat-reconstruction-quality/) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [code and notebooks](https://github.com/mmore500/hstrat-reconstruction-quality/) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [data](https://osf.io/vqe7b/) [via Open Science Framework ❋](https://osf.io)
+  - [conference slides](https://docs.google.com/presentation/d/1XM_1cvXs6pVYpKzuTeSV8r_rLwNHncmAg3Jye4AjcjA) [via Google Slides](https://workspace.google.com/products/slides/)
+  - [conference poster](https://docs.google.com/presentation/d/1k64iKqZsmsxi7gqmG1uR_9eLlG5M-T-sg5AJ0ras5cY) [via Google Slides](https://workspace.google.com/products/slides/)
 ---
