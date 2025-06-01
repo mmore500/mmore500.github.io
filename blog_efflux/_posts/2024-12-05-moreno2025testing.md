@@ -26,15 +26,18 @@ abstract: |
   Encouragingly, we find that the second-generation approaches provide higher reconstruction quality across most surveyed conditions.
 bibtex: |-
   @inproceedings{moreno2025testing,
-    title = {Testing the Inference Accuracy of Accelerator-friendly Approximate Phylogeny Tracking},
-    author=  {Matthew Andres Moreno and Anika Ranjan and Emily Dolson and Luis Zaman},
-    booktitle = {2025 IEEE Symposium on Computational Intelligence in Artificial Life and Cooperative Intelligent Systems},
+    author={Moreno, Matthew Andres and Ranjan, Anika and Dolson, Emily and Zaman, Luis},
+    booktitle={2025 IEEE Symposium on Computational Intelligence in Artificial Life and Cooperative Intelligent Systems (ALIFE-CIS)},
+    title={Testing the Inference Accuracy of Accelerator-Friendly Approximate Phylogeny Tracking},
+    year={2025},
+    pages={1-9},
     location = {Trondheim, Norway},
     publisher = {IEEE},
     address = {Piscataway, NJ, USA},
-    year={in press},
+    doi={10.1109/ALIFE-CIS64968.2025.10979833},
+    url={https://doi.org/10.1109/ALIFE-CIS64968.2025.10979833}
   }
-citation: "Moreno, M. A., Ranjan, A., Dolson, E., & Zaman, L. (in press). In The 2025 IEEE Symposium on Computational Intelligence in Artificial Life and Cooperative Intelligent Systems. IEEE."
+citation: 'M. A. Moreno, A. Ranjan, E. Dolson and L. Zaman, "Testing the Inference Accuracy of Accelerator-Friendly Approximate Phylogeny Tracking," 2025 IEEE Symposium on Computational Intelligence in Artificial Life and Cooperative Intelligent Systems (ALIFE-CIS), Trondheim, Norway, 2025, pp. 1-9, doi: 10.1109/ALIFE-CIS64968.2025.10979833.'
 supporting_materials: |
   - [manuscript source](https://github.com/mmore500/hstrat-reconstruction-quality/) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [code and notebooks](https://github.com/mmore500/hstrat-reconstruction-quality/) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
