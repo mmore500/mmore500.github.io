@@ -1,17 +1,17 @@
 ---
 layout: efflux
 title: "Ecology, Spatial Structure, and Selection Pressure Induce Strong Signatures in Phylogenetic Structure"
-date: 2024-05-12
+date: 2025-05-01
 permalink: "/pubs/:title"
-category: preprint
-doi: 10.48550/arXiv.2405.07245
-download: https://arxiv.org/pdf/2405.07245.pdf
-view_publisher: https://doi.org/10.48550/arXiv.2405.07245
+category: journal
+doi: 10.1162/artl_a_00470
+download: https://github.com/mmore500/hstrat-evolutionary-inference/releases/download/v2.2.0/artl_a_00470.pdf
+view_publisher: https://doi.org/10.1162/artl_a_00470
 authors:
   - Matthew Andres Moreno
   - Santiago Rodriguez-Papa
   - Emily Dolson
-venue: arXiv
+venue: Artifical Life
 projects:
   - hstrat
 abstract: |
@@ -28,17 +28,21 @@ abstract: |
   Although our results suggest potential for evolutionary inference of spatial structure, ecology, and selection pressure through phylogenetic analysis, further methods development is needed to distinguish these drivers' phylometric signatures from each other and to appropriately normalize phylogenetic metrics.
   With such work, phylogenetic analysis could provide a versatile toolkit to study large-scale evolving populations.
 bibtex: |-
-  @misc{moreno2024ecology,
-        doi={10.48550/arXiv.2405.07245},
-        url={https://arxiv.org/abs/2405.07245},
-        title={Ecology, Spatial Structure, and Selection Pressure Induce Strong Signatures in Phylogenetic Structure},
-        author={Matthew Andres Moreno and Santiago Rodriguez-Papa and Emily Dolson},
-        year={2024},
-        eprint={2405.07245},
-        archivePrefix={arXiv},
-        primaryClass={q-bio.PE}
+  @article{moreno2025ecology,
+    author = {Moreno, Matthew Andres and Rodriguez-Papa, Santiago and Dolson, Emily},
+    title = {Ecology, Spatial Structure, and Selection Pressure Induce Strong Signatures in Phylogenetic Structure},
+    journal = {Artificial Life},
+    volume = {31},
+    number = {2},
+    pages = {129-152},
+    year = {2025},
+    month = {05},
+    issn = {1064-5462},
+    doi = {10.1162/artl_a_00470},
+    url = {https://doi.org/10.1162/artl\_a\_00470},
+    eprint = {https://direct.mit.edu/artl/article-pdf/31/2/129/2520922/artl\_a\_00470.pdf},
   }
-citation: "Moreno, M. A., Rodriguez-Papa, S., & Dolson, E. (2024). Ecology, Spatial Structure, and Selection Pressure Induce Strong Signatures in Phylogenetic Structure. arXiv preprint arXiv:2405.07245. https://doi.org/10.48550/arXiv.2405.07245"
+citation: "Matthew Andres Moreno, Santiago Rodriguez-Papa, Emily Dolson; Ecology, Spatial Structure, and Selection Pressure Induce Strong Signatures in Phylogenetic Structure. Artif Life 2025; 31 (2): 129–152. doi: https://doi.org/10.1162/artl_a_00470"
 supporting_materials: |
   - [manuscript source](https://github.com/mmore500/hstrat-evolutionary-inference/tree/tex) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [code and notebooks](https://github.com/mmore500/hstrat-evolutionary-inference/) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
