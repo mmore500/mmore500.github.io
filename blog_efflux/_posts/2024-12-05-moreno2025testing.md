@@ -4,7 +4,9 @@ title: "Testing the Inference Accuracy of Accelerator-friendly Approximate Phylo
 date: 2024-12-05
 permalink: "/pubs/:title"
 category: conference
+doi: 10.1109/ALIFE-CIS64968.2025.10979833
 download: https://github.com/mmore500/hstrat-reconstruction-quality/releases/download/v1.1.0/2024390545.pdf
+view_publisher: https://doi.org/10.1109/ALIFE-CIS64968.2025.10979833
 authors:
   - Matthew Andres Moreno
   - Anika Ranjan
