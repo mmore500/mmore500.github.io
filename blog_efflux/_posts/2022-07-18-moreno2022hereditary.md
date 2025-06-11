@@ -29,7 +29,7 @@ bibtex: |-
       author = {Moreno, Matthew Andres and Dolson, Emily and Ofria, Charles},
       title = {Hereditary Stratigraphy: Genome Annotations to Enable Phylogenetic Inference over Distributed Populations},
       booktitle = {The 2022 Conference on Artificial Life},
-      collection = {ALIFE 2022}
+      collection = {ALIFE 2022},
       year = {2022},
       month = {07},
       doi = {10.1162/isal_a_00550},
