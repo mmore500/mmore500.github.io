@@ -39,9 +39,9 @@ bibtex: |-
         archivePrefix={arXiv},
         primaryClass={cs.DS}
   }
-citation: "Moreno, M. A., Zaman L., & Dolson E. (2024). Structured Downsampling for Fast, Memory-efficient Curation of Online Data Streams. arXiv preprint arXiv:2409.06199. https://doi.org/10.48550/arXiv.2409.06199"
+citation: "Moreno M. A., Zaman L., & Dolson E. (2024). Structured Downsampling for Fast, Memory-efficient Curation of Online Data Streams. arXiv preprint arXiv:2409.06199. https://doi.org/10.48550/arXiv.2409.06199"
 supporting_materials: |
   - [manuscript source](https://github.com/mmore500/hstrat-surface-concept/) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [software repository](https://github.com/mmore500/downstream/) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
-  - [software package](https://pypi.org/project/downstream/) [via PyPI <i class="icon-github-1"></i>](https://github.com/)
+  - [software package](https://pypi.org/project/downstream/) [via PyPI](https://pypi.org/)
 ---

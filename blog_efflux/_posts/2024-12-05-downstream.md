@@ -7,6 +7,7 @@ view_github: https://github.com/mmore500/downstream
 view_publisher: https://pypi.org/project/downstream/
 authors:
   - Matthew Andres Moreno
+  - Connor Yang
 venue: Python package published via PyPI
 projects:
   - libraries
