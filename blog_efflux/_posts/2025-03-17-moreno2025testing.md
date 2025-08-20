@@ -1,7 +1,7 @@
 ---
 layout: efflux
 title: "Testing the Inference Accuracy of Accelerator-friendly Approximate Phylogeny Tracking"
-date: 2024-12-05
+date: 2025-03-17
 permalink: "/pubs/:title"
 category: conference
 doi: 10.1109/ALIFE-CIS64968.2025.10979833
