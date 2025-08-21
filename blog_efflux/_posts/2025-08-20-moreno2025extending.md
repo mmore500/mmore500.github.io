@@ -4,9 +4,9 @@ title: "Extending a Phylogeny-based Method for Detecting Signatures of Multi-lev
 date: 2025-08-20
 permalink: "/pubs/:title"
 category: conference
-doi: 10.17605/OSF.IO/37FV8
-download: https://github.com/mmore500/multilevel-selection-concept/releases/download/v1.1.2/multilevel-selection-concept.pdf
-view_publisher: https://github.com/mmore500/multilevel-selection-concept/releases/tag/v1.1.2
+doi: 10.48550/arXiv.2508.14232
+download: https://arxiv.org/pdf/2508.14232
+view_publisher: https://arxiv.org/abs/2508.14232
 authors:
   - Matthew Andres Moreno
   - Sanaz Hasanzadeh Fard
@@ -34,12 +34,12 @@ bibtex: |-
     collection = {ALIFE 2025},
     publisher = {MIT Press},
     year = {in press},
-    doi={10.17605/OSF.IO/37FV8},
-    url={https://doi.org/10.17605/OSF.IO/37FV8},
+    doi={10.48550/arXiv.2508.14232},
+    url={https://doi.org/10.48550/arXiv.2508.14232},
     month = {10},
     numpages={12},
   }
-citation:  'Moreno, M. A., Hasanzadeh Fard, S., Dolson, E., & Zaman, L. (in press). Extending a Phylogeny-based Method for Detecting Signatures of Multi-level Selection for Applications in Artificial Life. In The 2024 Conference on Artificial Life. MIT Press. https://doi.org/10.17605/OSF.IO/37FV8'
+citation:  'Moreno, M. A., Hasanzadeh Fard, S., Dolson, E., & Zaman, L. (in press). Extending a Phylogeny-based Method for Detecting Signatures of Multi-level Selection for Applications in Artificial Life. In The 2024 Conference on Artificial Life. MIT Press. https://doi.org/10.48550/arXiv.2508.14232'
 supporting_materials: |
   - [manuscript, notebooks, and scripts source](https://github.com/mmore500/multilevel-selection-concept/tree/v1.1.1) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [manuscript, notebooks, and scripts archive](https://doi.org/10.5281/zenodo.15549529) [via Zenodo *z*](https://zenodo.org)
