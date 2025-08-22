@@ -4,9 +4,9 @@ title: "A Scalable Trie Building Algorithm for High-Throughput Phyloanalysis of 
 date: 2025-08-20
 permalink: "/pubs/:title"
 category: conference
-doi: 10.17605/OSF.IO/63UCZ
-download: https://github.com/mmore500/multilevel-selection-concept/releases/download/v1.1.2/multilevel-selection-concept.pdf
-view_publisher: https://github.com/mmore500/multilevel-selection-concept/releases/v1.1.2
+doi: 10.48550/arXiv.2508.15074
+download: https://arxiv.org/pdf/2508.15074
+view_publisher: https://arxiv.org/abs/2508.15074
 authors:
   - Vivaan Singhvi
   - Joey Wagner
@@ -35,12 +35,12 @@ bibtex: |-
     collection = {ALIFE 2025},
     publisher = {MIT Press},
     year = {in press},
-    doi={10.17605/OSF.IO/63UCZ},
-    url={https://doi.org/10.17605/OSF.IO/63UCZ},
+    doi={10.48550/arXiv.2508.15074},
+    url={https://doi.org/10.48550/arXiv.2508.15074},
     month = {10},
     numpages={12},
   }
-citation:  'Singhvi, V., Wagner, J., Dolson, E., Zaman, L., & Moreno, M. A. (in press). "A Scalable Trie Building Algorithm for High-Throughput Phyloanalysis of Wafer-Scale Digital Evolution Experiments. In The 2025 Conference on Artificial Life. MIT Press. https://doi.org/10.17605/OSF.IO/63UCZ'
+citation:  'Singhvi, V., Wagner, J., Dolson, E., Zaman, L., & Moreno, M. A. (in press). "A Scalable Trie Building Algorithm for High-Throughput Phyloanalysis of Wafer-Scale Digital Evolution Experiments. In The 2025 Conference on Artificial Life. MIT Press. https://doi.org/10.48550/arXiv.2508.15074'
 supporting_materials: |
   - [manuscript, notebooks, and scripts source](https://github.com/mmore500/hstrat-reconstruction-algo/tree/v1.1.1) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [manuscript, notebooks, and scripts archive](https://doi.org/10.5281/zenodo.16898918) [via Zenodo *z*](https://zenodo.org)
