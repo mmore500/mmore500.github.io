@@ -45,4 +45,6 @@ supporting_materials: |
   - [manuscript, notebooks, and scripts archive](https://doi.org/10.5281/zenodo.15549529) [via Zenodo *z*](https://zenodo.org)
   - [supplement](https://osf.io/q3fz5) [via Open Science Framework ❋](https://osf.io)
   - [data](https://osf.io/37fv8) [via Open Science Framework ❋](https://osf.io)
+  - [conference slides](https://docs.google.com/presentation/d/1CHkIasWMJ3u4hwbH28avn_pRbJdOo-7VaZr5mi3cZS8) [via Google Slides](https://workspace.google.com/products/slides/)
+  - [conference poster](https://docs.google.com/presentation/d/15vW5I8y3yaMzS7e7dzi2_rT70uDtqQhXIOwBAe9soKI) [via Google Slides](https://workspace.google.com/products/slides/)
 ---
