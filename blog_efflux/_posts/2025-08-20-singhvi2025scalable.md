@@ -50,5 +50,6 @@ supporting_materials: |
   - [hstrat archive](https://doi.org/10.5281/zenodo.16898849) [via Zenodo *z*](https://zenodo.org)
   - [supplement](https://osf.io/5q9ra) [via Open Science Framework ❋](https://osf.io)
   - [data](https://osf.io/63ucz) [via Open Science Framework ❋](https://osf.io)
+  - [conference slides](https://docs.google.com/presentation/d/1Fwp0UxB5QbZfOBBdNL68PoBQ6PUpMRdGbT0s9dURSDs) [via Google Slides](https://workspace.google.com/products/slides/)
   - [conference poster](https://docs.google.com/presentation/d/1sZqgj76n7Ms_QyGwkytiCPM8q7xpJ7Bfdq6BY1-XiD0) [via Google Slides](https://workspace.google.com/products/slides/)
 ---
