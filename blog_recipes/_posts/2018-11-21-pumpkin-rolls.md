@@ -10,6 +10,7 @@ recipe:
   ingredients_markdown: |-
 
       * 9 c. flour
+      * 3 to 5 c. flour (additional)
       * 6 c. milk
       * 1 1/2 c. squash (or pumpkin)
       * 1 1/2 c. shortening (or butter)
