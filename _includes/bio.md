@@ -34,7 +34,7 @@
 <div class="img-group flex-container flex-aspect">
 
   <div class = "img-container1 padding">
-    <img src="/resources/personal_photo_1.jpg" alt="Headshot by Hanna McIntosh" class = "baseimg"/>
+    <img src="/resources/personal_photo_5.jpg" alt="Headshot from SC24" class = "baseimg"/>
   </div>
 
   <div class = "img-container3 padding">
