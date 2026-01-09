@@ -5,7 +5,7 @@ date: 2025-08-20
 permalink: "/pubs/:title"
 category: conference
 doi: 10.1162/ISAL.a.916
-download: https://doi.org/10.1162/ISAL.a.916
+download: https://direct.mit.edu/isal/proceedings-pdf/isal2025/37/88/2567185/isal.a.916.pdf
 view_publisher: https://doi.org/10.1162/ISAL.a.916
 authors:
   - Matthew Andres Moreno
