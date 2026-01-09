@@ -47,4 +47,5 @@ supporting_materials: |
   - [data](https://osf.io/37fv8) [via Open Science Framework ❋](https://osf.io)
   - [conference slides](https://docs.google.com/presentation/d/1CHkIasWMJ3u4hwbH28avn_pRbJdOo-7VaZr5mi3cZS8) [via Google Slides](https://workspace.google.com/products/slides/)
   - [conference poster](https://docs.google.com/presentation/d/15vW5I8y3yaMzS7e7dzi2_rT70uDtqQhXIOwBAe9soKI) [via Google Slides](https://workspace.google.com/products/slides/)
+  - [recorded presentation](https://youtu.be/0Z7d9qTiVhw) [via YouTube <i class="icon-video"></i>](https://youtube.com)
 ---
