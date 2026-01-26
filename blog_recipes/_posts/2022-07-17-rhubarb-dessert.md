@@ -23,7 +23,7 @@ recipe:
       * 1 tsp. vanilla extract
 
   directions_markdown: |-
-    1. combine crust ingredients, mixing like foor pie crust
+    1. combine crust ingredients, mixing like for pie crust
     2. line 13" by 9" pan with crust
     3. bake crust 10 to 15 minutes
     4. mix filling ingredients and pour onto crust
