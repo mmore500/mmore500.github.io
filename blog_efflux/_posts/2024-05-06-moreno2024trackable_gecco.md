@@ -48,4 +48,7 @@ citation: "Matthew Andres Moreno, Connor Yang, Emily Dolson, and Luis Zaman. 202
 supporting_materials: |
   - [LaTeX source](https://github.com/mmore500/hstrat-wafer-scale/tree/tex-extended-abstract) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [primary publication](https://doi.org/10.48550/arXiv.2404.10861)
+  - [presentation](https://youtu.be/IvmdzK5UbNc) [via YouTube <i class="icon-video"></i>](https://youtube.com)
+  - [poster](https://docs.google.com/presentation/d/1TkJcTn8Oo9IIKrvSa6gvNNE3ydiAwbwiKY8evCXR2yI) [via Google Slides](https://workspace.google.com/products/slides/)
+  - [slides](https://docs.google.com/presentation/d/1MdZj-u6xAckVedusZo1WQj11t_WOHWtpYTfm8RfIGV0) [via Google Slides](https://workspace.google.com/products/slides/)
 ---
