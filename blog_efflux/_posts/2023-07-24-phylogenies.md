@@ -8,6 +8,9 @@ authors:
   - Matthew Andres Moreno
   - Alexander Lalejini
 venue: Tutorial at ALIFE 2023
+view_publisher: https://emilydolson.github.io/alife-phylogeny-tutorial/
+projects:
+  - hstrat
 abstract: |
   Phylogenies (i.e., ancestry trees) group extant organisms by ancestral relatedness to render the history of hierarchical lineage branching events within an evolving system.
   These relationships reveal the evolutionary trajectories of populations through a genotypic or phenotypic space.
