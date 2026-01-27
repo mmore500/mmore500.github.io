@@ -7,17 +7,22 @@ recipe:
   source_name: Mariah Seller
   ingredients_markdown: |-
     crust:
+
       * 1/2 c. butter
       * 2 tbsp. sugar
       * 2 c. flour
+
     filling:
+
       * 6 egg yolks
       * 4 tbsp. flour
       * 2 c. sugar
       * 5 c. chopped rhubarb
       * 1 c. cream or evaporated milk
       * 1/4 tsp. salt
+
     meringue:
+
       * 6 egg whites
       * 2 tbsp. sugar
       * 1 tsp. vanilla extract
