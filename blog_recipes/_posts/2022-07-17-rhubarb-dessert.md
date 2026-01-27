@@ -10,6 +10,7 @@ recipe:
       * 1/2 c. butter
       * 2 tbsp. sugar
       * 2 c. flour
+
     filling:
       * 6 egg yolks
       * 4 tbsp. flour
@@ -17,6 +18,7 @@ recipe:
       * 5 c. chopped rhubarb
       * 1 c. cream or evaporated milk
       * 1/4 tsp. salt
+
     meringue:
       * 6 egg whites
       * 2 tbsp. sugar
