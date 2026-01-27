@@ -12,7 +12,6 @@ recipe:
       * 2 c. flour
 
     filling:
-
       * 6 egg yolks
       * 4 tbsp. flour
       * 2 c. sugar
