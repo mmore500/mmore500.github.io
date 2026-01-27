@@ -21,7 +21,6 @@ recipe:
       * 1/4 tsp. salt
 
     meringue:
-
       * 6 egg whites
       * 2 tbsp. sugar
       * 1 tsp. vanilla extract
