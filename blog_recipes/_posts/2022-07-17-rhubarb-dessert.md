@@ -7,7 +7,6 @@ recipe:
   source_name: Mariah Seller
   ingredients_markdown: |-
     crust:
-
       * 1/2 c. butter
       * 2 tbsp. sugar
       * 2 c. flour
