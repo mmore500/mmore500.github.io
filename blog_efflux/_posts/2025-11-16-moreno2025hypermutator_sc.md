@@ -33,5 +33,5 @@ citation: "Matthew Andres Moreno, Emily Dolson, and Luis Zaman. 2025. Wafer-Scal
 supporting_materials: |
   - [LaTeX source](https://github.com/mmore500/hypermutator-dynamics/tree/tex-sc-poster) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [poster](https://sc25.supercomputing.org/proceedings/posters/poster_files/post164s2-file2.pdf)
-  - [slides](https://docs.google.com/presentation/d/12nhXl9WDB2i33-kFXYPPa4_-UtOXzcUQuBrxkmHSfSM)
+  - [poster](https://docs.google.com/presentation/d/12nhXl9WDB2i33-kFXYPPa4_-UtOXzcUQuBrxkmHSfSM) [via Google Slides](https://workspace.google.com/products/slides/)
 ---
