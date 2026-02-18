@@ -31,7 +31,9 @@ bibtex: |-
   }
 citation: "Matthew Andres Moreno, Emily Dolson, and Luis Zaman. 2025. Wafer-Scale Simulation of Mutator Allele Dynamics in Large Asexual Populations. In SC25 Research Poster and ACM Student Research Competition Poster Archive. https://sc25.supercomputing.org/proceedings/posters/poster_pages/post164.html"
 supporting_materials: |
-  - [LaTeX source](https://github.com/mmore500/hypermutator-dynamics/tree/tex-sc-poster) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
-  - [poster](https://sc25.supercomputing.org/proceedings/posters/poster_files/post164s2-file2.pdf)
+  - [manuscript source](https://github.com/mmore500/hypermutator-dynamics/tree/tex-sc-poster) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
+  - [software repository](https://github.com/mmore500/hypermutator-dynamics) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
+  - [data](https://osf.io/ymaf8/) [via Open Science Framework ❋](https://osf.io)
+  - [poster PDF](https://sc25.supercomputing.org/proceedings/posters/poster_files/post164s2-file2.pdf)
   - [poster](https://docs.google.com/presentation/d/12nhXl9WDB2i33-kFXYPPa4_-UtOXzcUQuBrxkmHSfSM) [via Google Slides](https://workspace.google.com/products/slides/)
 ---
