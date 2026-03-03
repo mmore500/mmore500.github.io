@@ -13,5 +13,5 @@ venue: Python package published via PyPI
 projects:
   - libraries
 supporting_materials: |
-  - [documentation](https://github.com/mmore500/phyloframe/blob/master/README.md) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
+  - [documentation](https://phyloframe.readthedocs.io) [via Read the Docs](https://readthedocs.org/)
 ---
