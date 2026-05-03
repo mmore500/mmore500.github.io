@@ -15,7 +15,7 @@ abstract: |
     - provide students a sense of accomplishment via a tangible, rewarding deliverable,
     - showcase students’ work to the general public,
     - showcase students’ work to potential employers,
-    - showcase students’ work to mentors’ evaluators,
+    - showcase students’ work to mentors & evaluators,
     - more effectively capitalize on students’ work after they leave the lab group or classroom, and
     - sausage factory more useful information out into the ether that someday somebody will be very happy to have Googled upon.
 
