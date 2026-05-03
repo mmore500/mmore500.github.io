@@ -122,7 +122,7 @@ There are also plenty of [in-browser tools](https://ezgif.com/loop-count) that d
 
 ## Toward Neogeocities: Restart on Scroll
 
-Although we don't want GIFs GIF-ing all the time, we probably also don't just want them to play once and be done.
+Although we don't want GIFs GIF-ing all the time, we probably also don't just want them to once and done.
 What about the juicy GIFs at the bottom of a page that would be all played out before web visitors get a chance to chance upon them?
 
 I've found that re-triggering GIF animation on scroll provides a suitable solution.
