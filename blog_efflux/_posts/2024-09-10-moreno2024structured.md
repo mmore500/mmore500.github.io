@@ -17,7 +17,7 @@ projects:
   - libraries
 abstract: |
   Operations over data streams typically hinge on efficient mechanisms to aggregate or summarize history on a rolling basis.
-  For high-volume data steams, it is critical to manage state in a manner that is fast and memory efficient --- particularly in resource-constrained or real-time contexts.
+  For high-volume data streams, it is critical to manage state in a manner that is fast and memory efficient --- particularly in resource-constrained or real-time contexts.
   Here, we address the problem of extracting a fixed-capacity, rolling subsample from a data stream.
   Specifically, we explore "data stream curation" strategies to fulfill requirements on the composition of sample time points retained.
   Our "DStream" suite of algorithms targets three temporal coverage criteria: (1) steady coverage, where retained samples should spread evenly across elapsed data stream history; (2) stretched coverage, where early data items should be proportionally favored; and (3) tilted coverage, where recent data items should be proportionally favored.

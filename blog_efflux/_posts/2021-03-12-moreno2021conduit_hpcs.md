@@ -27,7 +27,7 @@ bibtex: |
     booktitle = {The 6th International Workshop on Modeling and Simulation of and by Parallel and Distributed Systems (MSPDS 2020)},
     numpages = {2},
     keywords = {high performance computing, best-effort computing},
-    location = {Barcelona, Sapin},
+    location = {Barcelona, Spain},
     series = {HPCS 2021}
   }
 citation: "Matthew Andres Moreno, Santiago Rodriguez Papa and Charles Ofria. 2021. Conduit: A C++ Library for Best-Effort High Performance Computing. MSPDS 2020: The 6th International Workshop on Modeling and Simulation of and by Parallel and Distributed Systems."

@@ -28,7 +28,7 @@ abstract: |
   We find that best-effort communication enables significantly better computational performance under high thread and process counts and can achieve significantly better solution quality within a fixed time constraint.
 
   In a similar vein, phylogenetic analysis in digital evolution work has traditionally used a perfect tracking model where each birth event is recorded in a centralized data structure.
-  This approach, however, is difficult scale robustly and efficiently to distributed computing environments where agents may migrate between a dynamic set of disjoint processing elements.
+  This approach, however, is difficult to scale robustly and efficiently to distributed computing environments where agents may migrate between a dynamic set of disjoint processing elements.
   To provide for phylogenetic analyses in these environments, we propose an approach to infer phylogenies via heritable genetic annotations.
   We introduce hereditary stratigraphy, an algorithm that enables tunable trade-offs between annotation memory footprint and accuracy of phylogenetic inference.
   Simulating inference over known lineages, we recover up to 85% of the information contained in the true phylogeny using only a 64-bit annotation.
