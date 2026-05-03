@@ -45,7 +45,7 @@ recipe:
     1. pat dry chickpeas
     2. mix with rest of "bacon" chickpea ingredients
     3. line baking sheet with parchment paper
-    4. spread chickpea mixture onto half of baking sheets
+    4. spread chickpea mixture onto half of baking sheet
     5. toss together roasted tomato ingredients
     6. spread tomato mixture onto other half of baking sheet
     7. bake 20 minutes, until chickpeas crisp and tomatoes burst

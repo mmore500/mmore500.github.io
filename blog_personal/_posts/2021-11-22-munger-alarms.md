@@ -28,7 +28,7 @@ I timed it and spent upwards of forty minutes like this at one point during one 
 
 ## Safety Concerns
 
-Unfortunately, these frequent fire alarms not only caused a profound negative impact on livability, but also a threat to resident safety by means of desensitization.
+Unfortunately, these frequent fire alarms not only caused a profound negative impact on livability, but also posed a threat to resident safety by means of desensitization.
 
 By the end of my stay at Munger, I noticed that almost nobody in my suite actually evacuated when fire alarms rang.
 Instead, we would retreat to the quietest place we could find within the suite (our individual bedrooms and bathrooms) and wait the alarms out.
@@ -40,7 +40,7 @@ The frequency of frivolous alarms sets the stage for a potentially tragic outcom
 
 With a larger resident population packed in even more tightly, I fear that nuisance fire alarms could be an even more pervasive problem at the upcoming UCSB Munger project.
 
-I have several suggestions on the issue based on my lived experience as a resident in a Munger projects.
+I have several suggestions on the issue based on my lived experience as a resident in a Munger project.
 I hope that proper attention can ensure a more livable and safe experience at UCSB (and perhaps at U of M, too).
 This list of suggestions is by no means comprehensive, but should hopefully provide a starting point for a conversation to help reduce the frequency and desensitizing effect of frivolous fire alarm rings.
 

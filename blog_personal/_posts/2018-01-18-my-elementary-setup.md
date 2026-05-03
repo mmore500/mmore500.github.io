@@ -38,7 +38,7 @@ Note that you might need superuser permissions to modify this file (i.e. `sudo`)
 Until elective surgery for HDMI input implants gains widespread availability, I'll continue to need my eyeballs to look at my computer screen.
 Plus, they're useful for [other things](http://mmore500.tumblr.com/), too.
 
-Blue light hurts my eyes, especially at night when I'm at home sleeping at night and definitely not still at the office at my computer.
+Blue light hurts my eyes, especially at night when I'm at home sleeping and definitely not still at the office at my computer.
 I try to give my retinas a break by cutting back on the amount of blue light I'm shining in my face at all hours.
 [f.lux](https://justgetflux.com/) does a great job of warming the screen color on the mac, but its Linux port doesn't cut it.
 Use [Redshift](https://github.com/jonls/redshift) instead.

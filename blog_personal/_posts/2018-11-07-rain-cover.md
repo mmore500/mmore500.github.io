@@ -39,7 +39,7 @@ These very old and very Instagram-filtered shots tell a nice synopsis.
 
 So, basically, green space almost anywhere else compares like absentee voting to vote-by-mail.
 Sure, it's nice, but why should I have to print out and mail in an extra bullshit form, which requires some forethought, instead of just automatically getting a ballot in the mail when it's time to vote?
-(Also, where's my *official* voter's guide with brief, straight-from-the-horse's-mouth candidate statements and [Citizen Initiative Review](https://healthydemocracy.org/cir/) summaries of ballot measures written a panel of impartial fellow voters wrangled from around the State.
+(Also, where's my *official* voter's guide with brief, straight-from-the-horse's-mouth candidate statements and [Citizen Initiative Review](https://healthydemocracy.org/cir/) summaries of ballot measures written by a panel of impartial fellow voters wrangled from around the State.
 Like, what the fuck?)
 P.S., [you don't even need a stamp to vote by mail](http://time.com/4547550/absentee-mail-ballot-postage-stamp-postal-service-usps/).
 
@@ -69,7 +69,7 @@ I took the first photo parked late at night at Neogen in Lansing.
 I took the second with an iPhone, crawling around in a Tacoma parking lot.
 It was raining harder than it looks.
 
-Neither of these photos tell the particular aspect of rain I'm after.
+Neither of these photos tells the particular aspect of rain I'm after.
 I don't think there's necessarily a physical barrier to capturing that aspect outside of Corvallis, but I'm not sure that *I* could recognize and align the elements as necessary elsewhere.
 I'm not settled on what subject, point of view, or conditions I'm after, but I'm already thinking about possibilities.
 I suspect that if I do get what I want, it will come around by just being out outside town in the rain with my camera.
@@ -104,12 +104,12 @@ So, light/small enough to keep in my bag by default isn't a requirement.
 
 These range from nearly identical...
 
-* [put through lens hood through the side of the bag (not the bottom) and use gaffer tape (not duct tape)](https://macgyverisms.wonderhowto.com/how-to/simple-diy-rain-cover-will-keep-your-camera-dry-during-stormy-shoots-0138422/)
+* [put the lens hood through the side of the bag (not the bottom) and use gaffer tape (not duct tape)](https://macgyverisms.wonderhowto.com/how-to/simple-diy-rain-cover-will-keep-your-camera-dry-during-stormy-shoots-0138422/)
 
 ... through similar, but not quite the same...
 
 * [tape the bag a filter instead of a lens hood](https://www.youtube.com/watch?v=i8AuGNke12k)
-* [cut a hole and attach a bag with a rubber band on an as- needed](https://www.youtube.com/watch?v=iQ1d4bmzXK0)
+* [cut a hole and attach a bag with a rubber band on an as-needed basis](https://www.youtube.com/watch?v=iQ1d4bmzXK0)
 * [re-purpose rain trousers, attach to lens hood with velcro](https://www.diyphotography.net/protect-your-camera-from-rain-using-an-old-pair-of-rain-trousers/)
 * [purpose-built disposable cinch-cord rain sleeves](https://www.amazon.com/OP-TECH-USA-9001132-Rainsleeve/dp/B000PTFDYO)
 

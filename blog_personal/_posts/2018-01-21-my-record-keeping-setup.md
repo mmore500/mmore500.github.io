@@ -56,7 +56,7 @@ You're more likely to actually *make use* of your records if figuring how your B
 Point 2 is also straightforward.
 Most people don't like pain.
 Again, though, there's a little more here.
-If creating and storing your records doesn't make you want to rip out your frosted tips, you'll be more likely to put down your Bop It actually do it.
+If creating and storing your records doesn't make you want to rip out your frosted tips, you'll be more likely to put down your Bop It and actually do it.
 A slick, convenient, maybe even enjoyable record-keeping process makes it more likely that the Thing That Really Matters will be in your Bankers box when the time comes.
 
 Finally, we arrive at Point 3.
@@ -278,7 +278,7 @@ I'll also describe some of design solutions these requirements bring to mind.
 
 8. I want certain components of my text entries to be consistent (e.g. entry date, headings for content sections, etc.).
    I also want my entries to follow a consistent file-naming scheme.
-   I want some of the consistent parts of my to be programmatically determined (e.g. the date).
+   I want some of the consistent parts of my entries to be programmatically determined (e.g. the date).
    Some consistent parts, I might want to manually determine on a case-by-case basis.
    Clearly, some sort of **templating** of entry content and file path will be necessary.
 
@@ -293,13 +293,13 @@ I'll also describe some of design solutions these requirements bring to mind.
    This can easily be achieved through a **separate script or Makefile** and doesn't have to be part of my core tool.
 
 12. I want my solution to be lightweight.
-    I want minimize the initial time investment I put into my record-keeping tool.
+    I want to minimize the initial time investment I put into my record-keeping tool.
     Also, I want to minimize any ongoing maintenance to my record-keeping tool.
     I have better things to do.
 
     My first choice, of course, would be someone else's existing tool.
     Then, I would get startup and maintenance for basically free.
-    If I *must* to code my own tool (\*dramatic swoon\*), I want to **use Python** and **write a proper package**.
+    If I *must* code my own tool (\*dramatic swoon\*), I want to **use Python** and **write a proper package**.
     And yae, I was glad when they said unto me,
 
     > Why would you put on clothes if you can shop in your comfy pants?
@@ -349,7 +349,7 @@ For your edification, here's a blurb pasted in from the project's `README.md`.
 > ## Why does this exist? Why would you ever make this?
 >
 > Essentially, all lab notebook software out there sucks in various ways.
-They either use a proprietary, non-text-based file format (Word, Pages), don't play well with Dropbox (Papers 2), require a database or an service (Evernote), aren't free (all of the above), or are lacking in useful features, like rich-text formatting (iPython Notebook, Texts.io).
+They either use a proprietary, non-text-based file format (Word, Pages), don't play well with Dropbox (Papers 2), require a database or a service (Evernote), aren't free (all of the above), or are lacking in useful features, like rich-text formatting (iPython Notebook, Texts.io).
 >
 > So, I made one that overcomes these shortcomings.
 The system is based around Python, Flask, Flask-FlatPages, CKEditor, and JQuery.
@@ -536,7 +536,7 @@ Here's a high-level sketch:
 * templ prints the filename `xyz/2018-01-01-east_lansing.md` to `stdout` and returns.
 
 There you have it.
-There are just a two more implementation details to note.
+There are just two more implementation details to note.
 1. templ is written as a proper Python package.
    You can have it up and running at your command line in seconds using pip.
 2. templ is set up so making your own templates is trivial.

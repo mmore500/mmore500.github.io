@@ -107,7 +107,7 @@ Tell it how many minutes the job will last (e.g., `-t 20`) and then what you wan
 for f in *.data; do srun -t 20 bash -c "cd ${PWD} && tar -czf ${f}.tar.gz ${f}" &; done
 ```
 
-Note that `srun` blocks until the requested job is complete, so we just fork off in to the backround all our `srun`s with an `&` at the end of the inside bit.
+Note that `srun` blocks until the requested job is complete, so we just fork off into the background all our `srun`s with an `&` at the end of the inside bit.
 We slapped `"` marks around the work part so that our intended command would get forwarded correctly to `srun` (i.e., the `&&` wouldn't be applied during the call *to* `srun` a la `srun && tar`).
 Also, `srun` doesn't execute your command in a full-fledged shell, so we have to ask `srun` to start `bash` to execute our command (provided after the `-c` argument).
 Inside the command, we have to start by `cd`ing to our current working directory because the SLURM job won't necessarily start there.

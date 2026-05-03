@@ -51,7 +51,7 @@ Well, we can!
 
 No mere mortal is going to get away with checking email bi-annually, but it's not too hard to set up your Gmail inbox to only populate a few times a day.
 
-Services like [Adios](https://adios.ai/) promise to let you to set this up in just a few clicks, but when I tried about a month ago it was running into permission issues with Google.
+Services like [Adios](https://adios.ai/) promise to let you set this up in just a few clicks, but when I tried about a month ago it was running into permission issues with Google.
 
 Instead, I [Google Scripts](https://script.google.com)-ed together a homemade solution, inspired from [here](https://www.bettercloud.com/monitor/the-academy/take-control-of-gmail-only-check-it-once-per-hour-with-google-apps-script/).
 

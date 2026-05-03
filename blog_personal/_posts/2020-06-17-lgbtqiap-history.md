@@ -54,7 +54,7 @@ My lesbian friends who took me along found this very amusing.
 
 The next summer, I went out on Columbus, Ohio's Short North with my REU's LGBTQIAP mafia.
 It was a weekday, but on-site promoters were still on-site to hand out shitty plastic mouthwash-size cups of free Bud Lite and rainbow headbands.
-To earn the aforementioned free beer I had to fill out a nametag that read something like "#pride I'm unafriad to..."
+To earn the aforementioned free beer I had to fill out a nametag that read something like "#pride I'm unafraid to..."
 After a full minute just staring at it and drawing a total blank I scribbled something even *I* knew was super lame and tame on there, probably like "have fun with my friends" or "do my taxes."
 
 Following the cynical branding of my cultural moment by corporate America, I was (righteously) roasted by the drag queen on duty for my fugly Croc flip flops.
@@ -115,7 +115,7 @@ Hopefully some of these materials might prove interesting to members of rising L
 
 :bangbang:
 Outdated terminology and antiquated beliefs surface in some materials.
-I curated this list based historical interest, not social or political endorsement.
+I curated this list based on historical interest, not social or political endorsement.
 
 * [One Magazine](https://one.usc.edu/archive-location/one-magazine) excerpts
   * Reformer's Choice: Marriage License or Just License?
@@ -163,7 +163,7 @@ I curated this list based historical interest, not social or political endorseme
 
 ## Let's Chat!
 
-What has your expedience getting acquainted with LGBTQIAP culture and history been like?
+What has your experience getting acquainted with LGBTQIAP culture and history been like?
 What voices and stories should we be hearing?
 
 I started a twitter thread (right below) so we can chat :phone: :phone: :phone:

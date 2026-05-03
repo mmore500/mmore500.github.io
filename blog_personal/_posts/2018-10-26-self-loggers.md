@@ -24,7 +24,7 @@ Plus, I hope *anticipating* performing a reflection on my own challenges and gro
 I'm a big believer in the utility of [narrative reflection](http://devolab.org/reflections-on-my-first-semester-at-macdonald-middle-school/).
 (Shout-out to [the CWLT](https://pugetsound.edu/cwlt)!)
 Sitting down to write a paragraph about pretty much anything can make you discover *something* meaningful about it you didn't know before.
-Usually, I start hacking out a reflection like "Sure... that's bit of a reach... whatever" but then this weird thing happens where, a few minutes or months later, I actually believe whatever I came up with.
+Usually, I start hacking out a reflection like "Sure... that's a bit of a reach... whatever" but then this weird thing happens where, a few minutes or months later, I actually believe whatever I came up with.
 
 I anticipate that baking data into a narrative reflection will yield an even more compelling story, lending engaging detail and perhaps even pointing my thinking in directions I wouldn't have considered otherwise.
 I'm inspired by the stories [Kazuo Yano](http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Keynotes) and [Steven Wolfram](https://www.glassdoor.com/Reviews/Wolfram-Research-Reviews-E14501.htm) have told, respectively, via nifty [wrist-accelerometer data](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.497.4009) and  [phone/email/keylogger/more data](http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/).

@@ -9,10 +9,10 @@ recipe:
     * 1 tsp. maple syrup
     * one egg white
     * juice from one or two tiny oranges, lemons, or limes
-    * cardamom butters
+    * cardamom bitters
 
   directions_markdown: |-
-    1. shake together egg white, citrus juice, vodka, cardamom butters, and syrup
+    1. shake together egg white, citrus juice, vodka, cardamom bitters, and syrup
     2. strain and pour over ice
 
   notes_markdown: |-

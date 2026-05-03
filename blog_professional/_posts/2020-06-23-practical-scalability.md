@@ -47,7 +47,7 @@ Instead, hardware innovation began to revolve around multiprocessing
 [[Hennessy and Patterson, 2011, p.55]](#hennessy2011computer)
 and hardware acceleration (e.g., GPU, FPGA, etc.)
 [[Che et al., 2008]](#che2008accelerating).
-For scientific and engineering applications, individual multiprocessors and accelerators are joined together with fast interconnects to yield so-called high-performance computing clusters s [[Hennessy and Patterson, 2011, p.436]](#hennessy2011computer).
+For scientific and engineering applications, individual multiprocessors and accelerators are joined together with fast interconnects to yield so-called high-performance computing clusters [[Hennessy and Patterson, 2011, p.436]](#hennessy2011computer).
 Until fundamental changes to computing technology transpire, scaling up artificial life compute power will require taking advantage of these existing parallel and distributed systems.
 
 ### Distributed Hardware in Digital Evolution
@@ -64,7 +64,7 @@ Koza and collaborators' genetic programming work with a 1,000-cpu Beowulf cluste
 In recent years, Sentient Technologies spearheaded digital evolution projects on an unprecedented computational scale, comprising over a million CPUs and capable of a peak performance of 9 petaflops [[Miikkulainen et al., 2019]](#miikkulainen2019evolving).
 According to its proponents, the scale and scalability of this DarkCycle system was a key aspect of its conceptualization [[Gilbert, 2015]](#gilbert_2015).
 Much of the assembled infrastructure was pieced together from heterogeneous providers and employed on a time-available basis [[Blondeau et al., 2012]](#blondeau2012distributed).
-Unlike island model where selection events are performed independently on each CPU, this scheme transferred evaluation criteria between computational instances (in addition to individual genomes) [[Hodjat and Shahrzad, 2013]](#hodjat2013distributed).
+Unlike island models where selection events are performed independently on each CPU, this scheme transferred evaluation criteria between computational instances (in addition to individual genomes) [[Hodjat and Shahrzad, 2013]](#hodjat2013distributed).
 
 Sentient Technologies also accelerated the deep learning training process by using many massively-parallel hardware accelerators (e.g., 100 GPUs) to evaluate the performance of candidate neural network architectures on image classification, language modeling, and image captioning problems [[Miikkulainen et al., 2019]](#miikkulainen2019evolving).
 Analogous work parallelizing the evaluation of an evolutionary individual over multiple test cases in the context of genetic programming has used GPU hardware and vectorized CPU operations
@@ -223,7 +223,7 @@ behavior with respect to more distant neighbors a cell has established interconn
 Long-distance interconnects are established through a developmental process, summarized in [Figure IOTDP](#fig-iotdp).
 The process begins with the placement of two independent search prongs at the originating cell.
 Each prong performs a random walk over the originating cell's kin group, accumulating positive or negative feedback based on tags expressed by underfoot cells.
-If a prongs accumulates positive feedback too slowly, it is reset to the location of the better-scoring prong.
+If a prong accumulates positive feedback too slowly, it is reset to the location of the better-scoring prong.
 Once a positive feedback threshold has been reached, the best-scoring prong develops into a full-fledged connection.
 At this point, the originating cell can begin exchanging messages and/or resource over the connection.
 Established interconnects may be subsequently removed by either participating cell.
@@ -308,7 +308,7 @@ The intercellular natures of both over-interconnect messaging and resource shari
 Next, we took a closer look at the evolved cellular mechanisms controlling over-interconnect messaging and resource sharing.
 We monitored hardware execution of the wild-type strain in a monoculture population to detect which signals, messages, and fork/call instructions activated each SignalGP module.
 We manually cross-referenced this information with a human-readable printout of the strain's genetic program to construct a hypothesized mechanism shown in [Figure B42CS](#fig-b42cs).
-We hypothesize that cells at the periphery of a registered kin groups send messages backwards over incoming interconnects that induce interconnect-originating cells to send them resource.
+We hypothesize that cells at the periphery of a registered kin group send messages backwards over incoming interconnects that induce interconnect-originating cells to send them resource.
 Such a mechanism could preferentially increase resource availability at the group periphery, a region where cell-cell conflict is likely elevated.
 
 We performed a series of four-hour competition experiments between wild type and knockout strains to confirm the adaptive significance of each component of this mechanism.
@@ -409,7 +409,7 @@ To assess, this question, we measured the per-cell frequency of module 5 activat
 We then created a variant strain where outgoing over-interconnect messages from module 5 were disabled.
 Instead, the over-interconnect message instruction was randomly executed with uniform per-cell probability based on the empirical wild-type execution rate.
 This variant strain held its own against the wild-type strain (5/16 wild-type strain prevalent; 0 strain extinctions; one-tailed binomial test; $$p = 0.9$$; 30 S.D 1 cell gens elapsed).
-So, this strain's non-uniform pattern of stimulation seems likely to a result from the actual pattern of cell-cell interconnection rather than selective message dispatch.
+So, this strain's non-uniform pattern of stimulation seems likely to result from the actual pattern of cell-cell interconnection rather than selective message dispatch.
 
 We did not find evidence that cells were using tag-based developmental attractors or repulsors to bias connectivity (5/16 wild-type strain prevalent; 0 strain extinctions; $$p=0.9$$; 35 S.D. 8 cell gens elapsed).
 However, we did notice frequent interconnect turnover via execution of both remove-incoming and remove-outgoing interconnect instructions.
@@ -917,9 +917,9 @@ Why do we consider mean node-to-node hops per connection?
 
 Although relativistic concerns do ultimately limit latency between spatially-distributed computational elements, with respect to contemporary hardware co-located at a single physical site at foreseeable scales, we expect node-to-node hops to represent an important bottleneck on system performance.
 
-At larger scales, consider the case where emergent connections are embodied via simulation state along the entire path of node-to-node hops traversed by the by the connection (along the line of axon wiring of biological neural networks).
+At larger scales, consider the case where emergent connections are embodied via simulation state along the entire path of node-to-node hops traversed by the connection (along the line of axon wiring of biological neural networks).
 If mean emergent connections per simulation element remain constant as the system scales, then mean node-to-node hops per connection relates to the amount of state required per node to represent connections that pass through it.
-(Specifically, if mean node-to-node hops per connection remains constant than the amount of state required per node remains constant.)
+(Specifically, if mean node-to-node hops per connection remains constant then the amount of state required per node remains constant.)
 
 Finally, the asymptotic analyses performed on mesh networks without long-distance hierarchical interconnects can be interpreted in terms of Euclidean distance.
 (Potentially of interest with respect to relativistic limitations.)
@@ -933,7 +933,7 @@ This was an independent replication of the initial experiment (performed as part
 [Footnote CAPON](#foot-capon){:id="foot-capon"}
 Consider all pairings of nodes in a graph.
 Now, construct a multiset of paths that, for each possible node pairing, contains the shortest path between those two nodes.
-Edge betweenness is the fraction of the paths in this mulitset that passes through a particular edge [[Lu and Zhang, 2013]](#Lu2013).
+Edge betweenness is the fraction of the paths in this multiset that passes through a particular edge [[Lu and Zhang, 2013]](#Lu2013).
 
 ## References
 

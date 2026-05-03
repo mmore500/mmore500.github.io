@@ -37,7 +37,7 @@ recipe:
     2. melt butter on skillet over med-high heat
     3. add mushrooms, thyme, garlic
     4. sautee briefly
-    5. transfer to preheated oven and roasts 15 min.
+    5. transfer to preheated oven and roast 15 min.
 
     ## prepare sauce:
     1. melt 1 tbsp. butter on saucepan over moderate heat

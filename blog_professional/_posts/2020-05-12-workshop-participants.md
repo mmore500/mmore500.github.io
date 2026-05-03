@@ -5,7 +5,7 @@ date:   2020-05-12
 ---
 
 We're in the process of wrapping up participant selection for our upcoming [Workshop for Avida-ED Software Development (WAVES)](https://mmore500.com/waves).
-This workshop will team up early-career participants with mentors to help build the software foundation that will underly the next version of Avida-ED (as well as more broadly supporting web-based scientific apps and digital evolution research).
+This workshop will team up early-career participants with mentors to help build the software foundation that will underlie the next version of Avida-ED (as well as more broadly supporting web-based scientific apps and digital evolution research).
 
 So far, almost everything's been turning up roses.
 At least, the important things have: soliciting quality applications and thoughtful group discussion and decisions on admission.
@@ -90,7 +90,7 @@ We had an applicant follow up with us after we had announced our workshop admiss
 We said we were looking for applicants with C++ and/or JavaScript experience (or strong experience in other programming languages) right above the instructions for application materials.
 However, in addition to programming experience, we also evaluated how applicants' statements aligned with the workshop objectives we laid out at the very top of the call for proposals.
 Although our evaluation criteria were all directly rooted in our call for proposals, this applicant's inquiry highlighted how these criteria might not be entirely obvious to all applicants, particularly those from backgrounds that have not trained them to pick up on such implicit cues.
-Laying out point-by-point exactly what we will be looking for in a strong application seems the best way to ensure that _every_  applicants' materials most clearly reflect their potential.
+Laying out point-by-point exactly what we will be looking for in a strong application seems the best way to ensure that _every_ applicant's materials most clearly reflect their potential.
 
 The WAVES workshop stakeholders strongly and unanimously believe in the importance of supporting inclusion and equity within our fields, particularly with respect to underrepresented groups.
 Recruiting mentees and hiring colleagues who demonstrate a similar commitment provides key means toward this goal.

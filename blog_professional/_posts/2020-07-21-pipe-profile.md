@@ -173,7 +173,7 @@ We use these two levers to perform scaling experiments along six trajectories:
   * compute-only scaling with moderate memory use
   * increasing RNG calls per tile update with 64 grid tiles
 6. memory-intensive.
-  * compute-only scaling with moderate memory use
+  * compute-only scaling with intensive memory use
   * increasing RNG calls per tile update with 4096 grid tiles
 
 [Figure SSTIC](#fig-sstic) summarizes the relationship of these scaling trajectories in memory-compute space.

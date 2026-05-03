@@ -9,7 +9,7 @@ published: false
 *This endeavor is **not** a professional activity associated with my role in any lab/institution or any funding/support I receive.*
 
 As you do from time to time, I recently stumbled upon an anonymous, and often political, twitter asshole.
-This persona was preoccupied generating 100% USDA certified tool content, but (much to my own chagrin, as pretentious a prick as he was) I had to admit somewhat admired his wit.
+This persona was preoccupied generating 100% USDA certified tool content, but (much to my own chagrin, as pretentious a prick as he was) I had to admit I somewhat admired his wit.
 
 To protect the anonymity of everyone involved, I've decided against embedding any material here or linking back.
 (But if I know you & you're curious, DM me.)
@@ -27,7 +27,7 @@ Sounded like a fun weekend to me.
 
 ## Scrape Some Data
 
-The first step, or course, was scraping [@Mottl](https://github.com/Mottl)'s [GetOldTweets3](https://github.com/Mottl/GetOldTweets3) tool made this pretty easy --- no API key required.
+The first step, of course, was scraping [@Mottl](https://github.com/Mottl)'s [GetOldTweets3](https://github.com/Mottl/GetOldTweets3) tool made this pretty easy --- no API key required.
 
 Then I just ran a quick python script to make a training data set out of the scraped data.
 
@@ -89,7 +89,7 @@ This might not be as funny without being familiar with the source account, but `
 
 ## Window Dressing
 
-Scraping down the target's profile picture your browser's developer view.
+Scraping down the target's profile picture via your browser's developer view.
 (Usually `ctrl-shift-i`.)
 Load up their profile and monitor images that are loaded up in the Network view.
 
@@ -117,7 +117,7 @@ Here's an example of what this looks like, with a bot trained on Drumpf.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I gave John Bolton, who was incapable of being Senate confirmed because of his stupid line of reasoning, a little more money to help him win the White House. This is a disaster for American families! <a href="https://t.co/XktWcStgOu">https://t.co/XktWcStgOu</a></p>&mdash; mmore500 (@mmore500) <a href="https://twitter.com/mmore500/status/1275245909761069057?ref_src=twsrc%5Etfw">June 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-This could format could be adjusted to be slightly more invasive by commenting on the original tweets.
+This format could be adjusted to be slightly more invasive by commenting on the original tweets.
 
 ## Keeping up with the Kardiashians
 
@@ -152,7 +152,7 @@ Until then, here's what I'm thinking about:
     (I've already had to do this a few times manually.)
 * better model
   * especially RE: working with seed text, where gpt-2 doesn't seem to fare particularly well
-  * how much to train the model and what "temperature" (zaniness) parameter settigns to use
+  * how much to train the model and what "temperature" (zaniness) parameter settings to use
     * if the model mimics the target without being slightly absurd, it's not too entertaining
 * bigger, more public target
   * probably someone political with a distinctive twitter personality would be a good choice

@@ -79,7 +79,7 @@ Likewise, █████████ █████████ ████�
 
 Although there was primary key card authentication on all exterior doors, ███████ ███████ ███████ made it easy enough to get in the building without a keycard.
 Before the pandemic, it became difficult to find space in the study areas ostensibly set aside for residents on the top floor because many undergraduates discovered how easy it was to access the swanky graduate facilities.
-In fact, I had a job interview scheduled with an undergraduate with whom I arranged to meet up with at Munger.
+In fact, I had a job interview scheduled with an undergraduate with whom I arranged to meet up at Munger.
 At our appointment time, I was surprised to find he had already arrived and picked out a choice spot for our meeting from among his favorites.
 
 Door locks were battery operated.
@@ -96,7 +96,7 @@ However, a simple foot-wide concrete ramp with inch-wide wheel ruts was installe
 
 However, the Graduate Residence's architecture and construction is also plagued with unusual errors, out of touch design, and questionable trade-offs --- often in apparent favor of prestige features over livability.
 It is a shame that Munger’s projects explicitly refuse input from campus stakeholders.
-Such input could go far to improving the building quality for the well-being of dorm residents and the university at large.
+Such input could go far toward improving the building quality for the well-being of dorm residents and the university at large.
 
 ## Let's Chat
 

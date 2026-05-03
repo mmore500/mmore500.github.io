@@ -21,7 +21,7 @@ recipe:
     * 1/8 tsp. kosher salt
 
   directions_markdown: |-
-    1. butter 2-1quart baking dish
+    1. butter a 2-quart baking dish
     2. sprinkle sugar in the dish and shake to coat
     3. arrange berries in single layer on bottom of dish
     4. blend milk, eggs, 1/2 c. sugar, vanilla, flour, almond meal, lemon zest, and salt for one minute

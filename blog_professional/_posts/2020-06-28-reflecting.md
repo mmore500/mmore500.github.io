@@ -242,9 +242,9 @@ I didn't share details, and neither did she, but validation --- even of the vagu
 
 ![Traveling in Japan was a blast.](/resources/reflecting-japan.jpg){:width="100%"}
 
-Being discrete about sensitive situations, in some aspects, just makes life easier.
+Being discreet about sensitive situations, in some aspects, just makes life easier.
 You retain control of who knows, what they know, and --- for the most part --- get to retain normality, which feels good.
-However, discretely averting situations you'd rather avoid requires some effort and foresight.
+However, discreetly averting situations you'd rather avoid requires some effort and foresight.
 Also, and I think this is what has bothered me most, feeling like you should keep hush in order to protect someone else is also kind of yucky.
 
 ## Living with Poor Judgment in the Workplace
@@ -258,7 +258,7 @@ I want to use anecdotes from this experience to contextualize a more general ref
 *Me and co-workers from my summer job, having a good time in the field.*
 
 My second or third summer, our supervisor hired a high school co-worker named 3████ into our crew of five or so field hands.
-Due on his upbringing, 3████ had had *very* little exposure to progressive social ideas (except, perhaps, enough for reflexive disdain).
+Due to his upbringing, 3████ had had *very* little exposure to progressive social ideas (except, perhaps, enough for reflexive disdain).
 I only worked part of the summer, taking two months off for an REU, but when I returned in August everyone --- the ladies in the crew, especially --- was frustrated from fielding uncomfortable and offensive, particularly sexist, remarks from 3████ for the whole summer.
 
 Here are a few, for flavor.

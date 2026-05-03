@@ -136,7 +136,7 @@ Roll a d6 for initiative.
 Tag-match regulation allows the SignalGP program module that will be returned by a particular query to be switched up at run time.
 A SignalGP program module can be "upregulated," meaning that it will match *better* with every query against it.
 A program module can also be "downregulated," meaning that it will match *worse* with every query against it.
-If a module is neither upregulated or downregulated, its raw match distance with queries is unaffected.
+If a module is neither upregulated nor downregulated, its raw match distance with queries is unaffected.
 
 Each tag designating a SignalGP program module has an associated regulation state.
 In this work, we use an unbounded floating point value.
@@ -389,7 +389,7 @@ For the small grid size problem, the depo selector significantly outperformed th
 *Dashed lines indicate fitness score that could be achieved if each agent outputted its own sensor value.*
 *Error bars represent 95% confidence intervals.*
 
-For the small grid size problem, the depo selector significantly outperformed the ranked and sieve selectors at the 22% problem difficulty tier (Kruskall-Wallace H-tests; h=3.90, p=0.048;  h=4.97, p=0.026).
+For the small grid size problem, the depo selector significantly outperformed the ranked and sieve selectors at the 22% problem difficulty tier (Kruskal-Wallis H-tests; h=3.90, p=0.048;  h=4.97, p=0.026).
 
 ### Perfect Solution Frequencies
 

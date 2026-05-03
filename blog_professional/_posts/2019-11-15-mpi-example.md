@@ -13,7 +13,7 @@ Without further ado...
 ## The Toy Problem
 
 Arrange available MPI processes in a square 2D toroidal grid.
-Assume the number of available MPi processes is a perfect square.
+Assume the number of available MPI processes is a perfect square.
 
 <p><a href="https://commons.wikimedia.org/wiki/File:2d_torus.png#/media/File:2d_torus.png"><img width="100%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/2d_torus.png/1200px-2d_torus.png" alt="2d torus.png"></a><br>By <a href="//commons.wikimedia.org/w/index.php?title=User:Yli47&amp;action=edit&amp;redlink=1" class="new" title="User:Yli47 (page does not exist)">Yixuan Li</a> <span class="img-responsive" class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=53610657">Link</a></p>
 

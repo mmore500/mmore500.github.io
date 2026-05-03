@@ -42,7 +42,7 @@ more broadly,
 * [Police: Last Week Tonight with John Oliver (HBO)](https://www.youtube.com/watch?v=Wf4cea5oObY)
 * [White Privilege: Unpacking the Invisible Knapsack](https://www.racialequitytools.org/resourcefiles/mcintosh.pdf)
 
-## Signators
+## Signatories
 
 *Create a pull request to add your name or email [m.more500@gmail.com](mailto:m.more500@gmail.com).*
 

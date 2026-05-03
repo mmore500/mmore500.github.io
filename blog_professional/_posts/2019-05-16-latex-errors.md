@@ -68,7 +68,7 @@ Not enforcing spaces after LaTeX commands.
 ## Open Pedagogical Research Question
 
 [LaTeX](https://www.latex-project.org/) is a ubiquitous document preparation system in the sciences, in particular mathematics.
-Unlike document preparations systems like Microsoft Word and Google Docs, LaTeX is not "what you see is what you get."
+Unlike document preparation systems like Microsoft Word and Google Docs, LaTeX is not "what you see is what you get."
 Instead of working in a live preview of a document, you write LaTeX code, compile the document (e.g., it renders to a PDF), and then view the document.
 
 In part based on my own experience, I suspect that LaTeX skills are not typically learned in a formal setting.
@@ -78,8 +78,8 @@ Occasionally, I received LaTeX-specific feedback on my homework submissions.
 I remember, in particular, once being told --- good-naturedly --- that I was writing Tex "like an emeritus professor."
 
 I suspect that inside the mathematics/science community, TeX proficiency is often taken as a proxy for the competency/authority of a mathematician/scientist.
-This phenomena might involve both conscious and subconscious elements.
-Such an attitude might have implications on how --- and to who --- credibility/authority/career advancement is distributed in mathematics and the sciences.
+This phenomenon might involve both conscious and subconscious elements.
+Such an attitude might have implications on how --- and to whom --- credibility/authority/career advancement is distributed in mathematics and the sciences.
 
 Back when I worked at the [CWLT](https://pugetsound.edu/cwlt), I sketched out a pedagogical research project centered around a question motivated by these observations, "Do LaTeX errors impact evaluator's judgment of a student's conceptual mastery?"
 

@@ -311,7 +311,7 @@ I ended up using a combination of IFTTT and proprietary triggers because the pro
 There are a lot of [things I like](https://en.wikipedia.org/wiki/Aeron_chair) about [our lab](http://devolab.org/)'s [office space](https://www3.beacon-center.org/).
 Unfortunately, we have no windows.
 
-So, I have lots of lights at my desktop try to get myself to physiologically register that it is indeed daytime when it is daytime, including:
+So, I have lots of lights at my desktop to try to get myself to physiologically register that it is indeed daytime when it is daytime, including:
 * a happy lamp positioned to directly administer photons into my eyeballs,
 * a LED desk lamp,
 * [bias lighting](https://www.howtogeek.com/213464/how-to-decrease-eye-fatigue-while-watching-tv-and-gaming-with-bias-lighting/) (a stick-on LED strip that plugs directly into my monitor for power via USB), and
@@ -370,9 +370,9 @@ I planned to associate success with donations to [my charity cause of choice](ht
 Originally, excessive failure (beyond a predefined threshold number of days per month) would result in contributions to
 [repugnant causes](http://www.donaldjtrump.com/) and public self-shaming on Facebook.
 After I obviously didn't follow through with these self-punishments, I considered simply destroying currency instead as a less extreme alternative.
-I never did get around burning dollar bills in my bathtub or flushing them down the toilet, though.
+I never did get around to burning dollar bills in my bathtub or flushing them down the toilet, though.
 
-In my opinion, Ulysses pacts only works if your conscious brain is at bat.
+In my opinion, Ulysses pacts only work if your conscious brain is at bat.
 Lizard brain didn't clue into any of this, so it didn't work.
 
 A Ulysses pact might work better with someone else in the loop to help hold you accountable.
@@ -442,7 +442,7 @@ From the wrist tracker, I didn't get much better utility.
 I learned I usually sleep nine hours a night and apparently I enter "deep sleep" for only like 5 minutes (whatever that means).
 I'm at a loss for how to apply these insights, though.
 
-Personally, I find quantified self projects that unfold on the scale decades like [Kazuo Yano](http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Keynotes)'s very nifty wrist-accelerometer ["life tapestry"](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.497.4009) and [Steven Wolfram](https://www.glassdoor.com/Reviews/Wolfram-Research-Reviews-E14501.htm)'s also nifty [email/keylogger tapestry](http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/) the most compelling.
+Personally, I find quantified self projects that unfold on the scale of decades like [Kazuo Yano](http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Keynotes)'s very nifty wrist-accelerometer ["life tapestry"](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.497.4009) and [Steven Wolfram](https://www.glassdoor.com/Reviews/Wolfram-Research-Reviews-E14501.htm)'s also nifty [email/keylogger tapestry](http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/) the most compelling.
 Unfortunately, although they do tell a cool story, I don't find quantified self projects like these terribly prescriptive.
 Also, they take years to mature.
 
