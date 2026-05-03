@@ -9,7 +9,7 @@ no_toc: true
 
 ![zoom screenshot showing timey mctimeface as a video guest](/resources/timey-mctimeface-screenshot.jpeg){:style="width: 100%;"}
 
-Unfortunately, in Zoom land waving a "time's up" sign at presenters in meetings you're facilitating becomes much less effective --- and there's no room lights to flick if they try to cram in their remaining twenty slides anyways.
+Unfortunately, in Zoom land waving a "time's up" sign at presenters in meetings you're facilitating becomes much less effective --- and there are no room lights to flick if they try to cram in their remaining twenty slides anyways.
 
 Timey McTimeface is a Zoom guest whose video camera shows a countdown timer that can help keep presenters on track.
 Timey McTimeface can give an audio alert to presenters to let them know when they've got a certain amount of time left and beep incessantly at them when their time's up!
@@ -29,7 +29,7 @@ As for the actual on-screen timer, I've got a buggily-customized version I like 
 You can find plenty of other timers online.
 
 Don't forget to set your favorite Dali painting as your clock guest's avatar!
-Because your PC's zoom connection is busy wity Timey, you may have to join from another machine (maybe a phone).
+Because your PC's zoom connection is busy with Timey, you may have to join from another machine (maybe a phone).
 
 ## A Better Way?
 

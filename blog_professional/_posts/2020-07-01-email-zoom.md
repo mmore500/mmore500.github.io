@@ -49,9 +49,9 @@ If only we could all have such wherewithal...
 Well, we can!
 (Kinda.)
 
-No mere mortal is going to get away with checking email bi-annually, but it's not too hard to to set up your Gmail inbox to only populate a few times a day.
+No mere mortal is going to get away with checking email bi-annually, but it's not too hard to set up your Gmail inbox to only populate a few times a day.
 
-Services like [Adios](https://adios.ai/) promise to let you to set this up in just a few clicks, but when I tried about a month ago it was running into permission issues with Google.
+Services like [Adios](https://adios.ai/) promise to let you set this up in just a few clicks, but when I tried about a month ago it was running into permission issues with Google.
 
 Instead, I [Google Scripts](https://script.google.com)-ed together a homemade solution, inspired from [here](https://www.bettercloud.com/monitor/the-academy/take-control-of-gmail-only-check-it-once-per-hour-with-google-apps-script/).
 
@@ -89,11 +89,11 @@ It's easy to set up a separate, even-more-staggered pipeline for listserv email.
 How?
 You can generally tell listserv email apart from other email by checking if you're listed as a `to:` or `cc:` recipient.
 Listserv email is addressed to the listserv instead of your specific email.
-Then, just have the Gmail filter label listerv email with a special tag and run the job to push that tag into the inbox less often.
+Then, just have the Gmail filter label listserv email with a special tag and run the job to push that tag into the inbox less often.
 
 ## Mark Archived as Read
 
-Another regularly-scheduled I can't live without: automatically marking archived emails as read.
+Another regularly-scheduled job I can't live without: automatically marking archived emails as read.
 That way I can swipe emails out of my Gmail inbox without having to take the time to open them to prevent them from piling up as unread.
 (Archiving lets you avoid permanently deleting them, too, in case you end up having to crawl back and search for them.)
 
@@ -120,7 +120,7 @@ Zoom is the new email.
 
 ## A Wireless Headset with Hardware Mute?
 
-Univerally on blast: Zoom attendees who are not talking, but who are not on mute.
+Universally on blast: Zoom attendees who are not talking, but who are not on mute.
 Don't be that attendee!
 
 Zoom has a software mute feature, but this means you have to stay within reach of your Zoom device in order to be able to quickly jump into conversation.
@@ -129,10 +129,10 @@ After a week or two of all zoom all the time, I started shopping around for a wi
 This was *surprisingly* difficult to nail down.
 After spending longer than I'd care to admit aimlessly searching around, I settled on the [Logitech H800 BLUETOOTH WIRELESS HEADSET](https://www.logitech.com/en-us/product/wireless-headset-h800).
 
-I've had mine for more than a month now and I can confirm --- the hardware mute works like a charm and is Zoom compatibile!
+I've had mine for more than a month now and I can confirm --- the hardware mute works like a charm and is Zoom compatible!
 I am much happier for being able to hike into the kitchen to fetch fresh [Millenial Juice](https://twitter.com/daanieltran/status/950096964821114881) or even just stand up and pace around a little bit while being able to easily unmute and interject.
 
-I found my H800 as [decent deal](https://www.ebay.com/itm/Logitech-H800-Wireless-Bluetooth-Headset-Without-Bluetooth-Receiver-IL-RT5/223973683736) used on ebay without a USB bluetooth receiver key included.
+I found my H800 as a [decent deal](https://www.ebay.com/itm/Logitech-H800-Wireless-Bluetooth-Headset-Without-Bluetooth-Receiver-IL-RT5/223973683736) used on ebay without a USB bluetooth receiver key included.
 
 ## Let's Chat
 

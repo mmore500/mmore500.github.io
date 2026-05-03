@@ -48,7 +48,7 @@ I am a member of the [Eric and Wendy Schmidt AI in Science Postdoctoral Fellowsh
 My research interest is in using digital evolution techniques to investigate scientific questions about evolution.
 I currently study major transitions in evolution and evolvability.
 
-Previously, I was a doctoral student at the [Michigan State University](https://msu.edu/) in both the [Department of Computer Science and Engineering](http://www.cse.msu.edu/) and the [Ecology and Evolutionary Biology program](https://eebb.msu.edu/).
+Previously, I was a doctoral student at [Michigan State University](https://msu.edu/) in both the [Department of Computer Science and Engineering](http://www.cse.msu.edu/) and the [Ecology and Evolutionary Biology program](https://eebb.msu.edu/).
 I worked with the [Digital Evolution Lab](http://devolab.msu.edu/), led by [Dr. Charles Ofria](http://www.ofria.com/), and was associated with the [BEACON Center for Evolution in Action](http://beacon-center.org/).
 
 I grew up in Corvallis, Oregon then moved to Tacoma, Washington to attend the [University of Puget Sound](https://www.pugetsound.edu/).

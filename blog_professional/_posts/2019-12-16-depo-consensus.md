@@ -13,13 +13,13 @@ His work aims to enable practitioners to better evolve agents that exhibit respo
 *The stock SignalGP schematic (left) versus traditional linear genetic programming (right).*
 *Courtesy [Alexander Lalejini](https://lalejini.com/).*
 
-The idea is organize instruction into tagged program sub-components and provide signal-dispatch infrastructure that accepts messages from other agents, environmental cues, and internally-generated signals (thread forks, function calls, etc.) and then boots up relevant program sub-component(s) in response.
+The idea is to organize instruction into tagged program sub-components and provide signal-dispatch infrastructure that accepts messages from other agents, environmental cues, and internally-generated signals (thread forks, function calls, etc.) and then boots up relevant program sub-component(s) in response.
 
 (If you're interested in more/better info here check out [Alex's super SignalGP blog post](https://web.archive.org/web/20181210065052/http://devolab.org/signal-gp-an-introduction/) or [[Lalejini & Ofria, 2018]](#Lalejini2018EvolvingSignalGP).)
 
 The original implementation of SignalGP uses bitstring tags to match signals with responses.
 It takes a bitstring query, computes the query's [hamming distance](https://en.wikipedia.org/wiki/Hamming_distance) (i.e., fraction aligned 0's and 1's) to all subcomponents' tags, and then dispatches a single best match if half or more of that match's tag's 0's and 1's are aligned with the query.
-This particular method was chosen for early because it worked and was straightforward.
+This particular method was chosen early on because it worked and was straightforward.
 
 Pretty much since rubber hit the road with SignalGP, Alex has patiently entertained incessant queries and wild speculation from talk audiences (& especially from yours truly) on myriad alternate signal dispatch schemes.
 
@@ -29,7 +29,7 @@ Pretty much since rubber hit the road with SignalGP, Alex has patiently entertai
 * What if tags were returned probabilistically based on match quality?
 * What if tag-matching could be adjusted (e.g., "regulated") at runtime?
 
-These questions have been prominent on the SignalGP road map since the very beginning, so this summer we set out make it happen.
+These questions have been prominent on the SignalGP road map since the very beginning, so this summer we set out to make it happen.
 I had been interested in using tag-matching for other ends, so we decided to build an abstracted tag-matching tool that could be plugged in to SignalGP.
 
 The tool is composed of three swappable modules,
@@ -54,13 +54,13 @@ This is the part where we chit-chat about the specifics of what we compared and 
 
 The primary design requirement behind our choice of diagnostic problem was that SignalGP instances would need to clue in to both the qualitative content and quantitative volume of exchanged messages.
 Our diagnostic problem is loosely inspired by quorum-sensing and collective decision-making tasks natural systems undertake [[Miller & Bassler, 2001](#Miller2001Quorumbacheria); [Pratt et. al., 2002](#Pratt2002Quorumalbipennis)].
-It also exhibits similarities a leader-election consensus problems SignalGP has been benchmarked on before, too [[Lalejini & Ofria, 2018]](#Lalejini2018EvolvingSignalGP).
+It also exhibits similarities to leader-election consensus problems SignalGP has been benchmarked on before, too [[Lalejini & Ofria, 2018]](#Lalejini2018EvolvingSignalGP).
 
 We arrange nodes in a toroidal (wraparound) grid where each cell interfaces with four neighbors.
 Each node is occupied by an independently-executing SignalGP instance.
 However, during evaluation all instances are loaded with the same SignalGP program.
 
-Two possible global underlying states and each node has a sensor.
+There are two possible global underlying states and each node has a sensor.
 The task is for all cells to report the global underlying state.
 
 ![](/resources/depo-consensus-easy.png){:width="100%"}
@@ -78,7 +78,7 @@ In this example, the upper-center node exhibits a faulty sensor.
 When the underlying state is yellow, it reads blue.
 When the underlying state is blue, it reads yellow.
 The global state detection problem is still solvable, but now requires communication between nodes.
-(Agents at each node must check, and potentially adjust, their observation of global state based on observations reported by neighboring nodes.
+(Agents at each node must check, and potentially adjust, their observation of global state based on observations reported by neighboring nodes.)
 
 In subsequent diagrams, we will denote reliable sensors as green and faulty sensors as red.
 Faulty sensors always report incorrect state information.
@@ -136,7 +136,7 @@ Roll a d6 for initiative.
 Tag-match regulation allows the SignalGP program module that will be returned by a particular query to be switched up at run time.
 A SignalGP program module can be "upregulated," meaning that it will match *better* with every query against it.
 A program module can also be "downregulated," meaning that it will match *worse* with every query against it.
-If a module is neither upregulated or downregulated, its raw match distance with queries is unaffected.
+If a module is neither upregulated nor downregulated, its raw match distance with queries is unaffected.
 
 Each tag designating a SignalGP program module has an associated regulation state.
 In this work, we use an unbounded floating point value.
@@ -162,7 +162,7 @@ return std::clamp(
   1.0
 );
   ```
-2. mulitiplicative regulator: adjust raw match distance a fixed fraction towards 0.0 (upreglated) or 1.0 (downregulated).
+2. multiplicative regulator: adjust raw match distance a fixed fraction towards 0.0 (upregulated) or 1.0 (downregulated).
   ```c++
 return raw_distance + std::tanh(state) * (
   state < 0
@@ -200,14 +200,14 @@ We devised it to mimic the [dynamics of neural systems](https://en.wikipedia.org
 
 The ranked and sieve selectors serve as controls for the depolarization selector.
 The ranked selector, which emulates the behavior of previous SignalGP work, only ever returns one result at a time.
-The sieve selector, like the depo selector, may potentially return more than result at a time.
+The sieve selector, like the depo selector, may potentially return more than one result at a time.
 
 The following figure overviews schematics of these three selectors.
 
 ![](/resources/depo-consensus-selectors.png){:width="100%"}
 *Schematic comparing selectors.*
 
-In all experiments, the ranked selector was used to for function calls and regulation instruction lookups.
+In all experiments, the ranked selector was used for function calls and regulation instruction lookups.
 Depending on the treatment, other selectors handled incoming messages, environmental cues, and function forks.
 
 ### Experiments & Treatments
@@ -389,7 +389,7 @@ For the small grid size problem, the depo selector significantly outperformed th
 *Dashed lines indicate fitness score that could be achieved if each agent outputted its own sensor value.*
 *Error bars represent 95% confidence intervals.*
 
-For the small grid size problem, the depo selector significantly outperformed the ranked and sieve selectors at the 22% problem difficulty tier (Kruskall-Wallace H-tests; h=3.90, p=0.048;  h=4.97, p=0.026).
+For the big grid size problem, the depo selector significantly outperformed the ranked and sieve selectors at the 22% problem difficulty tier (Kruskal-Wallis H-tests; h=3.90, p=0.048;  h=4.97, p=0.026).
 
 ### Perfect Solution Frequencies
 
@@ -402,7 +402,7 @@ On the small grid at the 11% faulty problem difficulty tier, the depo selector e
 ![](/resources/depo-consensus+size=big+title=countplot+ext=.png){:width="100%"}
 *Counts of evolutionary runs on the large grid size that evolved perfect solutions out of 10 replicates.*
 
-Interestingly, for the big grid size, significantly more perfect solutions at the 44% faulty problem difficulty tier than at the 22% faulty problem difficulty tier
+Interestingly, for the big grid size, we observed significantly more perfect solutions at the 44% faulty problem difficulty tier than at the 22% faulty problem difficulty tier
 (Fisher's exact test, 6/24 vs. 15/15, p=0.029).
 
 We were not able to detect a significant difference in the rate that perfect solutions evolved between the 22% and 44% faulty difficulty tiers for the small grid size.
@@ -413,14 +413,14 @@ We'll circle back around to this observation in the next section.
 
 ### Solution Scalability
 
-In order to assess the qualitative mechanisms underlying evolved solutions, we analyzed the behavior of solutions in the grid size opposite that that they evolved in.
+In order to assess the qualitative mechanisms underlying evolved solutions, we analyzed the behavior of solutions in the grid size opposite that they evolved in.
 (Solutions evolved on the small grid size were evaluated on the large grid size and solutions evolved on the large grid size were evaluated on the small grid size.)
 
 The plots below compare counts of solutions that evaluated perfectly on the small grid and evaluated perfectly on the large grid.
 For the most part, solutions evaluated perfectly either on both grid sizes or perfectly on just one grid size.
 (Thus, members of the lower count category would all also rank as members of the higher count category.)
 We did detect, and account for in our analyses, one case to the contrary.
-Among solutions evolved on the big grid at the 22% problem difficulty tier with the depo selector, we found two perfect solutions when evaluated on big grid size, four perfect solutions when evaluated on the small grid size, but only one solution that was evaluated perfectly on both grid sizes.
+Among solutions evolved on the big grid at the 22% problem difficulty tier with the depo selector, we found two perfect solutions when evaluated on the big grid size, four perfect solutions when evaluated on the small grid size, but only one solution that was evaluated perfectly on both grid sizes.
 
 ![](/resources/depo-consensus+size=small+title=facetcountplot+ext=.png){:width="100%"}
 *Counts of evolutionary runs on the small grid size out of 10 replicates that evolved perfect solutions when evaluated on the small grid size and on the large grid size.*
@@ -430,12 +430,12 @@ However, all perfect solutions evolved with the depo selector at problem difficu
 Between these problem difficulty tiers, the rate of successful scaling to the large problem difficulty tiers did differ significantly (Fisher's exact test, 14/0 vs. 0/7, p < 0.00001).
 
 We also compared the counts of solutions that performed perfectly on both grid sizes and those that performed perfectly on just one grid size between the depo selector at problem difficulty tiers 1 and 2 and other selectors across all non-trivial problem difficulty tiers.
-The depo selector at problem difficulty tiers 1 and 2 had a significantly higher rate solutions that performed perfectly on just one grid size than both the ranked selector (Fisher's exact test, 14/0 vs. 2/16, p < 0.00001) and the sieve selector (Fisher's exact test, 14/0 vs. 2/16, p < 0.00001).
+The depo selector at problem difficulty tiers 1 and 2 had a significantly higher rate of solutions that performed perfectly on just one grid size than both the ranked selector (Fisher's exact test, 14/0 vs. 2/16, p < 0.00001) and the sieve selector (Fisher's exact test, 14/0 vs. 2/16, p < 0.00001).
 
 ![](/resources/depo-consensus+size=big+title=facetcountplot+ext=.png){:width="100%"}
 *Counts of evolutionary runs on the large grid size out of 10 replicates that evolved perfect solutions when evaluated on the small grid size and on the large grid size.*
 
-Looking at solutions that evolved on the big grid, we also observed several solutions that performed perfectly just one of the evaluation grid sizes at problem difficulty tiers 1 and 2.
+Looking at solutions that evolved on the big grid, we also observed several solutions that performed perfectly on just one of the evaluation grid sizes at problem difficulty tiers 1 and 2.
 There was a significantly higher fraction of solutions that performed perfectly on just one grid size with the depo selector at problem difficulty tiers 1 and 2 compared to problem difficulty tiers 3 and 4
 (Fisher's exact test, 7/4 vs. 0/5, p=0.034).
 
@@ -453,11 +453,11 @@ We suspect that solutions evolved with the depo selector can exploit unique mech
 However, because solutions evolved with all selectors achieved comparable performance at higher faulty-rate problem difficulty tiers, we interpret our observations as evidence that the depo selector enables greater evolutionary flexibility but not necessarily meaningful functionality that cannot also be achieved through the program module regulation system.
 
 Both of these results evidence the utility of plastic, during-lifetime adjustments to program module dispatch in SignalGP.
-This observation key subtle twist to insight about the future work of SignalGP.
+This observation adds a subtle twist to insight about the future work of SignalGP.
 
 Among other objectives, in proposed "Multi-representation SignalGP" work we aim to expand the set of computational representations underpinning SignalGP modules beyond linear genetic programs [[Lalejini and Ofria, 2019]](#Lalejini2019WhatSignalGP).
 Hintze et al. have demonstrated practical benefits of evolving digital agents composed of heterogeneous computational representations, which they refer to as the "Buffet Method" [[Hintze et al., 2019]](#Hintze2019evolutionarymethod).
-In their work, agents connectivity between modules is genetically determined and immutable during an agent's lifetime.
+In their work, agents' connectivity between modules is genetically determined and immutable during an agent's lifetime.
 The buffet paradigm allows evolving agents to rely on computational representations best-suited to a problem at hand, but also to hybridize representations to efficacious ends.
 With the addition of dynamic module dispatch via selector and regulator components, "Multi-representation SignalGP" promises not only to realize the benefits of the Buffet Method in interactive, event-driven agents but also provide a framework for module-level plasticity.
 

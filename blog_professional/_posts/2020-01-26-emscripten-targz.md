@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "So You Want To Retrieve and Extract .tar.gz Archives with Empscripten"
+title:  "So You Want To Retrieve and Extract .tar.gz Archives with Emscripten"
 date:   2020-01-26
 no_toc: true
 ---
@@ -23,7 +23,7 @@ Compressing and extracting `.tar.gz` archives at the terminal is easy[-ish](http
 Getting it going from a C++ program inside Emscripten's browser sandbox?
 A little harder, but once I found the right pieces to slot together not actually too bad!
 
-In this blog, I'll briefly discuss each the components I assembled and tweaked to create a minimal working example of retrieving and extracting a `.tar.gz` archive with Emscripten.
+In this blog, I'll briefly discuss each of the components I assembled and tweaked to create a minimal working example of retrieving and extracting a `.tar.gz` archive with Emscripten.
 Then, I'll walk you through getting the minimal working example actually running on your own machine.
 
 You can find all the complete minimal working example [on Github](https://github.com/mmore500/emscripten-targz).

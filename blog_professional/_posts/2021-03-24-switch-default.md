@@ -5,7 +5,7 @@ date: 2021-03-24
 no_toc: true
 ---
 
-Standard C and C++ requires `switch` statements to behave harmlessly if on a value that not covered by one of their `case`'s.
+Standard C and C++ require `switch` statements to behave harmlessly if on a value that is not covered by one of their `case`'s.
 For example, in this case
 ```cpp
 switch( i ) {

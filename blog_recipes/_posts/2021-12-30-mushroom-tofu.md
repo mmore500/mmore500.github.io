@@ -13,7 +13,7 @@ recipe:
     * 3 tbsp. vegetable oil
     * 6 scallions, sliced
     * 2 carrots, sliced
-    * 1 lb. mushrooms (maitake, shiitake, oyster, button, and/or cimini)
+    * 1 lb. mushrooms (maitake, shiitake, oyster, button, and/or crimini)
     * salt
 
     ## Tofu

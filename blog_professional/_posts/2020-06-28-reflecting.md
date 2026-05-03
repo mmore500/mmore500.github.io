@@ -20,7 +20,7 @@ I aim to present this writeup in as positive and constructive of a manner as pos
 Last spring, my boyfriend and I attended a work dinner party.
 We sat together on a small sofa in the front living room with a few others, waiting for dinner to be served.
 Someone else's kid --- 1█████ --- ran in and started playing around with people seated around the room.
-He turned his attention to my my partner and I, climbing all up and over the back of the couch and tumbling around.
+He turned his attention to my partner and I, climbing all up and over the back of the couch and tumbling around.
 At one point, he almost fell headfirst into a coffee table and I caught him by the leg of his pants.
 
 Then, dinner was on, and we all moved out to queue up in the dining room.
@@ -64,7 +64,7 @@ Also early on in my graduate career, a close relative was convicted for sex offe
 This leaves me and my family with a lot to process.
 Most of all, I feel sadness and anger for the harm he inflicted on survivors and their families.
 
-The first question I asked my mom when she called was was whether my brother or I had ever been treated inappropriately.
+The first question I asked my mom when she called was whether my brother or I had ever been treated inappropriately.
 She told me that she didn't think so, that she had always carefully supervised us around this relative.
 Re-assessing my own memories as this was explained, some retroactively gained a watchful eye outside of the frame.
 
@@ -72,7 +72,7 @@ At some point, responsibility for this relative's arrangements will fall on my b
 I have a basic idea of what logistical responsibilities that might entail, but I haven't at all worked out what that relationship would look like or mean.
 I have at least 38 years to think about it, though.
 
-What I want to emphasize by sharing some parts my own life I don't usually talk about is that, especially in the context of the classroom and workplace, you *really* don't know what difficult situations others are managing in other spheres of their lives --- and almost *everyone* has other pots cooking.
+What I want to emphasize by sharing some parts of my own life I don't usually talk about is that, especially in the context of the classroom and workplace, you *really* don't know what difficult situations others are managing in other spheres of their lives --- and almost *everyone* has other pots cooking.
 So, just be kind.
 
 (Shout-out to [Ms. Works](https://ccsso.org/teachers/colleen-works) for hammering this important message home on syllabus day every single semester in high school.)
@@ -116,7 +116,7 @@ Even as a kid, her response struck me as unusually cagey.
 Of course, today in the age of Facebook, I now know about her wife and wonderful family.
 It's only in retrospect that I understand how delicate and treacherous that conversation --- which, to a straight person, would be unremarkable --- might have potentially felt to Ms. S.
 
-As an gay adult [volunteering in middle school classrooms](http://devolab.org/reflections-on-my-first-semester-at-macdonald-middle-school/), I, too, must navigate how to represent myself there.
+As a gay adult [volunteering in middle school classrooms](http://devolab.org/reflections-on-my-first-semester-at-macdonald-middle-school/), I, too, must navigate how to represent myself there.
 At school, I *never* shared about my personal life.
 In situations where, for example, I was telling about calculating unit price at the supermarket, I would simply describe my partner as "my roommate."
 Staying closeted felt especially fraught in situations where kids were struggling, and failing, to come to grips with what gay means and what it doesn't, throwing around slurs like "faggot."
@@ -133,7 +133,7 @@ The unfortunate notion that gays aren't safe or appropriate around kids also enc
 ![My partner and I](/resources/reflecting-moving.jpg){:width="100%"}
 *Moving on through life together.*
 
-Career considerations, radical lifestyle changes, and [inherent uncontrollable variables](http://ecologybits.com/index.php/2016/05/18/when-should-i-start-a-family-actual-advice-rather-than-platitudes-for-the-early-career-academic/) make starting a any family a difficult, nebulous, and sometimes painful process.
+Career considerations, radical lifestyle changes, and [inherent uncontrollable variables](http://ecologybits.com/index.php/2016/05/18/when-should-i-start-a-family-actual-advice-rather-than-platitudes-for-the-early-career-academic/) make starting any family a difficult, nebulous, and sometimes painful process.
 Non-traditional families --- not just gay families, but also transracial families, adoptive families, single-parent families, and several-parent families --- already face difficult-enough additional financial, legal, and matter-of-fact biological complications.
 
 We should provide all families with unequivocal support, not incessant scrutiny and suspicion.
@@ -229,7 +229,7 @@ I decided it would be a good idea to grease the gears to avoid any further incid
 >This is probably a little out of left field, but I’m hoping you can be my wingman to help me avoid getting left with 2█████, especially alone, when we’re traveling.
 Earlier this year and last year, 2█████ said several things that made me really upset and uncomfortable.
 I don’t think they made the comments maliciously but more out of poor judgment.
-I brought it up with them and they apologized very sincerely and has been much better since.
+I brought it up with them and they apologized very sincerely and have been much better since.
 I definitely don’t want to push them out of any social circles and in principle feel open to giving them a fresh slate but really do still feel put off around them.
 If it comes to it, I’ll just say that I’m not interested in interacting with them and leave, but I’d like to avoid hurting his feelings as is possible.
 (I really do think he feels bad about all this already).
@@ -242,9 +242,9 @@ I didn't share details, and neither did she, but validation --- even of the vagu
 
 ![Traveling in Japan was a blast.](/resources/reflecting-japan.jpg){:width="100%"}
 
-Being discrete about sensitive situations, in some aspects, just makes life easier.
+Being discreet about sensitive situations, in some aspects, just makes life easier.
 You retain control of who knows, what they know, and --- for the most part --- get to retain normality, which feels good.
-However, discretely averting situations you'd rather avoid requires some effort and foresight.
+However, discreetly averting situations you'd rather avoid requires some effort and foresight.
 Also, and I think this is what has bothered me most, feeling like you should keep hush in order to protect someone else is also kind of yucky.
 
 ## Living with Poor Judgment in the Workplace
@@ -258,7 +258,7 @@ I want to use anecdotes from this experience to contextualize a more general ref
 *Me and co-workers from my summer job, having a good time in the field.*
 
 My second or third summer, our supervisor hired a high school co-worker named 3████ into our crew of five or so field hands.
-Due on his upbringing, 3████ had had *very* little exposure to progressive social ideas (except, perhaps, enough for reflexive disdain).
+Due to his upbringing, 3████ had had *very* little exposure to progressive social ideas (except, perhaps, enough for reflexive disdain).
 I only worked part of the summer, taking two months off for an REU, but when I returned in August everyone --- the ladies in the crew, especially --- was frustrated from fielding uncomfortable and offensive, particularly sexist, remarks from 3████ for the whole summer.
 
 Here are a few, for flavor.
@@ -293,18 +293,18 @@ If they understand the issue and are working to fix it, we should give them a ch
 Another year back at that summer job, we had a crew member with some instability in his living situation from a much more rural part of the county.
 From time to time, he lacked reliable transportation to work.
 Our crew benefited from accommodating him as he cleared his hurdles.
-He was a good worker --- completely straightforward and upright --- and a really fun to be around.
+He was a good worker --- completely straightforward and upright --- and really fun to be around.
 
 In the context of colleagues with poor judgment, though, being patient does *not* mean acting like nothing happened.
 Managing workplace issues isn't just about providing space for employees to work to fix their own problems.
 It can also be about *helping* colleagues grow.
-Protect yourself (and maybe help co-workers help themselves) by steering clear of situations and conversation topics colleague  s with poor judgment might stumble in.
+Protect yourself (and maybe help co-workers help themselves) by steering clear of situations and conversation topics colleagues with poor judgment might stumble in.
 In retrospect, should I have been waiting in the van alone with 3████?
 Maybe it would have been a better idea to have someone else along or wait back at the Quonset hut.
 Should we have discussed politics or relationships around 3████?
 Probably not.
 
-This type of accommodation can only so far, though.
+This type of accommodation can only go so far, though.
 Many of the poorly-judged comments I've related here appear to have materialized apropos of nothing.
 
 ## Takeaway Messages
@@ -318,8 +318,8 @@ Many of the poorly-judged comments I've related here appear to have materialized
 2. Tell the person who offended you that you're upset and give them a chance to apologize.
   * You can do this electronically.
   * It might make *both* of you feel better about the situation.
-4. Consider sharing what happened.
-  * It will likely validate your experience and perhaps give others a chance share their own experiences.
+3. Consider sharing what happened.
+  * It will likely validate your experience and perhaps give others a chance to share their own experiences.
   * A heads-up will help you and co-workers watch out for each other.
   * You don't have to share exactly what happened and/or who was involved.
   I've found people close to me to be very receptive, even without details.

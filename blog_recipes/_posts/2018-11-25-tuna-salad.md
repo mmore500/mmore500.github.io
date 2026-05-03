@@ -27,7 +27,7 @@ recipe:
     1. chop vegetables
     2. open tuna cans and drain moisture with lid
     3. mix tuna salad ingredients in large Tupperware (for easy storage)
-    3. toast bread
-    4. serve with cheddar cheese
+    4. toast bread
+    5. serve with cheddar cheese
 
 ---

@@ -20,7 +20,7 @@ recipe:
 
     * 2 tbsp. water
     * 2 tsp. honey (or sugar)
-    * 1 tsp. siracha sauce
+    * 1 tsp. sriracha sauce
     * 1 tbsp. garlic powder
     * 2 tbsp. sesame seeds
     * 1 tsp. rice wine vinegar

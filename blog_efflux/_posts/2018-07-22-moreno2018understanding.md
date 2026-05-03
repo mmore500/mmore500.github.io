@@ -13,7 +13,7 @@ venue: The Third Workshop on Open-Ended Evolution (OEE3)
 projects:
   - dishtiny
 abstract: |
-  The emergence of new replicating entities from the union of existing entities represent some of the most profound events in natural evolutionary history.
+  The emergence of new replicating entities from the union of existing entities represents some of the most profound events in natural evolutionary history.
   Facilitating such evolutionary transitions in individuality is essential to the derivation of the most complex forms of life.
   As such, understanding these transitions is critical for building artificial systems capable of open-ended evolution.
   Alas, these transitions are challenging to induce or detect, even with computational organisms.

@@ -24,7 +24,7 @@ recipe:
     3. brown the chicken
     4. add soy sauce, vinegar, and water, bring to a boil
     5. turn down heat, cover pot and let simmer for 20 minutes
-    6. take lid off and let simmer until sauce reduced
+    6. take lid off and let simmer until sauce is reduced
 
   notes_markdown: |-
     Serve with rice.

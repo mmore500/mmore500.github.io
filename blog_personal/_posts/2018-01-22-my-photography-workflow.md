@@ -79,7 +79,7 @@ So, every night I make a backup of my SD card.
 [Dmitri Popov's](https://scribblesandsnaps.com/) Little Backup Box makes this easy and doesn't break the bank.
 His clever idea is to use a Raspberry Pi as a single-purpose backup machine.
 You boot the Pi, stick in a thumb drive and your SD card, and then go do something else for a few minutes while it syncs your new images over to the thumb drive.
-This is all accomplished some clever bash scripting.
+This is all accomplished with some clever bash scripting.
 
 ![Little Backup Box](/resources/little_backup_box.jpg){:width="50%"}
 
@@ -241,7 +241,7 @@ Here's the `Makefile` I use.
 IMAGEFILES = $(sort $(wildcard *.jpg) $(wildcard *.JPG) $(wildcard *.dng) $(wildcard *.DNG))
 
 # get the basename of the containing directory
-# this will be used to name othe output document
+# this will be used to name the output document
 BUILD_DIR := $(shell basename $(abspath $(dir $(lastword $(MAKEFILE_LIST)))))
 
 all: contact-sheet.pdf $(BUILD_DIR)-csheet.pdf
@@ -287,7 +287,7 @@ Maybe it provides a little compression, too.
 
 ### Onsite Storage
 
-I keep my all my archives on two external hard drives: one at home and one at work.
+I keep all my archives on two external hard drives: one at home and one at work.
 
 ### Offsite Storage
 
@@ -351,7 +351,7 @@ I use it intermittently to double check that my newest archives have been frozen
 
 I do all of my photo edits on my iPad.
 There are good, free tools for editing and publishing available.
-On the downside, getting raw photos on and edited photos off the iPad more difficult than it should be.
+On the downside, getting raw photos on and edited photos off the iPad is more difficult than it should be.
 Right now, I use Google Drive to accomplish my file transfers.
 (**Update:** now that I do my culling on the iPad and get photos off the iPad directly to my laptop via `ifuse`, no cloud intermediaries are necessary.)
 
@@ -372,7 +372,7 @@ The native twitter app doesn't allow copy/paste, but you can circumvent this by 
 
 ## Business cards
 
-Sometimes, passerby see you with a camera that has a lens hood, remember that they or their company need photos taken, and ask you for a business card.
+Sometimes, passersby see you with a camera that has a lens hood, remember that they or their company need photos taken, and ask you for a business card.
 This should be a good-enough reason to carry some around.
 
 I had some printed by [Moo](https://www.moo.com/us/).
@@ -404,7 +404,7 @@ If you want to get started with Jekyll and github.io, check out [this tutorial](
 I've ordered framed prints through [FrameBridge](https://www.framebridge.com/) and canvas prints through [CanvasChamp](https://www.canvaschamp.com/).
 I've had good experiences with both.
 CanvasChamp, in particular, can be a great deal if you play their system right.
-I usually pay just a little over $20 for a 18in by 12 in print.
+I usually pay just a little over $20 for an 18in by 12in print.
 
 HMU for a referral code to either.
 
@@ -418,7 +418,7 @@ Miscellaneous videos on youtube:
 * [D7200 Overview Training Tutorial](https://www.youtube.com/watch?v=_Kw3P1yRwLs) by Tony and Chelsea Northrup
 * Tony and Chelsea Northrup have [a lot of other good how-to videos](https://www.youtube.com/channel/UCDkJEEIifDzR_2K2p9tnwYQ).
 
-At one point, I sat around scratching my head looking for a service that would let me easily curate a colelction of photographic inspirations.
+At one point, I sat around scratching my head looking for a service that would let me easily curate a collection of photographic inspirations.
 Then, I realized I was exactly describing Pinterest.
 So I [got one](https://www.pinterest.com/mmore500/).
 It's pretty useful.

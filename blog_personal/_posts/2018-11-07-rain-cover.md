@@ -39,7 +39,7 @@ These very old and very Instagram-filtered shots tell a nice synopsis.
 
 So, basically, green space almost anywhere else compares like absentee voting to vote-by-mail.
 Sure, it's nice, but why should I have to print out and mail in an extra bullshit form, which requires some forethought, instead of just automatically getting a ballot in the mail when it's time to vote?
-(Also, where's my *official* voter's guide with brief, straight-from-the-horse's-mouth candidate statements and [Citizen Initiative Review](https://healthydemocracy.org/cir/) summaries of ballot measures written a panel of impartial fellow voters wrangled from around the State.
+(Also, where's my *official* voter's guide with brief, straight-from-the-horse's-mouth candidate statements and [Citizen Initiative Review](https://healthydemocracy.org/cir/) summaries of ballot measures written by a panel of impartial fellow voters wrangled from around the State.
 Like, what the fuck?)
 P.S., [you don't even need a stamp to vote by mail](http://time.com/4547550/absentee-mail-ballot-postage-stamp-postal-service-usps/).
 
@@ -69,7 +69,7 @@ I took the first photo parked late at night at Neogen in Lansing.
 I took the second with an iPhone, crawling around in a Tacoma parking lot.
 It was raining harder than it looks.
 
-Neither of these photos tell the particular aspect of rain I'm after.
+Neither of these photos tells the particular aspect of rain I'm after.
 I don't think there's necessarily a physical barrier to capturing that aspect outside of Corvallis, but I'm not sure that *I* could recognize and align the elements as necessary elsewhere.
 I'm not settled on what subject, point of view, or conditions I'm after, but I'm already thinking about possibilities.
 I suspect that if I do get what I want, it will come around by just being out outside town in the rain with my camera.
@@ -104,12 +104,12 @@ So, light/small enough to keep in my bag by default isn't a requirement.
 
 These range from nearly identical...
 
-* [put through lens hood through the side of the bag (not the bottom) and use gaffer tape (not duct tape)](https://macgyverisms.wonderhowto.com/how-to/simple-diy-rain-cover-will-keep-your-camera-dry-during-stormy-shoots-0138422/)
+* [put the lens hood through the side of the bag (not the bottom) and use gaffer tape (not duct tape)](https://macgyverisms.wonderhowto.com/how-to/simple-diy-rain-cover-will-keep-your-camera-dry-during-stormy-shoots-0138422/)
 
 ... through similar, but not quite the same...
 
-* [tape the bag a filter instead of a lens hood](https://www.youtube.com/watch?v=i8AuGNke12k)
-* [cut a hole and attach a bag with a rubber band on an as- needed](https://www.youtube.com/watch?v=iQ1d4bmzXK0)
+* [tape the bag to a filter instead of a lens hood](https://www.youtube.com/watch?v=i8AuGNke12k)
+* [cut a hole and attach a bag with a rubber band on an as-needed basis](https://www.youtube.com/watch?v=iQ1d4bmzXK0)
 * [re-purpose rain trousers, attach to lens hood with velcro](https://www.diyphotography.net/protect-your-camera-from-rain-using-an-old-pair-of-rain-trousers/)
 * [purpose-built disposable cinch-cord rain sleeves](https://www.amazon.com/OP-TECH-USA-9001132-Rainsleeve/dp/B000PTFDYO)
 
@@ -145,8 +145,8 @@ If you have a bigger camera (e.g., full frame), you might need a bigger bag.
 I've seen kitchen zip bags available with up to 2.5 gallon volumes.
 
 Because this project is lens specific, you'll need to think about which lenses you want to be able to outfit with rain covers.
-I decided on just my primes lenses because I figured, with autofocus, using them in the bag wouldn't be too bad.
-Plus, they're what I figure I'd probably reach for to shoot to subject matter in a wet situation, anyways.
+I decided on just my prime lenses because I figured, with autofocus, using them in the bag wouldn't be too bad.
+Plus, they're what I figure I'd probably reach for to shoot subject matter in a wet situation, anyways.
 
 You could probably do fine with a zoom lens, though, although you might need a bigger bag and adjusting focal length in the bag might be annoying.
 
@@ -167,14 +167,14 @@ Buying these cheap (with 1 month shipping) saves a ton relative to trying to pic
 You'll want to trace the lens hood circumference onto the very bottom of your kitchen bag (e.g., where the flat face of the front folds over to become the flat face of the back).
 Trace on the left side (so there's room to the right for the camera body) and with the label facing *down* (that way it won't be *on top* of the camera, blocking the viewfinder and/or screen).
 
-I've tried this two ways: holding the hood inside the plastic bag and then tracing over it and placing the hood on the plastic bag then.
+I've tried this two ways: holding the hood inside the plastic bag and then tracing over it, and placing the hood on the plastic bag and tracing it.
 I found that putting lens hood inside the bag to trace it was a little less fiddly than trying to flatten out the end of the bag, placing the hood over it, and then tracing the lens hood directly.
 
 If you're a habitual tripod person, perhaps consider putting the hole along one of the flat sides of the kitchen bag instead of the bottom.
 This way, the open end of the bag will slide as nicely as possible over the tripod mount.
 
 Cut your hole out, leaving about 1 cm of material *inside* the traced line.
-This makes the fit over the lens cap nice and taught.
+This makes the fit over the lens cap nice and taut.
 
 ## Tape
 

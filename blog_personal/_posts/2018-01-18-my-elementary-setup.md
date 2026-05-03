@@ -29,7 +29,7 @@ Certainly.
 Extremely satisfying?
 Definitely.
 
-To fix this issue, I opened up the configuration file `/etc/lightdm/lightdm.conf` and modified the line `allow-guest=false` to instead read `allow-guest=true`.
+To fix this issue, I opened up the configuration file `/etc/lightdm/lightdm.conf` and modified the line `allow-guest=true` to instead read `allow-guest=false`.
 
 Note that you might need superuser permissions to modify this file (i.e. `sudo`).
 
@@ -38,9 +38,9 @@ Note that you might need superuser permissions to modify this file (i.e. `sudo`)
 Until elective surgery for HDMI input implants gains widespread availability, I'll continue to need my eyeballs to look at my computer screen.
 Plus, they're useful for [other things](http://mmore500.tumblr.com/), too.
 
-Blue light hurts my eyes, especially at night when I'm at home sleeping at night and definitely not still at the office my computer.
+Blue light hurts my eyes, especially at night when I'm at home sleeping and definitely not still at the office at my computer.
 I try to give my retinas a break by cutting back on the amount of blue light I'm shining in my face at all hours.
-[f.lux]([https://justgetflux.com/) does a great job of warming the screen color on the mac, but its Linux port doesn't cut it.
+[f.lux](https://justgetflux.com/) does a great job of warming the screen color on the mac, but its Linux port doesn't cut it.
 Use [Redshift](https://github.com/jonls/redshift) instead.
 
 ## Guake
@@ -143,7 +143,7 @@ For example,
 cd /usr/share/applications
 sudo rm ufraw.desktop
 ```
-If no `*.desktop` files jumps out as the culprit, you might need to start peeking in suspect `*.desktop` files to check for the name and description of the application.
+If no `*.desktop` files jump out as the culprit, you might need to start peeking in suspect `*.desktop` files to check for the name and description of the application.
 Note that you might need superuser permissions to remove files under the `/usr` directory (i.e. `sudo`).
 
 (Original source [here](https://askubuntu.com/questions/71240/how-to-remove-icons-shortcuts-from-unity-menu).)
@@ -151,8 +151,8 @@ Note that you might need superuser permissions to remove files under the `/usr` 
 ## Block Distracting Websites
 
 One of my friends works at a municipal library in small-town middle America.
-On her performance review, anonymous coworker told her that she needed to cool her jets because she was making everyone else look bad.
-According to this coworker, "Just because we have Facebook open our computers most of the time doesn't mean we're not as good as you.
+On her performance review, an anonymous coworker told her that she needed to cool her jets because she was making everyone else look bad.
+According to this coworker, "Just because we have Facebook open on our computers most of the time doesn't mean we're not as good as you.
 We just work differently."
 
 Don't be my friend's anonymous passive-aggressive colleague.
@@ -192,7 +192,7 @@ Good usage instructions are provided on the project's `README.md`.
 ## Weather Widget
 
 [Conky](https://github.com/brndnmtthws/conky) is a widget that lets users display system information on their desktop.
-Conky-vision is a stylish theme that puts the current time, date, and five-day forecast on the desktop..
+Conky-vision is a stylish theme that puts the current time, date, and five-day forecast on the desktop.
 The code for Conky-vision, due to `zagortenay333`, is found [here](https://github.com/zagortenay333/conky-Vision).
 Good installation and configuration instructions are on the project's README.md.
 

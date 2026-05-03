@@ -13,6 +13,6 @@ description: |
 
   The Empirical project unlocks the benefit potential of in-browser scientific software by providing a C++ interface to implement HTML GUIs that wrap the pre-existing research version of software, making it easier for researchers to keep the most recent version of scientific software available widely.
 
-  Where possibles, I package my experiments & software with Empirical and publish them as interactive in-browser apps like [DISHTINY](https://mmore500.com/dishtiny).
+  Where possible, I package my experiments & software with Empirical and publish them as interactive in-browser apps like [DISHTINY](https://mmore500.com/dishtiny).
   I also serve as a core contributor on the Empirical project, leading development of re-usable "prefabricated" GUI components and maintaining support for the Emscripten Web Worker API in the core library, among other responsibilities.
 ---

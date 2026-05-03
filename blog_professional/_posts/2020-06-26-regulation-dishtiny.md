@@ -133,9 +133,9 @@ _(d) Module 2 regulation snapshot._
 _Spatial patterns of gene regulation and module expression.
 Square tiles represent individual cells.
 Black borders divide cells belonging to different organisms.
-Cells are divided into four triangle slices, each corresponding to a independently-executing SignalGP instance.
+Cells are divided into four triangle slices, each corresponding to an independently-executing SignalGP instance.
 In module expression snapshots, white denotes no expression, green denotes a module running on a single hardware core, blue on two, purple on three, red on four, and silver on five.
-In module regulation shapshots, white denotes baseline state and blue denotes repression._
+In module regulation snapshots, white denotes baseline state and blue denotes repression._
 
 
 ## Let's Chat

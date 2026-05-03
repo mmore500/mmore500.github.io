@@ -37,7 +37,7 @@ recipe:
     2. melt butter on skillet over med-high heat
     3. add mushrooms, thyme, garlic
     4. sautee briefly
-    5. transfer to preheated oven and roasts 15 min.
+    5. transfer to preheated oven and roast 15 min.
 
     ## prepare sauce:
     1. melt 1 tbsp. butter on saucepan over moderate heat
@@ -46,7 +46,7 @@ recipe:
     4. simmer until thickened, about 2 min.
     5. whisk in remaining cream, nutmeg, and 1/2 cup of mushroom filling
     6. simmer over low heat about 7 min.
-    7. puree in food processor and blender
+    7. puree in food processor or blender
     8. return sauce to pan and keep warm
 
     ## make crepes:

@@ -75,7 +75,7 @@ Use automatic caching instead of manual caching
 
 ## Get push notifications of job failures
 
-Automatically upload to logs to `transfer.sh` to be able to view as embedded link
+Automatically upload logs to `transfer.sh` to be able to view as embedded link
 
 Running experiments equals pager duty.
 

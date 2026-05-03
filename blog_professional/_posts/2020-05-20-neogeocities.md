@@ -59,7 +59,7 @@ GIFs weren't post-hoc scraps shed from another medium.
 *[source](https://web.archive.org/web/20090728194006/http://geocities.com/prezioso73/)*
 
 GIFs used to play a structural role in web design.
-They served as page headers, section breaks, menu items, and menu items.
+They served as page headers, section breaks, and menu items.
 
 {% include neogeocities-clock.html %}
 *[source](https://web.archive.org/web/20090728100755/http://hk.geocities.com/katze_ting/)*
@@ -74,14 +74,14 @@ In this example, a bona-fide JavaScript-powered clock.
 
 GIFs of old were collected, curated, cherished, and exchanged.
 Maybe something like [pin trading](https://en.wikipedia.org/wiki/Pin_trading).
-Geocities pages existed for the sole purpose of organizazing and proudly displaying GIFs.
+Geocities pages existed for the sole purpose of organizing and proudly displaying GIFs.
 GIFs constituted precious treasures, not throwaway commodities.
 
 See also this [virtual stamp collection](http://geocities.com/angellovepsp/Stamp_Collection1.html) and this ["Free Mouse ,Hamster & more Blinkies and Gifs collection"](https://web.archive.org/web/20090829164804/http://geocities.com/victoriais2cute//index.htm)
 
 ## Toward Neogeocities: Finding Gifs
 
-How can tap into the former glory of GIFs?
+How can we tap into the former glory of GIFs?
 The first step is to find some glorious vintage GIFs.
 Look no further than the [Internet Archive's](https://archive.org/) [GifCities](https://gifcities.org) project, a searchable collection of GeoCities GIFs.
 
@@ -97,7 +97,7 @@ Some tips:
 Yes, [yes it is](http://www.montulli.org/theoriginofthe%3Cblink%3Etag).
 
 GIFs are fun, but when they keep on going and going and going they distractingly pry the eye away from most anything else visitors to a website are trying to digest.
-(A loquatious thinkpiece with sophisticated vocabulary, for example.)
+(A loquacious thinkpiece with sophisticated vocabulary, for example.)
 
 GIFs need not loop indefinitely, however.
 You can actually specify a finite loop count, after which the GIF will halt.
@@ -157,7 +157,7 @@ You'll want to
 
 ## Toward Neogeocities: Accessibility
 
-Animations can introduce accessibility issues for some of web visitors.
+Animations can introduce accessibility issues for some web visitors.
 If you're using them ornamentally, it's a good idea to allow visitors to strip out animations if they need to.
 Here's some HTML for a cute little button to do just that.
 

@@ -51,22 +51,22 @@ Obviously, it's best not to get caught with your pants down when the IRS comes a
 There's a little more here, though.
 How likely are you to, say, check to see if your *Land Before Time I - XIV* VHS tapes are actually gone or just missing if 1998's box is situated deep inside your shrine to Title 26 of the United States Code, under 2002 and behind 1999?
 What if you stored your records on microfiche and then traded your home Recordak Film Reader away for a Discman?
-You're more likely to actually *make use* of your records if figuring how your Beanie Babies have appreciated against their purchase price isn't more trouble than its worth.
+You're more likely to actually *make use* of your records if figuring out how your Beanie Babies have appreciated against their purchase price isn't more trouble than it's worth.
 
 Point 2 is also straightforward.
 Most people don't like pain.
 Again, though, there's a little more here.
-If creating and storing your records doesn't make you want to rip out your frosted tips, you'll be more likely to put down your Bop It actually do it.
+If creating and storing your records doesn't make you want to rip out your frosted tips, you'll be more likely to put down your Bop It and actually do it.
 A slick, convenient, maybe even enjoyable record-keeping process makes it more likely that the Thing That Really Matters will be in your Bankers box when the time comes.
 
 Finally, we arrive at Point 3.
 This one is more subtle.
 My argument here is that stuffing your Bankers box doesn't have to be *just* about covering your bases in case of an audit or a missing furby --- "honey, you're *sure* we didn't donate it?" (Hint: jump in your car and just keep driving; it's coming for you.)
-I'm arguing that the act of making and storing records be valuable even if you never go through them later.
+I'm arguing that the act of making and storing records can be valuable even if you never go through them later.
 Making and storing records can provide an opportunity for reflection and planning.
 
 Take the process of preparing and publishing academic papers.
-Once complete, these papers serve a valuable record for other scholars, funding agencies, and even the authors themselves.
+Once complete, these papers serve as a valuable record for other scholars, funding agencies, and even the authors themselves.
 Aside from all that, however, putting together a paper forces distillation of ideas and compilation and formal interpretation of evidence.
 Authorship helps authors better understand their own work and tends to break work on really big, really hard problems into more manageable pieces.
 Often, part of writing a paper is identifying areas for future work.
@@ -128,7 +128,7 @@ For me, these little moments have become the glow-in-the-dark stars and holograp
 They make me want to get in and play.
 The small satisfaction I get from arranging my collection and my continual encounters with new specimens are most of why I have stuck with record-keeping at all.
 
-Surprisingly, some of my collection have come in handy later.
+Surprisingly, some of my collection has come in handy later.
 I populated my recent reflective writing on education and outreach primarily with anecdotes drawn from snippets of conversation I had tucked away contemporaneously.
 
 The most valuable return on my investment in journaling is greater confidence and comfort writing.
@@ -142,7 +142,7 @@ To what pieces of information should I lend special emphasis?
 With these decisions made, writing becomes a matter of devising and arranging a few clauses to meet design specifications.
 
 Working within this objective-oriented framework --- as opposed to aiming to write "well" --- is much simpler and more satisfying.
-When I started my journal, I produced play-by-play prose that weighted in at several paragraphs.
+When I started my journal, I produced play-by-play prose that weighed in at several paragraphs.
 Today, I'm mostly down to a few sentences at a time.
 I hope this practice making every word tell will transfer to my scientific writing.
 Everyone can use a leg up in competition for funding and publication.
@@ -212,7 +212,7 @@ Nonetheless, it won't hurt to keep this in mind the next time I'm very poorly, v
 ## Design Requirements
 
 Now, with all this in mind, we get to the fun part --- describing what requirements an ideal record-keeping tool should meet.
-I'll also describe some of design solutions these requirements bring to mind.
+I'll also describe some of the design solutions these requirements bring to mind.
 
 1. I want to store text with some simple formatting, charts/figures, and maybe some digital drawings.
    **[Markdown](https://en.wikipedia.org/wiki/Markdown)** and **[PDF](https://en.wikipedia.org/wiki/Portable_Document_Format)** should cover my bases here.
@@ -250,7 +250,7 @@ I'll also describe some of design solutions these requirements bring to mind.
    **Version control**.
    By version control, of course, I mean **[Git](https://git-scm.com/)**.
 
-   Even with version control, can you still obfuscate post-hoc modifications to your records if your really put your mind to it?
+   Even with version control, can you still obfuscate post-hoc modifications to your records if you really put your mind to it?
    Certainly.
    At least you won't accidentally make modifications after the fact or absentmindedly fail to document them.
 
@@ -268,17 +268,17 @@ I'll also describe some of design solutions these requirements bring to mind.
    If we're already working with Git, keeping a **remote repository up on [GitHub](https://github.com/)** would be the obvious way to accomplish this.
 
    More insidiously, if your digital content is stored using a proprietary file format or database system, you're relying on continuing support from the proprietors.
-   When I worked at the University of Puget Sound chemistry storeroom, we had great time wrangling vintage AppleWorks documents (stored on a prodigious collection of floppy disks, no less).
+   When I worked at the University of Puget Sound chemistry storeroom, we had a great time wrangling vintage AppleWorks documents (stored on a prodigious collection of floppy disks, no less).
    You're much better off with open source formats, but without continuing community support you might potentially still set yourself up for a real pain in the neck.
 
    I don't want to rely on whatever tool I use to create the records to read them.
    For me, this means **storing assets as Markdown and PDF files in a directory structure (instead of a database)**.
    Markdown files, in particular, should be just fine to page through even without an easy way to render Markdown to HTML.
-   If either of these file formats aren't easy to work with in the future, God help us all.
+   If either of these file formats isn't easy to work with in the future, God help us all.
 
 8. I want certain components of my text entries to be consistent (e.g. entry date, headings for content sections, etc.).
    I also want my entries to follow a consistent file-naming scheme.
-   I want some of the consistent parts of my to be programmatically determined (e.g. the date).
+   I want some of the consistent parts of my entries to be programmatically determined (e.g. the date).
    Some consistent parts, I might want to manually determine on a case-by-case basis.
    Clearly, some sort of **templating** of entry content and file path will be necessary.
 
@@ -293,19 +293,19 @@ I'll also describe some of design solutions these requirements bring to mind.
    This can easily be achieved through a **separate script or Makefile** and doesn't have to be part of my core tool.
 
 12. I want my solution to be lightweight.
-    I want minimize the initial time investment I put into my record-keeping tool.
+    I want to minimize the initial time investment I put into my record-keeping tool.
     Also, I want to minimize any ongoing maintenance to my record-keeping tool.
     I have better things to do.
 
     My first choice, of course, would be someone else's existing tool.
     Then, I would get startup and maintenance for basically free.
-    If I *must* to code my own tool (\*dramatic swoon\*), I want to **use Python** and **write a proper package**.
+    If I *must* code my own tool (\*dramatic swoon\*), I want to **use Python** and **write a proper package**.
     And yae, I was glad when they said unto me,
 
     > Why would you put on clothes if you can shop in your comfy pants?
 
     Spoiler: I wrote my own tool.
-    As of version 0.6.1, templ weights in at 197 lines of Python plus some YAML files.
+    As of version 0.6.1, templ weighs in at 197 lines of Python plus some YAML files.
 
 13. I want my tool to be free (like free beer) and open-source.
    I'm cheap and I want to understand what's going on.
@@ -349,7 +349,7 @@ For your edification, here's a blurb pasted in from the project's `README.md`.
 > ## Why does this exist? Why would you ever make this?
 >
 > Essentially, all lab notebook software out there sucks in various ways.
-They either use a proprietary, non-text-based file format (Word, Pages), don't play well with Dropbox (Papers 2), require a database or an service (Evernote), aren't free (all of the above), or are lacking in useful features, like rich-text formatting (iPython Notebook, Texts.io).
+They either use a proprietary, non-text-based file format (Word, Pages), don't play well with Dropbox (Papers 2), require a database or a service (Evernote), aren't free (all of the above), or are lacking in useful features, like rich-text formatting (iPython Notebook, Texts.io).
 >
 > So, I made one that overcomes these shortcomings.
 The system is based around Python, Flask, Flask-FlatPages, CKEditor, and JQuery.
@@ -517,7 +517,7 @@ Here's a high-level sketch:
 * templ runs the raw content of `filename` (e.g. `xyz/{cur-year:02d}-{cur-month:02d}-{cur-day:02d}-{city}.md`) through standard Python string formatting.
 * For each token in curly braces, (e.g.`{cur-day:02d}` where the token is `cur-day` and `02d` instructs the formatter to paste in a two-digit number) the string formatter performs a dict lookup for the value to plug in.
 * The dict has been pre-populated with the `token:value` pairs for which the `value` can be programmatically generated (e.g `cur-day:1`).
-* If the token is missing, the user is prompted at the command line to provide it (this is accomplished by overridding the dict's `__missing__` method).
+* If the token is missing, the user is prompted at the command line to provide it (this is accomplished by overriding the dict's `__missing__` method).
 * At the prompt `city > ` the user enters `east_lansing`.
 * The final formatted filename is produced: `xyz/2018-01-01-east_lansing.md`.
 * templ checks to see if the file `xyz/2018-01-01-east_lansing.md` already exists.
@@ -536,7 +536,7 @@ Here's a high-level sketch:
 * templ prints the filename `xyz/2018-01-01-east_lansing.md` to `stdout` and returns.
 
 There you have it.
-There are just a two more implementation details to note.
+There are just two more implementation details to note.
 1. templ is written as a proper Python package.
    You can have it up and running at your command line in seconds using pip.
 2. templ is set up so making your own templates is trivial.

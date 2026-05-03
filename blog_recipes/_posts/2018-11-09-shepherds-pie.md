@@ -42,16 +42,16 @@ recipe:
     1. peel potatoes, dice into 1/2 in. cubes
     2. put potatoes in saucepan, cover with cold water
     3. place lid over saucepan
-    3. boil saucepan over high heat
-    4. remove lid from saucepan
-    5. simmer 15 to 20 min.
+    4. boil saucepan over high heat
+    5. remove lid from saucepan
+    6. simmer 15 to 20 min.
       * go work on the filling
-    6. combine butter and half-and-half, warm in microwave for 30 sec.
-    7. drain potatoes and return to the saucepan
-    8. mash potatoes with a fork
-    9. add half-and-half, butter, salt and petter
-    10. mash the potatoes more with a fork
-    11. add egg yolk, combine
+    7. combine butter and half-and-half, warm in microwave for 30 sec.
+    8. drain potatoes and return to the saucepan
+    9. mash potatoes with a fork
+    10. add half-and-half, butter, salt and pepper
+    11. mash the potatoes more with a fork
+    12. add egg yolk, combine
 
     ## filling:
 

@@ -11,7 +11,7 @@ Our [Workshop for Avida-ED Software Development (WAVES)](https://mmore500.com/wa
 
 We've got seventeen participants involved alongside nearly as many mentors.
 This adds up to around thirty pairs of hands on deck for group meetings!
-Our workshop is fully virtual, making the task ensuring everyone is engaged and heard from especially challenging.
+Our workshop is fully virtual, making the task of ensuring everyone is engaged and heard from especially challenging.
 
 We decided to run our group meetings with a brief all-hands segment for announcements and group business then disperse into smaller breakout sessions for check-ins and questions.
 So, how to choose who goes in which breakout group?
@@ -57,7 +57,7 @@ We used a [Google form](https://www.google.com/forms/about/) to collect binary c
 
 ## A Canal,
 
-Without further ado, a visualization our clustering result!
+Without further ado, a visualization of our clustering result!
 
 ![clustering result](/resources/discussion-groups-cluster.png){:style="width:100%;"}
 
@@ -67,7 +67,7 @@ The visualization ended up being useful for manual tweaking of group assignments
 
 ## PANAMA!
 
-Here's the magic behind the curtain you want to give it a try.
+Here's the magic behind the curtain if you want to give it a try.
 	:upside_down_face:
 
 ```python

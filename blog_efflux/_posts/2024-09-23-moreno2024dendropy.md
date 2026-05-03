@@ -16,7 +16,7 @@ projects:
   - hstrat
   - libraries
 abstract: |
-  Contemporary bioinformatics has seen in profound new visibility into the composition, structure, and history of the natural world around us.
+  Contemporary bioinformatics has seen profound new visibility into the composition, structure, and history of the natural world around us.
   Arguably, the central pillar of bioinformatics is phylogenetics -- the study of hereditary relatedness among organisms. Insight from phylogenetic analysis has touched nearly every corner of biology.
   Examples range across natural history, population genetics and phylogeography, conservation biology, public health, medicine, *in vivo* and *in silico* experimental evolution, application-oriented evolutionary algorithms, and beyond.
   High-throughput genetic and phenotypic data has realized groundbreaking results, in large part, through conjunction with open-source software used to process and analyze it.

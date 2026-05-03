@@ -18,8 +18,8 @@ Then, we analyze DISHTINY profiling data to identify next steps to enhance paral
 
 ## Data Collection
 
-I collected timing data with 1, 2, 4, 82 and 16 threads enabled on a 16 cpu allocation on [MSU ICER](https://icer.msu.edu/)'s `lac-385` node.
-Timing data was collected at three "load" (work per thread) levels: 1, 2, 4, 8, and 16.
+I collected timing data with 1, 2, 4, 8, and 16 threads enabled on a 16 cpu allocation on [MSU ICER](https://icer.msu.edu/)'s `lac-385` node.
+Timing data was collected at five "load" (work per thread) levels: 1, 2, 4, 8, and 16.
 (Intuition: a one-thread run with load level 16 conducts the same amount of total work as a sixteen-thread run with load level 1.)
 Six replicate measurements of each timing were recorded.
 
@@ -182,9 +182,9 @@ and that
 
 So far we have four unknowns, but only two equations ---
 not yet enough to deduce our properties of interest.
-We need more two more constraints.
+We need two more constraints.
 
-Because $$\mathrm{fraction␣serial}$$ and $$\mathrm{fraction␣parallel}$$ are complimentary by definition, we must have
+Because $$\mathrm{fraction␣serial}$$ and $$\mathrm{fraction␣parallel}$$ are complementary by definition, we must have
 <div>
 \begin{equation}
 1
@@ -308,7 +308,7 @@ In particular, this will likely require disabling or reimplementing global syste
 
 By providing estimates for key scaling properties of the DISHTINY system, the statistical model informs our next steps enhancing its parallel performance.
 
-The statistical model developed to estimate scaling properties of interest will provide a framework quantitatively demonstrate the impact of work to enhance the software's parallel performance.
+The statistical model developed to estimate scaling properties of interest will provide a framework to quantitatively demonstrate the impact of work to enhance the software's parallel performance.
 
 Going forward, we should consider constructing a null model to generate simulated timing data.
 Running this simulated data through our procedure for estimating scaling properties will allow us to confirm the validity of our estimation procedure.

@@ -47,7 +47,7 @@ Instead, hardware innovation began to revolve around multiprocessing
 [[Hennessy and Patterson, 2011, p.55]](#hennessy2011computer)
 and hardware acceleration (e.g., GPU, FPGA, etc.)
 [[Che et al., 2008]](#che2008accelerating).
-For scientific and engineering applications, individual multiprocessors and accelerators are joined together with fast interconnects to yield so-called high-performance computing clusters s [[Hennessy and Patterson, 2011, p.436]](#hennessy2011computer).
+For scientific and engineering applications, individual multiprocessors and accelerators are joined together with fast interconnects to yield so-called high-performance computing clusters [[Hennessy and Patterson, 2011, p.436]](#hennessy2011computer).
 Until fundamental changes to computing technology transpire, scaling up artificial life compute power will require taking advantage of these existing parallel and distributed systems.
 
 ### Distributed Hardware in Digital Evolution
@@ -64,7 +64,7 @@ Koza and collaborators' genetic programming work with a 1,000-cpu Beowulf cluste
 In recent years, Sentient Technologies spearheaded digital evolution projects on an unprecedented computational scale, comprising over a million CPUs and capable of a peak performance of 9 petaflops [[Miikkulainen et al., 2019]](#miikkulainen2019evolving).
 According to its proponents, the scale and scalability of this DarkCycle system was a key aspect of its conceptualization [[Gilbert, 2015]](#gilbert_2015).
 Much of the assembled infrastructure was pieced together from heterogeneous providers and employed on a time-available basis [[Blondeau et al., 2012]](#blondeau2012distributed).
-Unlike island model where selection events are performed independently on each CPU, this scheme transferred evaluation criteria between computational instances (in addition to individual genomes) [[Hodjat and Shahrzad, 2013]](#hodjat2013distributed).
+Unlike island models where selection events are performed independently on each CPU, this scheme transferred evaluation criteria between computational instances (in addition to individual genomes) [[Hodjat and Shahrzad, 2013]](#hodjat2013distributed).
 
 Sentient Technologies also accelerated the deep learning training process by using many massively-parallel hardware accelerators (e.g., 100 GPUs) to evaluate the performance of candidate neural network architectures on image classification, language modeling, and image captioning problems [[Miikkulainen et al., 2019]](#miikkulainen2019evolving).
 Analogous work parallelizing the evaluation of an evolutionary individual over multiple test cases in the context of genetic programming has used GPU hardware and vectorized CPU operations
@@ -175,7 +175,7 @@ This extension introduces genetic programs that can explicitly-register direct i
 Cells establish these interconnects through a genetically-mediated exploratory growth process.
 
 We report a case study of an evolved strain that adaptively employs interconnects to communicate and selectively distribute resources to the periphery of a multicellular organism.
-In Section [CSIM](#case-study-interconnect-messaging), we report another case study of an evolve strain that adaptively employs over-interconnect messaging to selectively suppress somatic cell reproduction.
+In Section [CSIM](#case-study-interconnect-messaging), we report another case study of an evolved strain that adaptively employs over-interconnect messaging to selectively suppress somatic cell reproduction.
 
 In future implementations, explicitly-registered cell-cell interconnects may use log-time physical interconnects.
 Our prototype implementation exploits shared-memory thread-level parallelism on a single multiprocessor.
@@ -197,14 +197,14 @@ Current work developing those systems sets the stage for that eventuality [[Ackl
 ## Methods
 
 Our evolutionary case studies employ an extension to the DISHTINY framework for studying fraternal transitions in individuality.
-'Initial work with this system characterized selective pressures for cooperation with kin [[Moreno and Ofria, 2019]](#moreno2019toward).
+Initial work with this system characterized selective pressures for cooperation with kin [[Moreno and Ofria, 2019]](#moreno2019toward).
 We have since extended the system to use the SignalGP event-driven genetic programming technique [[Lalejini and Ofria, 2018]](#lalejini2018evolving) to control cell behaviors.
 Diverse multicellular life histories evolved in SignalGP-enabled DISHTINY evolutionary trials, involving reproductive division of labor, resource sharing (including, in some treatments, endowment of offspring groups), asymmetrical within-group and inter-group phenomena mediated by cell-cell messaging, morphological patterning, gene-regulation mediated life cycles, and adaptive apoptosis [[Moreno and Ofria, prep]](#dishtinygp).
 
 DISHTINY simulates individual cells, each of which occupies a tile on a toroidal grid.
 Cells can reproduce, placing daughter cells into adjoining tiles.
 We allow cells the opportunity to engage with kin in a cooperative resource-collection task (Supplementary Section A), which can increase their individual cellular reproduction rates [[Moreno and Ofria, 2020]](#Moreno_Ofria_2020).
-Kin groups are explicitly registered: on birth, a cell is either added to its parents group or expelled to establish a new group (Supplementary Section B) [[Moreno and Ofria, 2020]](#Moreno_Ofria_2020).
+Kin groups are explicitly registered: on birth, a cell is either added to its parent's group or expelled to establish a new group (Supplementary Section B) [[Moreno and Ofria, 2020]](#Moreno_Ofria_2020).
 
 Cells can differentiate between neighbors that are members of their kin group and neighbors that are not and alter their behavior accordingly.
 Each cell contains four SignalGP instances (all executing the same genetic program), one of which controls cell behavior with respect to each neighbor.
@@ -223,7 +223,7 @@ behavior with respect to more distant neighbors a cell has established interconn
 Long-distance interconnects are established through a developmental process, summarized in [Figure IOTDP](#fig-iotdp).
 The process begins with the placement of two independent search prongs at the originating cell.
 Each prong performs a random walk over the originating cell's kin group, accumulating positive or negative feedback based on tags expressed by underfoot cells.
-If a prongs accumulates positive feedback too slowly, it is reset to the location of the better-scoring prong.
+If a prong accumulates positive feedback too slowly, it is reset to the location of the better-scoring prong.
 Once a positive feedback threshold has been reached, the best-scoring prong develops into a full-fledged connection.
 At this point, the originating cell can begin exchanging messages and/or resource over the connection.
 Established interconnects may be subsequently removed by either participating cell.
@@ -249,8 +249,8 @@ We sampled from these populations, performing screens for knockouts of over-inte
 We then performed a secondary screen on strains with adaptive over-interconnect messaging or resource sharing to determine if re-routing either messages or shared resources decreased fitness.
 
 We measured relative fitness using competition experiments between strains.
-For some competition experiments reported in the case studies, we provide hyperlinks to load a in-browser DISHTINY simulation with the actual strains that were used.
-In this web viewer, wild-type strains carry phylogentic root ID 1 and knockout strains carry ID 2.
+For some competition experiments reported in the case studies, we provide hyperlinks to load an in-browser DISHTINY simulation with the actual strains that were used.
+In this web viewer, wild-type strains carry phylogenetic root ID 1 and knockout strains carry ID 2.
 
 ### Implementation
 
@@ -284,7 +284,7 @@ Established interconnects are overlaid in blue on Figure B42CS(c).
 In Figures B42CS(d) and B42CS(e), kin groups are outlined in black.
 Figure B42CS(d) highlights cells that are sending resource over-interconnect.
 Figure B42CS(e) highlights cells that are receiving resource over-interconnect.
-You can view an animation of the wild-type monoculutre at [`https://mmore500.com/hopto/ao`](https://mmore500.com/hopto/ao)._
+You can view an animation of the wild-type monoculture at [`https://mmore500.com/hopto/ao`](https://mmore500.com/hopto/ao)._
 
 
 This case study was drawn from epoch 24 of batch 42 of the initial set of evolutionary runs.
@@ -308,7 +308,7 @@ The intercellular natures of both over-interconnect messaging and resource shari
 Next, we took a closer look at the evolved cellular mechanisms controlling over-interconnect messaging and resource sharing.
 We monitored hardware execution of the wild-type strain in a monoculture population to detect which signals, messages, and fork/call instructions activated each SignalGP module.
 We manually cross-referenced this information with a human-readable printout of the strain's genetic program to construct a hypothesized mechanism shown in [Figure B42CS](#fig-b42cs).
-We hypothesize that cells at the periphery of a registered kin groups send messages backwards over incoming interconnects that induce interconnect-originating cells to send them resource.
+We hypothesize that cells at the periphery of a registered kin group send messages backwards over incoming interconnects that induce interconnect-originating cells to send them resource.
 Such a mechanism could preferentially increase resource availability at the group periphery, a region where cell-cell conflict is likely elevated.
 
 We performed a series of four-hour competition experiments between wild type and knockout strains to confirm the adaptive significance of each component of this mechanism.
@@ -346,7 +346,7 @@ Established interconnects are overlaid in blue on Figure B32CS(c).
 In Figures B32CS(d) and B32CS(e), kin groups are outlined in black.
 Figure B32CS(d) highlights cells that are sending resource over-interconnect.
 Figure B32CS(e) highlights cells that are receiving resource overinterconnect.
-You can view an animation of the wild-type monoculutre at [`https://mmore500.com/hopto/an`](https://mmore500.com/hopto/an)._
+You can view an animation of the wild-type monoculture at [`https://mmore500.com/hopto/an`](https://mmore500.com/hopto/an)._
 
 
 This case study was drawn from epoch 18 of batch 32 from a secondary set of 64 evolutionary runs.
@@ -355,7 +355,7 @@ These runs were identical to the first, except:
 * making cells default-accept instead of default-reject intracellular messages from same-channel cells, and
 * removing system-mediated parent-kin-group recognition to promote kin group turnover.
 
-We set this strain aside for case study after preliminary screening suggested that over-interconnect messaging played an adaptive role and that the intercellular nature the messaging of was necessary to that adaptation.
+We set this strain aside for case study after preliminary screening suggested that over-interconnect messaging played an adaptive role and that the intercellular nature of the messaging was necessary to that adaptation.
 The evolutionary history preceding this case study consumed approximately 72 hours of wall-clock time and 576 compute-core hours.
 Approximately 2,197,976 simulation updates and 8,884 cellular generations elapsed.
 You can view this case study strain in a live in-browser simulation at [`https://mmore500.com/hopto/7`](https://mmore500.com/hopto/7).
@@ -389,7 +389,7 @@ In each case the substitution variant strain was driven to extinction across all
 
 The directionality of messaging over the interconnect, however, does not appear to affect fitness.
 We tried substituting the wild-type instruction, which dispatches a message from the terminus of an interconnect to its origin, with an instruction that instead dispatches a message from the origin of an interconnect to its terminus.
-In competition against wild-type, the wild type strain was more abundant in only ten of 16 replicate competitions (one-tailed binomial test; $$p = 0.2272$$; 14/16 coalesced to a single strain; 410 S.D. 50 cell gen; [`https://mmore500.com/hopto/ai`](https://mmore500.com/hopto/ai}).
+In competition against wild-type, the wild type strain was more abundant in only ten of 16 replicate competitions (one-tailed binomial test; $$p = 0.2272$$; 14/16 coalesced to a single strain; 410 S.D. 50 cell gen; [`https://mmore500.com/hopto/ai`](https://mmore500.com/hopto/ai)).
 
 Next we assessed the adaptiveness of the particular spatio-temporal pattern of stimulation induced by incoming over-interconnect  messages.
 Does this pattern differ from spatially and temporally random stimulation?
@@ -405,11 +405,11 @@ Indeed, in competition experiments against the wild-type strain this variant far
 We confirmed this result with a larger-scale set of competition trials (58/64 wild-type strain prevalent; 0 strain extinctions; one-tailed binomial test; $$p < 0.0001$$; 33 S.D. 2 cell gens elapsed).
 
 Does the adaptively non-uniform pattern of stimulation induced by over-interconnect messages depend on non-uniform dispatch of messages from sending cells?
-To assess, this question, we measured the per-cell frequency of module 5 activation in a monoculture wild-type population.
+To assess this question, we measured the per-cell frequency of module 5 activation in a monoculture wild-type population.
 We then created a variant strain where outgoing over-interconnect messages from module 5 were disabled.
 Instead, the over-interconnect message instruction was randomly executed with uniform per-cell probability based on the empirical wild-type execution rate.
 This variant strain held its own against the wild-type strain (5/16 wild-type strain prevalent; 0 strain extinctions; one-tailed binomial test; $$p = 0.9$$; 30 S.D 1 cell gens elapsed).
-So, this strain's non-uniform pattern of stimulation seems likely to a result from the actual pattern of cell-cell interconnection rather than selective message dispatch.
+So, this strain's non-uniform pattern of stimulation seems likely to result from the actual pattern of cell-cell interconnection rather than selective message dispatch.
 
 We did not find evidence that cells were using tag-based developmental attractors or repulsors to bias connectivity (5/16 wild-type strain prevalent; 0 strain extinctions; $$p=0.9$$; 35 S.D. 8 cell gens elapsed).
 However, we did notice frequent interconnect turnover via execution of both remove-incoming and remove-outgoing interconnect instructions.
@@ -430,7 +430,7 @@ However, message dispatch is effectively random.
 This strain employs an adaptive during-lifetime interconnect-remodeling scheme.
 However, this remodeling scheme is also effectively random.
 
-Although the process of interconnect development and retention might contribute some sort of spatial and/or temporal bias to module 14 activation, a full characterization of the nature of this bias and the mechanism inducing remains elusive.
+Although the process of interconnect development and retention might contribute some sort of spatial and/or temporal bias to module 14 activation, a full characterization of the nature of this bias and the mechanism inducing it remains elusive.
 
 ## Wiring a Generic Small World Graph
 
@@ -843,10 +843,10 @@ Ackley's concept of indefinite scalability lays out an ambitious vision for the 
 This vision has inspired researchers to incorporate thinking about underlying computational substrates into open-ended evolution theory and to consider how (or whether) available computational resources meaningfully constrain existing open-ended evolution models.
 For the time being, computational substrates for open-ended evolution limited purely by physical (or economic) concerns remain on the horizon, but indefinite scalability has already had concrete, and fruitful, impact on thinking around open-ended evolution.
 
-Although prevalent contemporary computational hardware (and the developer-facing software infrastructure that supports its use) lacks essential features necessary to achieve true indefinite scalability such as fault tolerance and purely relative addressing, many cores designed to support low-latency interconnects.
+Although prevalent contemporary computational hardware (and the developer-facing software infrastructure that supports its use) lacks essential features necessary to achieve true indefinite scalability such as fault tolerance and purely relative addressing, many cores are designed to support low-latency interconnects.
 These high-performance computing resources are increasingly accessible.
 Concern over indefinite scalability should not dissuade the design and implementation of open-ended evolution models that accommodate for the limitations of existing hardware and software infrastructure to make effective use of it.
-We highlight how log-time hardware interconnects might be exploited in practically scalable, but other model design or implementation tradeoffs may be relevant too (e.g., model dynamics or performance gains that rely on absolute instead of purely relative addressing).
+We highlight how log-time hardware interconnects might be exploited in practically scalable systems, but other model design or implementation tradeoffs may be relevant too (e.g., model dynamics or performance gains that rely on absolute instead of purely relative addressing).
 
 Realizing open-ended evolution models with truly vast computational substrates will require intermediate steps.
 Efforts to pursue practical scalability that wrings out contemporary, commercially-available hardware and software infrastructure, will accelerate progress toward realizing truly indefinitely scalable systems.
@@ -872,7 +872,7 @@ Incorporating simulation-level objects or physics in open-ended evolution models
 Automatic detection of emergent long-distance interactions across a computational mesh and dynamically re-routing signaling traffic to use hierarchical interconnects might also be possible.
 Open-ended evolution models could also be entirely designed around hierarchical interconnects instead of a space-filling computational mesh.
 
-At the core, from both the practical and indefinite standpoints, efforts to scale computational models of open-ended evolution, seek to realize the evolutionary generation of continually novel and increasingly complex artifacts.
+At the core, from both the practical and indefinite standpoints, efforts to scale computational models of open-ended evolution seek to realize the evolutionary generation of continually novel and increasingly complex artifacts.
 As we scale DISHTINY, we are interested in assembling metrics to quantify different aspects of complexity in the system such as organization [[Goldsby et al., 2012]](#goldsby2012task), structure, and function [[Goldsby et al., 2014]](#goldsby2014evolutionary).
 We believe that open-ended model systems built on contemporary distributed computational substrates will prove fruitful tools to investigate questions about how biological complexity relates to fitness, genetic drift over elapsed evolutionary time, mutational load, genetic recombination (sex and horizontal gene transfer), ecology, historical contingency, and key innovations.
 
@@ -917,9 +917,9 @@ Why do we consider mean node-to-node hops per connection?
 
 Although relativistic concerns do ultimately limit latency between spatially-distributed computational elements, with respect to contemporary hardware co-located at a single physical site at foreseeable scales, we expect node-to-node hops to represent an important bottleneck on system performance.
 
-At larger scales, consider the case where emergent connections are embodied via simulation state along the entire path of node-to-node hops traversed by the by the connection (along the line of axon wiring of biological neural networks).
+At larger scales, consider the case where emergent connections are embodied via simulation state along the entire path of node-to-node hops traversed by the connection (along the line of axon wiring of biological neural networks).
 If mean emergent connections per simulation element remain constant as the system scales, then mean node-to-node hops per connection relates to the amount of state required per node to represent connections that pass through it.
-(Specifically, if mean node-to-node hops per connection remains constant than the amount of state required per node remains constant.)
+(Specifically, if mean node-to-node hops per connection remains constant then the amount of state required per node remains constant.)
 
 Finally, the asymptotic analyses performed on mesh networks without long-distance hierarchical interconnects can be interpreted in terms of Euclidean distance.
 (Potentially of interest with respect to relativistic limitations.)
@@ -933,7 +933,7 @@ This was an independent replication of the initial experiment (performed as part
 [Footnote CAPON](#foot-capon){:id="foot-capon"}
 Consider all pairings of nodes in a graph.
 Now, construct a multiset of paths that, for each possible node pairing, contains the shortest path between those two nodes.
-Edge betweenness is the fraction of the paths in this mulitset that passes through a particular edge [[Lu and Zhang, 2013]](#Lu2013).
+Edge betweenness is the fraction of the paths in this multiset that passes through a particular edge [[Lu and Zhang, 2013]](#Lu2013).
 
 ## References
 

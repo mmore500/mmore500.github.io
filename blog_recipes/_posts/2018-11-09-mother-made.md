@@ -22,7 +22,7 @@ recipe:
   directions_markdown: |-
     1. In a mug, smoosh together milk and ice cream with the back of a spoon.
     2. Break crunchy bits into small pieces, mix into mug.
-    3. Garish with something sweet.
+    3. Garnish with something sweet.
 
   notes_markdown: |-
     It only counts if mom makes it.

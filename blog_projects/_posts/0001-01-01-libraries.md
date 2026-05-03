@@ -9,6 +9,6 @@ description: |
 
   Packaging and distribution of software multiplies the impact of research, both by opening the door to follow-on research within the scientific community and by facilitating direct real-world applications.
   However, realizing this goal requires special attention to organization, documentation, and reliability.
-  Many of my research projects are organized so to maximize contribution of general-purpose library software back to the community.
+  Many of my research projects are organized so as to maximize contribution of general-purpose library software back to the community.
   This usually involves adding software features to an existing project or publishing a standalone Python or C++ library.
 ---

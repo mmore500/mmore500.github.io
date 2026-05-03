@@ -23,7 +23,7 @@ abstract: |
   No coding will be required.
 supporting_materials: |
   - [example blog](https://mmore500.com/jekyll-class-blog/) [via GitHub Pages <i class="icon-github-1"></i>](https://github.com/)
-  - [example blog repository](https://hopth.ru/ct) [via GitHub <i class="icon-github-1"></i>](
+  - [example blog repository](https://hopth.ru/ct) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [slides](https://hopth.ru/cs) [via Google Slides](https://workspace.google.com/products/slides/)
   - [Teaching and Technology Collaborative](https://ttc.iss.lsa.umich.edu/ttc/)
   - [call for proposals](https://michigan.it.umich.edu/news/2024/01/31/call-for-proposals-enriching-scholarship-2024/)

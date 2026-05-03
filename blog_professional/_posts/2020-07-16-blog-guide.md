@@ -42,7 +42,7 @@ For the love of Git,
 ## Emoji
 
 Highly recommended!
-They're a great way to signal emotion :stuck_out_tongue_winking_eye: add add :sparkles: visual interest :sparkles:.
+They're a great way to signal emotion :stuck_out_tongue_winking_eye: and add :sparkles: visual interest :sparkles:.
 
 :information_source:
 Plus, did you know they're a super easy way to emulate the types of info or comment boxes you might find in nicely-formatted articles?
@@ -72,7 +72,7 @@ Here's [my favorite one](https://github.com/ikatyang/emoji-cheat-sheet).
 
 ## Effective Style and Tone
 
-Especially with blog posts, you have to go far out out your way earn top-to-bottom readership.
+Especially with blog posts, you have to go far out of your way to earn top-to-bottom readership.
 If your blog isn't skimmable or exceptionally engaging, much of your audience will click away after only a few seconds.
 
 * Keep sentences short.
@@ -280,7 +280,7 @@ I typically divide blog post assignment into the following series of cascading c
 * Make at least one pass for typos, grammar, and sentence flow.
 * Push to update the post’s pull request and update the label to “rough draft.”
 * :bangbang:
-  Again, the better the quality your of your draft, the better the quality of feedback you'll be able to solicit.
+  Again, the better the quality of your draft, the better the quality of feedback you'll be able to solicit.
 
 
 ### Peer review
@@ -306,7 +306,7 @@ I typically divide blog post assignment into the following series of cascading c
 In classroom scenarios, I've had good success having students store drafts of their projects as open pull requests on the repository for the class website.
 
 This can work well for drafts on a personal Jekyll blog, too.
-If you're looking to keep a draft copletely under wraps, though,
+If you're looking to keep a draft completely under wraps, though,
 1. open a private GitHub repo,
   * maybe `https://github.com/username/secret`
 2. add it as a remote (maybe called `secret`),
@@ -402,7 +402,7 @@ As [@uma-sethuraman](https://github.com/uma-sethuraman) figured out, you can act
 :warning:
 *This section is mostly relevant to DevoLab undergrads who want to post on the lab blog.*
 
-Sometimes, you'll have walk into ~Mordor~ Wordpress.
+Sometimes, you'll have to walk into ~Mordor~ Wordpress.
 Fortunately, there's a secret way to blog on WordPress without actually having to blog on Wordpress!
 
 1. Browse to your rendered Jekyll blog post.
@@ -417,7 +417,7 @@ Fortunately, there's a secret way to blog on WordPress without actually having t
 6. Start a new post.
   ![wordpress admin screen](/resources/blog-guide-add-new.png){:width="100%"}
 7. Select "custom html" and paste in your copied html.
-8. You can also a notice to the top do refer traffic back to the original source.
+8. You can also add a notice to the top to refer traffic back to the original source.
   ```html
   This material is cross-posted from my personal blog.
   You can find the original version <a href="TODO">here</a>.
@@ -434,7 +434,7 @@ Fortunately, there's a secret way to blog on WordPress without actually having t
 Consider creating a listing of links to blog posts you've written for other outlets.
 You can host on the landing page for your own blog!
 
-Mentors: why not add a section to your own blog or professional site where you list your mentees blog posts?
+Mentors: why not add a section to your own blog or professional site where you list your mentees' blog posts?
 
 ## Comment or Social Section
 
@@ -444,7 +444,7 @@ I've found that embedding a tweet about the blog post can serve a similar functi
 Plus, it's an easy way to plug your twitter!
 
 If you have any questions, comments, etc., about *this* post, hop on the twitter thread right below so we can chat.
-Asking a few questions is good for prmopting engagement, so... how have you incorporated Jekyll and/or GitHub into your classroom?
+Asking a few questions is good for prompting engagement, so... how have you incorporated Jekyll and/or GitHub into your classroom?
 What's worked well and what hasn't?
 I'm actually curious to hear more about others' experience with these tools.
 
@@ -468,7 +468,7 @@ For papers and other more formal resources, you'll want to use inline citations 
 
 Try your very best to formally cite the software you use, too.
 This might be a corresponding paper or a DOI that has been set up for the software itself via a service like [Zenodo](https://zenodo.org/).
-Citing software very important for the researchers who take the time to package up and distribute software for the community.
+Citing software is very important for the researchers who take the time to package up and distribute software for the community.
 Many projects will include information on how to cite them on their `README.md`.
 Take ten minutes to make a pass through your project's dependencies and check if each piece of software has a citation you can use.
 

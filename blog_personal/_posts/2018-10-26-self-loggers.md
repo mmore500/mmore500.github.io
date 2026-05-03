@@ -24,7 +24,7 @@ Plus, I hope *anticipating* performing a reflection on my own challenges and gro
 I'm a big believer in the utility of [narrative reflection](http://devolab.org/reflections-on-my-first-semester-at-macdonald-middle-school/).
 (Shout-out to [the CWLT](https://pugetsound.edu/cwlt)!)
 Sitting down to write a paragraph about pretty much anything can make you discover *something* meaningful about it you didn't know before.
-Usually, I start hacking out a reflection like "Sure... that's bit of a reach... whatever" but then this weird thing happens where, a few minutes or months later, I actually believe whatever I came up with.
+Usually, I start hacking out a reflection like "Sure... that's a bit of a reach... whatever" but then this weird thing happens where, a few minutes or months later, I actually believe whatever I came up with.
 
 I anticipate that baking data into a narrative reflection will yield an even more compelling story, lending engaging detail and perhaps even pointing my thinking in directions I wouldn't have considered otherwise.
 I'm inspired by the stories [Kazuo Yano](http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Keynotes) and [Steven Wolfram](https://www.glassdoor.com/Reviews/Wolfram-Research-Reviews-E14501.htm) have told, respectively, via nifty [wrist-accelerometer data](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.497.4009) and  [phone/email/keylogger/more data](http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/).
@@ -70,15 +70,15 @@ sudo make install
 
 See the [logkeys `INSTALL` documentation](https://github.com/kernc/logkeys/blob/master/INSTALL) for details/prerequisites.
 
-As inevitable in [software install sagas](https://xkcd.com/1742/), another misfortune befalls us: logkeys keyboard multiplexing seems to require availability of all the keyboards you want to to capture from at logkeys startup.
+As inevitable in [software install sagas](https://xkcd.com/1742/), another misfortune befalls us: logkeys keyboard multiplexing seems to require availability of all the keyboards you want to capture from at logkeys startup.
 That means, when we plug in or unplug an external keyboard, we need to re-launch `logkeys` in order to ensure correct logging.
-(Otherwise, logkeys will completely ignore input from an external keyboard in the first case and incorrectly double-enter input from remaining keyboard in the other case).
+(Otherwise, logkeys will completely ignore input from an external keyboard in the first case and incorrectly double-enter input from the remaining keyboard in the other case).
 
 Ideally, we'd just hook logkeys restarts into keyboard plug-in/unplug events via `/etc/udev/rules.d/`.
 Unfortunately, I found that hooking logkeys launch into keyboard plug-in events somehow interfered with keyboard set-up, making the external keyboard not work at all.
 I have no idea why.
 
-After an hour or two of whack-a-mole trial and error, I settled on a workable (although not totally idea) solution:
+After an hour or two of whack-a-mole trial and error, I settled on a workable (although not totally ideal) solution:
 1. having a keyboard connect/disconnect event kill the currently running logkeys process
 2. using crontab to *attempt* logkeys launch every few seconds (if logkeys is currently running, no action is taken)
 
@@ -174,7 +174,7 @@ Here's the relevant addition to my `/etc/crontab`.
 
 ### Logkeys Keymap
 
-I run [elemenary OS](https://elementary.io/) on a [Lenovo Thinkpad Carbon](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-5th-Gen/p/22TP2TXX15G).
+I run [elementary OS](https://elementary.io/) on a [Lenovo Thinkpad Carbon](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-5th-Gen/p/22TP2TXX15G).
 In order to get correct key log output, I had to define a custom keymap.
 
 If you're lucky, you might not have to worry about this detail, either!
@@ -189,7 +189,7 @@ Now, peek into the key log.
 sudo tail /var/log/logkeys.log --follow
 ~~~
 
-Then, systematically push every single button on your keyboard keep an eye on the key log.
+Then, systematically push every single button on your keyboard and keep an eye on the key log.
 Does what's showing up in the log match what you're pressing?
 If so, great.
 If not, you'll need to create a custom keymap.
@@ -229,7 +229,7 @@ On the flip side of the coin, recording everything you ever type might be useful
 
 ## Keyboard Connect/Disconnect Logger
 
-Hooking into keyboard connect/disconnect events to make `logkeys` work, I realized that they keyboard connect/disconnect events might tell an interesting story in and of themselves.
+Hooking into keyboard connect/disconnect events to make `logkeys` work, I realized that the keyboard connect/disconnect events might tell an interesting story in and of themselves.
 If my keyboard is plugged in, that's a pretty good sign I'm working at my desk.
 Otherwise, I'm probably enjoying a bespoke espresso at my favorite upscale coffee shop.
 (Hahahahaha, no, I'm working in bed.)
@@ -283,14 +283,13 @@ In what order over time did a document/codebase come together?
 [[Source]](http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/)
 
 If you use a version control system like [git](https://git-scm.com/), you should already be collecting the information you need to answer a question like this!
-5
 Your commit history can tell a story about yourself, too, not just your projects.
 GitHub already stitches together your commit pattern across projects to make neat annual visualizations.
 
 ![](https://osf.io/4dn2q/download){:width="100%"}
 
 I can see time off for winter break and a few deadlines on this one from 2018.
-In contrast, my advisor maintains a [very impressive (terrifying?) 365/365 record](https://github.com/mercere99)
+In contrast, my advisor maintains a [very impressive (terrifying?) 365/365 record](https://github.com/mercere99).
 You can find yours on your Github profile.
 
 ## Calendar
@@ -309,7 +308,7 @@ I [cull and archive my RAW files](https://mmore500.github.io/2018/01/22/my-photo
 
 ## Fitness Trackers
 
-I use a [Garmin Vivosmart 3](https://www.amazon.com/gp/product/B07BH3XN3T/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1), which was cheap has a decent sensor suite.
+I use a [Garmin Vivosmart 3](https://www.amazon.com/gp/product/B07BH3XN3T/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1), which was cheap and has a decent sensor suite.
 My wristband has a heart rate sensor, accelerometer, and altimeter.
 There's no GPS, which is fine by me for the longer battery life.
 
@@ -317,15 +316,15 @@ The major point I was dis-satisfied about from all wearable device trackers is d
 If I can't open the data myself in Pandas, does it really matter that it exists?
 I originally got a Garmin device because it looked like I would have the best chance of being able to scoop the raw data files of the device myself and bypass the (ubiquitously opaque) cloud services wearable vendors provide.
 
-Thanks to [GDPR](https://forums.garmin.com/forum/into-sports/garmin-connect/feature-requests/1343456-download-of-all-health-data-as-required-under-gdpr), it looks like there's an better option: let Garmin perform automatic syncs and store the raw data files in its cloud, then pull the raw data down in full when I'm ready to play with it.
+Thanks to [GDPR](https://forums.garmin.com/forum/into-sports/garmin-connect/feature-requests/1343456-download-of-all-health-data-as-required-under-gdpr), it looks like there's a better option: let Garmin perform automatic syncs and store the raw data files in its cloud, then pull the raw data down in full when I'm ready to play with it.
 Maybe being [spammed for months on end](https://xkcd.com/1998/) earlier this year was worth something, after all!
 
-The Garmin GDPR complance isn't actually baked into their [main interface](https://connect.garmin.com/modern/).
+The Garmin GDPR compliance isn't actually baked into their [main interface](https://connect.garmin.com/modern/).
 You find it through their ["account manager"](https://www.garmin.com/en-US/account/profile/).
 You have to request a data export and then wait while they prepare it.
 Garmin claims you should expect to wait two days (and perhaps up to 31 days, in the worst case), but the data's been prepared for me within a few minutes when I've requested it.
 
-Garmin's bundles raw data in a difficult-to-parse format called `.fit`, but that's a trade-off I'm willing to make in exchange for Garmin curating, hosting, and making what comes off the device directly available to me (albeit, as a compliance measure, but still).
+Garmin bundles raw data in a difficult-to-parse format called `.fit`, but that's a trade-off I'm willing to make in exchange for Garmin curating, hosting, and making what comes off the device directly available to me (albeit, as a compliance measure, but still).
 
 The `.fit` situation is not as bad as it could be.
 The file format specifications and some developer tools, including a tool to convert `.fit` to `.csv`, are [available freely](https://www.thisisant.com/resources/fit/).
@@ -342,7 +341,7 @@ Also in the GDPR dump, a nice JSON file that seems to summarize sleep informatio
 
 <script src="https://gist.github.com/mmore500/4ce2d45bba21bb0eeb46eeb7af02c81c.js"></script>
 
-So, my post-hoc rationalization for using a Garmin device is that the company is reasonably [likely to exist in a few years years](https://finance.yahoo.com/quote/FIT/chart?p=FIT#eyJpbnRlcnZhbCI6IndlZWsiLCJwZXJpb2RpY2l0eSI6MSwiY2FuZGxlV2lkdGgiOjYuNDg1NzE0Mjg1NzE0Mjg2LCJ2b2x1bWVVbmRlcmxheSI6dHJ1ZSwiYWRqIjp0cnVlLCJjcm9zc2hhaXIiOnRydWUsImNoYXJ0VHlwZSI6ImxpbmUiLCJleHRlbmRlZCI6ZmFsc2UsIm1hcmtldFNlc3Npb25zIjp7fSwiYWdncmVnYXRpb25UeXBlIjoib2hsYyIsImNoYXJ0U2NhbGUiOiJsaW5lYXIiLCJwYW5lbHMiOnsiY2hhcnQiOnsicGVyY2VudCI6MSwiZGlzcGxheSI6IkZJVCIsImNoYXJ0TmFtZSI6ImNoYXJ0IiwidG9wIjowfX0sInNldFNwYW4iOnsiYmFzZSI6ImFsbCIsIm11bHRpcGxpZXIiOjF9LCJsaW5lV2lkdGgiOjIsInN0cmlwZWRCYWNrZ3JvdWQiOnRydWUsImV2ZW50cyI6dHJ1ZSwiY29sb3IiOiIjMDA4MWYyIiwiZXZlbnRNYXAiOnsiY29ycG9yYXRlIjp7ImRpdnMiOnRydWUsInNwbGl0cyI6dHJ1ZX0sInNpZ0RldiI6e319LCJjdXN0b21SYW5nZSI6bnVsbCwic3ltYm9scyI6W3sic3ltYm9sIjoiRklUIiwic3ltYm9sT2JqZWN0Ijp7InN5bWJvbCI6IkZJVCJ9LCJwZXJpb2RpY2l0eSI6MSwiaW50ZXJ2YWwiOiJ3ZWVrIiwidGltZVVuaXQiOm51bGwsInNldFNwYW4iOnsiYmFzZSI6ImFsbCIsIm11bHRpcGxpZXIiOjF9fV0sInRpbWVVbml0IjpudWxsLCJzdHVkaWVzIjp7InZvbCB1bmRyIjp7InR5cGUiOiJ2b2wgdW5kciIsImlucHV0cyI6eyJpZCI6InZvbCB1bmRyIiwiZGlzcGxheSI6InZvbCB1bmRyIn0sIm91dHB1dHMiOnsiVXAgVm9sdW1lIjoiIzAwYjA2MSIsIkRvd24gVm9sdW1lIjoiI0ZGMzMzQSJ9LCJwYW5lbCI6ImNoYXJ0IiwicGFyYW1ldGVycyI6eyJ3aWR0aEZhY3RvciI6MC40NSwiY2hhcnROYW1lIjoiY2hhcnQifX19fQ%3D%3D) and, unexpectedly provides access to raw `.fit` files, which are decently well-documented due to GDPR, which probably isn't going away soon.
+So, my post-hoc rationalization for using a Garmin device is that the company is reasonably [likely to exist in a few years](https://finance.yahoo.com/quote/FIT/chart?p=FIT#eyJpbnRlcnZhbCI6IndlZWsiLCJwZXJpb2RpY2l0eSI6MSwiY2FuZGxlV2lkdGgiOjYuNDg1NzE0Mjg1NzE0Mjg2LCJ2b2x1bWVVbmRlcmxheSI6dHJ1ZSwiYWRqIjp0cnVlLCJjcm9zc2hhaXIiOnRydWUsImNoYXJ0VHlwZSI6ImxpbmUiLCJleHRlbmRlZCI6ZmFsc2UsIm1hcmtldFNlc3Npb25zIjp7fSwiYWdncmVnYXRpb25UeXBlIjoib2hsYyIsImNoYXJ0U2NhbGUiOiJsaW5lYXIiLCJwYW5lbHMiOnsiY2hhcnQiOnsicGVyY2VudCI6MSwiZGlzcGxheSI6IkZJVCIsImNoYXJ0TmFtZSI6ImNoYXJ0IiwidG9wIjowfX0sInNldFNwYW4iOnsiYmFzZSI6ImFsbCIsIm11bHRpcGxpZXIiOjF9LCJsaW5lV2lkdGgiOjIsInN0cmlwZWRCYWNrZ3JvdWQiOnRydWUsImV2ZW50cyI6dHJ1ZSwiY29sb3IiOiIjMDA4MWYyIiwiZXZlbnRNYXAiOnsiY29ycG9yYXRlIjp7ImRpdnMiOnRydWUsInNwbGl0cyI6dHJ1ZX0sInNpZ0RldiI6e319LCJjdXN0b21SYW5nZSI6bnVsbCwic3ltYm9scyI6W3sic3ltYm9sIjoiRklUIiwic3ltYm9sT2JqZWN0Ijp7InN5bWJvbCI6IkZJVCJ9LCJwZXJpb2RpY2l0eSI6MSwiaW50ZXJ2YWwiOiJ3ZWVrIiwidGltZVVuaXQiOm51bGwsInNldFNwYW4iOnsiYmFzZSI6ImFsbCIsIm11bHRpcGxpZXIiOjF9fV0sInRpbWVVbml0IjpudWxsLCJzdHVkaWVzIjp7InZvbCB1bmRyIjp7InR5cGUiOiJ2b2wgdW5kciIsImlucHV0cyI6eyJpZCI6InZvbCB1bmRyIiwiZGlzcGxheSI6InZvbCB1bmRyIn0sIm91dHB1dHMiOnsiVXAgVm9sdW1lIjoiIzAwYjA2MSIsIkRvd24gVm9sdW1lIjoiI0ZGMzMzQSJ9LCJwYW5lbCI6ImNoYXJ0IiwicGFyYW1ldGVycyI6eyJ3aWR0aEZhY3RvciI6MC40NSwiY2hhcnROYW1lIjoiY2hhcnQifX19fQ%3D%3D) and, unexpectedly provides access to raw `.fit` files, which are decently well-documented due to GDPR, which probably isn't going away soon.
 That said, I went ahead and cached a copy of the [FIT SDK 20.76.00](https://osf.io/my2sk/), you know, just in case.
 
 ## Manual Biometrics Logging
