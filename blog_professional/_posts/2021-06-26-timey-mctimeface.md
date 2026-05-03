@@ -34,7 +34,7 @@ Because your PC's zoom connection is busy with Timey, you may have to join from 
 ## A Better Way?
 
 Looks like there's also a proper [Zoom app](https://marketplace.zoom.us/apps/3Jdbzv64QnKYAT911tlV9Q) available for this same type of thing.
-However, you need to have permission to install on your Zoom account to use it.
+However, you need to have install permissions on your Zoom account to use it.
 
 ## Let's Chat
 
