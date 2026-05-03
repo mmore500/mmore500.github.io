@@ -405,7 +405,7 @@ Indeed, in competition experiments against the wild-type strain this variant far
 We confirmed this result with a larger-scale set of competition trials (58/64 wild-type strain prevalent; 0 strain extinctions; one-tailed binomial test; $$p < 0.0001$$; 33 S.D. 2 cell gens elapsed).
 
 Does the adaptively non-uniform pattern of stimulation induced by over-interconnect messages depend on non-uniform dispatch of messages from sending cells?
-To assess, this question, we measured the per-cell frequency of module 5 activation in a monoculture wild-type population.
+To assess this question, we measured the per-cell frequency of module 5 activation in a monoculture wild-type population.
 We then created a variant strain where outgoing over-interconnect messages from module 5 were disabled.
 Instead, the over-interconnect message instruction was randomly executed with uniform per-cell probability based on the empirical wild-type execution rate.
 This variant strain held its own against the wild-type strain (5/16 wild-type strain prevalent; 0 strain extinctions; one-tailed binomial test; $$p = 0.9$$; 30 S.D 1 cell gens elapsed).
@@ -843,10 +843,10 @@ Ackley's concept of indefinite scalability lays out an ambitious vision for the 
 This vision has inspired researchers to incorporate thinking about underlying computational substrates into open-ended evolution theory and to consider how (or whether) available computational resources meaningfully constrain existing open-ended evolution models.
 For the time being, computational substrates for open-ended evolution limited purely by physical (or economic) concerns remain on the horizon, but indefinite scalability has already had concrete, and fruitful, impact on thinking around open-ended evolution.
 
-Although prevalent contemporary computational hardware (and the developer-facing software infrastructure that supports its use) lacks essential features necessary to achieve true indefinite scalability such as fault tolerance and purely relative addressing, many cores designed to support low-latency interconnects.
+Although prevalent contemporary computational hardware (and the developer-facing software infrastructure that supports its use) lacks essential features necessary to achieve true indefinite scalability such as fault tolerance and purely relative addressing, many cores are designed to support low-latency interconnects.
 These high-performance computing resources are increasingly accessible.
 Concern over indefinite scalability should not dissuade the design and implementation of open-ended evolution models that accommodate for the limitations of existing hardware and software infrastructure to make effective use of it.
-We highlight how log-time hardware interconnects might be exploited in practically scalable, but other model design or implementation tradeoffs may be relevant too (e.g., model dynamics or performance gains that rely on absolute instead of purely relative addressing).
+We highlight how log-time hardware interconnects might be exploited in practically scalable systems, but other model design or implementation tradeoffs may be relevant too (e.g., model dynamics or performance gains that rely on absolute instead of purely relative addressing).
 
 Realizing open-ended evolution models with truly vast computational substrates will require intermediate steps.
 Efforts to pursue practical scalability that wrings out contemporary, commercially-available hardware and software infrastructure, will accelerate progress toward realizing truly indefinitely scalable systems.
@@ -872,7 +872,7 @@ Incorporating simulation-level objects or physics in open-ended evolution models
 Automatic detection of emergent long-distance interactions across a computational mesh and dynamically re-routing signaling traffic to use hierarchical interconnects might also be possible.
 Open-ended evolution models could also be entirely designed around hierarchical interconnects instead of a space-filling computational mesh.
 
-At the core, from both the practical and indefinite standpoints, efforts to scale computational models of open-ended evolution, seek to realize the evolutionary generation of continually novel and increasingly complex artifacts.
+At the core, from both the practical and indefinite standpoints, efforts to scale computational models of open-ended evolution seek to realize the evolutionary generation of continually novel and increasingly complex artifacts.
 As we scale DISHTINY, we are interested in assembling metrics to quantify different aspects of complexity in the system such as organization [[Goldsby et al., 2012]](#goldsby2012task), structure, and function [[Goldsby et al., 2014]](#goldsby2014evolutionary).
 We believe that open-ended model systems built on contemporary distributed computational substrates will prove fruitful tools to investigate questions about how biological complexity relates to fitness, genetic drift over elapsed evolutionary time, mutational load, genetic recombination (sex and horizontal gene transfer), ecology, historical contingency, and key innovations.
 

@@ -20,7 +20,7 @@ As an undergraduate, I had an entirely different --- perhaps entirely opposite -
 Falling asleep was easy...
 often easier, in fact, than *not* falling asleep.
 My undergraduate sleep habits were an artifact of over-scheduling.
-Some of the worst of it, I remember was having the score for the opera *Le comte Ory* unexpectedly thrust onto my music stand.
+Some of the worst of it, I remember, was having the score for the opera *Le comte Ory* unexpectedly thrust onto my music stand.
 (I was obliged by an oboe scholarship.)
 We met for up to *five hour* pit orchestra rehearsals that were scheduled through 11 p.m. (!!!), after which I would leave to *start* my other homework.
 
@@ -324,7 +324,7 @@ Rebalancing the color composition of your screens, especially at night, might he
 Back when I had a mac, I used [f.lux](https://justgetflux.com/).
 Now I use [Redshift](http://jonls.dk/redshift/), which had better support for Linux the last time I checked.
 
-In the last few years, screen blue light management on screens has gone increasingly mainstream.
+In the last few years, blue light management on screens has gone increasingly mainstream.
 Apple now natively supports it on their iOS and OS X devices under the moniker "Night Shift."
 Other systems I'm less familiar with (windows, android, etc.) probably support blue light adjustments, too.
 
@@ -349,7 +349,7 @@ When melatonin doesn't cut it and I'm still awake after half an hour or an hour,
 These *definitely* make me feel groggy.
 Based on how I feel the next day, I suspect that these pills reduce the quality of my sleep.
 In particular, it can feel more difficult to break through [sleep inertia](https://en.wikipedia.org/wiki/Sleep_inertia) and get out of bed.
-In my calculation, though, that beats tossing and turning through 5 a.m. (followed, of course) by several days of sleep schedule anarchy.
+In my calculation, though, that beats tossing and turning through 5 a.m. (followed, of course, by several days of sleep schedule anarchy).
 Lately, I've only been using these every week or two.
 
 ## Caffeine

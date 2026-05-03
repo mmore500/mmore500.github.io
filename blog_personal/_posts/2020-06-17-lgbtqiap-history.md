@@ -13,7 +13,7 @@ It was settled.
 I had been peripherally aware of, but never particularly familiar with, political movements agitating for LGBTQIAP liberation.
 Like most everyone else in high school, I was in the bleachers when the Gay-Straight Alliance made announcements during assemblies.
 I heard about passing LGBTQIAP controversies and caught snippets of interviews with activists the same as everyone else when they occasionally rotated through the news cycle.
-But, laying there with society fundamentally altered basically having done nothing but roll over and adjust my pillow, I began to realize gears in society outside of my range of sight were turning --- and had already been grinding along for a long time.
+But, lying there with society fundamentally altered basically having done nothing but roll over and adjust my pillow, I began to realize gears in society outside of my range of sight were turning --- and had already been grinding along for a long time.
 
 Soon after, I got tapped on the shoulder by an older gentleman in a salmon v-neck t-shirt.
 My partner and I were walking across the Tacoma Mall, not too far from the infamous Pokemon vending machine.
@@ -31,7 +31,7 @@ I also knew next to nothing of LGBTQIAP cultural and political history.
 
 ## Fish Out of Water
 
-To the extent that LGBTQIAP history is learned, I suspect that haphazardly and informally rank highly among pertinent adjectives.
+To the extent that LGBTQIAP history is learned, I suspect that haphazard and informal rank highly among pertinent adjectives.
 (In part, the reason I wrote all this.)
 
 I grew up in a [liberal-ass town](https://getmortified.com/episode/20-lizzy-my-semester-in-south-africa/)

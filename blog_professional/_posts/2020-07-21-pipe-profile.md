@@ -17,7 +17,7 @@ With more complex agents controlled by genetic programs, neural networks, or the
 ## Putting Scale in Perspective
 
 Take Avida as an example.
-This popular software system that enables experiments with evolving self-replicating computer programs.
+This is a popular software system that enables experiments with evolving self-replicating computer programs.
 In this system, a population of ten thousand can undergo about twenty thousand generations per day.
 This means that about two hundred million replication cycles are performed in a day [[Ofria et al., 2009]](#ofria2009avida).
 

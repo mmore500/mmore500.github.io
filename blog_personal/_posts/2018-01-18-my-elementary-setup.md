@@ -151,8 +151,8 @@ Note that you might need superuser permissions to remove files under the `/usr` 
 ## Block Distracting Websites
 
 One of my friends works at a municipal library in small-town middle America.
-On her performance review, anonymous coworker told her that she needed to cool her jets because she was making everyone else look bad.
-According to this coworker, "Just because we have Facebook open our computers most of the time doesn't mean we're not as good as you.
+On her performance review, an anonymous coworker told her that she needed to cool her jets because she was making everyone else look bad.
+According to this coworker, "Just because we have Facebook open on our computers most of the time doesn't mean we're not as good as you.
 We just work differently."
 
 Don't be my friend's anonymous passive-aggressive colleague.

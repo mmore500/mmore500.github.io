@@ -389,7 +389,7 @@ For the small grid size problem, the depo selector significantly outperformed th
 *Dashed lines indicate fitness score that could be achieved if each agent outputted its own sensor value.*
 *Error bars represent 95% confidence intervals.*
 
-For the small grid size problem, the depo selector significantly outperformed the ranked and sieve selectors at the 22% problem difficulty tier (Kruskal-Wallis H-tests; h=3.90, p=0.048;  h=4.97, p=0.026).
+For the big grid size problem, the depo selector significantly outperformed the ranked and sieve selectors at the 22% problem difficulty tier (Kruskal-Wallis H-tests; h=3.90, p=0.048;  h=4.97, p=0.026).
 
 ### Perfect Solution Frequencies
 

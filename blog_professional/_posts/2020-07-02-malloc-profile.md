@@ -13,7 +13,7 @@ This week I'm profiling the scalability of the [DISHTINY](http://mmore500.com/di
 That way, I'll be able to figure out where to focus development attention to improve scalability.
 
 As a first stab, I decided to investigate custom memory allocators designed for multithreading.
-These allocators promise better thread locality and false sharing.
+These allocators promise better thread locality and reduced false sharing.
 I figured that if I was able to see a big performance boost on high thread counts using a custom memory allocator then looking more closely at how DISHTINY organizes data in memory might be more worthwhile.
 
 ## Custom Memory Allocators

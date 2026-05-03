@@ -108,7 +108,7 @@ These range from nearly identical...
 
 ... through similar, but not quite the same...
 
-* [tape the bag a filter instead of a lens hood](https://www.youtube.com/watch?v=i8AuGNke12k)
+* [tape the bag to a filter instead of a lens hood](https://www.youtube.com/watch?v=i8AuGNke12k)
 * [cut a hole and attach a bag with a rubber band on an as-needed basis](https://www.youtube.com/watch?v=iQ1d4bmzXK0)
 * [re-purpose rain trousers, attach to lens hood with velcro](https://www.diyphotography.net/protect-your-camera-from-rain-using-an-old-pair-of-rain-trousers/)
 * [purpose-built disposable cinch-cord rain sleeves](https://www.amazon.com/OP-TECH-USA-9001132-Rainsleeve/dp/B000PTFDYO)
@@ -167,7 +167,7 @@ Buying these cheap (with 1 month shipping) saves a ton relative to trying to pic
 You'll want to trace the lens hood circumference onto the very bottom of your kitchen bag (e.g., where the flat face of the front folds over to become the flat face of the back).
 Trace on the left side (so there's room to the right for the camera body) and with the label facing *down* (that way it won't be *on top* of the camera, blocking the viewfinder and/or screen).
 
-I've tried this two ways: holding the hood inside the plastic bag and then tracing over it and placing the hood on the plastic bag then.
+I've tried this two ways: holding the hood inside the plastic bag and then tracing over it, and placing the hood on the plastic bag and tracing it.
 I found that putting lens hood inside the bag to trace it was a little less fiddly than trying to flatten out the end of the bag, placing the hood over it, and then tracing the lens hood directly.
 
 If you're a habitual tripod person, perhaps consider putting the hole along one of the flat sides of the kitchen bag instead of the bottom.

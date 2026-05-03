@@ -46,7 +46,7 @@ recipe:
     4. simmer until thickened, about 2 min.
     5. whisk in remaining cream, nutmeg, and 1/2 cup of mushroom filling
     6. simmer over low heat about 7 min.
-    7. puree in food processor and blender
+    7. puree in food processor or blender
     8. return sauce to pan and keep warm
 
     ## make crepes:

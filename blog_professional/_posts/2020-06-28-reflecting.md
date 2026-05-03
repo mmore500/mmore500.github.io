@@ -318,7 +318,7 @@ Many of the poorly-judged comments I've related here appear to have materialized
 2. Tell the person who offended you that you're upset and give them a chance to apologize.
   * You can do this electronically.
   * It might make *both* of you feel better about the situation.
-4. Consider sharing what happened.
+3. Consider sharing what happened.
   * It will likely validate your experience and perhaps give others a chance to share their own experiences.
   * A heads-up will help you and co-workers watch out for each other.
   * You don't have to share exactly what happened and/or who was involved.

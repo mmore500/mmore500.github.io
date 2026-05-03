@@ -27,7 +27,7 @@ Sounded like a fun weekend to me.
 
 ## Scrape Some Data
 
-The first step, of course, was scraping [@Mottl](https://github.com/Mottl)'s [GetOldTweets3](https://github.com/Mottl/GetOldTweets3) tool made this pretty easy --- no API key required.
+The first step, of course, was scraping. [@Mottl](https://github.com/Mottl)'s [GetOldTweets3](https://github.com/Mottl/GetOldTweets3) tool made this pretty easy --- no API key required.
 
 Then I just ran a quick python script to make a training data set out of the scraped data.
 

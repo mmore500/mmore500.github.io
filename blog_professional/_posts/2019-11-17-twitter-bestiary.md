@@ -544,7 +544,7 @@ Puns are timeless, and they will never go out of style.
 Lists
 1. are great, and
 2. almost anything can be reimagined as a list.
-4. Bonus points for twist endings.
+3. Bonus points for twist endings.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hottest programming skills in 2018:<br>5. Fixing git merge conflicts<br>4. Correctly mapping ports in Docker containers to host machines<br>3. Getting info from AWS documentation<br>2. Pulling summary stats from a data stream<br>1. Turning any of the above into a conference talk about AI</p>&mdash; Vicki Boykis (@vboykis) <a href="https://twitter.com/vboykis/status/1049626212329549824?ref_src=twsrc%5Etfw">October 9, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
