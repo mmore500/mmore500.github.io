@@ -247,7 +247,7 @@ Nevertheless, hope springs eternal...
 ## Bonus: `.bash_profile`
 
 Nate Landau's `.bash_profile`: kick-ass.
-There are all kinds of little gems in there that will make you so happy and productive at the terminal.
+There are all kinds of little gems in there that will make you such happy and much productive at the terminal.
 Read his [blog post](https://natelandau.com/my-mac-osx-bash_profile/) about it or just skip over to [the main attraction](https://gist.github.com/natelandau/10654137).
 Highly recommended.
 To use Nate's `.bash_profile` magic, paste the content into your `~/.bash_profile`.
