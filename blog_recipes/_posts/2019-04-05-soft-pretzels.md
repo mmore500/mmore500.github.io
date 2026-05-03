@@ -38,10 +38,11 @@ recipe:
     ## shape pretzels:
     1. preheat oven and boil water with baking soda
     2. line a baking sheet with parchment paper
-    3. place dough onto lightly floured surface
-    4. divide dough into 12 equal parts
-    5. roll each piece into a thin rope
-    6. lay in a U-shape, cross ends over each other and press into the bottom of the U
+    3. boil water with baking soda
+    4. place dough onto lightly floured surface
+    5. divide dough into 12 equal parts
+    6. roll each piece into a thin rope
+    7. lay in a U-shape, cross ends over each other and press into the bottom of the U
 
     ## boil and bake:
     1. one by one, place pretzels into the boiling water for 30 seconds each then place onto baking sheet
