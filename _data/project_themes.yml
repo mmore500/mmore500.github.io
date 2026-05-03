@@ -12,7 +12,7 @@
 
     Unlike most existing applications of distributed computing in digital evolution, open-ended evolution researchers must prioritize dynamic interactions among distributed simulation elements.
     Ecologies, co-evolutionary dynamics, and social behavior all necessitate such dynamic interactions.
-    The question of how to design artificial life simulations and engineer artifical life software at scale will be paramount for the field.
+    The question of how to design artificial life simulations and engineer artificial life software at scale will be paramount for the field.
 - title: "Building Accessible, Extendable, and Maintainable Artificial Life Research Software"
   slug: "software"
   description: |
@@ -22,12 +22,12 @@
     Open source software supercharges the rate of scientific progress and the applied praxis of those advances.
     Interdisciplinary fields like artificial life, which thrive due to contributions from those without formal training in computing such as biologists and mathematicians, especially benefit from published applications and software packages.
 
-    Open source devleopment of research software holds core priority within my work, with particular emphasis on maximizing its broader usefullness to the broader community outside of its original context.
-    Teaching and mentorship also constitues a core aspect of this work, empowering researchers with development capabilities and promoting best practices in the community.
-    I led the 2020 and 2021 Workshop for Avida-ED Software Development, which paired 27 early-career participants mentored 10 week hands-on projects, most related to writing, testing, and documenting software.
+    Open source development of research software holds core priority within my work, with particular emphasis on maximizing its broader usefulness to the broader community outside of its original context.
+    Teaching and mentorship also constitutes a core aspect of this work, empowering researchers with development capabilities and promoting best practices in the community.
+    I led the 2020 and 2021 Workshop for Avida-ED Software Development, which paired 27 early-career participants with mentored 10-week hands-on projects, most related to writing, testing, and documenting software.
     I have also mentored five undergraduates on scientific software development projects.
 
-- title: "Unverstainding Evolvability and Improving It in Digital Evolution Systems"
+- title: "Understanding Evolvability and Improving It in Digital Evolution Systems"
   slug: "evolvability"
   description: |
     ![evolvability signatures from developmental genotype-phenotype map models](/resources/cover-evolvability.png){:width="100%"}{:height="200px"}{:style="object-fit:cover; object-position:top;"}
@@ -35,7 +35,7 @@
 
     Successful evolutionary search depends on the production of meaningful phenotypic variation that can be inherited by offspring.
     Without useful heritable variation evolution stagnates.
-    The concept of evolvability describes a population's capacity to generate useful heritable phenotypic variation is  of evolvability.
+    The concept of evolvability describes a population's capacity to generate useful heritable phenotypic variation.
     Different evolving systems can exhibit different degrees of evolvability.
 
     Natural systems, in particular, are usually considered to have a capability to continuously generate interesting variation compared to computational

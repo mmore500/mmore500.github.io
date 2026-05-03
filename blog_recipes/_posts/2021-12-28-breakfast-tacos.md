@@ -12,7 +12,7 @@ recipe:
   ingredients_markdown: |-
     ## "Bacon" Chickpeas
     * 15 oz. chickpeas, drained (1 can)
-    * 1 tbsp. oive oil
+    * 1 tbsp. olive oil
     * 1 tbsp. soy sauce
     * 2 tsp. hot sauce
     * 1 tsp. maple syrup
@@ -29,7 +29,7 @@ recipe:
     * 12 oz. firm tofu (1 package)
     * 1/4 cup nutritional yeast
     * 2 tbsp. plain hummus
-    * 1/4 tsp. tumeric
+    * 1/4 tsp. turmeric
     * pinch of salt
     * pinch of pepper
     

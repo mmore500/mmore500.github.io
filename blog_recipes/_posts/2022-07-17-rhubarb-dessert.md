@@ -34,7 +34,7 @@ recipe:
     7. use spatula to create dollops
     8. bake until meringue browns slightly at dollop tips
   notes_markdown: |-
-    Can sprinkle merengue with coconut before baking.
+    Can sprinkle meringue with coconut before baking.
     Original recipe has 1 tsp. salt and  1/2 tsp. baking powder in meringue.
     Mariah adds more sugar and butter to shortbread crust.
 ---

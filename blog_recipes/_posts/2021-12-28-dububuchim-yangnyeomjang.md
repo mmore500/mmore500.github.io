@@ -12,7 +12,7 @@ recipe:
   ingredients_markdown: |-
     ## Tofu Puffs
     * 375g firm tofu (1 pack)
-    * 2 tbsp. corn flour (rice or potato flour 
+    * 2 tbsp. corn flour (rice or potato flour)
     * 2 tbsp. sunflower oil
 
     ## Sauce

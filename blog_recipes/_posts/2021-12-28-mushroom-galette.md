@@ -25,7 +25,7 @@ recipe:
     * 1 clove garlic, minced
     * 1 bunch large Swiss chard, shredded with ribs and stems removed
     * 1 egg, beaten
-    * 1 cup mixed fresh herbs (parley, cilantro, dill, and/or chives)
+    * 1 cup mixed fresh herbs (parsley, cilantro, dill, and/or chives)
     * 1 tsp. grated lemon zest
     * 1 tsp. fresh lemon juice
     * salt
@@ -45,18 +45,18 @@ recipe:
     ## Galette
     1. heat 1 tbsp. oil in a large skillet over medium-high heat
     2. add mushrooms, salt, and pepper
-    3. cook until lighty browned and crisped (about 5 minutes), stirring occasionally
+    3. cook until lightly browned and crisped (about 5 minutes), stirring occasionally
     4. transfer mushrooms to a bowl
     5. heat 1 tbsp. oil in same skillet over medium heat
     6. cook garlic until fragrant (about 30 seconds), stirring frequently
     7. add half of chard, salt, and pepper
     8. toss and cook until slightly wilted
-    9. add remianing chard and cook, tossing occasionally until completely wilted (about 4 minutes)
-    10. remove from heat then season wth salt and pepper
+    9. add remaining chard and cook, tossing occasionally until completely wilted (about 4 minutes)
+    10. remove from heat then season with salt and pepper
     11. roll out dough on lightly floured parchment sheet, until 14 in. round and 1/8 in. thick
     12. place parchment with dough on baking sheet
     13. spread 3/4 of ricotta over dough, leaving 1 1/2 in. border
-    14. dollo remaining ricotta over vegetables
+    14. dollop remaining ricotta over vegetables
     15. bring edges of dough up over filling (overlapping as needed) to create 1 1/2 inch crust
     16. brush crust with egg
     17. bake until golden brown and cooked through (35 to 40 min.), rotating once

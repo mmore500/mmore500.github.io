@@ -4,14 +4,14 @@ title: "Profiling Foundations for Scalable Digital Evolution Methods"
 date: 2020-07-21
 ---
 
-Digital evolution techniques compliment traditional wet-lab evolution experiments by enabling researchers to address questions that would be otherwise limited by:
+Digital evolution techniques complement traditional wet-lab evolution experiments by enabling researchers to address questions that would be otherwise limited by:
 * reproduction rate (which determines the number of generations that can be observed in a set amount of time),
 * incomplete observations (every event in a digital system can be tracked),
-* physically-impossible experimental manipulations (every event in a digital system can can be arbitrarily altered), or
+* physically-impossible experimental manipulations (every event in a digital system can be arbitrarily altered), or
 * resource- and labor-intensity (digital experiments and assays can be easily automated).
 
 The versatility and rapid generational turnover of digital systems can easily engender a notion that such systems can already operate at scales greatly exceeding biological evolution experiments.
-Although digital evolution techniques can feasibly simulate populations numbering in the millions or billions, very simple agents and/or very limited agent-agent interaction.
+Although digital evolution techniques can feasibly simulate populations numbering in the millions or billions, doing so requires very simple agents and/or very limited agent-agent interaction.
 With more complex agents controlled by genetic programs, neural networks, or the like, feasible population sizes dwindle down to thousands or hundreds of agents.
 
 ## Putting Scale in Perspective
@@ -113,14 +113,14 @@ However, as shown in [Figure SOOIF](#fig-sooif), in the current implementation i
 *Schematic overview of `Inlet` function.*
 
 Likewise, receive operations from the `Outlet` are non-blocking.
-A receive operation returns the most-recently value received via the `Duct`.
+A receive operation returns the most recently received value via the `Duct`.
 
 ![outlet schematic](/resources/pipe-profile-outlet.png){:width="100%"}
 [**Figure SOOOF:**](#fig-soof){:id="fig-sooof"}
 *Schematic overview of `Outlet` function.*
 
-This software design aims to hide the complexity of wiring data heterogeneous computational elements.
-As shown in [Fiure AUIFC](#fig-auifc), the exact same interface --- `Inlet`s and `Outlet`s --- performs communication within threads, between threads, or between processes.
+This software design aims to hide the complexity of wiring data between heterogeneous computational elements.
+As shown in [Figure AUIFC](#fig-auifc), the exact same interface --- `Inlet`s and `Outlet`s --- performs communication within threads, between threads, or between processes.
 
 ![heterogeneouscommunication](/resources/pipe-profile-thread-proc.png){:width="100%"}
 [**Figure AUIFC:**](#fig-auifc){:id="fig-auifc"}
@@ -143,7 +143,7 @@ States are initialized randomly.
 ## Scaling Memory & Compute
 
 The amount of memory used per unit of computational work is crucial to the performance characteristics of software --- and varies widely between applications.
-Because our goal is to characterize the general scaling properties our asynchronous communication implementation, we need to test broadly across memory-to-compute ratios.
+Because our goal is to characterize the general scaling properties of our asynchronous communication implementation, we need to test broadly across memory-to-compute ratios.
 
 As shown in [Figure MPVCO](#fig-mpvco), there are two levers we can pull to increase the amount of computational work in our model system.
 1. We can increase the number of tiles in our one-dimensional grid.
@@ -181,7 +181,7 @@ We use these two levers to perform scaling experiments along six trajectories:
 ![scaling trajectories](/resources/pipe-profile-memory-compute.png){:width="100%"}
 [**Figure SSTIC:**](#fig-sstic){:id="fig-sstic"}
 *Six scaling trajectories in compute-memory space.
-Each trajectory is represented as a uniquely-colored a line.
+Each trajectory is represented as a uniquely-colored line.
 The bulb end indicates the end of the trajectory.*
 
 ## Single-Core Scaling

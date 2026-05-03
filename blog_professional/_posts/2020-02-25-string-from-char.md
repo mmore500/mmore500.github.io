@@ -86,7 +86,7 @@ Well, being a [Good C++ Dilettante](https://www.quora.com/Why-do-some-famous-pro
 Wow.
 Much [core guideline](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) ["ES.23: Prefer the `{}`-initializer syntax"](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#es23-prefer-the--initializer-syntax).
 Good job me.
-After a few months of using braces in place of parens without incident I slid into the alluring notion that they were *basically* close enought the same thing so I could just not think about using braces.
+After a few months of using braces in place of parens without incident I slid into the alluring notion that they were *basically* close enough to the same thing so I could just not think about using braces.
 
 But, as with all things C++, in ES.23 there is also a clearly documented...
 > **Exception**

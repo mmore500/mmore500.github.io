@@ -12,7 +12,7 @@ Maybe I'll actually stick to it this time.
 Characteristically, I spent too long fiddling with things that don't matter.
 In particular, I really tweaked out over git diff symbols in the gutter.
 
-I felt that the the default `+` and `-` symbols don't efficiently show the
+I felt that the default `+` and `-` symbols don't efficiently show the
 spatial structure of the diffs they represented.
 I addressed this by using full-width underscore elements for the deletion diffs (where the deleted lines are just below) and a mirrored L shape for the deletion plus modification diffs (representing changes to the focal line in addition to deletion below).
 
@@ -20,7 +20,7 @@ I also felt the diff symbols lacked visual weight necessary to make their color 
 I fixed this by prepending the diff symbols with a full-character box.
 
 Anyways, I spent long enough combing through the ASCII character set and playing
-with different options figured it might be worth a share.
+with different options that I figured it might be worth a share.
 Here's a screen grab example of the gutter diff symbols I eventually settled on in action.
 
 ![The gutter symbols in action.](/resources/vim-gitgutter-example.jpg){:width="100%"}

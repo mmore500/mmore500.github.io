@@ -10,9 +10,9 @@ This workshop will team up early-career participants with mentors to help build 
 So far, almost everything's been turning up roses.
 At least, the important things have: soliciting quality applications and thoughtful group discussion and decisions on admission.
 Behind the scenes, we've been racing to put all the pieces in place in time for our expected start date in two weeks, a build-the-plane-as-you-fly-it sort of situation.
-(We started planing the workshop only about a month ago, in part due to funding unexpectedly becoming available due to the ongoing situation with COVID-19.)
+(We started planning the workshop only about a month ago, in part due to funding unexpectedly becoming available due to the ongoing situation with COVID-19.)
 
-Lets go ahead and jump into what worked well and what we'd like to change up next time.
+Let's go ahead and jump into what worked well and what we'd like to change up next time.
 
 ## Soliciting Applications
 
@@ -36,8 +36,8 @@ As the workshop progresses, we are looking forward to using the workshop website
 Once we had the call for participants put together, we threw it out into the world!
 Instead of assigning a particular stakeholder to distribute (or manage distributing) the call for participants, we simply had everyone distribute it where they saw fit.
 Dr. Ofria and I shared the call for participants with the [Advanced C++ Seminar](http://mmore500.com/cse-491/) students we had last semester.
-Various stakeholders forwarded information to department secretaries and mentors at previous institutions and acquaintainces who managed email lists at MSU.
-(We prepared a condensed ASCII summary of our call for proposals, [included at the end](#appendix-a-ascii-call-for-participants),
+Various stakeholders forwarded information to department secretaries and mentors at previous institutions and acquaintances who managed email lists at MSU.
+(We prepared a condensed ASCII summary of our call for proposals, [included at the end](#appendix-a-ascii-call-for-participants).)
 I put a tweet up that got shared a few times.
 Dr. Ofria threw [a post up](https://www.reddit.com/r/msu/comments/g7bwk8/seeking_cjavascript_developers_to_participate_in/) on the [MSU reddit](https://www.reddit.com/r/msu).
 Dr. Blackwood put an announcement up on [the school-endorsed job board](https://www.joinhandshake.com/).
@@ -73,7 +73,7 @@ Here's what we asked for from applicants.
 > We will announce participant selection no later than May 11, 2020.
 
 First things first: ask for PDF files.
-You should probably be prepared to deal with the Word documents that will inevietably roll in, but cutting the number of misformatted resumes you end up digging through by even half counts as a win in my book.
+You should probably be prepared to deal with the Word documents that will inevitably roll in, but cutting the number of misformatted resumes you end up digging through by even half counts as a win in my book.
 
 Next, in our case, we should have said what *not* to submit.
 We ended up with a veritable zoo of files submitted: `.zip` archives of code, loose `.java` files, PDFs of term papers, PowerPoints, and more.
@@ -86,10 +86,10 @@ Instead, ask applicants to put their names as the subject line.
 This will make organizing applications much easier and, unlike the process of gathering applications where some might fall through the cracks, erroneous names are straightforward to spot and fix up later on.
 Asking applicants to submit applications from their school email would have made sorting through applications easier later on, too.
 
-We had a applicant follow up with us after we had announced our workshop admission decisions to ask what criteria we had used to evaluate applications.
+We had an applicant follow up with us after we had announced our workshop admission decisions to ask what criteria we had used to evaluate applications.
 We said we were looking for applicants with C++ and/or JavaScript experience (or strong experience in other programming languages) right above the instructions for application materials.
 However, in addition to programming experience, we also evaluated how applicants' statements aligned with the workshop objectives we laid out at the very top of the call for proposals.
-Although our evaluation criteria were all directly rooted in our call for proposals, this applicants' inquiry highlighted how these criteria might not be entirely obvious to all applicants, particularly those from backgrounds that have not trained them to pick up on such implicit cues.
+Although our evaluation criteria were all directly rooted in our call for proposals, this applicant's inquiry highlighted how these criteria might not be entirely obvious to all applicants, particularly those from backgrounds that have not trained them to pick up on such implicit cues.
 Laying out point-by-point exactly what we will be looking for in a strong application seems the best way to ensure that _every_  applicants' materials most clearly reflect their potential.
 
 The WAVES workshop stakeholders strongly and unanimously believe in the importance of supporting inclusion and equity within our fields, particularly with respect to underrepresented groups.
@@ -115,7 +115,7 @@ The takeaway lesson here: test your means for accepting applications before you 
 After we had it set up correctly, the Google groups shared inbox automatically forwarded all applications to several workshop stakeholders.
 This was actually quite handy.
 
-We had originally also planned to also use the Google group to coordinate workshop logistics among stakeholders.
+We had originally also planned to use the Google group to coordinate workshop logistics among stakeholders.
 A slack channel is turning out to serve this purpose better.
 Having intra-workshop emails interspersed with applications turned out to be a huge headache, making double-checking that no application slipped through the cracks much more difficult than it needed to be.
 If you do use a Google group to receive applications, be sure to set one up that exclusively serves that purpose.
@@ -144,8 +144,8 @@ CloudHQ provided several options to name the PDFS, including with the email addr
 I ended up buying a one month subscription for $19.99 because I exceeded the free tier cap of 50 emails, but it was well worth the money.
 
 Tip: do not rename files in Google Drive.
-How ever Google Drive manages file names is a Big, Bad Lie.
-I spent about an hour running on a hampster wheel where I was renaming files that were silently reverting back to their original names.
+However Google Drive manages file names is a Big, Bad Lie.
+I spent about an hour running on a hamster wheel where I was renaming files that were silently reverting back to their original names.
 Download files from Google Drive and use some quick scripting to tidy everything up on a Real File System.
 The `rename` utility command is your friend here.
 I tidied up the downloaded emails to name them based on the sender's email address (e.g., `johnnyappleseed@example.com.pdf`).
@@ -172,7 +172,7 @@ We reviewed candidates on
 * the effectiveness of their written statement, and
 * how candidate interests aligned with workshop objectives.
 
-We had a robust discussion among reviewers as to how to assess applicants projects in an equitable manner.
+We had a robust discussion among reviewers as to how to assess applicants' projects in an equitable manner.
 Extracurricular programming projects aren't just a function of applicants' proficiency and initiative: they also stem from conditioning, opportunity, and encouragement.
 We decided to avoid appraising open-ended programming projects as inherently less than just because they took place in a classroom context.
 We will certainly revisit the role of programming projects in our application process in preparation for next year's workshop, if we do hold it.
@@ -210,13 +210,13 @@ However, a few edge cases did arise where it proved a useful tool (such as appli
 We used a Google Sheets page to organize application reviews.
 We used input validation to ensure reviewers' ratings stuck to our defined categories.
 This turned individual cells into drop-down boxes, which made recording reviews convenient.
-We found that having record reviews on their own sheets in the document and then, once all reviews were in, having a single stakeholder take care of pasting them into the main sheet worked well.
+We found that having reviewers record reviews on their own sheets in the document and then, once all reviews were in, having a single stakeholder take care of pasting them into the main sheet worked well.
 
 ## Selecting Participants
 
 Our review process began with a pass through the spreadsheet to create a shortlist.
 For each application packet, we had reviewers give a brief oral recap and then decided as a group whether to shortlist.
-This helped reviewers double check with each other that they had similar impressions of applications packet.
+This helped reviewers double check with each other that they had similar impressions of application packets.
 It also helped the rest of us double check the reviewers' subjective interpretation of the application packet.
 
 Then, we sorted through the shortlist to advance the strongest applications to a finalist list.
@@ -246,7 +246,7 @@ In future years, we might avoid waitlisting by reaching out to first-round recru
 
 ## Providing Feedback to Participants
 
-The applicant who followed up with us about how we had evaluated applications was specifically interested in feedback on how strengthen their future applications.
+The applicant who followed up with us about how we had evaluated applications was specifically interested in feedback on how to strengthen their future applications.
 Their inquiry raised up a valuable point we had not considered yet: how to better provide detailed, actionable feedback to all applicants.
 Applicants invest time and energy preparing their materials, so it only seems fair that we do our very best to make the application process worth their while.
 If we continue the workshop next year, we should consider how to design evaluation criteria for reviewers that not just help us sort through applications but also prove useful to applicants themselves.

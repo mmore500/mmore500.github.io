@@ -40,7 +40,7 @@ int main () {
 ```
 
 
-I made [good use of `if constexpr`](https://blog.tartanllama.xyz/if-constexpr/) to write something sligly different.
+I made [good use of `if constexpr`](https://blog.tartanllama.xyz/if-constexpr/) to write something slightly different.
 Maybe a little prettier.
 
 ```c++

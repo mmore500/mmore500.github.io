@@ -17,7 +17,7 @@ We could just `std::system()` the script from wherever it resides, but then we'd
 We could always `#include` the text of the script file into our source.
 But we would want to shove it inside of a string.
 
-In a perfect world, a [raw string literal](https://en.cppreference.com/w/cpp/language/string_literal), which lets you shove arbitrary text into a string into without worrying about escaping, would be the ideal vehicle for these shenanigans.
+In a perfect world, a [raw string literal](https://en.cppreference.com/w/cpp/language/string_literal), which lets you shove arbitrary text into a string without worrying about escaping, would be the ideal vehicle for these shenanigans.
 Unfortunately, for [a whole host of very depressing reasons](https://stackoverflow.com/a/37623408), we can't `#include` into a raw string literal.
 (Among other reasons, the `#include` directive would be interpreted as, well, raw text.)
 
@@ -39,7 +39,7 @@ print( 'foobar' )
 print( "boop boop it's python time" )
 ```
 
-Indeed, Python will happily ignore any loose strings, say, you might happen to position the beginning and end of a script.
+Indeed, Python will happily ignore any loose strings, say, you might happen to position between the beginning and end of a script.
 :monocle_face:
 
 See where this is going?
@@ -77,7 +77,7 @@ if __name__ == '__main__':
 #include <string>
 #include <system>
 
-// contains stript as a string, with an extra " character at beginning/end
+// contains script as a string, with an extra " character at beginning/end
 const std::string raw_script_source{
   #include "example.py"
 };
@@ -110,7 +110,7 @@ int main() {
 
 :smiling_imp:
 Proceed directly to hell.
-Do not pas Go, do not collect $200.
+Do not pass Go, do not collect $200.
 
 Our Python script will execute as we expect it to when we run it on its own.
 With this setup, we can't have a [shebang](https://en.wikipedia.org/wiki/Shebang_(Unix)) at the top, though.

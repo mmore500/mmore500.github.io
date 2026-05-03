@@ -89,7 +89,7 @@ However, at thread count 16 load level 1 runs have lower serial-normalized timin
 
 At first blush, this result appears somewhat counterintuitive.
 Load level 1 runs have a lower amount of total work.
-So, we would expect synchronization costs to represent *greater* overall fraction of runtime at low load levels.
+So, we would expect synchronization costs to represent a *greater* overall fraction of runtime at low load levels.
 Thus, we would expect serial-normalized timing to be greater, not lesser, at low load level.
 
 Flat overhead (e.g., program setup and tear-down) may be behind this result.
@@ -107,7 +107,7 @@ Created via [Script IIIDD](#script-iiidd)._
 
 Mimalloc is performant.
 
-Memory layout seems have particular consequences relevant to multithread performance.
+Memory layout seems to have particular consequences relevant to multithread performance.
 
 ## Cite This Post
 

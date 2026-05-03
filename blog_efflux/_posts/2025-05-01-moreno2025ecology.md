@@ -11,7 +11,7 @@ authors:
   - Matthew Andres Moreno
   - Santiago Rodriguez-Papa
   - Emily Dolson
-venue: Artifical Life
+venue: Artificial Life
 projects:
   - hstrat
 abstract: |

@@ -75,7 +75,7 @@ In part based on my own experience, I suspect that LaTeX skills are not typicall
 My own introduction to LaTeX in Linear Algebra consisted basically of a template document to extend and direction to an online compilation service called [Overleaf](https://www.overleaf.com/).
 I grew my LaTeX knowledge on an ad-hoc need-to-know basis, mostly via [Google](https://google.com) and [Stack Overflow](https://tex.stackexchange.com/).
 Occasionally, I received LaTeX-specific feedback on my homework submissions.
-I remember, in particular, once being told --- good-naturedly --- what I was writing Tex "like an emeritus professor."
+I remember, in particular, once being told --- good-naturedly --- that I was writing Tex "like an emeritus professor."
 
 I suspect that inside the mathematics/science community, TeX proficiency is often taken as a proxy for the competency/authority of a mathematician/scientist.
 This phenomena might involve both conscious and subconscious elements.

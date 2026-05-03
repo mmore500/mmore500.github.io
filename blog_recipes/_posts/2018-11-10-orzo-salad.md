@@ -27,7 +27,7 @@ recipe:
     2. add pasta, cook for 8 to 10 min. (until al dente)
     3. drain pasta
     4. drain artichoke hearts, collecting liquid
-    5. toss together pasta, artichoke hearts, tomato, cucumber, onion, feta, olives, parsley, lemon juice, oregano, and lemon paper
+    5. toss together pasta, artichoke hearts, tomato, cucumber, onion, feta, olives, parsley, lemon juice, oregano, and lemon pepper
     6. chill for 1 h. in refrigerator (or, ideally, overnight)
     7. add artichoke marinade just before serving
 

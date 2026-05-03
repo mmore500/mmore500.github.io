@@ -62,7 +62,7 @@ Here's what zipping up one data file looks like.
 tar -czf doggo-1.data.tar.gz doggo-101.data
 ```
 
-But we want to do this to *all* 101 of our dalmations.
+But we want to do this to *all* 101 of our dalmatians.
 
 ## Serial-ously Lame Plain Bash Loop
 
@@ -96,7 +96,7 @@ Also, you'll probably have to wait a whole long time to get a node all to yourse
 2. Don't request more than one node because your shell can only use the resources from one node.
 (You need MPI or other fancy pants tools to distribute computations over multiple nodes).
 
-But what if we want to do MOAR things at once then is reasonable on a single node?
+But what if we want to do MOAR things at once than is reasonable on a single node?
 
 ## Bash Loop With `srun` For Greater Good
 
@@ -109,7 +109,7 @@ for f in *.data; do srun -t 20 bash -c "cd ${PWD} && tar -czf ${f}.tar.gz ${f}" 
 
 Note that `srun` blocks until the requested job is complete, so we just fork off in to the backround all our `srun`s with an `&` at the end of the inside bit.
 We slapped `"` marks around the work part so that our intended command would get forwarded correctly to `srun` (i.e., the `&&` wouldn't be applied during the call *to* `srun` a la `srun && tar`).
-Also, `srun` doesn't execute your command in a full-fledged shell, so we have to have to ask `srun` to start `bash` to execute our command (provided after the `-c` argument).
+Also, `srun` doesn't execute your command in a full-fledged shell, so we have to ask `srun` to start `bash` to execute our command (provided after the `-c` argument).
 Inside the command, we have to start by `cd`ing to our current working directory because the SLURM job won't necessarily start there.
 
 ## Bonus Round: Get A `grep` On The Cluster Gremlin

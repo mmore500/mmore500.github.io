@@ -18,7 +18,7 @@ So, over the course of a few years, I started tucking away enlightening specimen
 
 Now, I've organized them here.
 By example, we will survey types and techniques of interaction on academic social media.
-I hope that surveying academic social media will new ideas for ends and toolbox with the nuts and bolts to be effective.
+I hope that surveying academic social media will give you new ideas for ends and a toolbox with the nuts and bolts to be effective.
 Buckle up!
 
 ## Why Even Use Social Media as an Academic?
@@ -177,7 +177,7 @@ Note [@mxwlj](https://twitter.com/mxwlj)'s clever addition of a "click to see re
 ### Just Ask a Question
 
 Efforts to gather information from across the community need not be strictly quantitative.
-Consider posing your question not just as something that you want to know for your own sake, but something that the others in the community could benefit from information on or that the community as a whole could benefit by discussing .
+Consider posing your question not just as something that you want to know for your own sake, but something that the others in the community could benefit from information on or that the community as a whole could benefit by discussing.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is a disappointingly common problem in classics, thanks to both early scholars and (somehow worse) current researchers. Still, a lot of good thinking on this topic came out of the classics professor Holt Parker scandal in 2016 – (1/?) <a href="https://t.co/TD90MXc9Aa">https://t.co/TD90MXc9Aa</a></p>&mdash; Kathryn H. Stutz (@kathrynstutz) <a href="https://twitter.com/kathrynstutz/status/1132052965425111041?ref_src=twsrc%5Etfw">May 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -189,7 +189,7 @@ You can temporarily change your profile name to announce your presence at a comm
 ![Jake Fenton changed his username to Jake Fenton @ Codemash](/img/twitter-fenton-codesmash.png){:width="100%"}
 [@highnoiseratio](https://twitter.com/highnoiseratio)
 
-You can also set your screen name to show support a cause (e.g., 🏳️‍🌈, ✊, etc.).
+You can also set your screen name to show support for a cause (e.g., 🏳️‍🌈, ✊, etc.).
 
 ### Share Links for Presentation Attendees
 
@@ -237,10 +237,10 @@ Share a highlight quote, picture, or a general summary.
 
 ### Curate Peers' Feeds
 
-In addition to the tweets you write yourself, Twitter's algorithm populates your follower's feeds with your retweets and likes.
-Twitter tells your follower's they are seeing this additional content *because* you retweeted and liked it.
+In addition to the tweets you write yourself, Twitter's algorithm populates your followers' feeds with your retweets and likes.
+Twitter tells your followers they are seeing this additional content *because* you retweeted and liked it.
 Twitter's content aggregation algorithm presents an opportunity to build positive reputation by helping to curate content for the community.
-Consider following accounts that generate content user's in your social media circle might enjoy and then use retweets and likes to pass it along.
+Consider following accounts that generate content users in your social media circle might enjoy and then use retweets and likes to pass it along.
 Be wary of volume, quality, and professionalism, though, and, in particular, remember that, in addition to retweets, your likes get passed along.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">how containers work: namespaces <a href="https://t.co/KNB6eAXggs">pic.twitter.com/KNB6eAXggs</a></p>&mdash; 🔎Julia Evans🔍 (@b0rk) <a href="https://twitter.com/b0rk/status/1195725346970181632?ref_src=twsrc%5Etfw">November 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -288,7 +288,7 @@ Bonus points for nerdy.
 
 ### Be Political
 
-Stand up for what you believe in in society.
+Stand up for what you believe in.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Being here made me more optimistic about the possible future of this country than I have felt for 1.8 years. Elissa Slotkin would be a fantastic rep. Her support for grad students stands in sharp contrast to Mike Bishop, who was on the committee that wrote the grad student tax. <a href="https://t.co/c4KWoY5EgY">https://t.co/c4KWoY5EgY</a></p>&mdash; Emily Dolson (@emilyldolson) <a href="https://twitter.com/emilyldolson/status/1042193050905264129?ref_src=twsrc%5Etfw">September 18, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -332,7 +332,7 @@ Tact and authenticity separate endearing from annoying.
 
 ### Share a Noteworthy Visualization
 
-Noteworthy doesn't necessarily just "big results" (i.e., graphs).
+Noteworthy doesn't necessarily just mean "big results" (i.e., graphs).
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A Book from the Sky 天书<br>Exploring the Latent Space of Chinese Handwriting w/ <a href="https://twitter.com/AlecRad?ref_src=twsrc%5Etfw">@AlecRad</a>&#39;s code<a href="https://t.co/L4tcCdFkAI">https://t.co/L4tcCdFkAI</a> <a href="https://t.co/9uEBIcQIIF">pic.twitter.com/9uEBIcQIIF</a></p>&mdash; Gene Kogan (@genekogan) <a href="https://twitter.com/genekogan/status/676795628849143808?ref_src=twsrc%5Etfw">December 15, 2015</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -361,8 +361,8 @@ Just like effective talks prompt audience members to make comments and ask quest
 
 Throw a question on to the end of your tweet.
 Or, instead of just sharing something about yourself, reframe your content around the opportunity for *others* to share.
-Then, getting the party started by answering your own question.
-You might even tack a twitter poll for responses to your question to make the opportunity for engagement obvious and easy to readers.
+Then, get the party started by answering your own question.
+You might even tack on a twitter poll for responses to your question to make the opportunity for engagement obvious and easy to readers.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">After one month of offering access to <a href="https://twitter.com/lynda?ref_src=twsrc%5Etfw">@lynda</a>, people have accessed all sorts of courses and trainings. Can you guess which course was the most popular? <br><br>Access our subscription to Lynda and login with your library card # at <a href="https://t.co/fYVzSKGTSs">https://t.co/fYVzSKGTSs</a></p>&mdash; Corvallis Library (@corvallislib) <a href="https://twitter.com/corvallislib/status/1060653902926737408?ref_src=twsrc%5Etfw">November 8, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -466,7 +466,7 @@ Or, get more creative!
 
 Live tweeting provides an engaging --- and sometimes even cathartic --- means to share a slice of professional or personal life.
 The idea of live tweeting is to describe (& share your hot take) on whatever's happening while it happens.
-However, generating ten or twenty independent tweets in an hour will overwhelm your followers feeds.
+However, generating ten or twenty independent tweets in an hour will overwhelm your followers' feeds.
 If they're not interested in whatever you're spewing about, this can be annoying.
 
 Prefer to live tweet in a thread, so that instead of appearing one-by-one your tweets are organized into a package that followers can open up or, alternately, just scroll past.
@@ -475,7 +475,7 @@ Organizing live tweets as a thread also makes it easy for followers checking in 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I was supposed to go on a long hike with my sister this afternoon to celebrate her birthday. I hope she enjoys this stream of asinine tweets just as much 🎉</p>&mdash; Adam Cole (@cadamole) <a href="https://twitter.com/cadamole/status/992769662634078208?ref_src=twsrc%5Etfw">May 5, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 At some point, you will be stuck in an airport and, because nobody else has ever been stuck in an airport before, you will want to tweet your Original Thoughts about the Unprecedented Situation.
-Revel with abandonment in modern society's last shared experience but please, for the love of God, sew it up with a thread.
+Revel with abandon in modern society's last shared experience but please, for the love of God, sew it up with a thread.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">ngl he does have a v festive seasonal tie doe</p>&mdash; mmore500 (@mmore500) <a href="https://twitter.com/mmore500/status/1208192804867977216?ref_src=twsrc%5Etfw">December 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -764,7 +764,7 @@ This works kind of like [broadcast spawning](https://en.wikipedia.org/wiki/Spawn
 
 *Thank you to [@emilyldolson](https://twitter.com/emilyldolson) for contributing this section!*
 
-Want to find a set of people who tweet about a specific topic? Want to keep an eye on some people without actually following them? That's what Twitter List are for! A Twitter list is basically just a list that you add Twitter accounts to. You can then go to the list (get there through the "Lists" tab on the left) to view recent tweets by people on the list. For example, here's a list of people who tweet about Artificial Life:
+Want to find a set of people who tweet about a specific topic? Want to keep an eye on some people without actually following them? That's what Twitter Lists are for! A Twitter list is basically just a list that you add Twitter accounts to. You can then go to the list (get there through the "Lists" tab on the left) to view recent tweets by people on the list. For example, here's a list of people who tweet about Artificial Life:
 
 <a class="twitter-timeline" data-height="200" href="https://twitter.com/emilyldolson/lists/artificial-life?ref_src=twsrc%5Etfw">A Twitter List by emilyldolson</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -772,7 +772,7 @@ You can make a Twitter list to help others find relevant accounts (e.g., the Art
 
 ### Pre-Hype and Post-Hype
 
-Don't just tweet the preprint link when you it goes up on ArXiV!
+Don't just tweet the preprint link when it goes up on ArXiV!
 Build up expectations by teasing it beforehand and put it back in the mix later on by retweeting yourself.
 If you don't want to clutter your twitter back catalog (or you want to retweet it *again* later) you can delete these retweets later!
 Also consider using retweet-with-a-comment to quote yourself in a new context or as a callback.
@@ -815,11 +815,11 @@ This final section deviates somewhat from the bestiary format to avoid curating 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thanks Jay! Will do. The secret to tweetness is sweetness.</p>&mdash; Adam T. Ford (@adamthomasford) <a href="https://twitter.com/adamthomasford/status/984598814815211520?ref_src=twsrc%5Etfw">April 13, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Don't mean or offensive... well, duh.
+Don't be mean or offensive... well, duh.
 
 More subtly, if you see something mean or offensive, speak out but try not to be mean or offensive yourself.
 This summer, a science humor account I follow put out a crude tweet that *clearly* crossed the line.
-I saw a quite a few brief replies along the lines of "yikes," which help the author and members of the community coming across the content to understand that it is unacceptable.
+I saw quite a few brief replies along the lines of "yikes," which help the author and members of the community coming across the content to understand that it is unacceptable.
 I was impressed, also, by diplomatic replies that, in addition to urging that the post to be taken down, invited the author into a dialogue with the goal of facilitating a learning moment.
 
 In more antagonistic situations, consider making the classy choice to block trolls instead of rolling around in the mud.
@@ -867,7 +867,7 @@ Extra bonus points for sharing your takeaways and a mash-up of your own greatest
 
 Surprise!
 This section's also one last clever twitter idea: use an embedded tweet as a comments section for your blog.
-It's a convenient, portable, and zero-maintentance solution.
+It's a convenient, portable, and zero-maintenance solution.
 It also (*very subtly*) hints to your readership that they can find you on twitter.
 The downside is that comments won't render inline on your post (although there will be a little readout showing the number of people "talking about this").
 

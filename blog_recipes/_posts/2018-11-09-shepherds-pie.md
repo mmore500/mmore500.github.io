@@ -49,7 +49,7 @@ recipe:
     6. combine butter and half-and-half, warm in microwave for 30 sec.
     7. drain potatoes and return to the saucepan
     8. mash potatoes with a fork
-    9. add half-and-half, butter, salt and petter
+    9. add half-and-half, butter, salt and pepper
     10. mash the potatoes more with a fork
     11. add egg yolk, combine
 

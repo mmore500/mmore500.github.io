@@ -23,10 +23,10 @@ recipe:
   directions_markdown: |-
     1. butter 2-1quart baking dish
     2. sprinkle sugar in the dish and shake to coat
-    3. arrange beerries in single layer on bottom of dish
-    4. blend milk, eggs, 1/2 c. sugar, vanilla, flour, almond meal, lemonzest, and salt for one minute
+    3. arrange berries in single layer on bottom of dish
+    4. blend milk, eggs, 1/2 c. sugar, vanilla, flour, almond meal, lemon zest, and salt for one minute
     5. skim off foam
-    6. pour mixtture over berries
+    6. pour mixture over berries
     7. sprinkle with 3 tbsp. sugar
     8. bake 55 min.
 

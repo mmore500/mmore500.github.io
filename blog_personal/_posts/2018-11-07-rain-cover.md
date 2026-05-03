@@ -145,8 +145,8 @@ If you have a bigger camera (e.g., full frame), you might need a bigger bag.
 I've seen kitchen zip bags available with up to 2.5 gallon volumes.
 
 Because this project is lens specific, you'll need to think about which lenses you want to be able to outfit with rain covers.
-I decided on just my primes lenses because I figured, with autofocus, using them in the bag wouldn't be too bad.
-Plus, they're what I figure I'd probably reach for to shoot to subject matter in a wet situation, anyways.
+I decided on just my prime lenses because I figured, with autofocus, using them in the bag wouldn't be too bad.
+Plus, they're what I figure I'd probably reach for to shoot subject matter in a wet situation, anyways.
 
 You could probably do fine with a zoom lens, though, although you might need a bigger bag and adjusting focal length in the bag might be annoying.
 
@@ -174,7 +174,7 @@ If you're a habitual tripod person, perhaps consider putting the hole along one 
 This way, the open end of the bag will slide as nicely as possible over the tripod mount.
 
 Cut your hole out, leaving about 1 cm of material *inside* the traced line.
-This makes the fit over the lens cap nice and taught.
+This makes the fit over the lens cap nice and taut.
 
 ## Tape
 

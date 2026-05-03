@@ -6,7 +6,7 @@ no_toc: true
 ---
 
 Just a cute Python snippet I put together today and thought worth sharing.
-Needed to fill in a matrix in from the corner outwards, iterating down successive diagonals.
+Needed to fill in a matrix from the corner outwards, iterating down successive diagonals.
 You might also run into this problem doing a zigzag traversal of a nested list-of-lists.
 
 ![zig-zag traversal over a 3x4 grid](/resources/2023-12-16-zigzag-traversal.png){:style="width: 40%;display:block; margin-left:auto; margin-right:auto;"}

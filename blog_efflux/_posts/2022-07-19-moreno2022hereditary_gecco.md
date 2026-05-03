@@ -16,7 +16,7 @@ projects:
   - hstrat
 abstract: |
   Phylogenetic analyses can also enable insight into evolutionary and ecological dynamics such as selection pressure and frequency dependent selection in digital evolution systems.
-  Traditionally digital evolution systems have recorded data for phylogenetic analyses through perfect tracking where each birth event is recorded in a centralized data structures.
+  Traditionally digital evolution systems have recorded data for phylogenetic analyses through perfect tracking where each birth event is recorded in a centralized data structure.
   This approach, however, does not easily scale to distributed computing environments where evolutionary individuals may migrate between a large number of disjoint processing elements.
   To provide for phylogenetic analyses in these environments, we propose an approach to infer phylogenies via heritable genetic annotations rather than directly track them. We introduce a "hereditary stratigraphy" algorithm that enables efficient, accurate phylogenetic reconstruction with tunable, explicit trade-offs between annotation memory footprint and reconstruction accuracy.
   This approach can estimate, for example, MRCA generation of two genomes within 10% relative error with 95% confidence up to a depth of a trillion generations with genome annotations smaller than a kilobyte.

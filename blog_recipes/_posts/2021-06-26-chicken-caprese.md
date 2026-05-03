@@ -15,7 +15,7 @@ recipe:
     * 1 tbsp. olive oil
     * 1 tbsp. butter
     * pesto (1 to 2 tbsp. per chicken breast)
-    * 6 slices fresh mozerella
+    * 6 slices fresh mozzarella
     * 8 small tomatoes, sliced
     * balsamic glaze
     * fresh basil
@@ -26,7 +26,7 @@ recipe:
     3. heat skillet on medium high
     4. add olive oil and butter, wait until butter melts into oil
     5. cook chicken breasts on each side until lightly browned (3-4 min)
-    6. cover chicken breasts with pesto, mozerella, and tomatoes
+    6. cover chicken breasts with pesto, mozzarella, and tomatoes
     7. bake for 10-12 minutes
     8. garnish with balsamic glaze and basil
 ---

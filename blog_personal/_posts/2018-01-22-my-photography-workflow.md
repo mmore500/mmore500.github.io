@@ -404,7 +404,7 @@ If you want to get started with Jekyll and github.io, check out [this tutorial](
 I've ordered framed prints through [FrameBridge](https://www.framebridge.com/) and canvas prints through [CanvasChamp](https://www.canvaschamp.com/).
 I've had good experiences with both.
 CanvasChamp, in particular, can be a great deal if you play their system right.
-I usually pay just a little over $20 for a 18in by 12 in print.
+I usually pay just a little over $20 for an 18in by 12in print.
 
 HMU for a referral code to either.
 
@@ -418,7 +418,7 @@ Miscellaneous videos on youtube:
 * [D7200 Overview Training Tutorial](https://www.youtube.com/watch?v=_Kw3P1yRwLs) by Tony and Chelsea Northrup
 * Tony and Chelsea Northrup have [a lot of other good how-to videos](https://www.youtube.com/channel/UCDkJEEIifDzR_2K2p9tnwYQ).
 
-At one point, I sat around scratching my head looking for a service that would let me easily curate a colelction of photographic inspirations.
+At one point, I sat around scratching my head looking for a service that would let me easily curate a collection of photographic inspirations.
 Then, I realized I was exactly describing Pinterest.
 So I [got one](https://www.pinterest.com/mmore500/).
 It's pretty useful.

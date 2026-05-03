@@ -73,20 +73,20 @@ The [Compiler Explorer](https://godbolt.org/) snippet above compares three funct
 2. `poser_uninit`: construct a 1024-byte `std::vector<poser_uninitialized_char>`, and
 3. `init`: construct a 1024-byte `std::vector<char>`.
 
-(There's also some fancy footwork to prevent the vectors we're interested from being completely optimized away.)
+(There's also some fancy footwork to prevent the vectors we're interested in from being completely optimized away.)
 
 We can see that Clang generates shorter intermediate assembly for `uninit` than `init`.
 Inspecting in greater detail, we can see a call to `memset`, a prime suspect for actually carrying-out zero-initialization, present in `init` but not in `uninit`.
 It seems that `uninitialized_char` is working how we expect!
 
 I also included the struct `poser_uninitialized_char` (hooked into `poser_uninit`) to illustrate the role of `uninitialized_char`'s custom constructor.
-It appears that in `poser_uninitialized_char` (which uses a default constructor) the `val` member is still being zero-initializedd.
+It appears that in `poser_uninitialized_char` (which uses a default constructor) the `val` member is still being zero-initialized.
 
 ## Is It <strike>on Fleek</strike> Performant?
 
 Yes, it is.
 
-I benchmarked the impact of `uninitialized_char` char on 1024-byte vector creation using the nifty [Quick C++ Benchmark](http://quick-bench.com/) web tool.
+I benchmarked the impact of `uninitialized_char` on 1024-byte vector creation using the nifty [Quick C++ Benchmark](http://quick-bench.com/) web tool.
 
 ![benchmarking results](/resources/uninitialized-char-quick-bench.png){:width="100%"}
 

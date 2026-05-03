@@ -18,7 +18,7 @@ Then, we analyze DISHTINY profiling data to identify next steps to enhance paral
 
 ## Data Collection
 
-I collected timing data with 1, 2, 4, 82 and 16 threads enabled on a 16 cpu allocation on [MSU ICER](https://icer.msu.edu/)'s `lac-385` node.
+I collected timing data with 1, 2, 4, 8, and 16 threads enabled on a 16 cpu allocation on [MSU ICER](https://icer.msu.edu/)'s `lac-385` node.
 Timing data was collected at three "load" (work per thread) levels: 1, 2, 4, 8, and 16.
 (Intuition: a one-thread run with load level 16 conducts the same amount of total work as a sixteen-thread run with load level 1.)
 Six replicate measurements of each timing were recorded.

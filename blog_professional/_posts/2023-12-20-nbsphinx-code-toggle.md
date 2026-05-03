@@ -8,7 +8,7 @@ no_toc: true
 Gallery and cookbook sections punch way above their weight in software documentation.
 The best way to get started with something new is often with something that already works.
 
-To keep content in sync and stay sane managing generated output files, some kind of tooling beyond manual updatesbecomes necessary.
+To keep content in sync and stay sane managing generated output files, some kind of tooling beyond manual updates becomes necessary.
 A Jupyter notebook would be great for this --- and, indeed, there's a nice existing ecosystem to marry notebooks and Sphinx documentation.
 Among other tools, `nbsphinx` will execute `.ipynb` files and inject the output into the documentation build.
 ReadTheDocs has [a great primer on the subject](https://docs.readthedocs.io/en/stable/guides/jupyter.html).
@@ -16,11 +16,11 @@ ReadTheDocs has [a great primer on the subject](https://docs.readthedocs.io/en/s
 ## Problem
 
 Although the code should certainly be available, I've found it's nice to have it collapsed away to make gallery content more skimmable.
-Toggling seems like an ideal solution --- readers can pop open cells as they read along and click to expand snippets they're particularly interested.
+Toggling seems like an ideal solution --- readers can pop open cells as they read along and click to expand snippets they're particularly interested in.
 The nbsphinx package only supports [entirely-hidden cells](https://nbsphinx.readthedocs.io/en/0.9.3/hidden-cells.html).
 
-Although there appears to be something a cottage industry of one-off code snippets related to this problem in interactive Jupyter notebooks, I came up empty trawling Google and StackOverflow for Sphinx-specific solutions.
-Eoin Travers in particular has a nice [blog post](http://eointravers.com/post/jupyter-toggle/) on toggle buttons in Jupyter notebooks by way of IPython JavaScript magic (i.e., `%%javascript`) for runtime injection of code into the notebook's DOM at runtime.
+Although there appears to be something of a cottage industry of one-off code snippets related to this problem in interactive Jupyter notebooks, I came up empty trawling Google and StackOverflow for Sphinx-specific solutions.
+Eoin Travers in particular has a nice [blog post](http://eointravers.com/post/jupyter-toggle/) on toggle buttons in Jupyter notebooks by way of IPython JavaScript magic (i.e., `%%javascript`) for injection of code into the notebook's DOM at runtime.
 Most of the other solutions I found were variations on this theme.
 
 For compatibility with the `nbsphinx` pipeline, where notebooks execute only at build time and not in viewer's DOMs, I thought to take another tack to injecting buttons: having Sphinx bundle JavaScript with the built html docs.

@@ -17,7 +17,7 @@ Assume the number of available MPi processes is a perfect square.
 
 <p><a href="https://commons.wikimedia.org/wiki/File:2d_torus.png#/media/File:2d_torus.png"><img width="100%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/2d_torus.png/1200px-2d_torus.png" alt="2d torus.png"></a><br>By <a href="//commons.wikimedia.org/w/index.php?title=User:Yli47&amp;action=edit&amp;redlink=1" class="new" title="User:Yli47 (page does not exist)">Yixuan Li</a> <span class="img-responsive" class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=53610657">Link</a></p>
 
-Every MPI process selects a unique character (e.g., `A`) based on their MPI rank and then sends messages containing their to unique character to all four grid neighbors.
+Every MPI process selects a unique character (e.g., `A`) based on their MPI rank and then sends messages containing their unique character to all four grid neighbors.
 Messages are variable-length:
 * send a 1 character message to the North neighbor (e.g., `A`),
 * send a 2 character message to the South neighbor (e.g., `AA`),
@@ -113,7 +113,7 @@ int main(int argc, char* argv[])
   );
 
   // get world rank info
-  // which MPI proc am I in the ?
+  // which MPI proc am I in the world?
   const int w_rank = [&](){
     int res;
     MPI_Comm_rank(

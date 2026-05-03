@@ -22,7 +22,7 @@ recipe:
     * 1/2 onion, sliced
     * 1 cup frozen peas
     * baby carrots, sliced
-    * 1/2 tsp. tumeric
+    * 1/2 tsp. turmeric
     * 1/2 tsp. curry powder
     * salt
     * chopped scallions
@@ -40,7 +40,7 @@ recipe:
     8. transfer vegetables to bowl
     9. add 1 tbsp. oil to skillet and stir fry noodles for 2 min.
     10. stir in tofu and vegetables
-    11. stir in curry powder and tumeric
+    11. stir in curry powder and turmeric
     12. stir in sauce
     13. remove from heat, serve with scallions and sesame seeds
 ---

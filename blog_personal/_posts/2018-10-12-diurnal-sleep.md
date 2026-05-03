@@ -37,7 +37,7 @@ During my first summer in East Lansing, I had very few restrictions.
 I rapidly regressed to severe night-owlishness.
 (See my disproportionate amount of nocturnal wandering around MSU during [August 2017](http://mmore500.tumblr.com/archive/2017/8)).
 
-Very quickly, I realized severe night-owlishness was for my bad for my work output and my personal wellbeing.
+Very quickly, I realized severe night-owlishness was bad for my work output and my personal wellbeing.
 The solution, I reasoned, was simply to go to bed at a reasonable hour.
 I tried getting into bed at 9 or 10 p.m. and would sit there, wide awake, until 3 a.m., 4 a.m. or later.
 Of course, after finally falling asleep, then I'd sleep through noon.
@@ -90,7 +90,7 @@ I've found more success easing past lizard brain into full consciousness using a
 It's actually an Amazon Alexa, which only [recently gained this capability](https://www.gearbrain.com/amazon-alexa-music-alarm-clock-2516832019.html).
 I have it set to low volume, usually at 5:30 a.m.
 The thing is, though, I don't expect to get up at 5:30 a.m.
-I actually expect wake up sometime between 6 a.m. and 7 a.m.
+I actually expect to wake up sometime between 6 a.m. and 7 a.m.
 Lizard brain doesn't seem to care about quiet, soothing NPR voices ([despite what they're often actually talking about](https://democracyjournal.org/alcove/should-we-want-politics-to-be-boring/)).
 I hypothesize that I pass through lizard brain stage, which is not sufficiently irked to turn off the stimulus, and, with continued application of the stimulus, eventually gain enough consciousness to decide to get out of bed.
 I've experienced one side effect: occasional extremely vivid dreams about whatever topic is being covered on NPR.
@@ -124,7 +124,7 @@ In a sadly doomed campaign to cool by cross ventilation, I amassed an absurdly l
 ![](https://osf.io/xt9zc/download){:width="100%"}
 
 Cross ventilation does nothing when it's 80 F out at 2am.
-Fans that blow *on* you, though, help alittle.
+Fans that blow *on* you, though, help a little.
 I have a desk fan on my nightstand and a pedestal fan at the foot of the bed.
 My mom tells me that damp washcloths and frozen water bottles are also better than nothing.
 
@@ -198,7 +198,7 @@ he stakes out student-dense neighborhoods --- sometimes accompanied by grumpy lo
 I find the articles endlessly entertaining.
 
 If you are dedicated enough, you might take a cue from James Day's intrepid reporting and stake out your intended neighborhood (especially on a Friday or Saturday night) to check noise levels.
-Probably a better idea is to simply clue in to who else lives in the building/neighborhood your considering.
+Probably a better idea is to simply clue in to who else lives in the building/neighborhood you're considering.
 Do "real people" live there?
 What about other grad students?
 Then it's probably a safe bet noise-wise.
@@ -256,7 +256,7 @@ Otherwise, Alexa will play through *all* the available episodes every time, whic
 It's easy (and free) to do this with a RSS to RSS "zap" from [Zapier](https://zapier.com/) where you set your mirror RSS feed to only return one item (e.g., `Max Records` = 1).
 This way, when Alexa is done with the most recent episode of whatever, she won't just keep playing the rest of the episodes in the feed for you.
 
-Second, hop on over to Amazon to register a developer account, [click a few buttons](https://developer.amazon.com/docs/flashbriefing/steps-to-create-a-flash-briefing-skill.html), and paste in your Zaipier RSS url.
+Second, hop on over to Amazon to register a developer account, [click a few buttons](https://developer.amazon.com/docs/flashbriefing/steps-to-create-a-flash-briefing-skill.html), and paste in your Zapier RSS url.
 Once you save the skill, it should become available to "test" on your Alexa devices.
 You can comfortably continue using the skill like this without ever needing to officially publish it.
 
@@ -295,7 +295,7 @@ A few details:
 * I originally scheduled the bulb to fade in across linearly spaced brightness increments (e.g., 10% to 20% to 30% to 40% etc.).
 After a few days, I switched to exponentially spaced brightness increments, which I like much more (e.g., 1% to 2% to 4% to 8% etc.).
 * I schedule the bulb to automatically turn off after two hours at full brightness (e.g., every day at 7 a.m.) so it doesn't stay on all day if I don't happen to be home to turn it off myself.
-* Currently, Ikea doesn't stock appear to stock the FADO table lamp in the US.
+* Currently, Ikea doesn't appear to stock the FADO table lamp in the US.
 I bought my lamp on [eBay](https://www.ebay.com/) for about $50.
 The smart bulb cost about $15 on [Amazon](https://www.amazon.com).
 Be careful if you try to pick up a lamp designed for a different region (e.g., Europe) because the power plug might be incompatible with your outlet.
@@ -396,7 +396,7 @@ At one point, I literally put out a pillow, granola, and water on my living room
 The idea was that lizard brain would be forced out of bed by my horrible Timex alarm in the living room and then, finding accommodations so conveniently prepared, elect to deposit my body on the floor (where I would eventually gain consciousness) instead of returning to bed.
 This did not work.
 
-In the coaxing department, I have also also tried
+In the coaxing department, I have also tried
 
 * having &nbsp; M r . &nbsp; C o f f e e &nbsp; automatically brew a morning beverage,
 * installing a fancy &nbsp; r a i n f a l l &nbsp; showerhead,
@@ -458,7 +458,7 @@ In my experience, though, walking to the grocery store and then cooking a proper
 
 ## Smart Home
 
-I use [Amazon Echo](https://www.amazon.com/Amazon-Echo-And-Alexa-Devices/b?ie=UTF8&node=9818047011) to devices around the house.
+I use [Amazon Echo](https://www.amazon.com/Amazon-Echo-And-Alexa-Devices/b?ie=UTF8&node=9818047011) to control devices around the house.
 At night, it's sometimes nice to be able to turn on/off the radio (especially, putting it on a sleep timer) or ask about the weather and other odds and ends without having to get up or use a screen.
 
 ![](https://osf.io/r7x4u/download){:width="100%"}
@@ -497,7 +497,7 @@ Also, beware and resist institutional forces (sometimes subtle) that [encourage]
 ## Age
 
 This one isn't really so much something you can do as something you can hope for.
-Maybe more reasonable sleep hours tend to accompanying advancing biological age?
+Maybe more reasonable sleep hours tend to accompany advancing biological age?
 
 Luckily, it turns out that graduate school is a great place to age rapidly.
 
