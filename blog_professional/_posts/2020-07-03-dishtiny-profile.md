@@ -326,7 +326,7 @@ Running this simulated data through our procedure for estimating scaling propert
 
 **BibTeX**
 ```
-@misc{Moreno_2020,
+@misc{Moreno2020,
   title={Estimating DISHTINY Multithread Scaling Properties},
   url={osf.io/w56bm},
   DOI={10.17605/OSF.IO/W56BM},
