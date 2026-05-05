@@ -23,7 +23,7 @@ abstract: |
    In particular, we demonstrate extraction of clear phylometric signals that differentiate adaptive dynamics.
    Kernel code implementing the island-model GA supports drop-in customization to support any fixed-length genome content and fitness criteria, benefiting further explorations within the evolutionary biology and evolutionary computation communities.
 bibtex: |-
-  @inproceedings{moreno2024trackablesc,
+  @inproceedings{moreno2024trackable-sc,
     author = {Matthew Andres Moreno and Connor Yang and Emily Dolson and Luis Zaman},
     title = {Trackable Agent-Based Evolution Models at Wafer Scale},
     year = {2024},

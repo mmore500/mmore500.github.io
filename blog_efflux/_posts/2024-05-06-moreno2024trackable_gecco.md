@@ -29,7 +29,7 @@ abstract: |
   Kernel code implementing the island-model GA supports drop-in customization to support any fixed-length genome content and fitness criteria, allowing it to be leveraged to advance research interests across the community.
 
 bibtex: |-
-  @inproceedings{moreno2024trackablegecco,
+  @inproceedings{moreno2024trackable-gecco,
     author = {Matthew Andres Moreno and Connor Yang and Emily Dolson and Luis Zaman},
     title = {Trackable Island-model Genetic Algorithms at Wafer Scale},
     pages = {101-102},

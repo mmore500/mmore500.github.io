@@ -22,7 +22,7 @@ abstract: |
   This approach can estimate, for example, MRCA generation of two genomes within 10% relative error with 95% confidence up to a depth of a trillion generations with genome annotations smaller than a kilobyte.
   We also simulate inference over known lineages, recovering up to 85.70% of the information contained in the original tree using a 64-bit annotation.
 bibtex: |-
-  @inproceedings{moreno2022hereditarygecco,
+  @inproceedings{moreno2022hereditary-gecco,
     author = {Moreno, Matthew Andres and Dolson, Emily and Ofria, Charles},
     title = {Hereditary Stratigraphy: Genome Annotations to Enable Phylogenetic Inference over Distributed Populations},
     year = {2022},

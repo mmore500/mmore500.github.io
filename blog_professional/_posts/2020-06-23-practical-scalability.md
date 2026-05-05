@@ -899,7 +899,7 @@ Pop on there and drop me a line :fishing_pole_and_fish: or make a comment :raisi
 
 **BibTeX**
 ```
-@misc{MorenoOfria2020,
+@misc{Moreno-Ofria-2020,
   title={Practical Steps Toward Indefinite Scalability: In Pursuit of Robust Computational Substrates for Open-Ended Evolution},
   url={osf.io/53vgh},
   DOI={10.17605/OSF.IO/53VGH},

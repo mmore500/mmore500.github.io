@@ -123,7 +123,7 @@ Memory layout seems to have particular consequences relevant to multithread perf
 
 **BibTeX**
 ```
-@misc{Moreno2020,
+@misc{Moreno-2020,
   title={Profiling Custom Memory Allocators},
   url={osf.io/vwf5g},
   DOI={10.17605/OSF.IO/VWF5G},
