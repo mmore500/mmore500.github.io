@@ -269,7 +269,7 @@ Stay tuned!
 
 **BibTeX**
 ```
-  @misc{Moreno_2020,
+  @misc{Moreno-2020,
   title={Profiling Foundations for Scalable Digital Evolution Methods},
   url={osf.io/tcjfy},
   DOI={10.17605/OSF.IO/TCJFY},

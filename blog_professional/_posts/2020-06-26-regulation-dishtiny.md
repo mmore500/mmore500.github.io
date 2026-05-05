@@ -161,7 +161,7 @@ Pop on there and drop me a line :fishing_pole_and_fish: or make a comment :raisi
 
 **BibTeX**
 ```
-@misc{Lalejini_Moreno_Ofria_2020,
+@misc{Lalejini-Moreno-Ofria-2020,
   title={Case Study of Adaptive Gene Regulation in DISHTINY},
   url={osf.io/kqvmn},
   DOI={10.17605/OSF.IO/KQVMN},

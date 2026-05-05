@@ -20,7 +20,7 @@ abstract: |
   In benchmarks, WSE provided 294x speedup over GPU and 111,091x speedup over single-core CPU execution.
   Among other results, our experiments indicate that limitation of adaptive potential (i.e., few beneficial mutations available) can produce a tertiary regime where complete mutator allele takeover becomes disfavored at very large population sizes.
 bibtex: |-
-  @inproceedings{moreno2025hypermutator_sc,
+  @inproceedings{moreno2025hypermutator-sc,
     author = {Matthew Andres Moreno and Emily Dolson and Luis Zaman},
     title = {Wafer-Scale Simulation of Mutator Allele Dynamics in Large Asexual Populations},
     year = {2025},

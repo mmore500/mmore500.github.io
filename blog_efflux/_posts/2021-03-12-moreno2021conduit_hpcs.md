@@ -20,7 +20,7 @@ abstract: |
   The Conduit C++ Library aims to provide a convenient interface for best-effort inter-thread and inter-process communication.
   Here, we describe the motivation, objectives, design, and implementation of the library.
 bibtex: |
-  @inproceedings{moreno2021conduit_hpcs,
+  @inproceedings{moreno2021conduit-hpcs,
     author = {Moreno, Matthew Andres and Rodriguez Papa, Santiago and Ofria, Charles},
     title = {Conduit: A C++ Library for Best-Effort High Performance Computing},
     year = {2021},
