@@ -17,14 +17,10 @@ abstract: |
   3. structure a milestone-based deadline schedule to help students stay on track for successful preparation of a high-quality written work,
   4. facilitate student peer review using GitHub pull requests, and
   5. streamline student submission of draft milestones and final piece for publication using pull request status labels.
-
-  The majority of the session will consist of a guided tutorial experience in which participants will create mock blog posts and engage in a mock peer review process.
-  These activities will be fully accessible to participants on any platform, including mobile devices, through browser-based interfaces.
-  No coding will be required.
 supporting_materials: |
   - [slides](https://hopth.ru/gp) [via Google Slides](https://workspace.google.com/products/slides/)
   - [lightning talk slides](https://hopth.ru/go) [via Google Slides](https://workspace.google.com/products/slides/)
   - [example blog](https://mmore500.com/jekyll-class-blog/) [via GitHub Pages <i class="icon-github-1"></i>](https://github.com/)
   - [example blog repository](https://hopth.ru/ct) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
-  - [AEDU Virtual Workshop 2026](https://alife-edu.github.io/)
+  - [AEDU Virtual Workshop 2026](https://alife-edu.github.io/schedule-west.html)
 ---
