@@ -36,4 +36,5 @@ supporting_materials: |
   - [software repository](https://github.com/mmore500/phyloframe) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [software package](https://pypi.org/project/phyloframe/) [via PyPI](https://pypi.org/)
   - [documentation](https://phyloframe.readthedocs.io) [via Read the Docs](https://readthedocs.org/)
+  - [data](https://osf.io/knw8x/) [via Open Science Framework ❋](https://osf.io)
 ---
