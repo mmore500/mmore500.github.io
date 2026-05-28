@@ -16,10 +16,19 @@ venue: arXiv
 projects:
   - libraries
 abstract: |
-  PhyloFrame is a Python library for phylogenetic computation targeting the gap between specialist, compiler-optimized operations and flexible, script-based workflows -- with emphasis on fast, memory-efficient operations for very large tree sizes (e.g., ≥ 300,000 taxa).
+  PhyloFrame is a Python library for phylogenetic computation targeting the gap between specialist, compiler-optimized operations and flexible, script-based workflows --- with emphasis on fast, memory-efficient operations for very large tree sizes (e.g., ≥ 300,000 taxa).
   PhyloFrame is built around a DataFrame-based tree representation, where each row corresponds to a node and columns record ancestor relationships, branch lengths, taxon labels, and any user-defined attributes.
   Crucial for scalability, such array-backed storage allows both library and end-user code alike to seamlessly harness Just-in-Time (JIT) compilation (e.g., Numba) and vectorized execution (e.g., NumPy, Polars).
   At large tree sizes, performance generally matches or exceeds Python libraries backed by native code -- notably, achieving strong performance in topological-order traversals and Newick I/O.
+
+  DataFrame-based representation affords several additional conveniences, including:
+  
+  - succinct bulk operations (e.g., NumPy);
+  - powerful queries and transformations (e.g., Polars expressions, Pandas indexing, SQL-style joins and merges);
+  - compatibility with modern tabular data formats that are compression-friendly, type-aware, nullable, and highly portable (e.g., Parquet); and
+  - broad interoperation with table-oriented data science tools (e.g., Seaborn, Plotly, Vega-Altair, tidyverse, Excel).
+
+  Current library features include tree input/output, synthetic tree generation, taxon-based queries, tree traversals, tree metrics, tree manipulation, tree downsampling, and tree comparison. Most functionality supports both Pandas and Polars DataFrames, and is available through programmatic and CLI-based interfaces.
 bibtex: |-
   @misc{moreno2026phyloframe,
         doi={10.48550/arXiv.2605.28545},
