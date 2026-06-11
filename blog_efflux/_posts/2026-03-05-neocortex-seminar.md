@@ -7,6 +7,8 @@ authors:
   - Matthew Andres Moreno
 venue: Neocortex Seminar Series, Pittsburgh Supercomputing Center
 view_publisher: https://www.psc.edu/resources/neocortex/neocortex-seminar-series/data-collection-in-wafer-scale-evolution-simulations/
+projects:
+  - hstrat
 abstract: |
   Emerging AI/ML-oriented hardware accelerators, like the 880,000-processor Cerebras Wafer-Scale Engine (WSE), have potential to open new frontiers in computational modeling through orders-of-magnitude scale-up of high-performance computing (HPC) workloads.
   In the context of evolutionary biology, these technologies offer new opportunities for digital experiments exploring cross-scale biological phenomena — such as many-species eco-evolutionary dynamics and evolutionary transitions in individuality (e.g., multicellularity, eusociality).
