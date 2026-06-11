@@ -6,7 +6,7 @@ category: teaching
 authors:
   - Matthew Andres Moreno
 venue: Neocortex Seminar Series, Pittsburgh Supercomputing Center
-view_publisher: https://www.psc.edu/resources/neocortex/neocortex-seminar-series/data-collection-in-wafer-scale-evolution-simulations/
+view_publisher: https://www.psc.edu/resources/neocortex/neocortex-seminar-series/data-collection-in-wafer-scale-evolution-simulations
 projects:
   - hstrat
 abstract: |
@@ -20,5 +20,5 @@ abstract: |
 supporting_materials: |
   - [recording](https://youtu.be/1XnKXTLTLdI) [via YouTube <i class="icon-video"></i>](https://youtube.com)
   - [slides](https://hopth.ru/gg)
-  - [Neocortex Seminar Series](https://www.psc.edu/resources/neocortex/neocortex-seminar-series/data-collection-in-wafer-scale-evolution-simulations/)
+  - [Neocortex Seminar Series](https://www.psc.edu/resources/neocortex/neocortex-seminar-series)
 ---
