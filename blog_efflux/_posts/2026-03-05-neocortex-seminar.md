@@ -17,6 +17,6 @@ abstract: |
   The talk will also review recent work migrating experiment and data management pipelines for general-purpose, SDK-based Wafer-Scale computing to the Cerebras Wafer-Scale Cloud.
 supporting_materials: |
   - [recording](https://youtu.be/1XnKXTLTLdI) [via YouTube <i class="icon-video"></i>](https://youtube.com)
-  - [slides](https://www.psc.edu/wp-content/uploads/2026/04/2026-03-05-Neocortex-User-Talk.pptx.pdf)
+  - [slides](https://hopth.ru/gg)
   - [Neocortex Seminar Series](https://www.psc.edu/resources/neocortex/neocortex-seminar-series/data-collection-in-wafer-scale-evolution-simulations/)
 ---
