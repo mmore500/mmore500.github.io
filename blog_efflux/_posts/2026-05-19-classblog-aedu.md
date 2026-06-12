@@ -19,7 +19,9 @@ abstract: |
   5. streamline student submission of draft milestones and final piece for publication using pull request status labels.
 supporting_materials: |
   - [slides](https://hopth.ru/gp) [via Google Slides](https://workspace.google.com/products/slides/)
+  - [recorded presentation](https://www.youtube.com/watch?v=z-lJFxy4yTw&t=3038s) [via YouTube <i class="icon-video"></i>](https://youtube.com)
   - [lightning talk slides](https://hopth.ru/go) [via Google Slides](https://workspace.google.com/products/slides/)
+  - [recorded lightning talk](https://youtu.be/bHGJc1kqtG0?t=6143) [via YouTube <i class="icon-video"></i>](https://youtube.com)
   - [example blog](https://mmore500.com/jekyll-class-blog/) [via GitHub Pages <i class="icon-github-1"></i>](https://github.com/)
   - [example blog repository](https://hopth.ru/ct) [via GitHub <i class="icon-github-1"></i>](https://github.com/)
   - [AEDU Virtual Workshop 2026](https://alife-edu.github.io/schedule-west.html)
