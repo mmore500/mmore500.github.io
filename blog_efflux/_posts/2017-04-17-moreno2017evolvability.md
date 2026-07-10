@@ -5,7 +5,7 @@ date: 2017-04-17
 permalink: "/pubs/:title"
 category: misc
 download: https://github.com/mmore500/honors-thesis/releases/download/v1.0.0/Evolvability__What_Is_It_and_How_Do_We_Get_It_.pdf
-view_publisher: http://soundideas.pugetsound.edu/honors_program_theses/22/
+view_publisher: https://www.pugetsound.edu/sites/default/files/file/moreno-matthew_0.pdf
 authors:
   - Matthew Andres Moreno
 venue: Otis C. Chapman Honors Program Thesis
@@ -25,11 +25,11 @@ bibtex: |-
     title={Evolvability: What Is It and How Do We Get It?},
     school={University of Puget Sound},
     type={Bachelor's Thesis},
-    url={http://soundideas.pugetsound.edu/honors_program_theses/22/},
+    url={https://www.pugetsound.edu/sites/default/files/file/moreno-matthew_0.pdf},
     year={2017}
   }
 citation: 'Moreno, Matthew Andres, "Evolvability: What Is It and How Do We Get It?" (2017). Honors Program Theses. 22.
-https://soundideas.pugetsound.edu/honors_program_theses/22'
+https://www.pugetsound.edu/sites/default/files/file/moreno-matthew_0.pdf'
 supporting_materials: |
   - [slides](/resources/march_22_2017_presentation.pdf)
   - [flyer](/resources/march_22_2017_flyer.pdf)
