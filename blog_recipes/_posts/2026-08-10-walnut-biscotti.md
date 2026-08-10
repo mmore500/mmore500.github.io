@@ -13,7 +13,7 @@ recipe:
     * 1 tsp. baking powder
     * 1/4 tsp. salt
     * 1 c. chopped walnuts
-    * 2 eggs
+    * 4 eggs
     * 1 tsp. vanilla extract
     * 1 tsp. almond extract
 
