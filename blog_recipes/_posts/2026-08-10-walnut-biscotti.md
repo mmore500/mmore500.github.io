@@ -29,8 +29,4 @@ recipe:
     9. place slices cut-side down on the baking sheet; bake 6-7 minutes, flip, then bake another 6-7 minutes until dry and golden
     10. cool on a wire rack; biscotti continue to crisp as they cool
 
-  notes_markdown: |-
-    made without the usual oil for a leaner, less rich dough
-    don't skip the 10-minute rest before slicing: too hot and the logs crumble, too long and they're hard to cut cleanly
-
 ---
