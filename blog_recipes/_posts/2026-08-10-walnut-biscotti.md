@@ -27,6 +27,5 @@ recipe:
     7. remove from oven (leave oven on) and let logs cool on the pan for exactly 10 minutes
     8. using a serrated knife, cut logs on a slight diagonal into 1/2-inch thick slices
     9. place slices cut-side down on the baking sheet; bake 6-7 minutes, flip, then bake another 6-7 minutes until dry and golden
-    10. cool on a wire rack; biscotti continue to crisp as they cool
 
 ---
