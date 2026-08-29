@@ -6,6 +6,7 @@ permalink: "/pubs/:title"
 category: misc
 download: https://github.com/mmore500/dissertation/releases/download/v0.7.0/dissertation.pdf
 view_publisher: https://www.proquest.com/docview/2754890561/A7AF8A4CA8494C91PQ/
+doi: 10.25335/x9p7-n282
 authors:
   - Matthew Andres Moreno
 venue: Doctoral Dissertation
@@ -55,9 +56,10 @@ bibtex: |-
     keywords={Artificial life; Digital evolution; Experimental evolution; High-performance computing; Major transitions in evolution; Simulation; Computer science; Evolution & development; 0984:Computer science; 0412:Evolution and Development},
     isbn={9798358499232},
     language={English},
+    doi={10.25335/x9p7-n282},
     url={http://ezproxy.msu.edu/login?url=https://www.proquest.com/dissertations-theses/engineering-scalable-digital-models-study-major/docview/2754890561/se-2},
   }
-citation: 'Moreno, Matthew Andres. 2022. "Engineering Scalable Digital Models to Study Major Transitions in Evolution." Order No. 29999702, Michigan State University. http://ezproxy.msu.edu/login?url=https://www.proquest.com/dissertations-theses/engineering-scalable-digital-models-study-major/docview/2754890561/se-2.'
+citation: 'Moreno, Matthew Andres. 2022. "Engineering Scalable Digital Models to Study Major Transitions in Evolution." Order No. 29999702, Michigan State University. https://doi.org/10.25335/x9p7-n282.'
 supporting_materials: |
   - [presentation](https://youtu.be/PZoErlkRlcw) [via YouTube <i class="icon-video"></i>](https://youtube.com) 
   - [flyer](/resources/november_29_2022_flyer.pdf)
