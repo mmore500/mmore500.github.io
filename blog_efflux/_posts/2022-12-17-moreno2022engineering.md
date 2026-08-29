@@ -6,6 +6,7 @@ permalink: "/pubs/:title"
 category: misc
 download: https://github.com/mmore500/dissertation/releases/download/v0.7.0/dissertation.pdf
 view_publisher: https://www.proquest.com/docview/2754890561/A7AF8A4CA8494C91PQ/
+doi: 10.25335/x9p7-n282
 authors:
   - Matthew Andres Moreno
 venue: Doctoral Dissertation
