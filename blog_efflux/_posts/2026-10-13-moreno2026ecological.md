@@ -4,7 +4,7 @@ title: "Ecological Origins of Complex Multicellularity in a Digital Model"
 date: 2026-10-13
 permalink: "/pubs/:title"
 category: abstract
-download: https://osf.io/download/kzu9m/
+download: https://osf.io/download/kzu9m
 view_publisher: https://osf.io/kzu9m
 authors:
   - Matthew Andres Moreno
@@ -25,6 +25,5 @@ supporting_materials: |
   - [extended abstract PDF](https://osf.io/kzu9m) [via Open Science Framework ❋](https://osf.io)
   - [recorded presentation](https://youtu.be/iMOzo6afo68) [via YouTube <i class="icon-video"></i>](https://youtube.com)
   - [slides](https://hopth.us/ij) [via Google Slides](https://workspace.google.com/products/slides/)
-  - [case study development animation](https://hopth.ru/gb)
-  - [Conference on Complex Systems 2026](https://ccs26.cssociety.org/)
+  - [case study video animation](https://hopth.ru/gb)
 ---
